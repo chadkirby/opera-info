@@ -1,0 +1,81 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types; premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 11 June 1960<br>Conductor: <a href=\"/wiki/Benjamin_Britten\" title=\"Benjamin Britten\">Benjamin Britten</a><br>Director: <a href=\"/wiki/John_Cranko\" title=\"John Cranko\">John Cranko</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Oberon\" title=\"Oberon\">Oberon</a>, <i>King of the Fairies</i>\n</td>\n<td><a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Titania_(A_Midsummer_Night%27s_Dream)\" title=\"Titania (A Midsummer Night's Dream)\">Tytania</a>, <i>Queen of the Fairies</i>\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Puck_(A_Midsummer_Night%27s_Dream)\" title=\"Puck (A Midsummer Night's Dream)\">Puck</a>\n</td>\n<td>speaking role\n</td>\n</tr>\n<tr>\n<td>Cobweb\n</td>\n<td><a href=\"/wiki/Treble_voice\" title=\"Treble voice\">treble</a>\n</td>\n</tr>\n<tr>\n<td>Mustardseed\n</td>\n<td>treble\n</td>\n</tr>\n<tr>\n<td>Moth\n</td>\n<td>treble\n</td>\n</tr>\n<tr>\n<td>Peaseblossom\n</td>\n<td>treble\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Lysander_(A_Midsummer_Night%27s_Dream)\" title=\"Lysander (A Midsummer Night's Dream)\">Lysander</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Demetrius_(A_Midsummer_Night%27s_Dream)\" title=\"Demetrius (A Midsummer Night's Dream)\">Demetrius</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Hermia\" title=\"Hermia\">Hermia</a>, <i>in love with Lysander</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Helena_(A_Midsummer_Night%27s_Dream)\" title=\"Helena (A Midsummer Night's Dream)\">Helena</a>, <i>in love with Demetrius</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Theseus\" title=\"Theseus\">Theseus</a>, <i>Duke of Athens</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Hippolyta\" title=\"Hippolyta\">Hippolyta</a>, <i>Queen of the Amazons</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Nick_Bottom\" title=\"Nick Bottom\">Bottom</a>, <i>a weaver</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Peter_Quince\" title=\"Peter Quince\">Quince</a>, <i>a carpenter</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Francis_Flute\" title=\"Francis Flute\">Flute</a>, <i>a bellows-mender</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Snug_(A_Midsummer_Night%27s_Dream)\" title=\"Snug (A Midsummer Night's Dream)\">Snug</a>, <i>a joiner</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Tom_Snout\" title=\"Tom Snout\">Snout</a>, <i>a tinker</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Robin_Starveling\" title=\"Robin Starveling\">Starveling</a>, <i>a tailor</i>\n</td>\n<td>baritone\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Oberon, King of the Fairies",
+      "voiceType": "countertenor"
+    },
+    {
+      "role": "Tytania, Queen of the Fairies",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Puck",
+      "voiceType": "speaking role"
+    },
+    {
+      "role": "Cobweb",
+      "voiceType": "treble"
+    },
+    {
+      "role": "Mustardseed",
+      "voiceType": "treble"
+    },
+    {
+      "role": "Moth",
+      "voiceType": "treble"
+    },
+    {
+      "role": "Peaseblossom",
+      "voiceType": "treble"
+    },
+    {
+      "role": "Lysander",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Demetrius",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Hermia, in love with Lysander",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Helena, in love with Demetrius",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Theseus, Duke of Athens",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Hippolyta, Queen of the Amazons",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Bottom, a weaver",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Quince, a carpenter",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Flute, a bellows-mender",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Snug, a joiner",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Snout, a tinker",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Starveling, a tailor",
+      "voiceType": "baritone"
+    }
+  ]
+}

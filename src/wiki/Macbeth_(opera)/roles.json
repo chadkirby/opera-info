@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 14 March 1847<sup id=\"cite_ref-24\" class=\"reference\"><a href=\"#cite_note-24\">[24]</a></sup><br>Conductor: Giuseppe Verdi\n</th>\n<th>Revised version, in French<br>Premiere cast, 19 April 1865<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\">[25]</a></sup><br>Conductor: <a href=\"/wiki/Adolphe_Deloffre\" title=\"Adolphe Deloffre\">Adolphe Deloffre</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Macbeth,_King_of_Scotland\" title=\"Macbeth, King of Scotland\">Macbeth</a> (always called \"Macbetto\" in the libretto)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Lady_Macbeth\" title=\"Lady Macbeth\">Lady Macbeth</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Banco (<a href=\"/wiki/Banquo\" title=\"Banquo\">Banquo</a>)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Macduff_(thane)\" class=\"mw-redirect\" title=\"Macduff (thane)\">Macduff</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Lady-in-waiting\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Malcolm_(Macbeth)\" title=\"Malcolm (Macbeth)\">Malcolm</a>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Doctor\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Servant to Macbeth\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Herald\" title=\"Herald\">Herald</a>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Assassin\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Three apparitions\n</td>\n<td>2 sopranos and 1 bass\n</td>\n\n</tr>\n<tr>\n<td>Duncano (<a href=\"/wiki/Duncan_I_of_Scotland\" title=\"Duncan I of Scotland\">Duncan</a>), <i>King of Scotland</i>\n</td>\n<td>Silent\n</td>\n\n</tr>\n<tr>\n<td>Fleanzio (<a href=\"/wiki/Fleance\" title=\"Fleance\">Fleance</a>), <i>son of Banco</i>\n</td>\n<td>Silent\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Witches, messengers, nobles, attendants, refugees – chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Macbeth (always called \"Macbetto\" in the libretto)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Lady Macbeth",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Banco (Banquo)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Macduff",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lady-in-waiting",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Malcolm",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Doctor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Servant to Macbeth",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Herald",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Assassin",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Three apparitions",
+      "voiceType": "2 sopranos and 1 bass"
+    },
+    {
+      "role": "Duncano (Duncan), King of Scotland",
+      "voiceType": "Silent"
+    },
+    {
+      "role": "Fleanzio (Fleance), son of Banco",
+      "voiceType": "Silent"
+    },
+    {
+      "role": "Witches, messengers, nobles, attendants, refugees – chorus",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 2 December 1877<br>(Conductor: <a href=\"/wiki/Eduard_Lassen\" title=\"Eduard Lassen\">Eduard Lassen</a>)<sup id=\"cite_ref-Amadeus_4-3\" class=\"reference\"><a href=\"#cite_note-Amadeus-4\">[4]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Samson\" title=\"Samson\">Samson</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Delilah\" title=\"Delilah\">Dalila</a>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> or <a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>High Priest of <a href=\"/wiki/Dagon\" title=\"Dagon\">Dagon</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Abimélech, <i><a href=\"/wiki/Satrap\" title=\"Satrap\">satrap</a> of <a href=\"/wiki/Gaza_City\" title=\"Gaza City\">Gaza</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>First <a href=\"/wiki/Philistines\" title=\"Philistines\">Philistine</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second Philistine\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Philistine Messenger\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Old Hebrew\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Hebrews and Philistines</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Samson",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dalila",
+      "voiceType": "mezzo-soprano or contralto"
+    },
+    {
+      "role": "High Priest of Dagon",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Abimélech, satrap of Gaza",
+      "voiceType": "bass"
+    },
+    {
+      "role": "First Philistine",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second Philistine",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Philistine Messenger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Old Hebrew",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Hebrews and Philistines",
+      "voiceType": ""
+    }
+  ]
+}

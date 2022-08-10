@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La traviata",
+  "displaytitle": "<i>La traviata</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q186162",
+  "titles": {
+    "canonical": "La_traviata",
+    "normalized": "La traviata",
+    "display": "<i>La traviata</i>"
+  },
+  "pageid": 37902,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/La_Traviata_Premiere_Violetta_Costume.jpg",
+    "width": 176,
+    "height": 207
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/La_Traviata_Premiere_Violetta_Costume.jpg",
+    "width": 176,
+    "height": 207
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100332502",
+  "tid": "e2a751a0-119c-11ed-9a74-9d23bf314ca5",
+  "timestamp": "2022-07-25T10:48:51Z",
+  "description": "1853 opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_traviata",
+      "revisions": "https://en.wikipedia.org/wiki/La_traviata?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_traviata?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_traviata"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_traviata",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_traviata",
+      "edit": "https://en.m.wikipedia.org/wiki/La_traviata?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_traviata"
+    }
+  },
+  "extract": "La traviata is an opera in three acts by Giuseppe Verdi set to an Italian libretto by Francesco Maria Piave. It is based on La Dame aux camélias (1852), a play by Alexandre Dumas fils adapted from his own 1848 novel. The opera was originally titled Violetta, after the main character. It was first performed on 6 March 1853 at La Fenice opera house in Venice.",
+  "extract_html": "<p><i><b>La traviata</b></i> is an opera in three acts by Giuseppe Verdi set to an Italian libretto by Francesco Maria Piave. It is based on <i>La Dame aux camélias</i> (1852), a play by <span>Alexandre Dumas <i>fils</i></span> adapted from his own 1848 novel. The opera was originally titled <i><b>Violetta</b></i>, after the main character. It was first performed on 6 March 1853 at La Fenice opera house in Venice.</p>"
+}

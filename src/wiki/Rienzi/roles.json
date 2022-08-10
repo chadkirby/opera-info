@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 20 October 1842<br>Conductor: <a href=\"/wiki/Carl_Rei%C3%9Figer\" class=\"mw-redirect\" title=\"Carl Reißiger\">Carl Reißiger</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Cola_di_Rienzo\" title=\"Cola di Rienzo\">Cola Rienzi</a>, <i>Roman Tribune</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Irene, <i>his sister</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Stefano_Colonna\" title=\"Stefano Colonna\">Stefano Colonna</a>, <i>a nobleman</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Adriano, <i>his son</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Paolo Orsini, <i>another patrician</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Raimondo, <i>Papal Legate</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Baroncelli, <i>Roman citizen</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Cecco del Vecchio, <i>Roman citizen</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The Messenger of Peace\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Ambassadors, Nobles, Priests, Monks, Soldiers, Messengers, Populace</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Cola Rienzi, Roman Tribune",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Irene, his sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Stefano Colonna, a nobleman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Adriano, his son",
+      "voiceType": "soprano (en travesti)"
+    },
+    {
+      "role": "Paolo Orsini, another patrician",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Raimondo, Papal Legate",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Baroncelli, Roman citizen",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Cecco del Vecchio, Roman citizen",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Messenger of Peace",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ambassadors, Nobles, Priests, Monks, Soldiers, Messengers, Populace",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Le comte Ory",
+  "displaytitle": "<i>Le comte Ory</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q734560",
+  "titles": {
+    "canonical": "Le_comte_Ory",
+    "normalized": "Le comte Ory",
+    "display": "<i>Le comte Ory</i>"
+  },
+  "pageid": 8937491,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Le_comte_Ory_-_Dubois_%26_chez_Martinet_-_Final_scene.jpg/320px-Le_comte_Ory_-_Dubois_%26_chez_Martinet_-_Final_scene.jpg",
+    "width": 320,
+    "height": 264
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Le_comte_Ory_-_Dubois_%26_chez_Martinet_-_Final_scene.jpg",
+    "width": 4468,
+    "height": 3684
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098056369",
+  "tid": "d13ea610-15f8-11ed-8970-c723ef70edfb",
+  "timestamp": "2022-07-14T00:55:32Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Le_comte_Ory",
+      "revisions": "https://en.wikipedia.org/wiki/Le_comte_Ory?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Le_comte_Ory?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Le_comte_Ory"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Le_comte_Ory",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Le_comte_Ory",
+      "edit": "https://en.m.wikipedia.org/wiki/Le_comte_Ory?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Le_comte_Ory"
+    }
+  },
+  "extract": "Le comte Ory is a comic opera written by Gioachino Rossini in 1828. Some of the music originates from his opera Il viaggio a Reims written three years earlier for the coronation of Charles X. The French libretto was by Eugène Scribe and Charles-Gaspard Delestre-Poirson adapted from a comedy they had first written in 1817.",
+  "extract_html": "<p><i><b>Le comte Ory</b></i> is a comic opera written by Gioachino Rossini in 1828. Some of the music originates from his opera <i>Il viaggio a Reims</i> written three years earlier for the coronation of Charles X. The French libretto was by Eugène Scribe and Charles-Gaspard Delestre-Poirson adapted from a comedy they had first written in 1817.</p>"
+}

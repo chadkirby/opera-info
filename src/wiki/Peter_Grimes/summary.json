@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Peter Grimes",
+  "displaytitle": "<i>Peter Grimes</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q780331",
+  "titles": {
+    "canonical": "Peter_Grimes",
+    "normalized": "Peter Grimes",
+    "display": "<i>Peter Grimes</i>"
+  },
+  "pageid": 1074419,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099436921",
+  "tid": "c9a79120-0863-11ed-9f0c-835fb5a2e0da",
+  "timestamp": "2022-07-20T19:40:15Z",
+  "description": "1945 opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Peter_Grimes",
+      "revisions": "https://en.wikipedia.org/wiki/Peter_Grimes?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Peter_Grimes?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Grimes"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Peter_Grimes",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Peter_Grimes",
+      "edit": "https://en.m.wikipedia.org/wiki/Peter_Grimes?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Peter_Grimes"
+    }
+  },
+  "extract": "Peter Grimes, Op. 33, is an opera by Benjamin Britten, with a libretto by Montagu Slater based on the section \"Peter Grimes\", in George Crabbe's long narrative poem The Borough. The \"borough\" of the opera is a fictional small town that bears some resemblance to Crabbe's – and later Britten's – home of Aldeburgh, Suffolk, on England's east coast.",
+  "extract_html": "<p><i><b>Peter Grimes</b></i>, Op. 33, is an opera by Benjamin Britten, with a libretto by Montagu Slater based on the section \"Peter Grimes\", in George Crabbe's long narrative poem <i>The Borough</i>. The \"borough\" of the opera is a fictional small town that bears some resemblance to Crabbe's – and later Britten's – home of Aldeburgh, Suffolk, on England's east coast.</p>"
+}

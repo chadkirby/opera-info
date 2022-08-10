@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Ariane et Barbe-bleue</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Paul_Dukas\" title=\"Paul Dukas\">Paul Dukas</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Paul_Dukas_01.jpg\" class=\"image\"><img alt=\"Paul Dukas 01.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paul_Dukas_01.jpg/220px-Paul_Dukas_01.jpg\" decoding=\"async\" width=\"220\" height=\"220\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paul_Dukas_01.jpg/330px-Paul_Dukas_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/2a/Paul_Dukas_01.jpg 2x\" data-file-width=\"380\" data-file-height=\"380\"></a><div class=\"infobox-caption\">The composer</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">French</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i>Ariane et Barbe-bleue</i><br>by <a href=\"/wiki/Maurice_Maeterlinck\" title=\"Maurice Maeterlinck\">Maurice Maeterlinck</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">10&nbsp;May&nbsp;1907<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1907-05-10</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Op%C3%A9ra-Comique\" title=\"Opéra-Comique\">Opéra-Comique</a>, Paris</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Ariane et Barbe-bleue"
+  ],
+  "Language": "French",
+  "Based on": "Ariane et Barbe-bleue\nby Maurice Maeterlinck",
+  "Premiere": "10 May 1907\nOpéra-Comique, Paris"
+}

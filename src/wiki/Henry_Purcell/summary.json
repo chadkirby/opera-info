@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Henry Purcell",
+  "displaytitle": "Henry Purcell",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q9695",
+  "titles": {
+    "canonical": "Henry_Purcell",
+    "normalized": "Henry Purcell",
+    "display": "Henry Purcell"
+  },
+  "pageid": 14135,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Henry_Purcell_Closterman.jpg/261px-Henry_Purcell_Closterman.jpg",
+    "width": 261,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Henry_Purcell_Closterman.jpg",
+    "width": 632,
+    "height": 775
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101896602",
+  "tid": "9886f090-124f-11ed-a8c2-b9a79434500b",
+  "timestamp": "2022-08-02T10:40:55Z",
+  "description": "English composer (1659–1695)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Henry_Purcell",
+      "revisions": "https://en.wikipedia.org/wiki/Henry_Purcell?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Henry_Purcell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Henry_Purcell"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Henry_Purcell",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Henry_Purcell",
+      "edit": "https://en.m.wikipedia.org/wiki/Henry_Purcell?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Henry_Purcell"
+    }
+  },
+  "extract": "Henry Purcell was an English composer. Although he incorporated Italian and French stylistic elements, Purcell's style was a uniquely English form of Baroque music. Generally considered among the greatest English opera composers, Purcell is often linked with John Dunstaple and William Byrd as England's most important early music composers. No later native-born English composer approached his fame until Edward Elgar, Ralph Vaughan Williams, Gustav Holst, William Walton and Benjamin Britten in the 20th century.",
+  "extract_html": "<p><b>Henry Purcell</b> was an English composer. Although he incorporated Italian and French stylistic elements, Purcell's style was a uniquely English form of Baroque music. Generally considered among the greatest English opera composers, Purcell is often linked with John Dunstaple and William Byrd as England's most important early music composers. No later native-born English composer approached his fame until Edward Elgar, Ralph Vaughan Williams, Gustav Holst, William Walton and Benjamin Britten in the 20th century.</p>"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La Calisto",
+  "displaytitle": "<i>La Calisto</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q536064",
+  "titles": {
+    "canonical": "La_Calisto",
+    "normalized": "La Calisto",
+    "display": "<i>La Calisto</i>"
+  },
+  "pageid": 8907158,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francesco_Cavalli.png/258px-Francesco_Cavalli.png",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Francesco_Cavalli.png",
+    "width": 285,
+    "height": 354
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1066452294",
+  "tid": "2fb23b70-fa20-11ec-af19-933b5b8e559d",
+  "timestamp": "2022-01-18T12:28:51Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_Calisto",
+      "revisions": "https://en.wikipedia.org/wiki/La_Calisto?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_Calisto?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_Calisto"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_Calisto",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_Calisto",
+      "edit": "https://en.m.wikipedia.org/wiki/La_Calisto?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_Calisto"
+    }
+  },
+  "extract": "La Calisto is an opera by Francesco Cavalli from a libretto by Giovanni Faustini based on the mythological story of Callisto.",
+  "extract_html": "<p><i><b>La Calisto</b></i> is an opera by Francesco Cavalli from a libretto by Giovanni Faustini based on the mythological story of Callisto.</p>"
+}

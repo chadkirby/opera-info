@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 2 December 1840<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup><br>Conductor: <a href=\"/wiki/Fran%C3%A7ois_Habeneck\" title=\"François Habeneck\">François Habeneck</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Eleanor_de_Guzm%C3%A1n\" title=\"Eleanor de Guzmán\">Léonor de Guzman</a> (Leonora di Gusmann)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Fernand (Fernando)\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Alfonso_XI_of_Castile\" title=\"Alfonso XI of Castile\">Alphonse XI, King of Castile</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Balthazar (Baldassare), superior to the convent of Saint James of Compostela\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Don Gaspar, officer of the king\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Inès (Inez), confidante to Léonor\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>A lord\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Lords and ladies of the court, a maiden, pages, guards, monks of the <a href=\"/wiki/Order_of_Santiago\" title=\"Order of Santiago\">Order of Saint James of Compostela</a>, pilgrims</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Léonor de Guzman (Leonora di Gusmann)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Fernand (Fernando)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Alphonse XI, King of Castile",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Balthazar (Baldassare), superior to the convent of Saint James of Compostela",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Don Gaspar, officer of the king",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Inès (Inez), confidante to Léonor",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A lord",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lords and ladies of the court, a maiden, pages, guards, monks of the Order of Saint James of Compostela, pilgrims",
+      "voiceType": ""
+    }
+  ]
+}

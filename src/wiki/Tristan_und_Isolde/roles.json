@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 10 June 1865<br>Conductor: <a href=\"/wiki/Hans_von_B%C3%BClow\" title=\"Hans von Bülow\">Hans von Bülow</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Tristan\" title=\"Tristan\">Tristan</a>, <i>a <a href=\"/wiki/Bretons\" title=\"Bretons\">Breton</a> nobleman, adopted heir of Marke</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Isolde, <i>an <a href=\"/wiki/Irish_people\" title=\"Irish people\">Irish</a> princess betrothed to Marke</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Brangäne, <i>Isolde's maid</i>\n</td>\n<td>soprano<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\">[19]</a></sup>\n</td>\n</tr>\n<tr>\n<td>Kurwenal, <i>Tristan's servant</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Mark_of_Cornwall\" title=\"Mark of Cornwall\">Marke</a>, <i>King of <a href=\"/wiki/Cornwall\" title=\"Cornwall\">Cornwall</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Melot, <i>a courtier, Tristan's friend</i>\n</td>\n<td>tenor (or baritone)<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[20]</a></sup>\n</td>\n</tr>\n<tr>\n<td>A shepherd\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A steersman\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>A young sailor\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Sailors, knights, and esquires</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Tristan, a Breton nobleman, adopted heir of Marke",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Isolde, an Irish princess betrothed to Marke",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Brangäne, Isolde's maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Kurwenal, Tristan's servant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Marke, King of Cornwall",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Melot, a courtier, Tristan's friend",
+      "voiceType": "tenor (or baritone)"
+    },
+    {
+      "role": "A shepherd",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A steersman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "A young sailor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sailors, knights, and esquires",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "L'elisir d'amore",
+  "displaytitle": "<i>L'elisir d'amore</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q332536",
+  "titles": {
+    "canonical": "L'elisir_d'amore",
+    "normalized": "L'elisir d'amore",
+    "display": "<i>L'elisir d'amore</i>"
+  },
+  "pageid": 354427,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Giuseppe_Frezzolini_in_Donizetti%27s_L%27elisir_d%27amore.jpg/220px-Giuseppe_Frezzolini_in_Donizetti%27s_L%27elisir_d%27amore.jpg",
+    "width": 220,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giuseppe_Frezzolini_in_Donizetti%27s_L%27elisir_d%27amore.jpg",
+    "width": 382,
+    "height": 556
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101039609",
+  "tid": "e700f2f0-0ed7-11ed-b923-ebfc86d8fec4",
+  "timestamp": "2022-07-29T00:46:35Z",
+  "description": "1832 opera by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'elisir_d'amore",
+      "revisions": "https://en.wikipedia.org/wiki/L'elisir_d'amore?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'elisir_d'amore?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'elisir_d'amore"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'elisir_d'amore",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'elisir_d'amore",
+      "edit": "https://en.m.wikipedia.org/wiki/L'elisir_d'amore?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'elisir_d'amore"
+    }
+  },
+  "extract": "L'elisir d'amore is a melodramma giocoso in two acts by the Italian composer Gaetano Donizetti. Felice Romani wrote the Italian libretto, after Eugène Scribe's libretto for Daniel Auber's Le philtre (1831). The opera premiered on 12 May 1832 at the Teatro della Canobbiana in Milan.",
+  "extract_html": "<p><i><b>L'elisir d'amore</b></i> is a <i><span><i lang=\"it\">melodramma giocoso</i></span></i> in two acts by the Italian composer Gaetano Donizetti. Felice Romani wrote the Italian libretto, after Eugène Scribe's libretto for Daniel Auber's <i>Le philtre</i> (1831). The opera premiered on 12 May 1832 at the Teatro della Canobbiana in Milan.</p>"
+}

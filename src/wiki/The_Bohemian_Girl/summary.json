@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Bohemian Girl",
+  "displaytitle": "<i>The Bohemian Girl</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3986042",
+  "titles": {
+    "canonical": "The_Bohemian_Girl",
+    "normalized": "The Bohemian Girl",
+    "display": "<i>The Bohemian Girl</i>"
+  },
+  "pageid": 5467945,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Title_page_of_The_Bohemian_Girl.JPG/232px-Title_page_of_The_Bohemian_Girl.JPG",
+    "width": 232,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Title_page_of_The_Bohemian_Girl.JPG",
+    "width": 2550,
+    "height": 3510
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099342337",
+  "tid": "d2199cc0-15f8-11ed-b692-25a482aa62f1",
+  "timestamp": "2022-07-20T07:54:02Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Bohemian_Girl",
+      "revisions": "https://en.wikipedia.org/wiki/The_Bohemian_Girl?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Bohemian_Girl?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Bohemian_Girl"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Bohemian_Girl",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Bohemian_Girl",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Bohemian_Girl?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Bohemian_Girl"
+    }
+  },
+  "extract": "The Bohemian Girl is an Irish Romantic opera composed by Michael William Balfe with a libretto by Alfred Bunn. The plot is loosely based on a Miguel de Cervantes' tale, La Gitanilla.",
+  "extract_html": "<p><i><b>The Bohemian Girl</b></i> is an Irish Romantic opera composed by Michael William Balfe with a libretto by Alfred Bunn. The plot is loosely based on a Miguel de Cervantes' tale, <i>La Gitanilla</i>.</p>"
+}

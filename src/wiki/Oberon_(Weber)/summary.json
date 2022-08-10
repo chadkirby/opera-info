@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Oberon (Weber)",
+  "displaytitle": "<i>Oberon</i> (Weber)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q690835",
+  "titles": {
+    "canonical": "Oberon_(Weber)",
+    "normalized": "Oberon (Weber)",
+    "display": "<i>Oberon</i> (Weber)"
+  },
+  "pageid": 3690601,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Madame_Vestris_as_Fatima.jpg/258px-Madame_Vestris_as_Fatima.jpg",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Madame_Vestris_as_Fatima.jpg",
+    "width": 613,
+    "height": 760
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100486896",
+  "tid": "d0fa2300-15f8-11ed-a761-5d03dd24044f",
+  "timestamp": "2022-07-26T05:08:34Z",
+  "description": "Romantic opera by Carl Maria von Weber",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Oberon_(Weber)",
+      "revisions": "https://en.wikipedia.org/wiki/Oberon_(Weber)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Oberon_(Weber)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Oberon_(Weber)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Oberon_(Weber)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Oberon_(Weber)",
+      "edit": "https://en.m.wikipedia.org/wiki/Oberon_(Weber)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Oberon_(Weber)"
+    }
+  },
+  "extract": "Oberon, or The Elf-King's Oath is a 3-act romantic opera with spoken dialogue composed in 1825–26 by Carl Maria von Weber. The only English opera ever set by Weber, the libretto by James Robinson Planché was based on the German poem Oberon by Christoph Martin Wieland, which itself was based on the epic romance Huon de Bordeaux, a French medieval tale. It was premiered in London on 12 April 1826.",
+  "extract_html": "<p><i><b>Oberon, or The Elf-King's Oath</b></i> is a 3-act romantic opera with spoken dialogue composed in 1825–26 by Carl Maria von Weber. The only English opera ever set by Weber, the libretto by James Robinson Planché was based on the German poem <i>Oberon</i> by Christoph Martin Wieland, which itself was based on the epic romance <i>Huon de Bordeaux</i>, a French medieval tale. It was premiered in London on 12 April 1826.</p>"
+}

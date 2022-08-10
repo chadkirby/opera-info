@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Lear (opera)",
+  "displaytitle": "<i>Lear</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q948566",
+  "titles": {
+    "canonical": "Lear_(opera)",
+    "normalized": "Lear (opera)",
+    "display": "<i>Lear</i> (opera)"
+  },
+  "pageid": 9017486,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lear_at_Hamburgische_Staatsoper_2012_-_Photo_No_2_by_Brinkhoff-Moegenburg.jpg/213px-Lear_at_Hamburgische_Staatsoper_2012_-_Photo_No_2_by_Brinkhoff-Moegenburg.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lear_at_Hamburgische_Staatsoper_2012_-_Photo_No_2_by_Brinkhoff-Moegenburg.jpg",
+    "width": 2362,
+    "height": 3543
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1034678582",
+  "tid": "d0da6600-15f8-11ed-90ae-8f4bf70afe71",
+  "timestamp": "2021-07-21T07:16:56Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lear_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Lear_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lear_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lear_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Lear_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lear_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Lear_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Lear_(opera)"
+    }
+  },
+  "extract": "Lear is an opera in two parts with music by the German composer Aribert Reimann, and a libretto by Claus H. Henneberg, based on Shakespeare's tragedy King Lear.",
+  "extract_html": "<p><i><b>Lear</b></i> is an opera in two parts with music by the German composer Aribert Reimann, and a libretto by Claus H. Henneberg, based on Shakespeare's tragedy <i>King Lear</i>.</p>"
+}

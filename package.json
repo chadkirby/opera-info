@@ -1,0 +1,30 @@
+{
+  "name": "opera-info",
+  "version": "1.0.0",
+  "description": "information about operas",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/chadkirby/opera-info.git",
+  "author": "Chad Kirby <chad.kirby@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "init:operas": "node fetchers/fetch-prominent.js src/operas.json",
+    "init:summaries": "node fetchers/fetch-opera-summaries.js src/operas.json",
+    "init:info": "node fetchers/fetch-opera-info.js src/operas.json"
+  },
+  "devDependencies": {
+    "@ckirby/dom-dom-dom-dommmm": "^8.2.0",
+    "@types/node": "16",
+    "@types/node-fetch": "^2.6.2",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "dotenv": "^16.0.1",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "get-stdin": "^9.0.0",
+    "jsdom": "^20.0.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.6.4"
+  }
+}

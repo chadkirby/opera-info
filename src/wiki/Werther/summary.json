@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Werther",
+  "displaytitle": "<i>Werther</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q926468",
+  "titles": {
+    "canonical": "Werther",
+    "normalized": "Werther",
+    "display": "<i>Werther</i>"
+  },
+  "pageid": 355213,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eug%C3%A8ne_Grasset_-_Jules_Massenet_-_Werther.jpg/239px-Eug%C3%A8ne_Grasset_-_Jules_Massenet_-_Werther.jpg",
+    "width": 239,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Eug%C3%A8ne_Grasset_-_Jules_Massenet_-_Werther.jpg",
+    "width": 7008,
+    "height": 9375
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100414976",
+  "tid": "f5d8a490-0c56-11ed-b52a-53b94c13d2a1",
+  "timestamp": "2022-07-25T20:18:32Z",
+  "description": "1892 opera by Jules Massenet",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Werther",
+      "revisions": "https://en.wikipedia.org/wiki/Werther?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Werther?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Werther"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Werther",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Werther",
+      "edit": "https://en.m.wikipedia.org/wiki/Werther?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Werther"
+    }
+  },
+  "extract": "Werther is an opera in four acts by Jules Massenet to a French libretto by Édouard Blau, Paul Milliet and Georges Hartmann. It is loosely based on Goethe's epistolary novel The Sorrows of Young Werther, which was based both on fact and on Goethe's own early life. Earlier examples of operas using the story were made by Kreutzer (1792) and Pucitta (1802).",
+  "extract_html": "<p><i><b>Werther</b></i> is an opera in four acts by Jules Massenet to a French libretto by Édouard Blau, Paul Milliet and Georges Hartmann. It is loosely based on Goethe's epistolary novel <i>The Sorrows of Young Werther</i>, which was based both on fact and on Goethe's own early life. Earlier examples of operas using the story were made by Kreutzer (1792) and Pucitta (1802).</p>"
+}

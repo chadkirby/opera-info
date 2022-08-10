@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Akhnaten (opera)",
+  "displaytitle": "<i>Akhnaten</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q417738",
+  "titles": {
+    "canonical": "Akhnaten_(opera)",
+    "normalized": "Akhnaten (opera)",
+    "display": "<i>Akhnaten</i> (opera)"
+  },
+  "pageid": 56438,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Philip_Glass_in_Florence%2C_Italy_-_1993.jpg/199px-Philip_Glass_in_Florence%2C_Italy_-_1993.jpg",
+    "width": 199,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Philip_Glass_in_Florence%2C_Italy_-_1993.jpg",
+    "width": 2071,
+    "height": 3328
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096571181",
+  "tid": "25557a90-119d-11ed-8561-abb031eaa61f",
+  "timestamp": "2022-07-05T09:21:03Z",
+  "description": "Opera by Philip Glass",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Akhnaten_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Akhnaten_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Akhnaten_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Akhnaten_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Akhnaten_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Akhnaten_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Akhnaten_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Akhnaten_(opera)"
+    }
+  },
+  "extract": "Akhnaten is an opera in three acts based on the life and religious convictions of the Egyptian pharaoh Akhenaten, written by the American composer Philip Glass in 1983. The libretto is by Philip Glass in association with Shalom Goldman, Robert Israel, Richard Riddell, and Jerome Robbins. According to the composer, this work is the culmination of his two other biographical operas, Einstein on the Beach and Satyagraha. These three people – Akhenaten, Einstein, and Gandhi – were all driven by an inner vision which altered the age in which they lived, in particular Akhenaten in religion, Einstein in science, and Gandhi in politics.",
+  "extract_html": "<p><i><b>Akhnaten</b></i> is an opera in three acts based on the life and religious convictions of the Egyptian pharaoh Akhenaten, written by the American composer Philip Glass in 1983. The libretto is by Philip Glass in association with Shalom Goldman, Robert Israel, Richard Riddell, and Jerome Robbins. According to the composer, this work is the culmination of his two other biographical operas, <i>Einstein on the Beach</i> and <i>Satyagraha</i>. These three people – Akhenaten, Einstein, and Gandhi – were all driven by an inner vision which altered the age in which they lived, in particular Akhenaten in religion, Einstein in science, and Gandhi in politics.</p>"
+}

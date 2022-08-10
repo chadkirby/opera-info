@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Beggar's Opera",
+  "displaytitle": "<i>The Beggar's Opera</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1472110",
+  "titles": {
+    "canonical": "The_Beggar's_Opera",
+    "normalized": "The Beggar's Opera",
+    "display": "<i>The Beggar's Opera</i>"
+  },
+  "pageid": 176514,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/William_Hogarth_016.jpg/320px-William_Hogarth_016.jpg",
+    "width": 320,
+    "height": 246
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/William_Hogarth_016.jpg",
+    "width": 1536,
+    "height": 1181
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092772751",
+  "tid": "5ee99fb0-fe84-11ec-9d6c-a5ca49a8482d",
+  "timestamp": "2022-06-12T14:00:03Z",
+  "description": "1728 ballad opera by John Gay",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Beggar's_Opera",
+      "revisions": "https://en.wikipedia.org/wiki/The_Beggar's_Opera?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Beggar's_Opera?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Beggar's_Opera"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Beggar's_Opera",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Beggar's_Opera",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Beggar's_Opera?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Beggar's_Opera"
+    }
+  },
+  "extract": "The Beggar's Opera is a ballad opera in three acts written in 1728 by John Gay with music arranged by Johann Christoph Pepusch. It is one of the watershed plays in Augustan drama and is the only example of the once thriving genre of satirical ballad opera to remain popular today. Ballad operas were satiric musical plays that used some of the conventions of opera, but without recitative. The lyrics of the airs in the piece are set to popular broadsheet ballads, opera arias, church hymns and folk tunes of the time.",
+  "extract_html": "<p><i><b>The Beggar's Opera</b></i> is a ballad opera in three acts written in 1728 by John Gay with music arranged by Johann Christoph Pepusch. It is one of the watershed plays in Augustan drama and is the only example of the once thriving genre of satirical ballad opera to remain popular today. Ballad operas were satiric musical plays that used some of the conventions of opera, but without recitative. The lyrics of the airs in the piece are set to popular broadsheet ballads, opera arias, church hymns and folk tunes of the time.</p>"
+}

@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Die schweigsame Frau</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Richard_Strauss\" title=\"Richard Strauss\">Richard Strauss</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Stefan_Zweig\" title=\"Stefan Zweig\">Stefan Zweig</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">German</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><a href=\"/wiki/Ben_Jonson\" title=\"Ben Jonson\">Ben Jonson</a>'s <i><a href=\"/wiki/Epicoene,_or_the_Silent_Woman\" class=\"mw-redirect\" title=\"Epicoene, or the Silent Woman\">Epicoene, or the Silent Woman</a></i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">24&nbsp;June&nbsp;1935<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1935-06-24</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Semperoper\" title=\"Semperoper\">Semperoper</a>, Dresden</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Die schweigsame Frau"
+  ],
+  "Librettist": "Stefan Zweig",
+  "Language": "German",
+  "Based on": "Ben Jonson's Epicoene, or the Silent Woman",
+  "Premiere": "24 June 1935\nSemperoper, Dresden"
+}

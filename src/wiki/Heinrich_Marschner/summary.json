@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Heinrich Marschner",
+  "displaytitle": "Heinrich Marschner",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q160063",
+  "titles": {
+    "canonical": "Heinrich_Marschner",
+    "normalized": "Heinrich Marschner",
+    "display": "Heinrich Marschner"
+  },
+  "pageid": 899743,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heinrich_Marschner_1.jpg/227px-Heinrich_Marschner_1.jpg",
+    "width": 227,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Heinrich_Marschner_1.jpg",
+    "width": 352,
+    "height": 495
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1068382099",
+  "tid": "afd65e00-0608-11ed-a6ec-91dc6671cf35",
+  "timestamp": "2022-01-28T04:00:02Z",
+  "description": "German composer (1795–1861)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Heinrich_Marschner",
+      "revisions": "https://en.wikipedia.org/wiki/Heinrich_Marschner?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Heinrich_Marschner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Heinrich_Marschner"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Heinrich_Marschner",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Heinrich_Marschner",
+      "edit": "https://en.m.wikipedia.org/wiki/Heinrich_Marschner?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Heinrich_Marschner"
+    }
+  },
+  "extract": "Heinrich August Marschner was the most important composer of German opera between Weber and Wagner.",
+  "extract_html": "<p><b>Heinrich August Marschner</b> was the most important composer of German opera between Weber and Wagner.</p>"
+}

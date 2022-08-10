@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Consul",
+  "displaytitle": "<i>The Consul</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q593511",
+  "titles": {
+    "canonical": "The_Consul",
+    "normalized": "The Consul",
+    "display": "<i>The Consul</i>"
+  },
+  "pageid": 3444874,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/214px-Gcmenotti.jpg",
+    "width": 214,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gcmenotti.jpg",
+    "width": 272,
+    "height": 406
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087267317",
+  "tid": "d0c53050-15f8-11ed-ad08-ebf00f87c0a2",
+  "timestamp": "2022-05-11T12:26:13Z",
+  "description": "Opera by Gian Carlo Menotti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Consul",
+      "revisions": "https://en.wikipedia.org/wiki/The_Consul?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Consul?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Consul"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Consul",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Consul",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Consul?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Consul"
+    }
+  },
+  "extract": "The Consul is an opera in three acts with music and libretto by Gian Carlo Menotti, his first full-length opera.",
+  "extract_html": "<p><i><b>The Consul</b></i> is an opera in three acts with music and libretto by Gian Carlo Menotti, his first full-length opera.</p>"
+}

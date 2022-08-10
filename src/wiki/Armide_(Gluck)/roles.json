@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 23 September 1777<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup> <br>(Conductor)\n</th></tr>\n<tr>\n<td>Armide, <i>a sorceress, <br> Princess of <a href=\"/wiki/Damascus\" title=\"Damascus\">Damascus</a></i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Renaud, <i>a <a href=\"/wiki/Crusade\" class=\"mw-redirect\" title=\"Crusade\">Crusader</a></i>\n</td>\n<td><a href=\"/wiki/Haute-contre\" title=\"Haute-contre\">haute-contre</a>\n</td>\n</tr>\n<tr>\n<td>Phénice, <i>Armide's confidant</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Sidonie, <i>Armide's confidant</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Hidraot, <i>a magician, <br>King of Damascus</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Hate\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a><sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup>\n</td>\n</tr>\n<tr>\n<td>The Danish Knight, <i>a Crusader</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Ubalde, <i>a Crusader</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>A demon in the form of Lucinde,<br><i>the Danish Knight's beloved</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A demon in the form of Mélisse,<br><i>Ubalde's beloved</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Aronte, <i>in charge of Armide's <br>prisoners</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Artémidore, <i>a Crusader</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A <a href=\"/wiki/Naiad\" title=\"Naiad\">naiad</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A shepherdess\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A pleasure\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>people of Damascus, nymphs, shepherds and shepherdesses, suite of Hate, demons, Pleasures, coryphaei</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Armide, a sorceress, \n Princess of Damascus",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Renaud, a Crusader",
+      "voiceType": "haute-contre"
+    },
+    {
+      "role": "Phénice, Armide's confidant",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sidonie, Armide's confidant",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hidraot, a magician, \nKing of Damascus",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Hate",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "The Danish Knight, a Crusader",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ubalde, a Crusader",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "A demon in the form of Lucinde,\nthe Danish Knight's beloved",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A demon in the form of Mélisse,\nUbalde's beloved",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Aronte, in charge of Armide's \nprisoners",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Artémidore, a Crusader",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A naiad",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A shepherdess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A pleasure",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "people of Damascus, nymphs, shepherds and shepherdesses, suite of Hate, demons, Pleasures, coryphaei",
+      "voiceType": ""
+    }
+  ]
+}

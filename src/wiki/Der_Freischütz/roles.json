@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-RolesVoiceTypes_14-0\" class=\"reference\"><a href=\"#cite_note-RolesVoiceTypes-14\">[14]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-RolesVoiceTypes_14-1\" class=\"reference\"><a href=\"#cite_note-RolesVoiceTypes-14\">[14]</a></sup>\n</th>\n<th>Premiere cast, <span class=\"nowrap\">18 June 1821</span><sup id=\"cite_ref-RolesVoiceTypes_14-2\" class=\"reference\"><a href=\"#cite_note-RolesVoiceTypes-14\">[14]</a></sup><br>Conductor: <span class=\"nowrap\">Carl Maria von Weber</span>\n</th></tr>\n<tr>\n<td>Ottokar, <i>a sovereign prince</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Cuno, <i>a hereditary forester</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Agathe, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Ännchen, <i>a young relative</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Caspar, <i>first assistant forester</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Max, <i>second assistant forester</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Samiel, <i>the 'Black Huntsman'</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Hermit\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Kilian, <i>a wealthy peasant</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Four bridesmaids\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Hunters, peasants, spirits, attendants</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Ottokar, a sovereign prince",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Cuno, a hereditary forester",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Agathe, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ännchen, a young relative",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Caspar, first assistant forester",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Max, second assistant forester",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Samiel, the 'Black Huntsman'",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Hermit",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Kilian, a wealthy peasant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Four bridesmaids",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hunters, peasants, spirits, attendants",
+      "voiceType": ""
+    }
+  ]
+}

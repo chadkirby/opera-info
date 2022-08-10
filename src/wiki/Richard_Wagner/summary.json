@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Richard Wagner",
+  "displaytitle": "Richard Wagner",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1511",
+  "titles": {
+    "canonical": "Richard_Wagner",
+    "normalized": "Richard Wagner",
+    "display": "Richard Wagner"
+  },
+  "pageid": 25452,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/231px-RichardWagner.jpg",
+    "width": 231,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg",
+    "width": 1369,
+    "height": 1897
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102385466",
+  "tid": "0b25f5f0-1544-11ed-87bb-3147ac53d1ae",
+  "timestamp": "2022-08-04T20:16:21Z",
+  "description": "German opera composer (1813–1883)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Richard_Wagner",
+      "revisions": "https://en.wikipedia.org/wiki/Richard_Wagner?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Richard_Wagner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Richard_Wagner"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Richard_Wagner",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Richard_Wagner",
+      "edit": "https://en.m.wikipedia.org/wiki/Richard_Wagner?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Richard_Wagner"
+    }
+  },
+  "extract": "Wilhelm Richard Wagner was a German composer, theatre director, polemicist, and conductor who is chiefly known for his operas. Unlike most opera composers, Wagner wrote both the libretto and the music for each of his stage works. Initially establishing his reputation as a composer of works in the romantic vein of Carl Maria von Weber and Giacomo Meyerbeer, Wagner revolutionised opera through his concept of the Gesamtkunstwerk, by which he sought to synthesise the poetic, visual, musical and dramatic arts, with music subsidiary to drama. He described this vision in a series of essays published between 1849 and 1852. Wagner realised these ideas most fully in the first half of the four-opera cycle Der Ring des Nibelungen.",
+  "extract_html": "<p><b>Wilhelm Richard Wagner</b> was a German composer, theatre director, polemicist, and conductor who is chiefly known for his operas. Unlike most opera composers, Wagner wrote both the libretto and the music for each of his stage works. Initially establishing his reputation as a composer of works in the romantic vein of Carl Maria von Weber and Giacomo Meyerbeer, Wagner revolutionised opera through his concept of the <i>Gesamtkunstwerk</i>, by which he sought to synthesise the poetic, visual, musical and dramatic arts, with music subsidiary to drama. He described this vision in a series of essays published between 1849 and 1852. Wagner realised these ideas most fully in the first half of the four-opera cycle <i>Der Ring des Nibelungen</i>.</p>"
+}

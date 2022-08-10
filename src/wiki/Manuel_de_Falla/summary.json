@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Manuel de Falla",
+  "displaytitle": "Manuel de Falla",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q193283",
+  "titles": {
+    "canonical": "Manuel_de_Falla",
+    "normalized": "Manuel de Falla",
+    "display": "Manuel de Falla"
+  },
+  "pageid": 390801,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ManuelDeFalla.JPG/233px-ManuelDeFalla.JPG",
+    "width": 233,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/ManuelDeFalla.JPG",
+    "width": 300,
+    "height": 412
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083987479",
+  "tid": "6d0511c0-0f81-11ed-8ffd-235e89265752",
+  "timestamp": "2022-04-21T23:32:53Z",
+  "description": "Spanish Andalusian composer (1876–1946)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Manuel_de_Falla",
+      "revisions": "https://en.wikipedia.org/wiki/Manuel_de_Falla?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Manuel_de_Falla?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Manuel_de_Falla"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Manuel_de_Falla",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Manuel_de_Falla",
+      "edit": "https://en.m.wikipedia.org/wiki/Manuel_de_Falla?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Manuel_de_Falla"
+    }
+  },
+  "extract": "Manuel de Falla y Matheu was an Andalusian Spanish composer and pianist. Along with Isaac Albéniz, Francisco Tárrega, and Enrique Granados, he was one of Spain's most important musicians of the first half of the 20th century. He has a claim to being Spain's greatest composer of the 20th century, although the number of pieces he composed was relatively modest.",
+  "extract_html": "<p><b>Manuel de Falla y Matheu</b> was an Andalusian Spanish composer and pianist. Along with Isaac Albéniz, Francisco Tárrega, and Enrique Granados, he was one of Spain's most important musicians of the first half of the 20th century. He has a claim to being Spain's greatest composer of the 20th century, although the number of pieces he composed was relatively modest.</p>"
+}

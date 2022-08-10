@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premier cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 2 January 1843<br>Conductor: <a href=\"/wiki/Richard_Wagner\" title=\"Richard Wagner\">Richard Wagner</a>\n</th></tr>\n<tr>\n<td>The Dutchman\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Senta, <i>Daland's daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Daland, <i>a Norwegian sea captain</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Erik, <i>a huntsman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Mary, <i>Senta's nurse</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Daland's steersman\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Norwegian sailors, the Dutchman's crew, young women</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "The Dutchman",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Senta, Daland's daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Daland, a Norwegian sea captain",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Erik, a huntsman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mary, Senta's nurse",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Daland's steersman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Norwegian sailors, the Dutchman's crew, young women",
+      "voiceType": ""
+    }
+  ]
+}

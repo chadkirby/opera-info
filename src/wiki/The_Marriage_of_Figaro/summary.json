@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Marriage of Figaro",
+  "displaytitle": "<i>The Marriage of Figaro</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q201873",
+  "titles": {
+    "canonical": "The_Marriage_of_Figaro",
+    "normalized": "The Marriage of Figaro",
+    "display": "<i>The Marriage of Figaro</i>"
+  },
+  "pageid": 30418,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ramberg_figaro_1.jpg/200px-Ramberg_figaro_1.jpg",
+    "width": 200,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ramberg_figaro_1.jpg",
+    "width": 301,
+    "height": 480
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094894468",
+  "tid": "c02e3ee0-119c-11ed-b17f-0d58680a2a4d",
+  "timestamp": "2022-06-25T06:28:42Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Marriage_of_Figaro",
+      "revisions": "https://en.wikipedia.org/wiki/The_Marriage_of_Figaro?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Marriage_of_Figaro?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Marriage_of_Figaro"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Marriage_of_Figaro",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Marriage_of_Figaro",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Marriage_of_Figaro?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Marriage_of_Figaro"
+    }
+  },
+  "extract": "The Marriage of Figaro, K. 492, is a commedia per musica in four acts composed in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo Da Ponte. It premiered at the Burgtheater in Vienna on 1 May 1786. The opera's libretto is based on the 1784 stage comedy by Pierre Beaumarchais, La folle journée, ou le Mariage de Figaro. It tells how the servants Figaro and Susanna succeed in getting married, foiling the efforts of their philandering employer Count Almaviva to seduce Susanna and teaching him a lesson in fidelity.",
+  "extract_html": "<p><i><b>The Marriage of Figaro</b></i>, K. 492, is a <i>commedia per musica</i> in four acts composed in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo Da Ponte. It premiered at the Burgtheater in Vienna on 1 May 1786. The opera's libretto is based on the 1784 stage comedy by Pierre Beaumarchais, <i>La folle journée, ou le Mariage de Figaro</i>. It tells how the servants Figaro and Susanna succeed in getting married, foiling the efforts of their philandering employer Count Almaviva to seduce Susanna and teaching him a lesson in fidelity.</p>"
+}

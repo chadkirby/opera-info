@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tosca",
+  "displaytitle": "<i>Tosca</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q192941",
+  "titles": {
+    "canonical": "Tosca",
+    "normalized": "Tosca",
+    "display": "<i>Tosca</i>"
+  },
+  "pageid": 38245,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tosca_%281899%29.jpg/153px-Tosca_%281899%29.jpg",
+    "width": 153,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tosca_%281899%29.jpg",
+    "width": 1270,
+    "height": 2652
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102275527",
+  "tid": "d197e9a0-15f8-11ed-8f43-e3900c11103c",
+  "timestamp": "2022-08-04T07:27:29Z",
+  "description": "Opera by Giacomo Puccini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tosca",
+      "revisions": "https://en.wikipedia.org/wiki/Tosca?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tosca?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tosca"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Tosca",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tosca",
+      "edit": "https://en.m.wikipedia.org/wiki/Tosca?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Tosca"
+    }
+  },
+  "extract": "Tosca is an opera in three acts by Giacomo Puccini to an Italian libretto by Luigi Illica and Giuseppe Giacosa. It premiered at the Teatro Costanzi in Rome on 14 January 1900. The work, based on Victorien Sardou's 1887 French-language dramatic play, La Tosca, is a melodramatic piece set in Rome in June 1800, with the Kingdom of Naples's control of Rome threatened by Napoleon's invasion of Italy. It contains depictions of torture, murder, and suicide, as well as some of Puccini's best-known lyrical arias.",
+  "extract_html": "<p><i><b>Tosca</b></i> is an opera in three acts by Giacomo Puccini to an Italian libretto by Luigi Illica and Giuseppe Giacosa. It premiered at the Teatro Costanzi in Rome on 14 January 1900. The work, based on Victorien Sardou's 1887 French-language dramatic play, <i>La Tosca</i>, is a melodramatic piece set in Rome in June 1800, with the Kingdom of Naples's control of Rome threatened by Napoleon's invasion of Italy. It contains depictions of torture, murder, and suicide, as well as some of Puccini's best-known lyrical arias.</p>"
+}

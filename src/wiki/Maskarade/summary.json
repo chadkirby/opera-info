@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Maskarade",
+  "displaytitle": "<i>Maskarade</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1977730",
+  "titles": {
+    "canonical": "Maskarade",
+    "normalized": "Maskarade",
+    "display": "<i>Maskarade</i>"
+  },
+  "pageid": 2023622,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Maskarade_by_Carl_Nielsen_-_world_premiere_poster_1906.jpg/197px-Maskarade_by_Carl_Nielsen_-_world_premiere_poster_1906.jpg",
+    "width": 197,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Maskarade_by_Carl_Nielsen_-_world_premiere_poster_1906.jpg",
+    "width": 703,
+    "height": 1139
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098039321",
+  "tid": "d089fc10-15f8-11ed-97cb-a557ee222c5b",
+  "timestamp": "2022-07-13T22:49:34Z",
+  "description": "Opera by Carl Nielsen",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Maskarade",
+      "revisions": "https://en.wikipedia.org/wiki/Maskarade?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Maskarade?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Maskarade"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Maskarade",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Maskarade",
+      "edit": "https://en.m.wikipedia.org/wiki/Maskarade?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Maskarade"
+    }
+  },
+  "extract": "Maskarade (Masquerade) is an opera in three acts by Carl Nielsen to a Danish libretto by Vilhelm Andersen, based on the comedy by Ludvig Holberg. It was first performed on 11 November 1906 at Royal Danish Theatre, Copenhagen. Maskarade has enjoyed enduring popularity in Denmark where it is considered to be the country's national opera.",
+  "extract_html": "<p><i><b>Maskarade</b></i> (<i>Masquerade</i>) is an opera in three acts by Carl Nielsen to a Danish libretto by Vilhelm Andersen, based on the comedy by Ludvig Holberg. It was first performed on 11 November 1906 at Royal Danish Theatre, Copenhagen. <i>Maskarade</i> has enjoyed enduring popularity in Denmark where it is considered to be the country's national opera.</p>"
+}

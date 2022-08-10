@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hansel and Gretel (opera)",
+  "displaytitle": "<i>Hansel and Gretel</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1099668",
+  "titles": {
+    "canonical": "Hansel_and_Gretel_(opera)",
+    "normalized": "Hansel and Gretel (opera)",
+    "display": "<i>Hansel and Gretel</i> (opera)"
+  },
+  "pageid": 355820,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Haensel_und_Gretel_1822-Michelides.jpg/320px-Haensel_und_Gretel_1822-Michelides.jpg",
+    "width": 320,
+    "height": 214
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Haensel_und_Gretel_1822-Michelides.jpg",
+    "width": 1207,
+    "height": 806
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069478849",
+  "tid": "0c74f3b0-0668-11ed-b52a-53b94c13d2a1",
+  "timestamp": "2022-02-02T14:37:44Z",
+  "description": "Engelbert Humperdinck opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hansel_and_Gretel_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hansel_and_Gretel_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hansel_and_Gretel_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Hansel_and_Gretel_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hansel_and_Gretel_(opera)"
+    }
+  },
+  "extract": "Hansel and Gretel is an opera by nineteenth-century composer Engelbert Humperdinck, who described it as a Märchenoper. The libretto was written by Humperdinck's sister, Adelheid Wette, based on the Grimm brothers' fairy tale \"Hansel and Gretel\". It is much admired for its folk music-inspired themes, one of the most famous being the \"Abendsegen\" from act 2.",
+  "extract_html": "<p><i><b>Hansel and Gretel</b></i> is an opera by nineteenth-century composer Engelbert Humperdinck, who described it as a <i><span><i lang=\"de\">Märchenoper</i></span></i>. The libretto was written by Humperdinck's sister, Adelheid Wette, based on the Grimm brothers' fairy tale \"Hansel and Gretel\". It is much admired for its folk music-inspired themes, one of the most famous being the \"<span><span style=\"font-style:normal\">Abendsegen</span></span>\" from act 2.</p>"
+}

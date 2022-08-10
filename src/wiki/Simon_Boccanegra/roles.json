@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast<br>12 March 1857<sup id=\"cite_ref-Budden244_24-0\" class=\"reference\"><a href=\"#cite_note-Budden244-24\">[24]</a></sup><br>(Conductor: – )\n</th>\n<th>Revised version<br>Premiere cast<br>24 March 1881<sup id=\"cite_ref-Budden244_24-1\" class=\"reference\"><a href=\"#cite_note-Budden244-24\">[24]</a></sup><br>(Conductor: <a href=\"/wiki/Franco_Faccio\" title=\"Franco Faccio\">Franco Faccio</a>)<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\">[25]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Simone_Boccanegra\" title=\"Simone Boccanegra\">Simon Boccanegra</a>, <i>a corsair,<br>later the first Doge of Genoa</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Jacopo Fiesco, <i>a Genoese nobleman,<br>known as Andrea Grimaldi</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Maria Boccanegra, <i>his adopted daughter and actual granddaughter,<br>known as Amelia Grimaldi</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Gabriele_Adorno\" title=\"Gabriele Adorno\">Gabriele Adorno</a>, <i>a Genoese gentleman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Paolo Albiani, <i>a goldsmith and the<br>Doge's favourite courtier</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Pietro, <i>a Genoese popular leader<br>and courtier</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Captain of the Crossbowmen\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Amelia's maid\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Soldiers, sailors, people, senators, the Doge's court, prisoners – Chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Simon Boccanegra, a corsair,\nlater the first Doge of Genoa",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Jacopo Fiesco, a Genoese nobleman,\nknown as Andrea Grimaldi",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Maria Boccanegra, his adopted daughter and actual granddaughter,\nknown as Amelia Grimaldi",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gabriele Adorno, a Genoese gentleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Paolo Albiani, a goldsmith and the\nDoge's favourite courtier",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Pietro, a Genoese popular leader\nand courtier",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Captain of the Crossbowmen",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Amelia's maid",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Soldiers, sailors, people, senators, the Doge's court, prisoners – Chorus",
+      "voiceType": ""
+    }
+  ]
+}

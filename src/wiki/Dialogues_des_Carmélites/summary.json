@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Dialogues of the Carmelites",
+  "displaytitle": "<i>Dialogues of the Carmelites</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1208527",
+  "titles": {
+    "canonical": "Dialogues_of_the_Carmelites",
+    "normalized": "Dialogues of the Carmelites",
+    "display": "<i>Dialogues of the Carmelites</i>"
+  },
+  "pageid": 1253275,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elin_Rombo_as_Sister_Blanche_in_Dialogues_of_the_Carmelites_2011.jpg/240px-Elin_Rombo_as_Sister_Blanche_in_Dialogues_of_the_Carmelites_2011.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elin_Rombo_as_Sister_Blanche_in_Dialogues_of_the_Carmelites_2011.jpg",
+    "width": 720,
+    "height": 960
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100413217",
+  "tid": "416f9aa0-0c55-11ed-8435-898bcf7d6841",
+  "timestamp": "2022-07-25T20:06:21Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dialogues_of_the_Carmelites",
+      "revisions": "https://en.wikipedia.org/wiki/Dialogues_of_the_Carmelites?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dialogues_of_the_Carmelites?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dialogues_of_the_Carmelites"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Dialogues_of_the_Carmelites",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dialogues_of_the_Carmelites",
+      "edit": "https://en.m.wikipedia.org/wiki/Dialogues_of_the_Carmelites?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Dialogues_of_the_Carmelites"
+    }
+  },
+  "extract": "Dialogues des Carmélites is an opera in three acts, divided into twelve scenes with linking orchestral interludes, with music and libretto by Francis Poulenc, completed in 1956. The composer's second opera, Poulenc wrote the libretto after the work of the same name by Georges Bernanos. The opera tells a fictionalised version of the story of the Martyrs of Compiègne, Carmelite nuns who, in 1794 during the closing days of the Reign of Terror during the French Revolution, were guillotined in Paris for refusing to renounce their vocation.",
+  "extract_html": "<p><i><b><span><i lang=\"fr\">Dialogues des Carmélites</i></span></b></i> is an opera in three acts, divided into twelve scenes with linking orchestral interludes, with music and libretto by Francis Poulenc, completed in 1956. The composer's second opera, Poulenc wrote the libretto after the work of the same name by Georges Bernanos. The opera tells a fictionalised version of the story of the Martyrs of Compiègne, Carmelite nuns who, in 1794 during the closing days of the Reign of Terror during the French Revolution, were guillotined in Paris for refusing to renounce their vocation.</p>"
+}

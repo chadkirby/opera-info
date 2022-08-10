@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast: Otello,<br>Desdemona,<br>Iago,<br>Rodrigo\n</th>\n<th>Conductor,<br>Opera house and orchestra\n</th>\n<th>Label<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup>\n</th></tr>\n<tr>\n<td>1978\n</td>\n<td><a href=\"/wiki/Jos%C3%A9_Carreras\" title=\"José Carreras\">José Carreras</a>,<br><a href=\"/wiki/Frederica_von_Stade\" title=\"Frederica von Stade\">Frederica von Stade</a>,<br>Gianfranco Pastine,<br><a href=\"/wiki/Salvatore_Fisichella\" title=\"Salvatore Fisichella\">Salvatore Fisichella</a>\n</td>\n\n<td>CD: <a href=\"/wiki/Philips\" title=\"Philips\">Philips</a><br>Cat: 432 456-2<br>For details, see <a href=\"/wiki/Otello_(L%C3%B3pez_Cobos_recording)\" title=\"Otello (López Cobos recording)\">here</a>\n</td></tr>\n<tr>\n<td>1988\n</td>\n<td><a href=\"/wiki/Chris_Merritt\" title=\"Chris Merritt\">Chris Merritt</a>, <br><a href=\"/wiki/June_Anderson\" title=\"June Anderson\">June Anderson</a>,<br>Ezio Di Cesare,<br><a href=\"/wiki/Rockwell_Blake\" title=\"Rockwell Blake\">Rockwell Blake</a>\n</td>\n\n<td>DVD: Encore<br>DVD 2223\n</td></tr>\n<tr>\n<td>1999\n</td>\n<td><a href=\"/wiki/Bruce_Ford_(tenor)\" title=\"Bruce Ford (tenor)\">Bruce Ford</a>,<br><a href=\"/wiki/Elizabeth_Futral\" title=\"Elizabeth Futral\">Elizabeth Futral</a>,<br>Juan José Lopera,<br><a href=\"/wiki/William_Matteuzzi\" title=\"William Matteuzzi\">William Matteuzzi</a>\n</td>\n\n<td>CD: <a href=\"/wiki/Opera_Rara\" title=\"Opera Rara\">Opera Rara</a><br>Cat: ORC 18\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td><a href=\"/wiki/Michael_Spyres\" title=\"Michael Spyres\">Michael Spyres</a>,<br><a href=\"/wiki/Jessica_Pratt_(soprano)\" title=\"Jessica Pratt (soprano)\">Jessica Pratt</a>,<br>Giorgio Trucco,<br>Filippo Adami\n</td>\n\n<td>CD: <a href=\"/wiki/Naxos_Records\" class=\"mw-redirect\" title=\"Naxos Records\">Naxos Records</a>,<br>Cat: 8.660275-76\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td><a href=\"/wiki/John_Osborn_(tenor)\" title=\"John Osborn (tenor)\">John Osborn</a>,<br><a href=\"/wiki/Cecilia_Bartoli\" title=\"Cecilia Bartoli\">Cecilia Bartoli</a>,<br>Edgardo Rocha,<br><a href=\"/wiki/Javier_Camarena\" title=\"Javier Camarena\">Javier Camarena</a>\n</td>\n\n<td>Blu-ray Disc: <a href=\"/wiki/Decca_Records\" title=\"Decca Records\">Decca</a>,<br>Cat: 074 3865\n</td></tr>\n<tr>\n<td>2015\n</td>\n<td><a href=\"/wiki/Gregory_Kunde\" title=\"Gregory Kunde\">Gregory Kunde</a>,<br>Carmen Romeu,<br>Robert McPherson,<br><a href=\"/wiki/Maxim_Mironov\" title=\"Maxim Mironov\">Maxim Mironov</a>\n</td>\n\n<td>CD:Dynamic<br> Cat:CDS7711\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1978,
+      "cast": [
+        "José Carreras",
+        "Frederica von Stade",
+        "Gianfranco Pastine",
+        "Salvatore Fisichella"
+      ],
+      "conductor": "Jesús López Cobos"
+    },
+    {
+      "year": 1988,
+      "cast": [
+        "Chris Merritt, ",
+        "June Anderson",
+        "Ezio Di Cesare",
+        "Rockwell Blake"
+      ],
+      "conductor": "John Pritchard"
+    },
+    {
+      "year": 1999,
+      "cast": [
+        "Bruce Ford",
+        "Elizabeth Futral",
+        "Juan José Lopera",
+        "William Matteuzzi"
+      ],
+      "conductor": "David Parry"
+    },
+    {
+      "year": 2008,
+      "cast": [
+        "Michael Spyres",
+        "Jessica Pratt",
+        "Giorgio Trucco",
+        "Filippo Adami"
+      ],
+      "conductor": "Antonino Fogliani"
+    },
+    {
+      "year": 2012,
+      "cast": [
+        "John Osborn",
+        "Cecilia Bartoli",
+        "Edgardo Rocha",
+        "Javier Camarena"
+      ],
+      "conductor": "Muhai Tang"
+    },
+    {
+      "year": 2015,
+      "cast": [
+        "Gregory Kunde",
+        "Carmen Romeu",
+        "Robert McPherson",
+        "Maxim Mironov"
+      ],
+      "conductor": "Alberto Zedda"
+    }
+  ]
+}

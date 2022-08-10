@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, July 12, 1946<br>(Conductor: <a href=\"/wiki/Ernest_Ansermet\" title=\"Ernest Ansermet\">Ernest Ansermet</a>)\n</th></tr>\n<tr>\n<td>Male Chorus\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Female Chorus\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Lucius_Tarquinius_Collatinus\" title=\"Lucius Tarquinius Collatinus\">Collatinus</a>, <i>a Roman general </i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Junius, <i>a Roman general </i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Sextus_Tarquinius\" title=\"Sextus Tarquinius\">Tarquinius</a>, <i>prince of Rome</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Lucretia\" title=\"Lucretia\">Lucretia</a>, <i>wife of Collatinus  </i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Bianca, <i>Lucretia's old nurse</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Lucia, <i>a maid </i>\n</td>\n<td>soprano\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Male Chorus",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Female Chorus",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Collatinus, a Roman general",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Junius, a Roman general",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Tarquinius, prince of Rome",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Lucretia, wife of Collatinus",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Bianca, Lucretia's old nurse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Lucia, a maid",
+      "voiceType": "soprano"
+    }
+  ]
+}

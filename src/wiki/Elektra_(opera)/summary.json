@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Elektra (opera)",
+  "displaytitle": "<i>Elektra</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q731927",
+  "titles": {
+    "canonical": "Elektra_(opera)",
+    "normalized": "Elektra (opera)",
+    "display": "<i>Elektra</i> (opera)"
+  },
+  "pageid": 410550,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Richard_Strauss_-_Elektra_-_titlepage_of_the_libretto_-_drawing_by_Lovis_Corinth_-_1909.png/221px-Richard_Strauss_-_Elektra_-_titlepage_of_the_libretto_-_drawing_by_Lovis_Corinth_-_1909.png",
+    "width": 221,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Richard_Strauss_-_Elektra_-_titlepage_of_the_libretto_-_drawing_by_Lovis_Corinth_-_1909.png",
+    "width": 2140,
+    "height": 3096
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088899915",
+  "tid": "d10a4fa0-15f8-11ed-b855-a5e3f93ff5d1",
+  "timestamp": "2022-05-20T18:39:59Z",
+  "description": "1909 opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Elektra_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Elektra_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Elektra_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elektra_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Elektra_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Elektra_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Elektra_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Elektra_(opera)"
+    }
+  },
+  "extract": "Elektra, Op. 58, is a one-act opera by Richard Strauss, to a German-language libretto by Hugo von Hofmannsthal, which he adapted from his 1903 drama Elektra. The opera was the first of many collaborations between Strauss and Hofmannsthal. It was first performed at the Königliches Opernhaus in Dresden on 25 January 1909. It was dedicated to his friends Natalie and Willy Levin.",
+  "extract_html": "<p><i><b>Elektra</b></i>, Op. 58, is a one-act opera by Richard Strauss, to a German-language libretto by Hugo von Hofmannsthal, which he adapted from his 1903 drama <i>Elektra</i>. The opera was the first of many collaborations between Strauss and Hofmannsthal. It was first performed at the Königliches Opernhaus in Dresden on 25 January 1909. It was dedicated to his friends Natalie and Willy Levin.</p>"
+}

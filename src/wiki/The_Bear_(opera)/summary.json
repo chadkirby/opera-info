@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Bear (opera)",
+  "displaytitle": "<i>The Bear</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3519899",
+  "titles": {
+    "canonical": "The_Bear_(opera)",
+    "normalized": "The Bear (opera)",
+    "display": "<i>The Bear</i> (opera)"
+  },
+  "pageid": 9017460,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sir_William_Turner_Walton.jpg/241px-Sir_William_Turner_Walton.jpg",
+    "width": 241,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sir_William_Turner_Walton.jpg",
+    "width": 602,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083528481",
+  "tid": "4e1c4620-0f8b-11ed-ad44-f9905dfedf7d",
+  "timestamp": "2022-04-19T08:24:51Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Bear_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Bear_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Bear_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Bear_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Bear_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Bear_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Bear_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Bear_(opera)"
+    }
+  },
+  "extract": "The Bear is the second of the two operas by William Walton, described in publication as an \"Extravaganza in One Act\". The libretto was written by Paul Dehn and Walton, based on the play of the same title by Anton Chekhov.",
+  "extract_html": "<p><i><b>The Bear</b></i> is the second of the two operas by William Walton, described in publication as an \"Extravaganza in One Act\". The libretto was written by Paul Dehn and Walton, based on the play of the same title by Anton Chekhov.</p>"
+}

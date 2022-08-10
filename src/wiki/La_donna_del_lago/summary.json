@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La donna del lago",
+  "displaytitle": "<i>La donna del lago</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q220699",
+  "titles": {
+    "canonical": "La_donna_del_lago",
+    "normalized": "La donna del lago",
+    "display": "<i>La donna del lago</i>"
+  },
+  "pageid": 9016907,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/262px-Rossini-portrait-0.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rossini-portrait-0.jpg",
+    "width": 840,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731455",
+  "tid": "ec1031c0-0063-11ed-badf-8b1b4b7a49e4",
+  "timestamp": "2022-05-02T04:12:09Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_donna_del_lago",
+      "revisions": "https://en.wikipedia.org/wiki/La_donna_del_lago?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_donna_del_lago?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_donna_del_lago"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_donna_del_lago",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_donna_del_lago",
+      "edit": "https://en.m.wikipedia.org/wiki/La_donna_del_lago?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_donna_del_lago"
+    }
+  },
+  "extract": "La donna del lago is an opera composed by Gioachino Rossini with a libretto by Andrea Leone Tottola based on the French translation of The Lady of the Lake, a narrative poem written in 1810 by Sir Walter Scott, whose work continued to popularize the image of the romantic Scottish Highlands. Scott's basic story has been noted as coming from \"the hint of an incident stemming from the frequent custom of James V, the King of Scotland, of walking through the kingdom in disguise\".",
+  "extract_html": "<p><i><b>La donna del lago</b></i> is an opera composed by Gioachino Rossini with a libretto by Andrea Leone Tottola based on the French translation of <i>The Lady of the Lake</i>, a narrative poem written in 1810 by Sir Walter Scott, whose work continued to popularize the image of the romantic Scottish Highlands. Scott's basic story has been noted as coming from \"the hint of an incident stemming from the frequent custom of James V, the King of Scotland, of walking through the kingdom in disguise\".</p>"
+}

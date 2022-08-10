@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Luigi Cherubini",
+  "displaytitle": "Luigi Cherubini",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q20721",
+  "titles": {
+    "canonical": "Luigi_Cherubini",
+    "normalized": "Luigi Cherubini",
+    "display": "Luigi Cherubini"
+  },
+  "pageid": 357363,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_of_Cherubini.jpg/232px-Portrait_of_Cherubini.jpg",
+    "width": 232,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Portrait_of_Cherubini.jpg",
+    "width": 427,
+    "height": 588
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100137349",
+  "tid": "06d73540-1544-11ed-b09d-bbe6e3e79c84",
+  "timestamp": "2022-07-24T10:53:51Z",
+  "description": "Italian Classical and Romantic composer (1760–1842)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Luigi_Cherubini",
+      "revisions": "https://en.wikipedia.org/wiki/Luigi_Cherubini?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Luigi_Cherubini?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Luigi_Cherubini"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Luigi_Cherubini",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Luigi_Cherubini",
+      "edit": "https://en.m.wikipedia.org/wiki/Luigi_Cherubini?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Luigi_Cherubini"
+    }
+  },
+  "extract": "Luigi Cherubini was an Italian Classical and Romantic composer. His most significant compositions are operas and sacred music. Beethoven regarded Cherubini as the greatest of his contemporaries. His operas were heavily praised and interpreted by Rossini.",
+  "extract_html": "<p><b>Luigi Cherubini</b> was an Italian Classical and Romantic composer. His most significant compositions are operas and sacred music. Beethoven regarded Cherubini as the greatest of his contemporaries. His operas were heavily praised and interpreted by Rossini.</p>"
+}

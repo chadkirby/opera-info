@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "I Lombardi alla prima crociata",
+  "displaytitle": "<i>I Lombardi alla prima crociata</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q468625",
+  "titles": {
+    "canonical": "I_Lombardi_alla_prima_crociata",
+    "normalized": "I Lombardi alla prima crociata",
+    "display": "<i>I Lombardi alla prima crociata</i>"
+  },
+  "pageid": 1941663,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lombardi_Partenza.jpg/218px-Lombardi_Partenza.jpg",
+    "width": 218,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Lombardi_Partenza.jpg",
+    "width": 524,
+    "height": 770
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092939572",
+  "tid": "34118840-f9af-11ec-ab0a-b98d14d6bac7",
+  "timestamp": "2022-06-13T15:20:24Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/I_Lombardi_alla_prima_crociata",
+      "revisions": "https://en.wikipedia.org/wiki/I_Lombardi_alla_prima_crociata?action=history",
+      "edit": "https://en.wikipedia.org/wiki/I_Lombardi_alla_prima_crociata?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:I_Lombardi_alla_prima_crociata"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/I_Lombardi_alla_prima_crociata",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/I_Lombardi_alla_prima_crociata",
+      "edit": "https://en.m.wikipedia.org/wiki/I_Lombardi_alla_prima_crociata?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:I_Lombardi_alla_prima_crociata"
+    }
+  },
+  "extract": "I Lombardi alla Prima Crociata is an operatic dramma lirico in four acts by Giuseppe Verdi to an Italian libretto by Temistocle Solera, based on an epic poem by Tommaso Grossi, which was \"very much a child of its age; a grand historical novel with a patriotic slant\". Its first performance was given at the Teatro alla Scala in Milan on 11 February 1843. Verdi dedicated the score to Maria Luigia, the Habsburg Duchess of Parma, who died a few weeks after the premiere. In 1847, the opera was significantly revised to become Verdi's first grand opera for performances in France at the Salle Le Peletier of the Paris Opera under the title of Jérusalem.",
+  "extract_html": "<p><i><b>I Lombardi alla Prima Crociata</b></i> is an operatic <i>dramma lirico</i> in four acts by Giuseppe Verdi to an Italian libretto by Temistocle Solera, based on an epic poem by Tommaso Grossi, which was \"very much a child of its age; a grand historical novel with a patriotic slant\". Its first performance was given at the Teatro alla Scala in Milan on 11 February 1843. Verdi dedicated the score to Maria Luigia, the Habsburg Duchess of Parma, who died a few weeks after the premiere. In 1847, the opera was significantly revised to become Verdi's first grand opera for performances in France at the Salle Le Peletier of the Paris Opera under the title of <i>Jérusalem</i>.</p>"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Johann Christoph Pepusch",
+  "displaytitle": "Johann Christoph Pepusch",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q371825",
+  "titles": {
+    "canonical": "Johann_Christoph_Pepusch",
+    "normalized": "Johann Christoph Pepusch",
+    "display": "Johann Christoph Pepusch"
+  },
+  "pageid": 162325,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/John_Christopher_Pepusch_by_Thomas_Hudson.jpg/258px-John_Christopher_Pepusch_by_Thomas_Hudson.jpg",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/John_Christopher_Pepusch_by_Thomas_Hudson.jpg",
+    "width": 2400,
+    "height": 2974
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092526728",
+  "tid": "6f989b80-137f-11ed-aed3-f9f6eaf02e44",
+  "timestamp": "2022-06-10T20:53:28Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Johann_Christoph_Pepusch",
+      "revisions": "https://en.wikipedia.org/wiki/Johann_Christoph_Pepusch?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Johann_Christoph_Pepusch?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Johann_Christoph_Pepusch"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Johann_Christoph_Pepusch",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Johann_Christoph_Pepusch",
+      "edit": "https://en.m.wikipedia.org/wiki/Johann_Christoph_Pepusch?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Johann_Christoph_Pepusch"
+    }
+  },
+  "extract": "Johann Christoph Pepusch (born Berlin, 1667, died London, 20 July 1752, also known as John Christopher Pepusch and Dr Pepusch, was a German-born composer who spent most of his working life in England. He was born son of a vicar, and was married to Margherita de l'Epine who also performed in some of his theatrical productions.",
+  "extract_html": "<p><b>Johann Christoph Pepusch</b> (born Berlin, 1667, died London, 20 July 1752, also known as <b>John Christopher Pepusch</b> and <b>Dr Pepusch</b>, was a German-born composer who spent most of his working life in England. He was born son of a vicar, and was married to Margherita de l'Epine who also performed in some of his theatrical productions.</p>"
+}

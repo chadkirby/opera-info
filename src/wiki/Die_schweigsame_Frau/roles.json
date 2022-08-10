@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th bgcolor=\"ececec\">Role\n</th>\n<th bgcolor=\"ececec\">Voice type\n</th>\n<th bgcolor=\"ececec\">Premiere, 24 June 1935<br>(Conductor: <a href=\"/wiki/Karl_B%C3%B6hm\" title=\"Karl Böhm\">Karl Böhm</a>)\n</th></tr>\n<tr>\n<td>Sir Morosus, <i>a retired admiral</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Widow Zimmerlein, <i>his housekeeper</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Schneidebart, <i>a barber</i>\n</td>\n<td>high <a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Henry Morosus, <i>nephew of the admiral</i>\n</td>\n<td>high <a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Aminta, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Coloratura\" title=\"Coloratura\">coloratura</a> <a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Isotta, <i>opera singer</i>\n</td>\n<td>coloratura soprano\n</td>\n</tr>\n<tr>\n<td>Carlotta, <i>opera singer</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Morbio, <i>opera singer</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Vanuzzi, <i>opera singer</i>\n</td>\n<td>deep bass\n</td>\n</tr>\n<tr>\n<td>Farfallo, <i>opera singer</i>\n</td>\n<td>deep bass\n</td>\n</tr>\n<tr>\n<td>The parrot\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Other actors, neighbors</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Sir Morosus, a retired admiral",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Widow Zimmerlein, his housekeeper",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Schneidebart, a barber",
+      "voiceType": "high baritone"
+    },
+    {
+      "role": "Henry Morosus, nephew of the admiral",
+      "voiceType": "high tenor"
+    },
+    {
+      "role": "Aminta, his wife",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Isotta, opera singer",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Carlotta, opera singer",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Morbio, opera singer",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Vanuzzi, opera singer",
+      "voiceType": "deep bass"
+    },
+    {
+      "role": "Farfallo, opera singer",
+      "voiceType": "deep bass"
+    },
+    {
+      "role": "The parrot",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Other actors, neighbors",
+      "voiceType": ""
+    }
+  ]
+}

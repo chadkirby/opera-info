@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Intermezzo (opera)",
+  "displaytitle": "<i>Intermezzo</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1474467",
+  "titles": {
+    "canonical": "Intermezzo_(opera)",
+    "normalized": "Intermezzo (opera)",
+    "display": "<i>Intermezzo</i> (opera)"
+  },
+  "pageid": 5607460,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg/226px-Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 226,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 535,
+    "height": 756
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1068555559",
+  "tid": "15014280-1839-11ed-8384-4b0f2fe02155",
+  "timestamp": "2022-01-29T02:55:49Z",
+  "description": "Opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Intermezzo_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Intermezzo_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Intermezzo_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Intermezzo_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Intermezzo_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Intermezzo_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Intermezzo_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Intermezzo_(opera)"
+    }
+  },
+  "extract": "Intermezzo, Op. 72, is a comic opera in two acts by Richard Strauss to his own German libretto, described as a Bürgerliche Komödie mit sinfonischen Zwischenspielen. It premiered at the Dresden Semperoper on 4 November 1924, with sets that reproduced Strauss' home in Garmisch. The first Vienna performance was in January 1927.",
+  "extract_html": "<p><i><b>Intermezzo</b></i>, Op. 72, is a comic opera in two acts by Richard Strauss to his own German libretto, described as a <i><span><i lang=\"de\">Bürgerliche Komödie mit sinfonischen Zwischenspielen</i></span></i>. It premiered at the Dresden Semperoper on 4 November 1924, with sets that reproduced Strauss' home in Garmisch. The first Vienna performance was in January 1927.</p>"
+}

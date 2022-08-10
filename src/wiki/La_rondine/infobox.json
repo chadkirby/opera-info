@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">La rondine</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Giacomo_Puccini\" title=\"Giacomo Puccini\">Giacomo Puccini</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:La_rondine.jpg\" class=\"image\"><img alt=\"La rondine.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/99/La_rondine.jpg/220px-La_rondine.jpg\" decoding=\"async\" width=\"220\" height=\"316\" srcset=\"//upload.wikimedia.org/wikipedia/commons/9/99/La_rondine.jpg 1.5x\" data-file-width=\"224\" data-file-height=\"322\"></a><div class=\"infobox-caption\">Poster of a 1917 production in Bologna</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Giuseppe_Adami\" title=\"Giuseppe Adami\">Giuseppe Adami</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">27&nbsp;March&nbsp;1917<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1917-03-27</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Op%C3%A9ra_de_Monte-Carlo\" title=\"Opéra de Monte-Carlo\">Grand Théâtre de Monte Carlo</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "La rondine"
+  ],
+  "Librettist": "Giuseppe Adami",
+  "Language": "Italian",
+  "Premiere": "27 March 1917\nGrand Théâtre de Monte Carlo"
+}

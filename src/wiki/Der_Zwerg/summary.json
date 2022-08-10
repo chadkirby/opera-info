@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Der Zwerg",
+  "displaytitle": "<i>Der Zwerg</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1198242",
+  "titles": {
+    "canonical": "Der_Zwerg",
+    "normalized": "Der Zwerg",
+    "display": "<i>Der Zwerg</i>"
+  },
+  "pageid": 4203186,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zemlinsky.jpg/263px-Zemlinsky.jpg",
+    "width": 263,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Zemlinsky.jpg",
+    "width": 575,
+    "height": 700
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102712628",
+  "tid": "d1dba960-15f8-11ed-a4b4-995572b74c9a",
+  "timestamp": "2022-08-06T13:48:21Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Zwerg",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Zwerg?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Zwerg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Zwerg"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Zwerg",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Zwerg",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Zwerg?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Zwerg"
+    }
+  },
+  "extract": "OR",
+  "extract_html": "<p>OR</p>"
+}

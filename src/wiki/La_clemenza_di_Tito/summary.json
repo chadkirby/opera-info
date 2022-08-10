@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La clemenza di Tito",
+  "displaytitle": "<i>La clemenza di Tito</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q578526",
+  "titles": {
+    "canonical": "La_clemenza_di_Tito",
+    "normalized": "La clemenza di Tito",
+    "display": "<i>La clemenza di Tito</i>"
+  },
+  "pageid": 615652,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mozart_drawing_Doris_Stock_1789.jpg/286px-Mozart_drawing_Doris_Stock_1789.jpg",
+    "width": 286,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mozart_drawing_Doris_Stock_1789.jpg",
+    "width": 499,
+    "height": 558
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086132823",
+  "tid": "d13ad580-15f8-11ed-b5bd-ed0d5028e9eb",
+  "timestamp": "2022-05-04T10:23:21Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_clemenza_di_Tito",
+      "revisions": "https://en.wikipedia.org/wiki/La_clemenza_di_Tito?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_clemenza_di_Tito?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_clemenza_di_Tito"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_clemenza_di_Tito",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_clemenza_di_Tito",
+      "edit": "https://en.m.wikipedia.org/wiki/La_clemenza_di_Tito?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_clemenza_di_Tito"
+    }
+  },
+  "extract": "La clemenza di Tito, K. 621, is an opera seria in two acts composed by Wolfgang Amadeus Mozart to an Italian libretto by Caterino Mazzolà, after Pietro Metastasio. It was started after most of Die Zauberflöte, the last of Mozart's principal operas, had already been written. The work premiered on 6 September 1791 at the Estates Theatre in Prague.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">La clemenza di Tito</i></span></b></i>, K. 621, is an <i>opera seria</i> in two acts composed by Wolfgang Amadeus Mozart to an Italian libretto by Caterino Mazzolà, after Pietro Metastasio. It was started after most of <i><span><i lang=\"de\">Die Zauberflöte</i></span></i>, the last of Mozart's principal operas, had already been written. The work premiered on 6 September 1791 at the Estates Theatre in Prague.</p>"
+}

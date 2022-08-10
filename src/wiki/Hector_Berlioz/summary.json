@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hector Berlioz",
+  "displaytitle": "Hector Berlioz",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1151",
+  "titles": {
+    "canonical": "Hector_Berlioz",
+    "normalized": "Hector Berlioz",
+    "display": "Hector Berlioz"
+  },
+  "pageid": 53424,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Hector-Berlioz-1845.png/236px-Hector-Berlioz-1845.png",
+    "width": 236,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/fd/Hector-Berlioz-1845.png",
+    "width": 674,
+    "height": 914
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101222373",
+  "tid": "074f4b70-1544-11ed-9c47-9d6b97192bd9",
+  "timestamp": "2022-07-29T22:30:41Z",
+  "description": "French composer and conductor (1803–1869)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hector_Berlioz",
+      "revisions": "https://en.wikipedia.org/wiki/Hector_Berlioz?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hector_Berlioz?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hector_Berlioz"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hector_Berlioz",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hector_Berlioz",
+      "edit": "https://en.m.wikipedia.org/wiki/Hector_Berlioz?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hector_Berlioz"
+    }
+  },
+  "extract": "Louis-Hector Berlioz was a French Romantic composer and conductor. His output includes orchestral works such as the Symphonie fantastique and Harold in Italy, choral pieces including the Requiem and L'Enfance du Christ, his three operas Benvenuto Cellini, Les Troyens and Béatrice et Bénédict, and works of hybrid genres such as the \"dramatic symphony\" Roméo et Juliette and the \"dramatic legend\" La Damnation de Faust.",
+  "extract_html": "<p><b>Louis-Hector Berlioz</b> was a French Romantic composer and conductor. His output includes orchestral works such as the <i>Symphonie fantastique</i> and <i>Harold in Italy</i>, choral pieces including the Requiem and <i>L'Enfance du Christ</i>, his three operas <i>Benvenuto Cellini</i>, <i>Les Troyens</i> and <i>Béatrice et Bénédict</i>, and works of hybrid genres such as the \"dramatic symphony\" <i>Roméo et Juliette</i> and the \"dramatic legend\" <i>La Damnation de Faust</i>.</p>"
+}

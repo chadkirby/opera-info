@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La Gioconda (opera)",
+  "displaytitle": "<i>La Gioconda</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q748840",
+  "titles": {
+    "canonical": "La_Gioconda_(opera)",
+    "normalized": "La Gioconda (opera)",
+    "display": "<i>La Gioconda</i> (opera)"
+  },
+  "pageid": 1924249,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/PonchielliGioconda.jpg",
+    "width": 200,
+    "height": 299
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/PonchielliGioconda.jpg",
+    "width": 200,
+    "height": 299
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1065075118",
+  "tid": "de2ce350-fde3-11ec-badf-8b1b4b7a49e4",
+  "timestamp": "2022-01-11T17:56:34Z",
+  "description": "Dramma lirico in four acts by Amilcare Ponchielli",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_Gioconda_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/La_Gioconda_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_Gioconda_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_Gioconda_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_Gioconda_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_Gioconda_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/La_Gioconda_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_Gioconda_(opera)"
+    }
+  },
+  "extract": "La Gioconda is an opera in four acts by Amilcare Ponchielli set to an Italian libretto by Arrigo Boito, based on Angelo, Tyrant of Padua, a 1835 play in prose by Victor Hugo.",
+  "extract_html": "<p><i><b>La Gioconda</b></i> is an opera in four acts by Amilcare Ponchielli set to an Italian libretto by Arrigo Boito, based on <i>Angelo, Tyrant of Padua</i>, a 1835 play in prose by Victor Hugo.</p>"
+}

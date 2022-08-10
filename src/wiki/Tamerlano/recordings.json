@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1015390333\"><span class=\"sr-only\"><i>Tanerlano</i> discography, audio recordings</span>\n</caption>\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Tamerlano, Bajazet, <br>Asteria, Andronico,<br>Irene, Leone\n</th>\n<th>Conductor,<br>orchestra\n</th>\n<th>Label<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup><sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup>\n</th></tr>\n<tr>\n<td>1970\n</td>\n<td><a href=\"/wiki/Gwendolyn_Killebrew\" title=\"Gwendolyn Killebrew\">Gwendolyn Killebrew</a>,<br><a href=\"/wiki/Alexander_Young_(tenor)\" title=\"Alexander Young (tenor)\">Alexander Young</a>,<br>Carole Bogard,<br>Sophia Steffan,<br><a href=\"/wiki/Joanna_Simon_(singer)\" class=\"mw-redirect\" title=\"Joanna Simon (singer)\">Joanna Simon</a>,<br>Marius Rintzler\n</td>\n\n<td>CD:Parnassus<br>Cat:PACD96038/40\n</td></tr>\n<tr>\n<td>1984</td>\n<td><a href=\"/wiki/Henri_Ledroit\" title=\"Henri Ledroit\">Henri Ledroit</a>,<br>John Elwes,<br>Mieke van der Sluis,<br><a href=\"/wiki/Ren%C3%A9_Jacobs\" title=\"René Jacobs\">René Jacobs</a>,<br><a href=\"/wiki/Isabelle_Poulenard\" title=\"Isabelle Poulenard\">Isabelle Poulenard</a>,<br>Gregory Reinhart\n</td>\n\n<td>CD:The Sony Opera House<br>Cat: 88697527252\n</td></tr>\n<tr>\n<td>1985</td>\n<td><a href=\"/wiki/Derek_Lee_Ragin\" title=\"Derek Lee Ragin\">Derek Lee Ragin</a>,<br>Nigel Robson,<br><a href=\"/wiki/Nancy_Argenta\" title=\"Nancy Argenta\">Nancy Argenta</a>,<br><a href=\"/wiki/Michael_Chance\" title=\"Michael Chance\">Michael Chance</a>,<br>Jane Findlay,<br> René Schirrer\n</td>\n\n<td>CD:Warner Classics<br>Cat:2564698383\n</td></tr>\n<tr>\n<td>2007</td>\n<td>Nicholas Spanos,<br>Tassis Christoyannis,<br>Mata Katsuli,<br>Mary-Ellen Nesi,<br>Irina Karaianni,<br>Petros Magoulas\n</td>\n\n<td>CD:MDG Scene<br>Cat: MDG6091457\n</td></tr>\n<tr>\n<td>2014</td>\n<td><a href=\"/wiki/Xavier_Sabata\" title=\"Xavier Sabata\">Xavier Sabata</a>,<br><a href=\"/wiki/John_Mark_Ainsley\" title=\"John Mark Ainsley\">John Mark Ainsley</a>,<br><a href=\"/wiki/Karina_Gauvin\" title=\"Karina Gauvin\">Karina Gauvin</a>,<br><a href=\"/wiki/Max_Emanuel_Cen%C4%8Di%C4%87\" title=\"Max Emanuel Cenčić\">Max Emanuel Cenčić</a>,<br><a href=\"/wiki/Ruxandra_Donose\" title=\"Ruxandra Donose\">Ruxandra Donose</a>,<br>Pavel Kudinov\n</td>\n\n<td>CD:<a href=\"/wiki/Na%C3%AFve_Records\" title=\"Naïve Records\">Naïve Records</a><br>Cat:<br>V5373\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1970,
+      "cast": [
+        "Gwendolyn Killebrew",
+        "Alexander Young",
+        "Carole Bogard",
+        "Sophia Steffan",
+        "Joanna Simon",
+        "Marius Rintzler"
+      ],
+      "conductor": "John Moriarty"
+    },
+    {
+      "year": 1984,
+      "cast": [
+        "Henri Ledroit",
+        "John Elwes",
+        "Mieke van der Sluis",
+        "René Jacobs",
+        "Isabelle Poulenard",
+        "Gregory Reinhart"
+      ],
+      "conductor": "Jean-Claude Malgoire"
+    },
+    {
+      "year": 1985,
+      "cast": [
+        "Derek Lee Ragin",
+        "Nigel Robson",
+        "Nancy Argenta",
+        "Michael Chance",
+        "Jane Findlay",
+        " René Schirrer"
+      ],
+      "conductor": "John Eliot Gardiner"
+    },
+    {
+      "year": 2007,
+      "cast": [
+        "Nicholas Spanos",
+        "Tassis Christoyannis",
+        "Mata Katsuli",
+        "Mary-Ellen Nesi",
+        "Irina Karaianni",
+        "Petros Magoulas"
+      ],
+      "conductor": "George Petrou"
+    },
+    {
+      "year": 2014,
+      "cast": [
+        "Xavier Sabata",
+        "John Mark Ainsley",
+        "Karina Gauvin",
+        "Max Emanuel Cenčić",
+        "Ruxandra Donose",
+        "Pavel Kudinov"
+      ],
+      "conductor": "Riccardo Minasi"
+    }
+  ]
+}

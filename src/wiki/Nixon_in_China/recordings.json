@@ -1,0 +1,47 @@
+{
+  "html": "<table class=\"wikitable\">\n\n<tbody><tr>\n<th rowspan=\"2\">Year\n</th>\n<th rowspan=\"2\">Details\n</th>\n<th colspan=\"10\">Roles\n</th></tr>\n<tr style=\"line-height:1.2; font-size:smaller\">\n<th align=\"center\">Conductor\n</th>\n<th align=\"center\">Chiang\n</th>\n\n<th align=\"center\">Mao\n</th>\n<th align=\"center\">Chou\n</th>\n<th align=\"center\">Nixon\n</th>\n<th align=\"center\">Kissinger\n</th></tr>\n<tr>\n<td>1987\n</td>\n<td>Filmed Oct. 1987 in Houston for a <a href=\"/wiki/PBS\" title=\"PBS\">PBS</a> <i><a href=\"/wiki/Great_Performances\" title=\"Great Performances\">Great Performances</a></i> broadcast\n</td>\n\n<td>Craney\n</td>\n<td>Page\n</td>\n<td>Duykers\n</td>\n<td>Sylvan\n</td>\n<td>Maddalena\n</td>\n<td>Hammons\n</td></tr>\n<tr>\n<td>1987\n</td>\n<td>Recorded Dec. 1987 in <a href=\"/wiki/RCA_Studio_A\" title=\"RCA Studio A\">RCA Studio A</a>, New York for 3-CD set on <a href=\"/wiki/Nonesuch_Records\" title=\"Nonesuch Records\">Nonesuch</a>\n</td>\n\n<td>Craney\n</td>\n<td>Page\n</td>\n<td>Duykers\n</td>\n<td>Sylvan\n</td>\n<td>Maddalena\n</td>\n<td>Hammons\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td>Recorded live in Denver for 3-CD set on <a href=\"/wiki/Naxos_(company)\" title=\"Naxos (company)\">Naxos</a>\n</td>\n\n<td>Dahl\n</td>\n<td>Kanyova\n</td>\n<td>Heller\n</td>\n<td>Yuan\n</td>\n<td>Orth\n</td>\n<td>Hammons\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td>Filmed in New York for Nonesuch DVD\n</td>\n\n<td>Kim-K\n</td>\n<td>Kelly\n</td>\n<td>Brubaker\n</td>\n<td>Braun\n</td>\n<td>Maddalena\n</td>\n<td>Fink\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td>Filmed in Paris for <a href=\"/wiki/Mezzo_TV\" title=\"Mezzo TV\">Mezzo TV</a>\n</td>\n\n<td>Jo\n</td>\n<td>Anderson-J\n</td>\n<td>Kim-A\n</td>\n<td>Kim-KC\n</td>\n<td>Pomponi\n</td>\n<td>Sidhom\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": null,
+      "cast": [
+        "Chiang"
+      ],
+      "conductor": "Pat"
+    },
+    {
+      "year": 1987,
+      "cast": [
+        "Filmed Oct. 1987 in Houston for a PBS Great Performances broadcast"
+      ],
+      "conductor": "DeMain"
+    },
+    {
+      "year": 1987,
+      "cast": [
+        "Recorded Dec. 1987 in RCA Studio A, New York for 3-CD set on Nonesuch"
+      ],
+      "conductor": "de Waart"
+    },
+    {
+      "year": 2008,
+      "cast": [
+        "Recorded live in Denver for 3-CD set on Naxos"
+      ],
+      "conductor": "Alsop"
+    },
+    {
+      "year": 2011,
+      "cast": [
+        "Filmed in New York for Nonesuch DVD"
+      ],
+      "conductor": "Adams"
+    },
+    {
+      "year": 2012,
+      "cast": [
+        "Filmed in Paris for Mezzo TV"
+      ],
+      "conductor": "Briger"
+    }
+  ]
+}

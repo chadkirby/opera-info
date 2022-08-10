@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Adriana Lecouvreur",
+  "displaytitle": "<i>Adriana Lecouvreur</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q375063",
+  "titles": {
+    "canonical": "Adriana_Lecouvreur",
+    "normalized": "Adriana Lecouvreur",
+    "display": "<i>Adriana Lecouvreur</i>"
+  },
+  "pageid": 1256692,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Aleardo_Villa_-_Adriana_Lecouvreur.jpg/320px-Aleardo_Villa_-_Adriana_Lecouvreur.jpg",
+    "width": 320,
+    "height": 221
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Aleardo_Villa_-_Adriana_Lecouvreur.jpg",
+    "width": 1024,
+    "height": 708
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100084149",
+  "tid": "d0aced60-15f8-11ed-87bb-3147ac53d1ae",
+  "timestamp": "2022-07-24T04:28:28Z",
+  "description": "Italian opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Adriana_Lecouvreur",
+      "revisions": "https://en.wikipedia.org/wiki/Adriana_Lecouvreur?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Adriana_Lecouvreur?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Adriana_Lecouvreur"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Adriana_Lecouvreur",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Adriana_Lecouvreur",
+      "edit": "https://en.m.wikipedia.org/wiki/Adriana_Lecouvreur?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Adriana_Lecouvreur"
+    }
+  },
+  "extract": "Adriana Lecouvreur is an opera in four acts by Francesco Cilea to an Italian libretto by Arturo Colautti, based on the 1849 play Adrienne Lecouvreur by Eugène Scribe and Ernest Legouvé. It was first performed on 6 November 1902 at the Teatro Lirico in Milan.",
+  "extract_html": "<p><i><b>Adriana Lecouvreur</b></i> is an opera in four acts by Francesco Cilea to an Italian libretto by Arturo Colautti, based on the 1849 play <i>Adrienne Lecouvreur</i> by Eugène Scribe and Ernest Legouvé. It was first performed on 6 November 1902 at the Teatro Lirico in Milan.</p>"
+}

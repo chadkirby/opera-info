@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Siegfried (opera)",
+  "displaytitle": "<i>Siegfried</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q333146",
+  "titles": {
+    "canonical": "Siegfried_(opera)",
+    "normalized": "Siegfried (opera)",
+    "display": "<i>Siegfried</i> (opera)"
+  },
+  "pageid": 49511,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Jean_de_Reszke_as_Siegfried_-_F%C3%A9lix_Nadar_%28MetOpera_Database%29.jpg/215px-Jean_de_Reszke_as_Siegfried_-_F%C3%A9lix_Nadar_%28MetOpera_Database%29.jpg",
+    "width": 215,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Jean_de_Reszke_as_Siegfried_-_F%C3%A9lix_Nadar_%28MetOpera_Database%29.jpg",
+    "width": 959,
+    "height": 1429
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102337120",
+  "tid": "01347dd0-1406-11ed-b99a-b593b0076027",
+  "timestamp": "2022-08-04T14:59:11Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Siegfried_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Siegfried_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Siegfried_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Siegfried_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Siegfried_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Siegfried_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Siegfried_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Siegfried_(opera)"
+    }
+  },
+  "extract": "Siegfried, WWV 86C, is the third of the four music dramas that constitute Der Ring des Nibelungen, by Richard Wagner. It premiered at the Bayreuth Festspielhaus on 16 August 1876, as part of the first complete performance of The Ring cycle.",
+  "extract_html": "<p><i><b>Siegfried</b></i>, WWV 86C, is the third of the four music dramas that constitute <i>Der Ring des Nibelungen</i>, by Richard Wagner. It premiered at the Bayreuth Festspielhaus on 16 August 1876, as part of the first complete performance of <i>The Ring</i> cycle.</p>"
+}

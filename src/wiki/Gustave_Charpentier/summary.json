@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gustave Charpentier",
+  "displaytitle": "Gustave Charpentier",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q311663",
+  "titles": {
+    "canonical": "Gustave_Charpentier",
+    "normalized": "Gustave Charpentier",
+    "display": "Gustave Charpentier"
+  },
+  "pageid": 523806,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/1/10/Gustave_charpentier.jpg",
+    "width": 229,
+    "height": 310
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/1/10/Gustave_charpentier.jpg",
+    "width": 229,
+    "height": 310
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101222529",
+  "tid": "396d4af0-0f8e-11ed-af09-df385a638993",
+  "timestamp": "2022-07-29T22:31:41Z",
+  "description": "French composer (1860–1956)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gustave_Charpentier",
+      "revisions": "https://en.wikipedia.org/wiki/Gustave_Charpentier?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gustave_Charpentier?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gustave_Charpentier"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gustave_Charpentier",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gustave_Charpentier",
+      "edit": "https://en.m.wikipedia.org/wiki/Gustave_Charpentier?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gustave_Charpentier"
+    }
+  },
+  "extract": "Gustave Charpentier was a French composer, best known for his opera Louise.",
+  "extract_html": "<p><b>Gustave Charpentier</b> was a French composer, best known for his opera <i>Louise</i>.</p>"
+}

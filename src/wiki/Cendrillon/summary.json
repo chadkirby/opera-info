@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Cendrillon",
+  "displaytitle": "<i>Cendrillon</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1371386",
+  "titles": {
+    "canonical": "Cendrillon",
+    "normalized": "Cendrillon",
+    "display": "<i>Cendrillon</i>"
+  },
+  "pageid": 3633069,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%C3%89mile_Bertrand_-_Jules_Massenet_-_Cendrillon_poster.jpg/240px-%C3%89mile_Bertrand_-_Jules_Massenet_-_Cendrillon_poster.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%89mile_Bertrand_-_Jules_Massenet_-_Cendrillon_poster.jpg",
+    "width": 3261,
+    "height": 4339
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087917383",
+  "tid": "d118ce90-15f8-11ed-bf32-871a8090846c",
+  "timestamp": "2022-05-15T06:41:48Z",
+  "description": "Opera in four acts by Jules Massenet based on Perrault's 1698 version of the Cinderella fairy tale",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cendrillon",
+      "revisions": "https://en.wikipedia.org/wiki/Cendrillon?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cendrillon?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cendrillon"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Cendrillon",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Cendrillon",
+      "edit": "https://en.m.wikipedia.org/wiki/Cendrillon?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Cendrillon"
+    }
+  },
+  "extract": "Cendrillon (Cinderella) is an opera—described as a \"fairy tale\"—in four acts by Jules Massenet to a French libretto by Henri Caïn based on Perrault's 1698 version of the Cinderella fairy tale.",
+  "extract_html": "<p><i><b>Cendrillon</b></i> (<i>Cinderella</i>) is an opera—described as a \"fairy tale\"—in four acts by Jules Massenet to a French libretto by Henri Caïn based on Perrault's 1698 version of the Cinderella fairy tale.</p>"
+}

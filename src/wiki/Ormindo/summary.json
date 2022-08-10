@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Ormindo",
+  "displaytitle": "<i>Ormindo</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3467706",
+  "titles": {
+    "canonical": "Ormindo",
+    "normalized": "Ormindo",
+    "display": "<i>Ormindo</i>"
+  },
+  "pageid": 2037660,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francesco_Cavalli.png/258px-Francesco_Cavalli.png",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Francesco_Cavalli.png",
+    "width": 285,
+    "height": 354
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1050913239",
+  "tid": "c0c29cf0-f9b1-11ec-8b89-19e7e3ff9b85",
+  "timestamp": "2021-10-20T16:30:11Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ormindo",
+      "revisions": "https://en.wikipedia.org/wiki/Ormindo?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ormindo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ormindo"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ormindo",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ormindo",
+      "edit": "https://en.m.wikipedia.org/wiki/Ormindo?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ormindo"
+    }
+  },
+  "extract": "L'Ormindo is an opera in a prologue and three acts by Francesco Cavalli to an original Italian libretto by Giovanni Faustini. The manuscript score is held at the Biblioteca Marciana in Venice, while a copy of the original libretto has been digitized by the Library of Congress. The opera has set numbers with recitative, and is set in Anfa (Casablanca), in the Mauri kingdom of Fessa (Fez).",
+  "extract_html": "<p><i><b>L'Ormindo</b></i> is an opera in a prologue and three acts by Francesco Cavalli to an original Italian libretto by Giovanni Faustini. The manuscript score is held at the Biblioteca Marciana in Venice, while a copy of the original libretto has been digitized by the Library of Congress. The opera has set numbers with recitative, and is set in Anfa (Casablanca), in the Mauri kingdom of Fessa (Fez).</p>"
+}

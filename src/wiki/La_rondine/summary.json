@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La rondine",
+  "displaytitle": "<i>La rondine</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q845556",
+  "titles": {
+    "canonical": "La_rondine",
+    "normalized": "La rondine",
+    "display": "<i>La rondine</i>"
+  },
+  "pageid": 1924460,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/La_rondine.jpg/222px-La_rondine.jpg",
+    "width": 222,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/La_rondine.jpg",
+    "width": 224,
+    "height": 322
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1061585534",
+  "tid": "d0f84500-f9ae-11ec-9d4c-8b707ade7576",
+  "timestamp": "2021-12-22T16:17:58Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_rondine",
+      "revisions": "https://en.wikipedia.org/wiki/La_rondine?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_rondine?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_rondine"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_rondine",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_rondine",
+      "edit": "https://en.m.wikipedia.org/wiki/La_rondine?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_rondine"
+    }
+  },
+  "extract": "La rondine is an opera in three acts by Giacomo Puccini to an Italian libretto by Giuseppe Adami, based on a libretto by Alfred Maria Willner and Heinz Reichert. It was first performed at the Grand Théâtre de Monte Carlo in Monte Carlo on 27 March 1917.",
+  "extract_html": "<p><i><b>La rondine</b></i> is an opera in three acts by Giacomo Puccini to an Italian libretto by Giuseppe Adami, based on a libretto by Alfred Maria Willner and Heinz Reichert. It was first performed at the Grand Théâtre de Monte Carlo in Monte Carlo on 27 March 1917.</p>"
+}

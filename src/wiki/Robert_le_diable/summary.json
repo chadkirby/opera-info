@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Robert le diable",
+  "displaytitle": "Robert le diable",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1071310",
+  "titles": {
+    "canonical": "Robert_le_diable",
+    "normalized": "Robert le diable",
+    "display": "Robert le diable"
+  },
+  "pageid": 3510840,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Pierre-Luc-Charles_Cic%C3%A9ri_-_Eug%C3%A8ne_Cic%C3%A9ri_-_Philippe_Benoist_-_Adolphe_Jean_Baptiste_Bayot_-_D%C3%A9corations_de_th%C3%A9%C3%A2tre%2C_Robert_le_diable%2C_3e_act.jpg/320px-Pierre-Luc-Charles_Cic%C3%A9ri_-_Eug%C3%A8ne_Cic%C3%A9ri_-_Philippe_Benoist_-_Adolphe_Jean_Baptiste_Bayot_-_D%C3%A9corations_de_th%C3%A9%C3%A2tre%2C_Robert_le_diable%2C_3e_act.jpg",
+    "width": 320,
+    "height": 251
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Pierre-Luc-Charles_Cic%C3%A9ri_-_Eug%C3%A8ne_Cic%C3%A9ri_-_Philippe_Benoist_-_Adolphe_Jean_Baptiste_Bayot_-_D%C3%A9corations_de_th%C3%A9%C3%A2tre%2C_Robert_le_diable%2C_3e_act.jpg",
+    "width": 5908,
+    "height": 4640
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101288901",
+  "tid": "d2386f60-15f8-11ed-b465-abc2b95c0dbb",
+  "timestamp": "2022-07-30T07:23:54Z",
+  "description": "1831 opera by Giacomo Meyerbeer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robert_le_diable",
+      "revisions": "https://en.wikipedia.org/wiki/Robert_le_diable?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robert_le_diable?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_le_diable"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Robert_le_diable",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Robert_le_diable",
+      "edit": "https://en.m.wikipedia.org/wiki/Robert_le_diable?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Robert_le_diable"
+    }
+  },
+  "extract": "Robert le diable is an opera in five acts composed by Giacomo Meyerbeer between 1827 and 1831, to a libretto written by Eugène Scribe and Germain Delavigne. Robert le diable is regarded as one of the first grand operas at the Paris Opéra. It has only a superficial connection to the medieval legend of Robert the Devil.",
+  "extract_html": "<p><i><b>Robert le diable</b></i> is an opera in five acts composed by Giacomo Meyerbeer between 1827 and 1831, to a libretto written by Eugène Scribe and Germain Delavigne. <i>Robert le diable</i> is regarded as one of the first grand operas at the Paris Opéra. It has only a superficial connection to the medieval legend of <i>Robert the Devil</i>.</p>"
+}

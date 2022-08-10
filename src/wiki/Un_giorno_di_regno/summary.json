@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Un giorno di regno",
+  "displaytitle": "<i>Un giorno di regno</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q470932",
+  "titles": {
+    "canonical": "Un_giorno_di_regno",
+    "normalized": "Un giorno di regno",
+    "display": "<i>Un giorno di regno</i>"
+  },
+  "pageid": 1941557,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stanis%C5%82aw_Leszczy%C5%84ski_par_Girardet.PNG/233px-Stanis%C5%82aw_Leszczy%C5%84ski_par_Girardet.PNG",
+    "width": 233,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Stanis%C5%82aw_Leszczy%C5%84ski_par_Girardet.PNG",
+    "width": 582,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1077266153",
+  "tid": "33d40a10-f9af-11ec-8a3a-b9bf03a1b051",
+  "timestamp": "2022-03-15T12:24:48Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Un_giorno_di_regno",
+      "revisions": "https://en.wikipedia.org/wiki/Un_giorno_di_regno?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Un_giorno_di_regno?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Un_giorno_di_regno"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Un_giorno_di_regno",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Un_giorno_di_regno",
+      "edit": "https://en.m.wikipedia.org/wiki/Un_giorno_di_regno?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Un_giorno_di_regno"
+    }
+  },
+  "extract": "Un giorno di regno, ossia Il finto Stanislao is an operatic melodramma giocoso in two acts by Giuseppe Verdi to an Italian libretto written in 1818 by Felice Romani.\nOriginally written for the Bohemian composer Adalbert Gyrowetz the libretto was based on the play Le faux Stanislas written by the Frenchman Alexandre-Vincent Pineux Duval in 1808. Un giorno was given its premiere performance at the Teatro alla Scala, Milan on 5 September 1840.",
+  "extract_html": "<p><i><b>Un giorno di regno, ossia Il finto Stanislao</b></i> is an operatic <i>melodramma giocoso</i> in two acts by Giuseppe Verdi to an Italian libretto written in 1818 by Felice Romani.\nOriginally written for the Bohemian composer Adalbert Gyrowetz the libretto was based on the play <i>Le faux Stanislas</i> written by the Frenchman Alexandre-Vincent Pineux Duval in 1808. <i>Un giorno</i> was given its premiere performance at the Teatro alla Scala, Milan on 5 September 1840.</p>"
+}

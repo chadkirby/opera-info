@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Léo Delibes",
+  "displaytitle": "Léo Delibes",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q207951",
+  "titles": {
+    "canonical": "Léo_Delibes",
+    "normalized": "Léo Delibes",
+    "display": "Léo Delibes"
+  },
+  "pageid": 178303,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/L%C3%A9o-Delibes-1875.png/273px-L%C3%A9o-Delibes-1875.png",
+    "width": 273,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/46/L%C3%A9o-Delibes-1875.png",
+    "width": 571,
+    "height": 668
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097877646",
+  "tid": "0810c6b0-1544-11ed-9969-dfdd059987b1",
+  "timestamp": "2022-07-13T03:19:28Z",
+  "description": "French composer (1836–1891)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L%C3%A9o_Delibes",
+      "revisions": "https://en.wikipedia.org/wiki/L%C3%A9o_Delibes?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L%C3%A9o_Delibes?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L%C3%A9o_Delibes"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L%C3%A9o_Delibes",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L%C3%A9o_Delibes",
+      "edit": "https://en.m.wikipedia.org/wiki/L%C3%A9o_Delibes?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L%C3%A9o_Delibes"
+    }
+  },
+  "extract": "Clément Philibert Léo Delibes was a French Romantic composer, best known for his ballets and operas. His works include the ballets Coppélia (1870) and Sylvia (1876) and the opera Lakmé (1883), which includes the well-known \"Flower Duet\".",
+  "extract_html": "<p><b>Clément Philibert Léo Delibes</b> was a French Romantic composer, best known for his ballets and operas. His works include the ballets <i>Coppélia</i> (1870) and <i>Sylvia</i> (1876) and the opera <i>Lakmé</i> (1883), which includes the well-known \"Flower Duet\".</p>"
+}

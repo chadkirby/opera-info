@@ -1,0 +1,97 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 16 June 1973<br>(Conductor: <a href=\"/wiki/Steuart_Bedford\" title=\"Steuart Bedford\">Steuart Bedford</a>)\n</th></tr>\n<tr>\n<td>Gustav von Aschenbach, <i>a novelist</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Traveller/ Elderly fop/ Old gondolier/ Hotel manager/<br>Hotel barber/ Leader of the players/ Voice of Dionysus\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>The Polish mother\n</td>\n<td>(dancer)\n</td>\n</tr>\n<tr>\n<td>Tadzio, <i>her son</i>\n</td>\n<td>(dancer)\n</td>\n</tr>\n<tr>\n<td><i>Her two daughters</i>\n</td>\n<td>(dancers)\n</td>\n</tr>\n<tr>\n<td>Jaschiu, <i>Tadzio's friend</i>\n</td>\n<td>(dancer)\n</td>\n</tr>\n<tr>\n<td>Voice of Apollo\n</td>\n<td><a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a>\n</td>\n</tr>\n<tr>\n<td>Hotel porter\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Boatman\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Hotel waiter\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Russian mother\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Russian father\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>German mother\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Strawberry seller\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A guide\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Lace seller\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Newspaper seller\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Glassmaker\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Strolling player\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Strolling player\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>English clerk\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Nurse-governess\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus – travellers, workers and dancers\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Gustav von Aschenbach, a novelist",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Traveller/ Elderly fop/ Old gondolier/ Hotel manager/\nHotel barber/ Leader of the players/ Voice of Dionysus",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "The Polish mother",
+      "voiceType": "(dancer)"
+    },
+    {
+      "role": "Tadzio, her son",
+      "voiceType": "(dancer)"
+    },
+    {
+      "role": "Her two daughters",
+      "voiceType": "(dancers)"
+    },
+    {
+      "role": "Jaschiu, Tadzio's friend",
+      "voiceType": "(dancer)"
+    },
+    {
+      "role": "Voice of Apollo",
+      "voiceType": "countertenor"
+    },
+    {
+      "role": "Hotel porter",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Boatman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Hotel waiter",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Russian mother",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Russian father",
+      "voiceType": "bass"
+    },
+    {
+      "role": "German mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Strawberry seller",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A guide",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Lace seller",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Newspaper seller",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Glassmaker",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Strolling player",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Strolling player",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "English clerk",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nurse-governess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus – travellers, workers and dancers",
+      "voiceType": ""
+    }
+  ]
+}

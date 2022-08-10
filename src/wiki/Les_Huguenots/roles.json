@@ -1,0 +1,77 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\">[18]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\">[19]</a></sup>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[20]</a></sup> 29&nbsp;February&nbsp;1836<br>(Conductor: <a href=\"/wiki/Fran%C3%A7ois_Habeneck\" title=\"François Habeneck\">François Habeneck</a>)<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\">[21]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Marguerite_de_Valois\" class=\"mw-redirect\" title=\"Marguerite de Valois\">Marguerite de Valois</a>, <i>Queen of <a href=\"/wiki/Navarre\" title=\"Navarre\">Navarre</a></i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Valentine, <i>daughter of Count de Saint-Bris</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Urbain, <i>the Queen's page</i>\n</td>\n<td>soprano<sup id=\"cite_ref-22\" class=\"reference\"><a href=\"#cite_note-22\">[22]</a></sup>\n</td>\n</tr>\n<tr>\n<td>Raoul de Nangis, <i>a Protestant gentleman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Marcel, <i>a Huguenot soldier, Raoul's servant</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Le Comte de Nevers, <i>a <a href=\"/wiki/Catholic_Church\" title=\"Catholic Church\">Catholic</a> gentleman</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Le Comte de Saint-Bris, <i>a Catholic gentleman</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Bois-Rosé, <i>a Huguenot soldier</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Maurevert, <i>a Catholic gentleman</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Tavannes, <i>a Catholic gentleman</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Cossé, <i>a Catholic gentleman</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Thoré, <i>a Catholic gentleman</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>De Retz, <i>a Catholic gentleman</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Méru, <i>a Catholic gentleman</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Léonard, <i>valet of the Comte de Nevers</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Town_crier\" title=\"Town crier\">Town crier</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Two Maids-of-Honor\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>Catholic and Huguenot ladies and gentlemen of the court, soldiers, pages, citizens, and populace; monks, students</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Marguerite de Valois, Queen of Navarre",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Valentine, daughter of Count de Saint-Bris",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Urbain, the Queen's page",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Raoul de Nangis, a Protestant gentleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Marcel, a Huguenot soldier, Raoul's servant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Le Comte de Nevers, a Catholic gentleman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Le Comte de Saint-Bris, a Catholic gentleman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Bois-Rosé, a Huguenot soldier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Maurevert, a Catholic gentleman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Tavannes, a Catholic gentleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Cossé, a Catholic gentleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Thoré, a Catholic gentleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "De Retz, a Catholic gentleman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Méru, a Catholic gentleman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Léonard, valet of the Comte de Nevers",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Town crier",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Two Maids-of-Honor",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus: Catholic and Huguenot ladies and gentlemen of the court, soldiers, pages, citizens, and populace; monks, students",
+      "voiceType": ""
+    }
+  ]
+}

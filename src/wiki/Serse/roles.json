@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 15 April 1738<sup id=\"cite_ref-Hendrix_13-0\" class=\"reference\"><a href=\"#cite_note-Hendrix-13\">[13]</a></sup>\n</th></tr>\n<tr>\n<td>Serse (<a href=\"/wiki/Xerxes_I\" title=\"Xerxes I\">Xerxes</a>), <i>King of Persia</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Arsamene, <i>brother of Serse, in love with Romilda</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Amastre, <i>princess of a neighbouring kingdom, betrothed to Serse but jilted by him</i>\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Romilda, <i>daughter of Ariodate, in love with Arsamene</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Atalanta, <i>Romilda's sister, also in love with Arsamene</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Ariodate, <i>a prince under Serse's command,father of Romilda and Atalanta</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Elviro, <i>Arsamene's servant</i>\n</td>\n<td>baritone\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Serse (Xerxes), King of Persia",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Arsamene, brother of Serse, in love with Romilda",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Amastre, princess of a neighbouring kingdom, betrothed to Serse but jilted by him",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Romilda, daughter of Ariodate, in love with Arsamene",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Atalanta, Romilda's sister, also in love with Arsamene",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ariodate, a prince under Serse's command,father of Romilda and Atalanta",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Elviro, Arsamene's servant",
+      "voiceType": "baritone"
+    }
+  ]
+}

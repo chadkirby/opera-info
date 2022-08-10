@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael Tippett",
+  "displaytitle": "Michael Tippett",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q356499",
+  "titles": {
+    "canonical": "Michael_Tippett",
+    "normalized": "Michael Tippett",
+    "display": "Michael Tippett"
+  },
+  "pageid": 147156,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Tippett_old_age.jpg/238px-Tippett_old_age.jpg",
+    "width": 238,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/42/Tippett_old_age.jpg",
+    "width": 260,
+    "height": 349
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087833203",
+  "tid": "da564d70-178d-11ed-95ea-89d42bec2d61",
+  "timestamp": "2022-05-14T19:58:42Z",
+  "description": "English composer (1905–1998)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Tippett",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_Tippett?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Tippett?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Tippett"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Michael_Tippett",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Michael_Tippett",
+      "edit": "https://en.m.wikipedia.org/wiki/Michael_Tippett?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Michael_Tippett"
+    }
+  },
+  "extract": "Sir Michael Kemp Tippett was an English composer who rose to prominence during and immediately after the Second World War. In his lifetime he was sometimes ranked with his contemporary Benjamin Britten as one of the leading British composers of the 20th century. Among his best-known works are the oratorio A Child of Our Time, the orchestral Fantasia Concertante on a Theme of Corelli, and the opera The Midsummer Marriage.",
+  "extract_html": "<p><b>Sir Michael Kemp Tippett</b> was an English composer who rose to prominence during and immediately after the Second World War. In his lifetime he was sometimes ranked with his contemporary Benjamin Britten as one of the leading British composers of the 20th century. Among his best-known works are the oratorio <i>A Child of Our Time</i>, the orchestral <i>Fantasia Concertante on a Theme of Corelli</i>, and the opera <i>The Midsummer Marriage</i>.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Arabella",
+  "displaytitle": "<i>Arabella</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q390779",
+  "titles": {
+    "canonical": "Arabella",
+    "normalized": "Arabella",
+    "display": "<i>Arabella</i>"
+  },
+  "pageid": 2848920,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg/226px-Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 226,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 535,
+    "height": 756
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085732739",
+  "tid": "9d8d0a80-fb7e-11ec-8a5f-81936df22d36",
+  "timestamp": "2022-05-02T04:23:00Z",
+  "description": "Opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arabella",
+      "revisions": "https://en.wikipedia.org/wiki/Arabella?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arabella?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arabella"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Arabella",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Arabella",
+      "edit": "https://en.m.wikipedia.org/wiki/Arabella?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Arabella"
+    }
+  },
+  "extract": "Arabella, Op. 79, is a lyric comedy, or opera, in three acts by Richard Strauss to a German libretto by Hugo von Hofmannsthal, their sixth and last operatic collaboration.",
+  "extract_html": "<p><i><b>Arabella</b></i>, Op. 79, is a lyric comedy, or opera, in three acts by Richard Strauss to a German libretto by Hugo von Hofmannsthal, their sixth and last operatic collaboration.</p>"
+}

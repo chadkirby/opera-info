@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 5 September 1840<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup><br>(Conductor: <a href=\"/wiki/Eugenio_Cavallini\" title=\"Eugenio Cavallini\">Eugenio Cavallini</a>)\n</th></tr>\n<tr>\n<td>Cavaliere di Belfiore, <i>a French officer <br>impersonating Stanislao of Poland</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Barone di Kelbar, <i>the usurper</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The Marchesa del Poggio, <i>a young widow, <br>the Baron's niece, in love with Belfiore</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Giulietta di Kelbar, <i>the Baron's daughter</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Edoardo di Sanval, <i>a young official, <br>la Rocca's nephew</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>La Rocca, <i>Treasurer to the Estates of <br>Brittany</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Count Ivrea, <i>Commandant of Brest, <br>engaged to the Marchesa</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Delmonte, <i>esquire to the false Stanislao</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Servants, chambermaids, vassals of the Baron</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Cavaliere di Belfiore, a French officer \nimpersonating Stanislao of Poland",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Barone di Kelbar, the usurper",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Marchesa del Poggio, a young widow, \nthe Baron's niece, in love with Belfiore",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Giulietta di Kelbar, the Baron's daughter",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Edoardo di Sanval, a young official, \nla Rocca's nephew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "La Rocca, Treasurer to the Estates of \nBrittany",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Count Ivrea, Commandant of Brest, \nengaged to the Marchesa",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Delmonte, esquire to the false Stanislao",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Servants, chambermaids, vassals of the Baron",
+      "voiceType": ""
+    }
+  ]
+}

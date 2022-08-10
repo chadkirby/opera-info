@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Der junge Lord",
+  "displaytitle": "<i>Der junge Lord</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q634404",
+  "titles": {
+    "canonical": "Der_junge_Lord",
+    "normalized": "Der junge Lord",
+    "display": "<i>Der junge Lord</i>"
+  },
+  "pageid": 5392594,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg/229px-Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 572,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094759424",
+  "tid": "d0466360-15f8-11ed-8a7c-13d36db1ba6e",
+  "timestamp": "2022-06-24T10:28:07Z",
+  "description": "Opera by Hans Werner Henze",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_junge_Lord",
+      "revisions": "https://en.wikipedia.org/wiki/Der_junge_Lord?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_junge_Lord?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_junge_Lord"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_junge_Lord",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_junge_Lord",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_junge_Lord?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_junge_Lord"
+    }
+  },
+  "extract": "Der junge Lord is an opera in two acts by Hans Werner Henze to a German libretto by Ingeborg Bachmann, after Wilhelm Hauff's 1827 fairy tale \"Der Affe als Mensch\" from Der Scheik von Alessandria und seine Sklaven.",
+  "extract_html": "<p><i><b>Der junge Lord</b></i> is an opera in two acts by Hans Werner Henze to a German libretto by Ingeborg Bachmann, after Wilhelm Hauff's 1827 fairy tale \"Der Affe als Mensch\" from <i>Der Scheik von Alessandria und seine Sklaven</i>.</p>"
+}

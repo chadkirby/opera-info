@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Doktor Faust",
+  "displaytitle": "<i>Doktor Faust</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1235069",
+  "titles": {
+    "canonical": "Doktor_Faust",
+    "normalized": "Doktor Faust",
+    "display": "<i>Doktor Faust</i>"
+  },
+  "pageid": 8917891,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ferruccio_Busoni_photographed_in_1916.jpg/264px-Ferruccio_Busoni_photographed_in_1916.jpg",
+    "width": 264,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ferruccio_Busoni_photographed_in_1916.jpg",
+    "width": 500,
+    "height": 607
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098495392",
+  "tid": "67616f80-1881-11ed-9562-377501d82db5",
+  "timestamp": "2022-07-16T03:07:32Z",
+  "description": "Opera by Ferruccio Busoni",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Doktor_Faust",
+      "revisions": "https://en.wikipedia.org/wiki/Doktor_Faust?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Doktor_Faust?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Doktor_Faust"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Doktor_Faust",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Doktor_Faust",
+      "edit": "https://en.m.wikipedia.org/wiki/Doktor_Faust?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Doktor_Faust"
+    }
+  },
+  "extract": "Doktor Faust is an opera by Ferruccio Busoni with a German libretto by the composer, based on the myth of Faust. Busoni worked on the opera, which he intended as his masterpiece, between 1916 and 1924, but it was still incomplete at the time of his death. His pupil Philipp Jarnach finished it. More recently, in 1982, Antony Beaumont completed the opera using sketches by Busoni that were previously thought to have been lost. Nancy Chamness published an analysis of the libretto to Doktor Faust and a comparison with Goethe's version.",
+  "extract_html": "<p><i><b>Doktor Faust</b></i> is an opera by Ferruccio Busoni with a German libretto by the composer, based on the myth of Faust. Busoni worked on the opera, which he intended as his masterpiece, between 1916 and 1924, but it was still incomplete at the time of his death. His pupil Philipp Jarnach finished it. More recently, in 1982, Antony Beaumont completed the opera using sketches by Busoni that were previously thought to have been lost. Nancy Chamness published an analysis of the libretto to <i>Doktor Faust</i> and a comparison with Goethe's version.</p>"
+}

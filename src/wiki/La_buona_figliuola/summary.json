@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La buona figliuola",
+  "displaytitle": "<i>La buona figliuola</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1152704",
+  "titles": {
+    "canonical": "La_buona_figliuola",
+    "normalized": "La buona figliuola",
+    "display": "<i>La buona figliuola</i>"
+  },
+  "pageid": 8968612,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Harvard_Theatre_Collection_-_La_buona_figliuola%2C_2011TW-1007.jpg/235px-Harvard_Theatre_Collection_-_La_buona_figliuola%2C_2011TW-1007.jpg",
+    "width": 235,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Harvard_Theatre_Collection_-_La_buona_figliuola%2C_2011TW-1007.jpg",
+    "width": 1171,
+    "height": 1596
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1033090078",
+  "tid": "d11ec200-15f8-11ed-9582-d3a65c8a0efc",
+  "timestamp": "2021-07-11T14:49:08Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_buona_figliuola",
+      "revisions": "https://en.wikipedia.org/wiki/La_buona_figliuola?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_buona_figliuola?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_buona_figliuola"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_buona_figliuola",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_buona_figliuola",
+      "edit": "https://en.m.wikipedia.org/wiki/La_buona_figliuola?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_buona_figliuola"
+    }
+  },
+  "extract": "La buona figliuola, or La Cecchina, is an opera buffa in three acts by Niccolò Piccinni. The libretto, by Carlo Goldoni, is based on Samuel Richardson's novel Pamela; or, Virtue Rewarded. This was Piccinni's most successful Italian opera. There was a sequel entitled La buona figliuola maritata (1761) by the same composer and librettist. La buona figliuola supposta vedova by Gaetano Latilla followed in 1766.",
+  "extract_html": "<p><i><b>La buona figliuola</b></i>, or <i><b>La Cecchina</b></i>, is an opera buffa in three acts by Niccolò Piccinni. The libretto, by Carlo Goldoni, is based on Samuel Richardson's novel <i>Pamela; or, Virtue Rewarded</i>. This was Piccinni's most successful Italian opera. There was a sequel entitled <i>La buona figliuola maritata</i> (1761) by the same composer and librettist. <i>La buona figliuola supposta vedova</i> by Gaetano Latilla followed in 1766.</p>"
+}

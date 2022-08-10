@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ralph Vaughan Williams",
+  "displaytitle": "Ralph Vaughan Williams",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q207947",
+  "titles": {
+    "canonical": "Ralph_Vaughan_Williams",
+    "normalized": "Ralph Vaughan Williams",
+    "display": "Ralph Vaughan Williams"
+  },
+  "pageid": 79448,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Ralph-Vaughan-Williams-by-Hopp%C3%A9-1921.jpg/251px-Ralph-Vaughan-Williams-by-Hopp%C3%A9-1921.jpg",
+    "width": 251,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/c/c0/Ralph-Vaughan-Williams-by-Hopp%C3%A9-1921.jpg",
+    "width": 700,
+    "height": 892
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096657949",
+  "tid": "719bb180-119d-11ed-90fa-bb22b7935dd3",
+  "timestamp": "2022-07-05T21:39:55Z",
+  "description": "English composer (1872–1958)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams",
+      "revisions": "https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ralph_Vaughan_Williams"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ralph_Vaughan_Williams",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ralph_Vaughan_Williams",
+      "edit": "https://en.m.wikipedia.org/wiki/Ralph_Vaughan_Williams?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ralph_Vaughan_Williams"
+    }
+  },
+  "extract": "Ralph Vaughan Williams, was an English composer. His works include operas, ballets, chamber music, secular and religious vocal pieces and orchestral compositions including nine symphonies, written over sixty years. Strongly influenced by Tudor music and English folk-song, his output marked a decisive break in British music from its German-dominated style of the 19th century.",
+  "extract_html": "<p><b>Ralph Vaughan Williams</b>, was an English composer. His works include operas, ballets, chamber music, secular and religious vocal pieces and orchestral compositions including nine symphonies, written over sixty years. Strongly influenced by Tudor music and English folk-song, his output marked a decisive break in British music from its German-dominated style of the 19th century.</p>"
+}

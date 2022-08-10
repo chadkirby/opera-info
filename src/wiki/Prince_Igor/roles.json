@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>St. Petersburg premiere,<br>4 November (23 October <a href=\"/wiki/Old_Style\" class=\"mw-redirect\" title=\"Old Style\">O.S.</a>) 1890,<br>(Conductor: <a href=\"/w/index.php?title=Karl_Kuchera&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Karl Kuchera (page does not exist)\">Karl Kuchera</a>)\n</th>\n<th>Moscow premiere,<br>1892<br>(Conductor: –)\n</th>\n<th>Bolshoi Theatre, Moscow,<br>1898<br>(Conductor: – )\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Igor_Svyatoslavich\" title=\"Igor Svyatoslavich\">Igor Svyatoslavich</a>, <i>Prince of <a href=\"/wiki/Novgorod-Seversky\" class=\"mw-redirect\" title=\"Novgorod-Seversky\">Novgorod-Seversky</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n\n<td><a href=\"/w/index.php?title=Pavel_Khokhlov&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pavel Khokhlov (page does not exist)\">Pavel Khokhlov</a>\n</td></tr>\n<tr>\n<td>Yaroslavna, <i>his wife by his second marriage</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n\n<td><a href=\"/w/index.php?title=Mariya_Deysha-Sionitskaya&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mariya Deysha-Sionitskaya (page does not exist)\">Mariya Deysha-Sionitskaya</a>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Vladimir_III_Igorevich\" title=\"Vladimir III Igorevich\">Vladimir Igorevich</a>, <i>Igor's son from his first marriage</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n\n<td><a href=\"/wiki/Leonid_Sobinov\" title=\"Leonid Sobinov\">Leonid Sobinov</a>\n</td></tr>\n<tr>\n<td>Galitsky (Vladimir Yaroslavich), <i>Prince of <a href=\"/wiki/Halych\" title=\"Halych\">Galich</a>, brother of Princess Yaroslavna</i>\n</td>\n<td>listed as \"high bass\"\n</td>\n\n\n<td><a href=\"/w/index.php?title=Stepan_Vlasov&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Stepan Vlasov (page does not exist)\">Stepan Vlasov</a>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Konchak\" class=\"mw-redirect\" title=\"Konchak\">Konchak</a>, <i>Polovtsian <a href=\"/wiki/Khan_(title)\" title=\"Khan (title)\">khan</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n\n<td><a href=\"/w/index.php?title=Stepan_Trezvinsky&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Stepan Trezvinsky (page does not exist)\">Stepan Trezvinsky</a>\n</td></tr>\n<tr>\n<td>Gzak, <i>Polovtsian <a href=\"/wiki/Khan_(title)\" title=\"Khan (title)\">khan</a></i>\n</td>\n<td>silent\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td><a href=\"/w/index.php?title=Konchakovna&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Konchakovna (page does not exist)\">Konchakovna</a>, <i>daughter of Khan Konchak</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n\n<td>Azerskaya\n</td></tr>\n<tr>\n<td>Ovlur, <i>a Christian Polovtsian</i>\n</td>\n<td>tenor\n</td>\n\n\n<td>Uspensky\n</td></tr>\n<tr>\n<td>Skula, <i>a <a href=\"/wiki/Gudok\" title=\"Gudok\">gudok</a>-player</i>\n</td>\n<td>bass\n</td>\n\n\n<td><a href=\"/w/index.php?title=Vasiliy_Tyutyunnik&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vasiliy Tyutyunnik (page does not exist)\">Vasiliy Tyutyunnik</a>\n</td></tr>\n<tr>\n<td>Yeroshka, <i>a gudok-player</i>\n</td>\n<td>tenor\n</td>\n\n\n<td><a href=\"/w/index.php?title=Konstantin_Mikhaylov-Stoyan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Konstantin Mikhaylov-Stoyan (page does not exist)\">Konstantin Mikhaylov-Stoyan</a>\n</td></tr>\n<tr>\n<td>Yaroslavna's nurse\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>A Polovtsian maiden\n</td>\n<td>mezzo-soprano\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td colspan=\"5\">Chorus, silent roles: <i>Russian princes and princesses, <a href=\"/wiki/Boyar\" title=\"Boyar\">boyars</a> and boyarynas, elders, Russian warriors, maidens, people, Polovtsian khans, Konchakovna's girlfriends, slaves of Khan Konchak, Russian prisoners, Polovtsian sentries</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Igor Svyatoslavich, Prince of Novgorod-Seversky",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Yaroslavna, his wife by his second marriage",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Vladimir Igorevich, Igor's son from his first marriage",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Galitsky (Vladimir Yaroslavich), Prince of Galich, brother of Princess Yaroslavna",
+      "voiceType": "listed as \"high bass\""
+    },
+    {
+      "role": "Konchak, Polovtsian khan",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Gzak, Polovtsian khan",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Konchakovna, daughter of Khan Konchak",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Ovlur, a Christian Polovtsian",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Skula, a gudok-player",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Yeroshka, a gudok-player",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Yaroslavna's nurse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "A Polovtsian maiden",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Chorus, silent roles: Russian princes and princesses, boyars and boyarynas, elders, Russian warriors, maidens, people, Polovtsian khans, Konchakovna's girlfriends, slaves of Khan Konchak, Russian prisoners, Polovtsian sentries",
+      "voiceType": ""
+    }
+  ]
+}

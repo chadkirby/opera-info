@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Platée",
+  "displaytitle": "Platée",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1376222",
+  "titles": {
+    "canonical": "Platée",
+    "normalized": "Platée",
+    "display": "Platée"
+  },
+  "pageid": 6594892,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg/220px-Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg",
+    "width": 220,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg",
+    "width": 417,
+    "height": 606
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097017140",
+  "tid": "9eeae090-08d6-11ed-8f4b-95e04a2ad4e2",
+  "timestamp": "2022-07-08T04:26:43Z",
+  "description": "1745 opera by Jean-Philippe Rameau",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Plat%C3%A9e",
+      "revisions": "https://en.wikipedia.org/wiki/Plat%C3%A9e?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Plat%C3%A9e?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Plat%C3%A9e"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Plat%C3%A9e",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Plat%C3%A9e",
+      "edit": "https://en.m.wikipedia.org/wiki/Plat%C3%A9e?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Plat%C3%A9e"
+    }
+  },
+  "extract": "Platée (Plataea) is an opera in a prologue and three acts by Jean-Philippe Rameau with a libretto by Adrien-Joseph Le Valois d'Orville. Rameau bought the rights to the libretto Platée ou Junon Jalouse by Jacques Autreau (1657–1745) and had d'Orville modify it. The ultimate source of the story is a myth related by the Greek writer Pausanias in his Guide to Greece.",
+  "extract_html": "<p><i><b>Platée</b></i> (<i>Plataea</i>) is an opera in a prologue and three acts by Jean-Philippe Rameau with a libretto by Adrien-Joseph Le Valois d'Orville. Rameau bought the rights to the libretto <i>Platée ou Junon Jalouse</i> by Jacques Autreau (1657–1745) and had d'Orville modify it. The ultimate source of the story is a myth related by the Greek writer Pausanias in his <i>Guide to Greece</i>.</p>"
+}

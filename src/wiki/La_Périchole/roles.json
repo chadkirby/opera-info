@@ -1,0 +1,97 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 6 October 1868,<br>(Conductor: Jacques Offenbach)<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup>\n</th>\n<th>Revised version, 25 April 1874,<br>(Conductor: Jacques Offenbach)\n</th></tr>\n<tr>\n<td>La Périchole, <i>a poor street singer</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Piquillo, <i>a poor street singer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Don Andrès de Ribeira, <i>Viceroy of Peru</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Don Miguel de Panatellas, <i>First Gentleman of the Bedchamber</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Don Pedro de Hinoyosa, <i>Mayor of Lima</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Guadalena, <i>first cousin</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Berginella, <i>second cousin</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Mastrilla, <i>third cousin</i>\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>The Marquis de Tarapote, <i>Lord Chancellor</i>\n</td>\n<td>spoken\n</td>\n\n</tr>\n<tr>\n<td>Manuelita, <i>lady of the Court</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Ninetta, <i>lady of the Court</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Brambilla, <i>lady of the Court</i>\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Frasquinella, <i>lady of the Court</i>\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>First notary\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Second notary\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>First drinker (1868)\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Second drinker (1868)\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Two men (1868)\n</td>\n<td>–\n</td>\n\n</tr>\n<tr>\n<td>A courtesan (1868)\n</td>\n<td>–\n</td>\n\n</tr>\n<tr>\n<td>A bailiff (1868)\n</td>\n<td>–\n</td>\n\n</tr>\n<tr>\n<td>Le Marquis de Satarem, 'The old prisoner' (1874)\n</td>\n<td>spoken\n</td>\n\n</tr>\n<tr>\n<td>Gaoler (1874)\n</td>\n<td>spoken\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Chorus: A crowd, drinkers, showmen; Ladies and Lords of the court; soldiers.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "La Périchole, a poor street singer",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Piquillo, a poor street singer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Andrès de Ribeira, Viceroy of Peru",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Don Miguel de Panatellas, First Gentleman of the Bedchamber",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Pedro de Hinoyosa, Mayor of Lima",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Guadalena, first cousin",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Berginella, second cousin",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mastrilla, third cousin",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The Marquis de Tarapote, Lord Chancellor",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Manuelita, lady of the Court",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ninetta, lady of the Court",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Brambilla, lady of the Court",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Frasquinella, lady of the Court",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "First notary",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second notary",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "First drinker (1868)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second drinker (1868)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Two men (1868)",
+      "voiceType": "–"
+    },
+    {
+      "role": "A courtesan (1868)",
+      "voiceType": "–"
+    },
+    {
+      "role": "A bailiff (1868)",
+      "voiceType": "–"
+    },
+    {
+      "role": "Le Marquis de Satarem, 'The old prisoner' (1874)",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Gaoler (1874)",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Chorus: A crowd, drinkers, showmen; Ladies and Lords of the court; soldiers.",
+      "voiceType": ""
+    }
+  ]
+}

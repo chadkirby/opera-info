@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, coice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<br><i>BO</i>: Original Boston setting and characters<br><i>SW</i>: Swedish setting and characters\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast (<i>BO</i>)<br>17 February 1859<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\">[19]</a></sup>\n</th></tr>\n<tr>\n<td><i>BO</i>: Riccardo, <i>Earl of Warwick and governor of Boston</i> <br>SW: <a href=\"/wiki/Gustav_III_of_Sweden\" class=\"mw-redirect\" title=\"Gustav III of Sweden\">Gustavo</a>, <i>King of Sweden</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><i>BO</i>: Amelia, <i>wife of Renato, in love with Riccardo</i><br><i>SW</i>: Amelia, <i>wife of Anckarström, in love with Gustavo </i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><i>BO</i>: Renato, <i>husband of Amelia and Riccardo's secretary, best friend and confidant</i><br><i>SW</i>: <a href=\"/wiki/Jacob_Johan_Anckarstr%C3%B6m\" title=\"Jacob Johan Anckarström\">Count Anckarström</a>, <i>husband of Amelia and Gustavo's secretary, best friend and confidant</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><i>BO</i>: Oscar, <i>Riccardo's <a href=\"/wiki/Page_(occupation)\" class=\"mw-redirect\" title=\"Page (occupation)\">page</a></i><br><i>SW</i>: Oscar, Gustavo's page\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td><i>BO</i>: Ulrica<br><i>SW</i>: <a href=\"/wiki/Ulrica_Arfvidsson\" title=\"Ulrica Arfvidsson\">Madame Arvidson</a>, <i>a fortune-teller</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>A judge\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><i>BO</i>: Silvano<br><i>SW</i>: Cristiano\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Amelia's servant\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><i>BO</i>: Samuel <br><i>SW</i>: <a href=\"/wiki/Adolph_Ribbing\" title=\"Adolph Ribbing\">Count Ribbing</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><i>BO</i>: Tom<br><i>SW</i>: <a href=\"/w/index.php?title=Claes_Fredrik_Horn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Claes Fredrik Horn (page does not exist)\">Count Horn</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://sv.wikipedia.org/wiki/Clas_Fredrik_Horn_af_%C3%85minne\" class=\"extiw\" title=\"sv:Clas Fredrik Horn af Åminne\">sv</a>]</span>\n</td>\n<td>bass\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "BO: Riccardo, Earl of Warwick and governor of Boston \nSW: Gustavo, King of Sweden",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "BO: Amelia, wife of Renato, in love with Riccardo\nSW: Amelia, wife of Anckarström, in love with Gustavo",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "BO: Renato, husband of Amelia and Riccardo's secretary, best friend and confidant\nSW: Count Anckarström, husband of Amelia and Gustavo's secretary, best friend and confidant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "BO: Oscar, Riccardo's page\nSW: Oscar, Gustavo's page",
+      "voiceType": "soprano (en travesti)"
+    },
+    {
+      "role": "BO: Ulrica\nSW: Madame Arvidson, a fortune-teller",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "A judge",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "BO: Silvano\nSW: Cristiano",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Amelia's servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "BO: Samuel \nSW: Count Ribbing",
+      "voiceType": "bass"
+    },
+    {
+      "role": "BO: Tom\nSW: Count Horn[sv]",
+      "voiceType": "bass"
+    }
+  ]
+}

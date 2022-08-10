@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rise and Fall of the City of Mahagonny",
+  "displaytitle": "<i>Rise and Fall of the City of Mahagonny</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q760054",
+  "titles": {
+    "canonical": "Rise_and_Fall_of_the_City_of_Mahagonny",
+    "normalized": "Rise and Fall of the City of Mahagonny",
+    "display": "<i>Rise and Fall of the City of Mahagonny</i>"
+  },
+  "pageid": 2338,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg/213px-Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg",
+    "width": 400,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069735369",
+  "tid": "055ee970-119c-11ed-ad53-b1d24720b859",
+  "timestamp": "2022-02-03T20:17:02Z",
+  "description": "Political-satirical opera composed by Kurt Weill to a German libretto by Bertolt Brecht",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rise_and_Fall_of_the_City_of_Mahagonny",
+      "revisions": "https://en.wikipedia.org/wiki/Rise_and_Fall_of_the_City_of_Mahagonny?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rise_and_Fall_of_the_City_of_Mahagonny?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rise_and_Fall_of_the_City_of_Mahagonny"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rise_and_Fall_of_the_City_of_Mahagonny",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rise_and_Fall_of_the_City_of_Mahagonny",
+      "edit": "https://en.m.wikipedia.org/wiki/Rise_and_Fall_of_the_City_of_Mahagonny?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rise_and_Fall_of_the_City_of_Mahagonny"
+    }
+  },
+  "extract": "Rise and Fall of the City of Mahagonny is a political-satirical opera composed by Kurt Weill to a German libretto by Bertolt Brecht. It was first performed on 9 March 1930 at the Neues Theater in Leipzig.",
+  "extract_html": "<p><i><b>Rise and Fall of the City of Mahagonny</b></i> is a political-satirical opera composed by Kurt Weill to a German libretto by Bertolt Brecht. It was first performed on 9 March 1930 at the <span><span style=\"font-style:normal\">Neues Theater</span></span> in Leipzig.</p>"
+}

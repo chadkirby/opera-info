@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Gypsy Baron",
+  "displaytitle": "<i>The Gypsy Baron</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q464511",
+  "titles": {
+    "canonical": "The_Gypsy_Baron",
+    "normalized": "The Gypsy Baron",
+    "display": "<i>The Gypsy Baron</i>"
+  },
+  "pageid": 1259457,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Johann_Strauss_II.jpg/247px-Johann_Strauss_II.jpg",
+    "width": 247,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Johann_Strauss_II.jpg",
+    "width": 350,
+    "height": 454
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086931728",
+  "tid": "5b56fbb0-fe87-11ec-8f33-917b38a5d116",
+  "timestamp": "2022-05-09T07:54:27Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Gypsy_Baron",
+      "revisions": "https://en.wikipedia.org/wiki/The_Gypsy_Baron?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Gypsy_Baron?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Gypsy_Baron"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Gypsy_Baron",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Gypsy_Baron",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Gypsy_Baron?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Gypsy_Baron"
+    }
+  },
+  "extract": "The Gypsy Baron is an operetta in three acts by Johann Strauss II which premiered at the Theater an der Wien on 24 October 1885. Its German libretto by Ignaz Schnitzer is based on the unpublished 1883 story Saffi by Mór Jókai. Jokai later published a novel A cigánybáró in 1885 using an expanded version of this same story.",
+  "extract_html": "<p><i><b>The Gypsy Baron</b></i> is an operetta in three acts by Johann Strauss II which premiered at the Theater an der Wien on 24 October 1885. Its German libretto by Ignaz Schnitzer is based on the unpublished 1883 story <i>Saffi</i> by Mór Jókai. Jokai later published a novel <i>A cigánybáró</i> in 1885 using an expanded version of this same story.</p>"
+}

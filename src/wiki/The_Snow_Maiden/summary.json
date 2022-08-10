@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Snow Maiden",
+  "displaytitle": "<i>The Snow Maiden</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1039069",
+  "titles": {
+    "canonical": "The_Snow_Maiden",
+    "normalized": "The Snow Maiden",
+    "display": "<i>The Snow Maiden</i>"
+  },
+  "pageid": 2010470,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Yevgeniya_Zbrueva_as_Lel_1894.jpg/195px-Yevgeniya_Zbrueva_as_Lel_1894.jpg",
+    "width": 195,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Yevgeniya_Zbrueva_as_Lel_1894.jpg",
+    "width": 356,
+    "height": 584
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088382268",
+  "tid": "7c39c8b0-12ac-11ed-a6ec-91dc6671cf35",
+  "timestamp": "2022-05-17T18:01:19Z",
+  "description": "Opera by Nikolai Rimsky-Korsakov",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Snow_Maiden",
+      "revisions": "https://en.wikipedia.org/wiki/The_Snow_Maiden?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Snow_Maiden?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Snow_Maiden"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Snow_Maiden",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Snow_Maiden",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Snow_Maiden?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Snow_Maiden"
+    }
+  },
+  "extract": "The Snow Maiden is an opera in four acts with a prologue by Nikolai Rimsky-Korsakov, composed during 1880–1881. The Russian libretto, by the composer, is based on the like-named play by Alexander Ostrovsky.",
+  "extract_html": "<p><i><b>The Snow Maiden</b></i> is an opera in four acts with a prologue by Nikolai Rimsky-Korsakov, composed during 1880–1881. The Russian libretto, by the composer, is based on the like-named play by Alexander Ostrovsky.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gianni Schicchi",
+  "displaytitle": "<i>Gianni Schicchi</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q727868",
+  "titles": {
+    "canonical": "Gianni_Schicchi",
+    "normalized": "Gianni Schicchi",
+    "display": "<i>Gianni Schicchi</i>"
+  },
+  "pageid": 1923656,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Schicchi_original_cover.jpg/222px-Schicchi_original_cover.jpg",
+    "width": 222,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/2/2e/Schicchi_original_cover.jpg",
+    "width": 795,
+    "height": 1144
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1076459593",
+  "tid": "d1e34a80-15f8-11ed-ac2d-8d45031f012b",
+  "timestamp": "2022-03-11T06:31:01Z",
+  "description": "1918 comic opera in one act by Giacomo Puccini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gianni_Schicchi",
+      "revisions": "https://en.wikipedia.org/wiki/Gianni_Schicchi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gianni_Schicchi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gianni_Schicchi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gianni_Schicchi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gianni_Schicchi",
+      "edit": "https://en.m.wikipedia.org/wiki/Gianni_Schicchi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gianni_Schicchi"
+    }
+  },
+  "extract": "Gianni Schicchi is a comic opera in one act by Giacomo Puccini to an Italian libretto by Giovacchino Forzano, composed in 1917–18. The libretto is based on an incident mentioned in Dante's Divine Comedy. The work is the third and final part of Puccini's Il trittico – three one-act operas with contrasting themes, originally written to be presented together. Although it continues to be performed with one or both of the other trittico operas, Gianni Schicchi is now more frequently staged either alone or with short operas by other composers. The aria \"O mio babbino caro\" is one of Puccini's best known, and one of the most popular arias in opera.",
+  "extract_html": "<p><b><span><i lang=\"it\">Gianni Schicchi</i></span></b> is a comic opera in one act by Giacomo Puccini to an Italian libretto by Giovacchino Forzano, composed in 1917–18. The libretto is based on an incident mentioned in Dante's <i>Divine Comedy</i>. The work is the third and final part of Puccini's <span><i lang=\"it\">Il trittico</i></span> – three one-act operas with contrasting themes, originally written to be presented together. Although it continues to be performed with one or both of the other <span><i lang=\"it\">trittico</i></span> operas, <span><i lang=\"it\">Gianni Schicchi</i></span> is now more frequently staged either alone or with short operas by other composers. The aria <span><i lang=\"it\">\"O mio babbino caro\"</i></span> is one of Puccini's best known, and one of the most popular arias in opera.</p>"
+}

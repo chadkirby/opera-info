@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Così fan tutte",
+  "displaytitle": "<i>Così fan tutte</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q207410",
+  "titles": {
+    "canonical": "Così_fan_tutte",
+    "normalized": "Così fan tutte",
+    "display": "<i>Così fan tutte</i>"
+  },
+  "pageid": 38090,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cosi_fan_tutte_-_first_performance.jpg/320px-Cosi_fan_tutte_-_first_performance.jpg",
+    "width": 320,
+    "height": 252
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Cosi_fan_tutte_-_first_performance.jpg",
+    "width": 744,
+    "height": 586
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094894505",
+  "tid": "e3a51c30-1837-11ed-8652-33b45e111116",
+  "timestamp": "2022-06-25T06:29:07Z",
+  "description": "Italian-language opera buffa by W. A. Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cos%C3%AC_fan_tutte",
+      "revisions": "https://en.wikipedia.org/wiki/Cos%C3%AC_fan_tutte?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cos%C3%AC_fan_tutte?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cos%C3%AC_fan_tutte"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Cos%C3%AC_fan_tutte",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Cos%C3%AC_fan_tutte",
+      "edit": "https://en.m.wikipedia.org/wiki/Cos%C3%AC_fan_tutte?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Cos%C3%AC_fan_tutte"
+    }
+  },
+  "extract": "Così fan tutte, ossia La scuola degli amanti, K. 588, is an opera buffa in two acts by Wolfgang Amadeus Mozart. It was first performed on 26 January 1790 at the Burgtheater in Vienna, Austria. The libretto was written by Lorenzo Da Ponte who also wrote Le nozze di Figaro and Don Giovanni.",
+  "extract_html": "<p><b><span><i lang=\"it\">Così fan tutte, ossia La scuola degli amanti</i></span></b>, K. 588, is an opera buffa in two acts by Wolfgang Amadeus Mozart. It was first performed on 26 January 1790 at the Burgtheater in Vienna, Austria. The libretto was written by Lorenzo Da Ponte who also wrote <i>Le nozze di Figaro</i> and <i>Don Giovanni</i>.</p>"
+}

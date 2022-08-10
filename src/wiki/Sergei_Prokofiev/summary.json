@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Sergei Prokofiev",
+  "displaytitle": "Sergei Prokofiev",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q49481",
+  "titles": {
+    "canonical": "Sergei_Prokofiev",
+    "normalized": "Sergei Prokofiev",
+    "display": "Sergei Prokofiev"
+  },
+  "pageid": 27681,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg/260px-Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "width": 260,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "width": 2116,
+    "height": 2607
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102079631",
+  "tid": "e2743e90-178d-11ed-adff-b343d2106d9e",
+  "timestamp": "2022-08-03T08:00:46Z",
+  "description": "Russian composer, pianist and conductor (1891–1953)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sergei_Prokofiev",
+      "revisions": "https://en.wikipedia.org/wiki/Sergei_Prokofiev?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sergei_Prokofiev?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sergei_Prokofiev"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Sergei_Prokofiev",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Sergei_Prokofiev",
+      "edit": "https://en.m.wikipedia.org/wiki/Sergei_Prokofiev?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Sergei_Prokofiev"
+    }
+  },
+  "extract": "Sergei Sergeyevich Prokofiev was a Russian composer, pianist, and conductor who later worked in the Soviet Union. As the creator of acknowledged masterpieces across numerous music genres, he is regarded as one of the major composers of the 20th century. His works include such widely heard pieces as the March from The Love for Three Oranges, the suite Lieutenant Kijé, the ballet Romeo and Juliet—from which \"Dance of the Knights\" is taken—and Peter and the Wolf. Of the established forms and genres in which he worked, he created—excluding juvenilia—seven completed operas, seven symphonies, eight ballets, five piano concertos, two violin concertos, a cello concerto, a symphony-concerto for cello and orchestra, and nine completed piano sonatas.",
+  "extract_html": "<p><b>Sergei Sergeyevich Prokofiev</b> was a Russian composer, pianist, and conductor who later worked in the Soviet Union. As the creator of acknowledged masterpieces across numerous music genres, he is regarded as one of the major composers of the 20th century. His works include such widely heard pieces as the March from <i>The Love for Three Oranges,</i> the suite <span><i>Lieutenant Kijé</i></span>, the ballet <span><i>Romeo and Juliet</i></span>—from which \"Dance of the Knights\" is taken—and <i>Peter and the Wolf.</i> Of the established forms and genres in which he worked, he created—excluding juvenilia—seven completed operas, seven symphonies, eight ballets, five piano concertos, two violin concertos, a cello concerto, a symphony-concerto for cello and orchestra, and nine completed piano sonatas.</p>"
+}

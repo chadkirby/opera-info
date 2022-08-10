@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Giacomo Puccini",
+  "displaytitle": "Giacomo Puccini",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7311",
+  "titles": {
+    "canonical": "Giacomo_Puccini",
+    "normalized": "Giacomo Puccini",
+    "display": "Giacomo Puccini"
+  },
+  "pageid": 12750,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GiacomoPuccini.jpg/206px-GiacomoPuccini.jpg",
+    "width": 206,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/GiacomoPuccini.jpg",
+    "width": 516,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098851372",
+  "tid": "d32dcbe0-15f8-11ed-b9d5-bf69a3eea313",
+  "timestamp": "2022-07-17T20:02:46Z",
+  "description": "Italian opera composer (1858–1924)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Giacomo_Puccini",
+      "revisions": "https://en.wikipedia.org/wiki/Giacomo_Puccini?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Giacomo_Puccini?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Giacomo_Puccini"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Giacomo_Puccini",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Giacomo_Puccini",
+      "edit": "https://en.m.wikipedia.org/wiki/Giacomo_Puccini?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Giacomo_Puccini"
+    }
+  },
+  "extract": "Giacomo Puccini was an Italian composer known primarily for his operas. Regarded as the greatest and most successful proponent of Italian opera after Verdi, he was descended from a long line of composers, stemming from the late-Baroque era. Though his early work was firmly rooted in traditional late-19th-century Romantic Italian opera he later developed his work in the realistic verismo style, of which he became one of the leading exponents.",
+  "extract_html": "<p><b>Giacomo Puccini</b> was an Italian composer known primarily for his operas. Regarded as the greatest and most successful proponent of Italian opera after Verdi, he was descended from a long line of composers, stemming from the late-Baroque era. Though his early work was firmly rooted in traditional late-19th-century Romantic Italian opera he later developed his work in the realistic <i>verismo</i> style, of which he became one of the leading exponents.</p>"
+}

@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-Schott_2-0\" class=\"reference\"><a href=\"#cite_note-Schott-2\">[2]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-Schott_2-1\" class=\"reference\"><a href=\"#cite_note-Schott-2\">[2]</a></sup>\n</th>\n<th>Premiere cast, 17 August 1876<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Hans_Richter_(conductor)\" title=\"Hans Richter (conductor)\">Hans Richter</a><sup id=\"cite_ref-Schott_2-2\" class=\"reference\"><a href=\"#cite_note-Schott-2\">[2]</a></sup><sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Sigurd\" title=\"Sigurd\">Siegfried</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Brunhild\" title=\"Brunhild\">Brünnhilde</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Gunther\" title=\"Gunther\">Gunther</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Gudrun\" title=\"Gudrun\">Gutrune</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Hagen_(legend)\" title=\"Hagen (legend)\">Hagen</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Alberich\" title=\"Alberich\">Alberich</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Waltraute\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>First <a href=\"/wiki/Norns\" title=\"Norns\">Norn</a>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Second Norn\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Third Norn\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Woglinde\" class=\"mw-redirect\" title=\"Woglinde\">Woglinde</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Wellgunde\" class=\"mw-redirect\" title=\"Wellgunde\">Wellgunde</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Flosshilde\" class=\"mw-redirect\" title=\"Flosshilde\">Flosshilde</a>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i><a href=\"/wiki/Vassal\" title=\"Vassal\">Vassals</a>, women</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Siegfried",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Brünnhilde",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gunther",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Gutrune",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hagen",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Alberich",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Waltraute",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "First Norn",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Second Norn",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Third Norn",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Woglinde",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Wellgunde",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Flosshilde",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Vassals, women",
+      "voiceType": ""
+    }
+  ]
+}

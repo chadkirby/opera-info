@@ -1,0 +1,38 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"140\">Cast<br>(Platée, La Folie, Thespis/Mercure, Cithéron, Jupiter)\n</th>\n<th>Orchestra, Conductor\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1956</td>\n<td><a href=\"/wiki/Michel_S%C3%A9n%C3%A9chal\" title=\"Michel Sénéchal\">Michel Sénéchal</a>,<br><a href=\"/wiki/Jeanine_Micheau\" class=\"mw-redirect\" title=\"Jeanine Micheau\">Jeanine Micheau</a>,<br><a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>,<br><a href=\"/wiki/Jacques_Jansen\" title=\"Jacques Jansen\">Jacques Jansen</a>,<br>Huc Santana</td>\n\n<td>Audio CD: <a href=\"/wiki/EMI\" title=\"EMI\">EMI</a><br>Cat: EMI Pathé Marconi CMS 7 69861-2\n</td></tr>\n<tr>\n<td>1989</td>\n<td>Gilles Ragon,<br><a href=\"/wiki/Jennifer_Smith_(opera_singer)\" class=\"mw-redirect\" title=\"Jennifer Smith (opera singer)\">Jennifer Smith</a>,<br><a href=\"/wiki/Guy_de_Mey\" title=\"Guy de Mey\">Guy de Mey</a>,<br><a href=\"/wiki/Bernard_Deletr%C3%A9\" title=\"Bernard Deletré\">Bernard Deletré</a>,<br>Vincent Le Texier</td>\n\n<td>Audio CD: WEA International <br>Erato 2292 45028-2\n</td></tr>\n<tr>\n<td>2003</td>\n<td><a href=\"/wiki/Paul_Agnew\" title=\"Paul Agnew\">Paul Agnew</a>,<br><a href=\"/wiki/Mireille_Delunsch\" title=\"Mireille Delunsch\">Mireille Delunsch</a>,<br><a href=\"/wiki/Yann_Beuron\" title=\"Yann Beuron\">Yann Beuron</a>,<br><a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a>,<br>Vincent Le Texier</td>\n\n<td>DVD: Kultur<br>Cat: D2919\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1956,
+      "cast": [
+        "Michel Sénéchal",
+        "Jeanine Micheau",
+        "Nicolai Gedda",
+        "Jacques Jansen",
+        "Huc Santana"
+      ],
+      "conductor": "Hans Rosbaud"
+    },
+    {
+      "year": 1989,
+      "cast": [
+        "Gilles Ragon",
+        "Jennifer Smith",
+        "Guy de Mey",
+        "Bernard Deletré",
+        "Vincent Le Texier"
+      ],
+      "conductor": "Marc Minkowski"
+    },
+    {
+      "year": 2003,
+      "cast": [
+        "Paul Agnew",
+        "Mireille Delunsch",
+        "Yann Beuron",
+        "Laurent Naouri",
+        "Vincent Le Texier"
+      ],
+      "conductor": "Marc Minkowski"
+    }
+  ]
+}

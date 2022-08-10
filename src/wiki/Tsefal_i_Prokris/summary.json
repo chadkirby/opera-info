@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Tsefal i Prokris",
+  "displaytitle": "<i>Tsefal i Prokris</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7849499",
+  "titles": {
+    "canonical": "Tsefal_i_Prokris",
+    "normalized": "Tsefal i Prokris",
+    "display": "<i>Tsefal i Prokris</i>"
+  },
+  "pageid": 5074332,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Valeriani_Decoration_Tsefal.jpg/320px-Valeriani_Decoration_Tsefal.jpg",
+    "width": 320,
+    "height": 213
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Valeriani_Decoration_Tsefal.jpg",
+    "width": 333,
+    "height": 222
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1045745544",
+  "tid": "32948740-b95b-11ec-ab2d-932a06a0bb87",
+  "timestamp": "2021-09-22T06:44:17Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tsefal_i_Prokris",
+      "revisions": "https://en.wikipedia.org/wiki/Tsefal_i_Prokris?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tsefal_i_Prokris?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tsefal_i_Prokris"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Tsefal_i_Prokris",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tsefal_i_Prokris",
+      "edit": "https://en.m.wikipedia.org/wiki/Tsefal_i_Prokris?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Tsefal_i_Prokris"
+    }
+  },
+  "extract": "Cephalus and Prokris, is an opera seria in three acts by the Italian composer Francesco Araja. Dating to 1755, it was the first opera written in the Russian language.",
+  "extract_html": "<p><i><b>Cephalus and Prokris</b></i>, is an opera seria in three acts by the Italian composer Francesco Araja. Dating to 1755, it was the first opera written in the Russian language.</p>"
+}

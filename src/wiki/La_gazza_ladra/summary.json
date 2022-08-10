@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La gazza ladra",
+  "displaytitle": "<i>La gazza ladra</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q472318",
+  "titles": {
+    "canonical": "La_gazza_ladra",
+    "normalized": "La gazza ladra",
+    "display": "<i>La gazza ladra</i>"
+  },
+  "pageid": 735984,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/262px-Rossini-portrait-0.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rossini-portrait-0.jpg",
+    "width": 840,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731476",
+  "tid": "7310f650-0f82-11ed-9780-21527483ce49",
+  "timestamp": "2022-05-02T04:12:17Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_gazza_ladra",
+      "revisions": "https://en.wikipedia.org/wiki/La_gazza_ladra?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_gazza_ladra?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_gazza_ladra"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_gazza_ladra",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_gazza_ladra",
+      "edit": "https://en.m.wikipedia.org/wiki/La_gazza_ladra?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_gazza_ladra"
+    }
+  },
+  "extract": "La gazza ladra is a melodramma or opera semiseria in two acts by Gioachino Rossini, with a libretto by Giovanni Gherardini based on La pie voleuse by Théodore Baudouin d'Aubigny and Louis-Charles Caigniez.\nThe Thieving Magpie is best known for the overture, which is musically notable for its use of snare drums. This memorable section in Rossini's overture evokes the image of the opera's main subject: a devilishly clever, thieving magpie.",
+  "extract_html": "<p><i><b>La gazza ladra</b></i> is a <i>melodramma</i> or opera semiseria in two acts by Gioachino Rossini, with a libretto by Giovanni Gherardini based on <i>La pie voleuse</i> by Théodore Baudouin d'Aubigny and Louis-Charles Caigniez.\n<i>The Thieving Magpie</i> is best known for the overture, which is musically notable for its use of snare drums. This memorable section in Rossini's overture evokes the image of the opera's main subject: a devilishly clever, thieving magpie.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Threepenny Opera",
+  "displaytitle": "<i>The Threepenny Opera</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q212495",
+  "titles": {
+    "canonical": "The_Threepenny_Opera",
+    "normalized": "The Threepenny Opera",
+    "display": "<i>The Threepenny Opera</i>"
+  },
+  "pageid": 30277,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Dreigroschenoper.JPG/252px-Dreigroschenoper.JPG",
+    "width": 252,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/fe/Dreigroschenoper.JPG",
+    "width": 280,
+    "height": 356
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102420457",
+  "tid": "d1551440-15f8-11ed-80c6-a183ded0d9e4",
+  "timestamp": "2022-08-05T00:19:41Z",
+  "description": "1928 musical play by Bertolt Brecht and Kurt Weill",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Threepenny_Opera",
+      "revisions": "https://en.wikipedia.org/wiki/The_Threepenny_Opera?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Threepenny_Opera?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Threepenny_Opera"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Threepenny_Opera",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Threepenny_Opera",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Threepenny_Opera?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Threepenny_Opera"
+    }
+  },
+  "extract": "The Threepenny Opera is a \"play with music\" by Bertolt Brecht, adapted from a translation by Elisabeth Hauptmann of John Gay's 18th-century English ballad opera, The Beggar's Opera, and four ballads by François Villon, with music by Kurt Weill. Although there is debate as to how much, if any, Hauptmann might have contributed to the text, Brecht is usually listed as sole author.",
+  "extract_html": "<p><i><b>The Threepenny Opera</b></i> is a \"play with music\" by Bertolt Brecht, adapted from a translation by Elisabeth Hauptmann of John Gay's 18th-century English ballad opera, <i>The Beggar's Opera</i>, and four ballads by François Villon, with music by Kurt Weill. Although there is debate as to how much, if any, Hauptmann might have contributed to the text, Brecht is usually listed as sole author.</p>"
+}

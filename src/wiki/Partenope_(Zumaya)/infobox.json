@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Partenope</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Manuel_de_Zumaya\" title=\"Manuel de Zumaya\">Manuel de Zumaya</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Zumaya</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Spanish</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><a href=\"/wiki/Silvio_Stampiglia\" title=\"Silvio Stampiglia\">Silvio Stampiglia</a>'s Italian libretto</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">1&nbsp;May&nbsp;1711<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1711-05-01</span>)</span><br><div style=\"display:inline;\" class=\"summary\">Mexico City</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Partenope"
+  ],
+  "Librettist": "Zumaya",
+  "Language": "Spanish",
+  "Based on": "Silvio Stampiglia's Italian libretto",
+  "Premiere": "1 May 1711\nMexico City"
+}

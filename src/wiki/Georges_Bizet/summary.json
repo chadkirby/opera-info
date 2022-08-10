@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Georges Bizet",
+  "displaytitle": "Georges Bizet",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q56158",
+  "titles": {
+    "canonical": "Georges_Bizet",
+    "normalized": "Georges Bizet",
+    "display": "Georges Bizet"
+  },
+  "pageid": 67955,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Georges_bizet.jpg/232px-Georges_bizet.jpg",
+    "width": 232,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_bizet.jpg",
+    "width": 1182,
+    "height": 1632
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097132107",
+  "tid": "087a0fd0-1544-11ed-8072-81458897034b",
+  "timestamp": "2022-07-08T21:48:50Z",
+  "description": "French composer (1838–1875)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Georges_Bizet",
+      "revisions": "https://en.wikipedia.org/wiki/Georges_Bizet?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Georges_Bizet?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Georges_Bizet"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Georges_Bizet",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Georges_Bizet",
+      "edit": "https://en.m.wikipedia.org/wiki/Georges_Bizet?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Georges_Bizet"
+    }
+  },
+  "extract": "Georges Bizet was a French composer of the Romantic era. Best known for his operas in a career cut short by his early death, Bizet achieved few successes before his final work, Carmen, which has become one of the most popular and frequently performed works in the entire opera repertoire.",
+  "extract_html": "<p><b>Georges Bizet</b> was a French composer of the Romantic era. Best known for his operas in a career cut short by his early death, Bizet achieved few successes before his final work, <i>Carmen</i>, which has become one of the most popular and frequently performed works in the entire opera repertoire.</p>"
+}

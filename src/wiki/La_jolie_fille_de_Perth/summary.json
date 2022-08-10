@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La jolie fille de Perth",
+  "displaytitle": "<i>La jolie fille de Perth</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q471784",
+  "titles": {
+    "canonical": "La_jolie_fille_de_Perth",
+    "normalized": "La jolie fille de Perth",
+    "display": "<i>La jolie fille de Perth</i>"
+  },
+  "pageid": 6013691,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Georges_bizet.jpg/232px-Georges_bizet.jpg",
+    "width": 232,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_bizet.jpg",
+    "width": 1182,
+    "height": 1632
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1038025340",
+  "tid": "a047ef70-f9f7-11ec-8927-eb97355608a3",
+  "timestamp": "2021-08-10T02:39:28Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_jolie_fille_de_Perth",
+      "revisions": "https://en.wikipedia.org/wiki/La_jolie_fille_de_Perth?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_jolie_fille_de_Perth?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_jolie_fille_de_Perth"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_jolie_fille_de_Perth",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_jolie_fille_de_Perth",
+      "edit": "https://en.m.wikipedia.org/wiki/La_jolie_fille_de_Perth?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_jolie_fille_de_Perth"
+    }
+  },
+  "extract": "La jolie fille de Perth is an opera in four acts by Georges Bizet (1838–1875), from a libretto by Jules-Henri Vernoy de Saint-Georges and Jules Adenis, after the 1828 novel The Fair Maid of Perth by Sir Walter Scott. Many writers have reserved severe criticism for the librettists for their stock devices and improbable events, while praising Bizet's advance on his earlier operas in construction of set pieces and his striking melodic and instrumental ideas.",
+  "extract_html": "<p><i><b>La jolie fille de Perth</b></i> is an opera in four acts by Georges Bizet (1838–1875), from a libretto by Jules-Henri Vernoy de Saint-Georges and Jules Adenis, after the 1828 novel <i>The Fair Maid of Perth</i> by Sir Walter Scott. Many writers have reserved severe criticism for the librettists for their stock devices and improbable events, while praising Bizet's advance on his earlier operas in construction of set pieces and his striking melodic and instrumental ideas.</p>"
+}

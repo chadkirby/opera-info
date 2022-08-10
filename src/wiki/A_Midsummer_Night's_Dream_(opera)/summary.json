@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "A Midsummer Night's Dream (opera)",
+  "displaytitle": "<i>A Midsummer Night's Dream</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q605750",
+  "titles": {
+    "canonical": "A_Midsummer_Night's_Dream_(opera)",
+    "normalized": "A Midsummer Night's Dream (opera)",
+    "display": "<i>A Midsummer Night's Dream</i> (opera)"
+  },
+  "pageid": 1255005,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/A_Midsummer_Night%27s_Dream_at_BMF_%282016%29.jpg/320px-A_Midsummer_Night%27s_Dream_at_BMF_%282016%29.jpg",
+    "width": 320,
+    "height": 180
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/A_Midsummer_Night%27s_Dream_at_BMF_%282016%29.jpg",
+    "width": 1024,
+    "height": 576
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1070868134",
+  "tid": "80606570-fe07-11ec-8c74-999b9fee6428",
+  "timestamp": "2022-02-09T18:01:41Z",
+  "description": "Opera by Benjamin Britten and Peter Pears",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:A_Midsummer_Night's_Dream_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/A_Midsummer_Night's_Dream_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/A_Midsummer_Night's_Dream_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/A_Midsummer_Night's_Dream_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:A_Midsummer_Night's_Dream_(opera)"
+    }
+  },
+  "extract": "A Midsummer Night's Dream, Op. 64, is an opera with music by Benjamin Britten and set to a libretto adapted by the composer and Peter Pears from William Shakespeare's play, A Midsummer Night's Dream. It was premiered on 11 June 1960 at the Aldeburgh Festival, conducted by the composer and with set and costume designs by Carl Toms. Stylistically, the work is typical of Britten, with a highly individual sound-world – not strikingly dissonant or atonal, but replete with subtly atmospheric harmonies and tone painting. The role of Oberon was composed for the countertenor Alfred Deller. Atypically for Britten, the opera did not include a leading role for his partner Pears, who instead was given the comic drag role of Flute/Thisbe.",
+  "extract_html": "<p><i><b>A Midsummer Night's Dream</b></i>, Op. 64, is an opera with music by Benjamin Britten and set to a libretto adapted by the composer and Peter Pears from William Shakespeare's play, <i>A Midsummer Night's Dream</i>. It was premiered on 11 June 1960 at the Aldeburgh Festival, conducted by the composer and with set and costume designs by Carl Toms. Stylistically, the work is typical of Britten, with a highly individual sound-world – not strikingly dissonant or atonal, but replete with subtly atmospheric harmonies and tone painting. The role of Oberon was composed for the countertenor Alfred Deller. Atypically for Britten, the opera did not include a leading role for his partner Pears, who instead was given the comic drag role of Flute/Thisbe.</p>"
+}

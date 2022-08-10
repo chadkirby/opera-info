@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 16 July 1782<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Wolfgang_Amadeus_Mozart\" title=\"Wolfgang Amadeus Mozart\">W. A. Mozart</a>\n</th></tr>\n<tr>\n<td>Belmonte, <i>a Spanish nobleman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Konstanze, <i>betrothed to Belmonte</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Blonde,<sup id=\"cite_ref-37\" class=\"reference\"><a href=\"#cite_note-37\">[37]</a></sup> <i>Konstanze's English maid</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Pedrillo, <i>Belmonte's servant</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Osmin, <i>overseer for the Pasha</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Bassa Selim, <i>the Pasha</i>\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>Klaas\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus of Janissaries</i><sup id=\"cite_ref-FOOTNOTERushton2002_38-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTERushton2002-38\">[38]</a></sup><sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\">[39]</a></sup>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Belmonte, a Spanish nobleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Konstanze, betrothed to Belmonte",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Blonde, Konstanze's English maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Pedrillo, Belmonte's servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Osmin, overseer for the Pasha",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Bassa Selim, the Pasha",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Klaas",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Chorus of Janissaries",
+      "voiceType": ""
+    }
+  ]
+}

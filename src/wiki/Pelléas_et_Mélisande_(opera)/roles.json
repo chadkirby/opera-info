@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-51\" class=\"reference\"><a href=\"#cite_note-51\">[51]</a></sup>\n</th>\n<th>Premiere cast, 30 April 1902<sup id=\"cite_ref-FOOTNOTECasaglia2005_52-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTECasaglia2005-52\">[52]</a></sup><br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Andr%C3%A9_Messager\" title=\"André Messager\">André Messager</a>\n</th></tr>\n<tr>\n<td>Arkel, <i>King of Allemonde</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Geneviève, <i>mother of Golaud and Pelléas</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Golaud, <i>grandson of Arkel</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a> or <a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Pelléas, <i>grandson of Arkel</i>\n</td>\n<td>baritone (<a href=\"/wiki/Baritone#Baryton-Martin\" title=\"Baritone\">baryton-Martin</a>)\n</td>\n</tr>\n<tr>\n<td>Mélisande\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> or high <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Yniold, <i>the young son of Golaud</i>\n</td>\n<td>soprano or <a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">boy soprano</a>\n</td>\n</tr>\n<tr>\n<td>Doctor\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Shepherd\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Offstage sailors (mixed chorus), serving women and three paupers (mute)</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Arkel, King of Allemonde",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Geneviève, mother of Golaud and Pelléas",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Golaud, grandson of Arkel",
+      "voiceType": "baritone or bass-baritone"
+    },
+    {
+      "role": "Pelléas, grandson of Arkel",
+      "voiceType": "baritone (baryton-Martin)"
+    },
+    {
+      "role": "Mélisande",
+      "voiceType": "soprano or high mezzo-soprano"
+    },
+    {
+      "role": "Yniold, the young son of Golaud",
+      "voiceType": "soprano or boy soprano"
+    },
+    {
+      "role": "Doctor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Shepherd",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Offstage sailors (mixed chorus), serving women and three paupers (mute)",
+      "voiceType": ""
+    }
+  ]
+}

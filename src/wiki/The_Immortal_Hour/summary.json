@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Immortal Hour",
+  "displaytitle": "<i>The Immortal Hour</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q8012706",
+  "titles": {
+    "canonical": "The_Immortal_Hour",
+    "normalized": "The Immortal Hour",
+    "display": "<i>The Immortal Hour</i>"
+  },
+  "pageid": 8176153,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rb3.jpg/237px-Rb3.jpg",
+    "width": 237,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Rb3.jpg",
+    "width": 264,
+    "height": 356
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095859292",
+  "tid": "d0814980-15f8-11ed-967f-29aff32b418e",
+  "timestamp": "2022-06-30T20:50:26Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Immortal_Hour",
+      "revisions": "https://en.wikipedia.org/wiki/The_Immortal_Hour?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Immortal_Hour?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Immortal_Hour"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Immortal_Hour",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Immortal_Hour",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Immortal_Hour?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Immortal_Hour"
+    }
+  },
+  "extract": "The Immortal Hour is an opera by English composer Rutland Boughton. Boughton adapted his own libretto from the play of the same name by Fiona MacLeod, a pseudonym of writer William Sharp.",
+  "extract_html": "<p><i><b>The Immortal Hour</b></i> is an opera by English composer Rutland Boughton. Boughton adapted his own libretto from the play of the same name by Fiona MacLeod, a pseudonym of writer William Sharp.</p>"
+}

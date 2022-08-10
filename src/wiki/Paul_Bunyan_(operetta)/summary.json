@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Paul Bunyan (operetta)",
+  "displaytitle": "<i>Paul Bunyan</i> (operetta)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q736746",
+  "titles": {
+    "canonical": "Paul_Bunyan_(operetta)",
+    "normalized": "Paul Bunyan (operetta)",
+    "display": "<i>Paul Bunyan</i> (operetta)"
+  },
+  "pageid": 2411408,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg/264px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg",
+    "width": 264,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg",
+    "width": 725,
+    "height": 878
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101786955",
+  "tid": "c4ab4440-11d8-11ed-99c1-ddc26cf95e86",
+  "timestamp": "2022-08-01T20:30:19Z",
+  "description": "1941 operetta by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Paul_Bunyan_(operetta)",
+      "revisions": "https://en.wikipedia.org/wiki/Paul_Bunyan_(operetta)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Paul_Bunyan_(operetta)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Bunyan_(operetta)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Paul_Bunyan_(operetta)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Paul_Bunyan_(operetta)",
+      "edit": "https://en.m.wikipedia.org/wiki/Paul_Bunyan_(operetta)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Paul_Bunyan_(operetta)"
+    }
+  },
+  "extract": "Paul Bunyan, Op 17, is an operetta in two acts and a prologue composed by Benjamin Britten to a libretto by W. H. Auden, designed for performance by semi-professional groups. It premiered at Columbia University on 5 May 1941, to largely negative reviews, and was withdrawn by the composer. Britten revised it somewhat in 1976 and it has subsequently had numerous performances and two commercial recordings. The story is based on the folkloric American lumberjack, Paul Bunyan, with the music incorporating a variety of American styles, including folk songs, blues and hymns. The work is strongly sectional in nature, highly reminiscent of the 'Broadway musical' style of the period.",
+  "extract_html": "<p><i><b>Paul Bunyan</b></i>, Op 17, is an operetta in two acts and a prologue composed by Benjamin Britten to a libretto by W. H. Auden, designed for performance by semi-professional groups. It premiered at Columbia University on 5 May 1941, to largely negative reviews, and was withdrawn by the composer. Britten revised it somewhat in 1976 and it has subsequently had numerous performances and two commercial recordings. The story is based on the folkloric American lumberjack, Paul Bunyan, with the music incorporating a variety of American styles, including folk songs, blues and hymns. The work is strongly sectional in nature, highly reminiscent of the 'Broadway musical' style of the period.</p>"
+}

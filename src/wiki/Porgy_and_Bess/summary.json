@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Porgy and Bess",
+  "displaytitle": "<i>Porgy and Bess</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q740920",
+  "titles": {
+    "canonical": "Porgy_and_Bess",
+    "normalized": "Porgy and Bess",
+    "display": "<i>Porgy and Bess</i>"
+  },
+  "pageid": 219642,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Porgyandbess.gif/320px-Porgyandbess.gif",
+    "width": 320,
+    "height": 256
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/8/8b/Porgyandbess.gif",
+    "width": 352,
+    "height": 282
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101261002",
+  "tid": "687dc1d0-0fb6-11ed-9fe4-61010788f566",
+  "timestamp": "2022-07-30T03:19:14Z",
+  "description": "Opera by George Gershwin",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Porgy_and_Bess",
+      "revisions": "https://en.wikipedia.org/wiki/Porgy_and_Bess?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Porgy_and_Bess?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Porgy_and_Bess"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Porgy_and_Bess",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Porgy_and_Bess",
+      "edit": "https://en.m.wikipedia.org/wiki/Porgy_and_Bess?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Porgy_and_Bess"
+    }
+  },
+  "extract": "Porgy and Bess is an English-language opera by American composer George Gershwin, with a libretto written by author DuBose Heyward and lyricist Ira Gershwin. It was adapted from Dorothy Heyward and DuBose Heyward's play Porgy, itself an adaptation of DuBose Heyward's 1925 novel of the same name.",
+  "extract_html": "<p><i><b>Porgy and Bess</b></i> is an English-language opera by American composer George Gershwin, with a libretto written by author DuBose Heyward and lyricist Ira Gershwin. It was adapted from Dorothy Heyward and DuBose Heyward's play <i>Porgy</i>, itself an adaptation of DuBose Heyward's 1925 novel of the same name.</p>"
+}

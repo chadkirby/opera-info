@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Judith Weir",
+  "displaytitle": "Judith Weir",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2411818",
+  "titles": {
+    "canonical": "Judith_Weir",
+    "normalized": "Judith Weir",
+    "display": "Judith Weir"
+  },
+  "pageid": 2762694,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1055911892",
+  "tid": "f89a2430-11a9-11ed-80d9-e50dbeba7ccc",
+  "timestamp": "2021-11-18T15:49:46Z",
+  "description": "British composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Judith_Weir",
+      "revisions": "https://en.wikipedia.org/wiki/Judith_Weir?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Judith_Weir?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Judith_Weir"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Judith_Weir",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Judith_Weir",
+      "edit": "https://en.m.wikipedia.org/wiki/Judith_Weir?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Judith_Weir"
+    }
+  },
+  "extract": "Judith Weir is a British composer and the first female Master of the Queen's Music.",
+  "extract_html": "<p><b>Judith Weir</b> is a British composer and the first female Master of the Queen's Music.</p>"
+}

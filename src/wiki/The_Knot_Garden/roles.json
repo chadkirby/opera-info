@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 2 December 1970<br>(<a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Sir <a href=\"/wiki/Colin_Davis\" title=\"Colin Davis\">Colin Davis</a>)\n</th></tr>\n<tr>\n<td>Faber, <i>a civil engineer</i>\n</td>\n<td>robust <a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Thea, <i>his wife, a gardener</i>\n</td>\n<td>dramatic <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Flora, <i>their ward, an adolescent girl</i>\n</td>\n<td>light high <a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Denise, <i>Thea's sister, a freedom fighter</i>\n</td>\n<td>dramatic soprano\n</td>\n</tr>\n<tr>\n<td>Mel, <i>a black writer</i>\n</td>\n<td>lyric <a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Dov, <i>his white lover, a musician</i>\n</td>\n<td>lyric <a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Mangus, <i>a psychoanalyst</i>\n</td>\n<td>high tenor baritone\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Faber, a civil engineer",
+      "voiceType": "robust baritone"
+    },
+    {
+      "role": "Thea, his wife, a gardener",
+      "voiceType": "dramatic mezzo-soprano"
+    },
+    {
+      "role": "Flora, their ward, an adolescent girl",
+      "voiceType": "light high soprano"
+    },
+    {
+      "role": "Denise, Thea's sister, a freedom fighter",
+      "voiceType": "dramatic soprano"
+    },
+    {
+      "role": "Mel, a black writer",
+      "voiceType": "lyric bass-baritone"
+    },
+    {
+      "role": "Dov, his white lover, a musician",
+      "voiceType": "lyric tenor"
+    },
+    {
+      "role": "Mangus, a psychoanalyst",
+      "voiceType": "high tenor baritone"
+    }
+  ]
+}

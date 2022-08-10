@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Otello",
+  "displaytitle": "<i>Otello</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q172324",
+  "titles": {
+    "canonical": "Otello",
+    "normalized": "Otello",
+    "display": "<i>Otello</i>"
+  },
+  "pageid": 82005,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Otello-Alexandre-Marie_Colin_1829.jpg/319px-Otello-Alexandre-Marie_Colin_1829.jpg",
+    "width": 319,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Otello-Alexandre-Marie_Colin_1829.jpg",
+    "width": 399,
+    "height": 400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095012232",
+  "tid": "77cdd830-119d-11ed-8853-017be35cf7d4",
+  "timestamp": "2022-06-25T22:05:07Z",
+  "description": "Opera in four acts by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Otello",
+      "revisions": "https://en.wikipedia.org/wiki/Otello?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Otello?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Otello"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Otello",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Otello",
+      "edit": "https://en.m.wikipedia.org/wiki/Otello?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Otello"
+    }
+  },
+  "extract": "Otello is an opera in four acts by Giuseppe Verdi to an Italian libretto by Arrigo Boito, based on Shakespeare's play Othello. It was Verdi's penultimate opera, first performed at the Teatro alla Scala, Milan, on 5 February 1887.",
+  "extract_html": "<p><i><b>Otello</b></i> is an opera in four acts by Giuseppe Verdi to an Italian libretto by Arrigo Boito, based on Shakespeare's play <i>Othello</i>. It was Verdi's penultimate opera, first performed at the Teatro alla Scala, Milan, on 5 February 1887.</p>"
+}

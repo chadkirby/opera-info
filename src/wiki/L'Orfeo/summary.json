@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "L'Orfeo",
+  "displaytitle": "<i>L'Orfeo</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q724008",
+  "titles": {
+    "canonical": "L'Orfeo",
+    "normalized": "L'Orfeo",
+    "display": "<i>L'Orfeo</i>"
+  },
+  "pageid": 486195,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cesare_Gennari_Orfeo.jpg/241px-Cesare_Gennari_Orfeo.jpg",
+    "width": 241,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cesare_Gennari_Orfeo.jpg",
+    "width": 362,
+    "height": 480
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095626737",
+  "tid": "d17daae0-15f8-11ed-8a7c-13d36db1ba6e",
+  "timestamp": "2022-06-29T12:25:36Z",
+  "description": "Opera by Claudio Monteverdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'Orfeo",
+      "revisions": "https://en.wikipedia.org/wiki/L'Orfeo?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'Orfeo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'Orfeo"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'Orfeo",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'Orfeo",
+      "edit": "https://en.m.wikipedia.org/wiki/L'Orfeo?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'Orfeo"
+    }
+  },
+  "extract": "L'Orfeo, sometimes called La favola d'Orfeo [la ˈfaːvola dorˈfɛːo], is a late Renaissance/early Baroque favola in musica, or opera, by Claudio Monteverdi, with a libretto by Alessandro Striggio. It is based on the Greek legend of Orpheus, and tells the story of his descent to Hades and his fruitless attempt to bring his dead bride Eurydice back to the living world. It was written in 1607 for a court performance during the annual Carnival at Mantua. While Jacopo Peri's Dafne is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's Euridice, L'Orfeo is the earliest that is still regularly performed.",
+  "extract_html": "<p><i><b>L'Orfeo</b></i>, sometimes called <i><b>La favola d'Orfeo</b></i> <small></small><span class=\"IPA\">[la ˈfaːvola dorˈfɛːo]</span>, is a late Renaissance/early Baroque <i>favola in musica</i>, or opera, by Claudio Monteverdi, with a libretto by Alessandro Striggio. It is based on the Greek legend of Orpheus, and tells the story of his descent to Hades and his fruitless attempt to bring his dead bride Eurydice back to the living world. It was written in 1607 for a court performance during the annual Carnival at Mantua. While Jacopo Peri's <i>Dafne</i> is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's <i>Euridice</i>, <i>L'Orfeo</i> is the earliest that is still regularly performed.</p>"
+}

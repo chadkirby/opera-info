@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Domenico Cimarosa",
+  "displaytitle": "Domenico Cimarosa",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q191775",
+  "titles": {
+    "canonical": "Domenico_Cimarosa",
+    "normalized": "Domenico Cimarosa",
+    "display": "Domenico Cimarosa"
+  },
+  "pageid": 37943,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Domenico_Cimarosa_2.png/270px-Domenico_Cimarosa_2.png",
+    "width": 270,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Domenico_Cimarosa_2.png",
+    "width": 460,
+    "height": 545
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098493081",
+  "tid": "e03c9330-119c-11ed-b3a2-b3d89303368f",
+  "timestamp": "2022-07-16T02:51:30Z",
+  "description": "Italian opera composer of the Neapolitan school",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Domenico_Cimarosa",
+      "revisions": "https://en.wikipedia.org/wiki/Domenico_Cimarosa?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Domenico_Cimarosa?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Domenico_Cimarosa"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Domenico_Cimarosa",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Domenico_Cimarosa",
+      "edit": "https://en.m.wikipedia.org/wiki/Domenico_Cimarosa?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Domenico_Cimarosa"
+    }
+  },
+  "extract": "Domenico Cimarosa was an Italian composer of the Neapolitan school and of the Classical period. He wrote more than eighty operas, the best known of which is Il matrimonio segreto (1792); most of his operas are comedies. He also wrote instrumental works and church music.",
+  "extract_html": "<p><b>Domenico Cimarosa</b> was an Italian composer of the Neapolitan school and of the Classical period. He wrote more than eighty operas, the best known of which is <i>Il matrimonio segreto</i> (1792); most of his operas are comedies. He also wrote instrumental works and church music.</p>"
+}

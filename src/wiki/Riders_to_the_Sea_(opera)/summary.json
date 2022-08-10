@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "Riders to the Sea (opera)",
+  "displaytitle": "<i>Riders to the Sea</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q264750",
+  "titles": {
+    "canonical": "Riders_to_the_Sea_(opera)",
+    "normalized": "Riders to the Sea (opera)",
+    "display": "<i>Riders to the Sea</i> (opera)"
+  },
+  "pageid": 9017217,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083528042",
+  "tid": "4de75370-0f8b-11ed-8a2d-89c0904ab3fc",
+  "timestamp": "2022-04-19T08:20:33Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Riders_to_the_Sea_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Riders_to_the_Sea_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Riders_to_the_Sea_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Riders_to_the_Sea_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Riders_to_the_Sea_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Riders_to_the_Sea_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Riders_to_the_Sea_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Riders_to_the_Sea_(opera)"
+    }
+  },
+  "extract": "Riders to the Sea is a short one-act opera by Ralph Vaughan Williams, based on the play of the same name by John Millington Synge. The composer completed the score in 1927, but it was not premiered until 1 December 1937, at the Royal College of Music, London. The opera remained largely the province of students and amateurs until it entered the repertoire of Sadler's Wells in 1953.",
+  "extract_html": "<p><i><b>Riders to the Sea</b></i> is a short one-act opera by Ralph Vaughan Williams, based on the play of the same name by John Millington Synge. The composer completed the score in 1927, but it was not premiered until 1 December 1937, at the Royal College of Music, London. The opera remained largely the province of students and amateurs until it entered the repertoire of Sadler's Wells in 1953.</p>"
+}

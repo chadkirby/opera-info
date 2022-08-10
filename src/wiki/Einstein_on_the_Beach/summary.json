@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Einstein on the Beach",
+  "displaytitle": "<i>Einstein on the Beach</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2291287",
+  "titles": {
+    "canonical": "Einstein_on_the_Beach",
+    "normalized": "Einstein on the Beach",
+    "display": "<i>Einstein on the Beach</i>"
+  },
+  "pageid": 341005,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Einstein_on_the_Beach_gallery_photograph.jpg/320px-Einstein_on_the_Beach_gallery_photograph.jpg",
+    "width": 320,
+    "height": 240
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Einstein_on_the_Beach_gallery_photograph.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103115497",
+  "tid": "0029e1d0-170a-11ed-9b5a-533e27184907",
+  "timestamp": "2022-08-08T11:05:20Z",
+  "description": "Opera by Philip Glass",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Einstein_on_the_Beach",
+      "revisions": "https://en.wikipedia.org/wiki/Einstein_on_the_Beach?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Einstein_on_the_Beach?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Einstein_on_the_Beach"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Einstein_on_the_Beach",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Einstein_on_the_Beach",
+      "edit": "https://en.m.wikipedia.org/wiki/Einstein_on_the_Beach?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Einstein_on_the_Beach"
+    }
+  },
+  "extract": "Einstein on the Beach is an opera in four acts composed by Philip Glass and directed by theatrical producer Robert Wilson, who also collaborated with Glass on the work's libretto. The opera eschews traditional narrative in favor of a formalist approach based on structured spaces laid out by Wilson in a series of storyboards which are framed and connected by five \"knee plays\" or intermezzos. The music was written \"in the spring, summer and fall of 1975.\" Glass recounts the collaborative process: \"I put [Wilson’s notebook of sketches] on the piano and composed each section like a portrait of the drawing before me. The score was begun in the spring of 1975 and completed by the following November, and those drawings were before me all the time.\" The premiere took place on July 25, 1976, at the Théâtre Municipal in Avignon, France, as part of the Avignon Festival. The opera contains writings by Christopher Knowles, Samuel M. Johnson and Lucinda Childs. It is Glass's first and longest opera score, taking approximately five hours in full performance without intermission; given the length, the audience is permitted to enter and leave as desired.",
+  "extract_html": "<p><i><b>Einstein on the Beach</b></i> is an opera in four acts composed by Philip Glass and directed by theatrical producer Robert Wilson, who also collaborated with Glass on the work's libretto. The opera eschews traditional narrative in favor of a formalist approach based on structured spaces laid out by Wilson in a series of storyboards which are framed and connected by five \"knee plays\" or intermezzos. The music was written \"in the spring, summer and fall of 1975.\" Glass recounts the collaborative process: \"I put [Wilson’s notebook of sketches] on the piano and composed each section like a portrait of the drawing before me. The score was begun in the spring of 1975 and completed by the following November, and those drawings were before me all the time.\" The premiere took place on July 25, 1976, at the Théâtre Municipal in Avignon, France, as part of the Avignon Festival. The opera contains writings by Christopher Knowles, Samuel M. Johnson and Lucinda Childs. It is Glass's first and longest opera score, taking approximately five hours in full performance without intermission; given the length, the audience is permitted to enter and leave as desired.</p>"
+}

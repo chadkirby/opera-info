@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gioachino Rossini",
+  "displaytitle": "Gioachino Rossini",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q9726",
+  "titles": {
+    "canonical": "Gioachino_Rossini",
+    "normalized": "Gioachino Rossini",
+    "display": "Gioachino Rossini"
+  },
+  "pageid": 12406,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rossini_young-circa-1815.jpg/244px-Rossini_young-circa-1815.jpg",
+    "width": 244,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rossini_young-circa-1815.jpg",
+    "width": 300,
+    "height": 394
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096830494",
+  "tid": "089538f0-1544-11ed-9f17-45ebe71851c8",
+  "timestamp": "2022-07-06T22:28:20Z",
+  "description": "Italian opera composer (1792–1868)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
+      "revisions": "https://en.wikipedia.org/wiki/Gioachino_Rossini?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gioachino_Rossini?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gioachino_Rossini"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gioachino_Rossini",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gioachino_Rossini",
+      "edit": "https://en.m.wikipedia.org/wiki/Gioachino_Rossini?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gioachino_Rossini"
+    }
+  },
+  "extract": "Gioachino Antonio Rossini was an Italian composer who gained fame for his 39 operas, although he also wrote many songs, some chamber music and piano pieces, and some sacred music. He set new standards for both comic and serious opera before retiring from large-scale composition while still in his thirties, at the height of his popularity.",
+  "extract_html": "<p><b>Gioachino Antonio Rossini</b> was an Italian composer who gained fame for his 39 operas, although he also wrote many songs, some chamber music and piano pieces, and some sacred music. He set new standards for both comic and serious opera before retiring from large-scale composition while still in his thirties, at the height of his popularity.</p>"
+}

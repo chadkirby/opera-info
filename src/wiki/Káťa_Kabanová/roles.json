@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 23 November 1921<br>Conductor: <a href=\"/wiki/Franti%C5%A1ek_Neumann\" title=\"František Neumann\">František Neumann</a>\n</th></tr>\n<tr>\n<td>Savël Prokofjevic Dikój, <i>a merchant</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Boris Grigorjevič, <i>Dikój's nephew</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Marfa Ignatěvna Kabanová (Kabanicha), <i>widow of a rich merchant</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Tichon Ivanyč Kabanov, <i>her son</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Káťa (Katerina), <i>Tichon's wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Váňa Kudrjaš, <i>a schoolteacher</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Varvara, <i>a foundling</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Kuligin, <i>friend of Vána Kudrjaš</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Glaša, <i>a servant</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Fekluša, <i>a servant</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Žena\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Rybář\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Opilec\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Male and female citizens\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Savël Prokofjevic Dikój, a merchant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Boris Grigorjevič, Dikój's nephew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Marfa Ignatěvna Kabanová (Kabanicha), widow of a rich merchant",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Tichon Ivanyč Kabanov, her son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Káťa (Katerina), Tichon's wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Váňa Kudrjaš, a schoolteacher",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Varvara, a foundling",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Kuligin, friend of Vána Kudrjaš",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Glaša, a servant",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Fekluša, a servant",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Žena",
+      "voiceType": ""
+    },
+    {
+      "role": "Rybář",
+      "voiceType": ""
+    },
+    {
+      "role": "Opilec",
+      "voiceType": ""
+    },
+    {
+      "role": "Male and female citizens",
+      "voiceType": ""
+    }
+  ]
+}

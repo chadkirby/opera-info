@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 10 February 1744<br>(Conductor: George Frideric Handel)\n</th></tr>\n<tr>\n<td>Jupiter\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Cadmus, <i>King of Thebes</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Semele, <i>daughter to Cadmus, in love with Jupiter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Athamas, <i>a prince of Bœotia, in love with, and designed to marry Semele</i>\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a>\n</td>\n</tr>\n<tr>\n<td>Ino, <i>sister to Semele, in love with Athamas</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Somnus\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Apollo\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Juno\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Iris\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>High priest\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus of priests, augurs, loves, zephyrs, nymphs, swains and attendants</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Jupiter",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Cadmus, King of Thebes",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Semele, daughter to Cadmus, in love with Jupiter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Athamas, a prince of Bœotia, in love with, and designed to marry Semele",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Ino, sister to Semele, in love with Athamas",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Somnus",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Apollo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Juno",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Iris",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "High priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus of priests, augurs, loves, zephyrs, nymphs, swains and attendants",
+      "voiceType": ""
+    }
+  ]
+}

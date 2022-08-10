@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Il prigioniero</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Radio_opera\" title=\"Radio opera\">Radio opera</a> by <a href=\"/wiki/Luigi_Dallapiccola\" title=\"Luigi Dallapiccola\">Luigi Dallapiccola</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>The Prisoner</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Dallapiccola</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">December&nbsp;1,&nbsp;1949<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1949-12-01</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/RAI\" title=\"RAI\">RAI</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Il prigioniero"
+  ],
+  "Translation": "The Prisoner",
+  "Librettist": "Dallapiccola",
+  "Language": "Italian",
+  "Premiere": "December 1, 1949\nRAI"
+}

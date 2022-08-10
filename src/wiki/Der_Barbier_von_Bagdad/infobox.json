@@ -1,0 +1,11 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\"><span title=\"German-language text\"><i lang=\"de\">Der Barbier von Bagdad</i></span></th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Comic_opera\" title=\"Comic opera\">Comic opera</a> by <a href=\"/wiki/Peter_Cornelius\" title=\"Peter Cornelius\">Peter Cornelius</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Peter_cornelius.jpg\" class=\"image\"><img alt=\"Peter cornelius.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/3/34/Peter_cornelius.jpg\" decoding=\"async\" width=\"150\" height=\"216\" data-file-width=\"150\" data-file-height=\"216\"></a><div class=\"infobox-caption\">The composer</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>The Barber of Baghdad</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Cornelius</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">German</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i><a href=\"/wiki/One_Thousand_and_One_Nights\" title=\"One Thousand and One Nights\">One Thousand and One Nights</a></i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">15&nbsp;December&nbsp;1858<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1858-12-15</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Deutsches_Nationaltheater_and_Staatskapelle_Weimar\" class=\"mw-redirect\" title=\"Deutsches Nationaltheater and Staatskapelle Weimar\">Hoftheater, Weimar</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Der Barbier von Bagdad"
+  ],
+  "Translation": "The Barber of Baghdad",
+  "Librettist": "Cornelius",
+  "Language": "German",
+  "Based on": "One Thousand and One Nights",
+  "Premiere": "15 December 1858\nHoftheater, Weimar"
+}

@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Professional Premiere Cast, February 18, 1947<br>(Conductor: <a href=\"/wiki/Jascha_Zayde\" title=\"Jascha Zayde\">Jascha Zayde</a>)\n</th></tr>\n<tr>\n<td>Monica\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Toby\n</td>\n<td><a href=\"/wiki/Tacet\" title=\"Tacet\">tacet</a>\n</td>\n</tr>\n<tr>\n<td>Madame Flora (Baba)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Mrs Gobineau\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mr Gobineau\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Mrs. Nolan\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>A voice, <i>to be sung off stage by Mrs Gobineau</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Monica",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Toby",
+      "voiceType": "tacet"
+    },
+    {
+      "role": "Madame Flora (Baba)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Mrs Gobineau",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mr Gobineau",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mrs. Nolan",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "A voice, to be sung off stage by Mrs Gobineau",
+      "voiceType": "soprano"
+    }
+  ]
+}

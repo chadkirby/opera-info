@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Moscow cast<br><a href=\"/wiki/Russian_Private_Opera\" class=\"mw-redirect\" title=\"Russian Private Opera\">Russian Private Opera</a><br>12 November 1897<br>Moscow<br>(Conductor: <a href=\"/wiki/Michele_Esposito\" title=\"Michele Esposito\">Michele Esposito</a>)\n</th>\n<th>Moscow cast<br><a href=\"/wiki/Zimin_Opera\" title=\"Zimin Opera\">Zimin Opera</a><br> 1910<br>(Conductor: Palitsyn)\n</th>\n<th>St. Petersburg cast<br><a href=\"/wiki/Mariinsky_Theatre\" title=\"Mariinsky Theatre\">Mariinsky Theatre</a>, 1911<br>(Conductor: <a href=\"/wiki/Albert_Coates_(musician)\" title=\"Albert Coates (musician)\">Albert Coates</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Ivan_Andreyevich_Khovansky_(Tararui)\" title=\"Ivan Andreyevich Khovansky (Tararui)\">Prince Ivan Khovansky</a>, <i>head of the <a href=\"/wiki/Streltsy\" title=\"Streltsy\">Streltsy</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n\n<td><a href=\"/w/index.php?title=Vasily_Sharonov&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vasily Sharonov (page does not exist)\">Vasily Sharonov</a>\n</td></tr>\n<tr>\n<td>Prince Andrey Khovansky, <i>his son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n\n<td><a href=\"/wiki/Andrey_Labinsky\" title=\"Andrey Labinsky\">Andrey Labinsky</a>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Vasily_Vasilyevich_Golitsyn\" class=\"mw-redirect\" title=\"Vasily Vasilyevich Golitsyn\">Prince Vasily Golitsin</a>\n</td>\n<td>tenor\n</td>\n\n\n<td><a href=\"/wiki/Ivan_Yershov\" title=\"Ivan Yershov\">Ivan Yershov</a>\n</td></tr>\n<tr>\n<td>Dosifey, <i>head of the schismatics (<a href=\"/wiki/Old_Believers\" title=\"Old Believers\">Old Believers</a>)</i>\n</td>\n<td>bass\n</td>\n\n\n<td><a href=\"/wiki/Feodor_Chaliapin\" title=\"Feodor Chaliapin\">Fyodor Shalyapin</a>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Fyodor_Shaklovity\" title=\"Fyodor Shaklovity\">Boyar Fyodor Shaklovity</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n\n<td><a href=\"/w/index.php?title=Pavel_Zakharovich_Andreyev&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pavel Zakharovich Andreyev (page does not exist)\">Pavel Andreyev</a>\n</td></tr>\n<tr>\n<td>Marfa, <i>a schismatic</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n\n<td><a href=\"/wiki/Evgenija_Ivanovna_Zbrueva\" title=\"Evgenija Ivanovna Zbrueva\">Yevgeniya Zbruyeva</a>\n</td></tr>\n<tr>\n<td>Susanna, <i>an old schismatic</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n\n<td>Yelena Nikolayeva\n</td></tr>\n<tr>\n<td>Scrivener\n</td>\n<td>tenor\n</td>\n\n\n<td>Grigoriy Ugrinovich\n</td></tr>\n<tr>\n<td>Emma, <i>a maiden from the German quarter</i>\n</td>\n<td>soprano\n</td>\n\n\n<td>Marya Kovalenko\n</td></tr>\n<tr>\n<td>Pastor\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>Varsonofyev, <i>a retainer of Golitsin</i>\n</td>\n<td>baritone\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>Kuzka, <i>a <a href=\"/wiki/Streltsy\" title=\"Streltsy\">strelets</a> (musketeer)</i>\n</td>\n<td>tenor\n</td>\n\n\n<td>Vladimir Losev\n</td></tr>\n<tr>\n<td>Streshnev, <i>a Boyar</i>\n</td>\n<td>tenor\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td colspan=\"6\">Chorus: <i>Streltsy, schismatics, serving girls and Persian slaves of Prince Ivan Khovansky, people</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Prince Ivan Khovansky, head of the Streltsy",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Prince Andrey Khovansky, his son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Prince Vasily Golitsin",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dosifey, head of the schismatics (Old Believers)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Boyar Fyodor Shaklovity",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Marfa, a schismatic",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Susanna, an old schismatic",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Scrivener",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Emma, a maiden from the German quarter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Pastor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Varsonofyev, a retainer of Golitsin",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Kuzka, a strelets (musketeer)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Streshnev, a Boyar",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Chorus: Streltsy, schismatics, serving girls and Persian slaves of Prince Ivan Khovansky, people",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dido and Aeneas",
+  "displaytitle": "<i>Dido and Aeneas</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q746646",
+  "titles": {
+    "canonical": "Dido_and_Aeneas",
+    "normalized": "Dido and Aeneas",
+    "display": "<i>Dido and Aeneas</i>"
+  },
+  "pageid": 650560,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Henry_Purcell_by_John_Closterman.jpg/294px-Henry_Purcell_by_John_Closterman.jpg",
+    "width": 294,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Henry_Purcell_by_John_Closterman.jpg",
+    "width": 2400,
+    "height": 2615
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087771576",
+  "tid": "be60f290-1676-11ed-b520-e15d7bbc4048",
+  "timestamp": "2022-05-14T12:03:20Z",
+  "description": "Opera by Purcell",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dido_and_Aeneas",
+      "revisions": "https://en.wikipedia.org/wiki/Dido_and_Aeneas?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dido_and_Aeneas?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dido_and_Aeneas"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Dido_and_Aeneas",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dido_and_Aeneas",
+      "edit": "https://en.m.wikipedia.org/wiki/Dido_and_Aeneas?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Dido_and_Aeneas"
+    }
+  },
+  "extract": "Dido and Aeneas is an opera in a prologue and three acts, written by the English Baroque composer Henry Purcell with a libretto by Nahum Tate. The dates of the composition and first performance of the opera are uncertain. It was composed no later than July 1688, and had been performed at Josias Priest's girls' school in London by the end of 1689. Some scholars argue for a date of composition as early as 1683. The story is based on Book IV of Virgil's Aeneid. It recounts the love of Dido, Queen of Carthage, for the Trojan hero Aeneas, and her despair when he abandons her. A monumental work in Baroque opera, Dido and Aeneas is remembered as one of Purcell's foremost theatrical works. It was also Purcell's only true opera, as well as his only all-sung dramatic work. One of the earliest known English operas, it owes much to John Blow's Venus and Adonis, both in structure and in overall effect.",
+  "extract_html": "<p><i><b>Dido and Aeneas</b></i> is an opera in a prologue and three acts, written by the English Baroque composer Henry Purcell with a libretto by Nahum Tate. The dates of the composition and first performance of the opera are uncertain. It was composed no later than July 1688, and had been performed at Josias Priest's girls' school in London by the end of 1689. Some scholars argue for a date of composition as early as 1683. The story is based on Book IV of Virgil's <i>Aeneid</i>. It recounts the love of Dido, Queen of Carthage, for the Trojan hero Aeneas, and her despair when he abandons her. A monumental work in Baroque opera, <i>Dido and Aeneas</i> is remembered as one of Purcell's foremost theatrical works. It was also Purcell's only true opera, as well as his only all-sung dramatic work. One of the earliest known English operas, it owes much to John Blow's <i>Venus and Adonis</i>, both in structure and in overall effect.</p>"
+}

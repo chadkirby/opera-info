@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere casts</span>\n</caption>\n<tbody><tr>\n<th rowspan=\"2\">Role<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup>\n</th>\n<th colspan=\"2\">First version\n</th>\n<th colspan=\"2\">Revised Bologna version\n</th></tr>\n<tr>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Cast, 5 March 1868<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup><br>Conductor: Arrigo Boito\n</th>\n\n</tr>\n<tr>\n<td>Elena (<a href=\"/wiki/Helen_of_Troy\" title=\"Helen of Troy\">Helen of Troy</a>)</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n\n\n<td><a href=\"/wiki/Erminia_Borghi-Mamo\" title=\"Erminia Borghi-Mamo\">Erminia Borghi-Mamo</a>\n</td></tr>\n<tr>\n<td>Faust, <i>a scholar</i></td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n\n\n<td><a href=\"/wiki/Italo_Campanini\" title=\"Italo Campanini\">Italo Campanini</a>\n</td></tr>\n<tr>\n<td>Margherita, <i>a simple girl</i></td>\n<td>soprano</td>\n\n\n<td>Erminia Borghi-Mamo\n</td></tr>\n<tr>\n<td>Marta, <i>Margherita's neighbour</i></td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a></td>\n\n\n<td>Antonietta Mazzucco\n</td></tr>\n<tr>\n<td>Mefistofele</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a></td>\n\n\n<td>Romano Nannetti\n</td></tr>\n<tr>\n<td>Nereo, <i>a Greek elder</i></td>\n<td></td>\n\n\n<td>Carlo Casarini\n</td></tr>\n<tr>\n<td>Pantalis, <i>Helen's companion</i></td>\n<td></td>\n\n\n<td>Antonietta Mazzucco\n</td></tr>\n<tr>\n<td>Wagner, <i>Faust's pupil</i></td>\n<td>tenor</td>\n\n\n<td>Carlo Casarini\n</td></tr>\n<tr>\n<td><i>The Astrologer</i></td>\n<td>bass</td>\n\n\n<td>(no role)\n</td></tr>\n<tr>\n<td colspan=\"5\">Additional characters from the first version: <i>The Herald; The Beggar; The Emperor; Lilith; Paris; A Boy; A Goblin</i>\n</td></tr>\n<tr>\n<td colspan=\"5\" style=\"max-width:60em\">Chorus (second version): <i>heavenly host, Chorus Mysticus, cherubim, penitents, strollers, crossbowmen, hunters, students, villagers, women of the people, middle class people, witches, warlocks, Greek chorus women,<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[14]</a></sup> Sirens, Nereids,<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup> Greek coryphaei, warriors</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Voice type",
+      "voiceType": "Cast, 5 March 1868\nConductor: Arrigo Boito"
+    },
+    {
+      "role": "Elena (Helen of Troy)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Faust, a scholar",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Margherita, a simple girl",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Marta, Margherita's neighbour",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Mefistofele",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Nereo, a Greek elder",
+      "voiceType": ""
+    },
+    {
+      "role": "Pantalis, Helen's companion",
+      "voiceType": ""
+    },
+    {
+      "role": "Wagner, Faust's pupil",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Astrologer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Additional characters from the first version: The Herald; The Beggar; The Emperor; Lilith; Paris; A Boy; A Goblin",
+      "voiceType": ""
+    },
+    {
+      "role": "Chorus (second version): heavenly host, Chorus Mysticus, cherubim, penitents, strollers, crossbowmen, hunters, students, villagers, women of the people, middle class people, witches, warlocks, Greek chorus women, Sirens, Nereids, Greek coryphaei, warriors",
+      "voiceType": ""
+    }
+  ]
+}

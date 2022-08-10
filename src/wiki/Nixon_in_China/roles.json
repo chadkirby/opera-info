@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role (and <a href=\"/wiki/Pinyin\" title=\"Pinyin\">pinyin</a> romanization)<sup id=\"cite_ref-Opera_News_2011-02_11-0\" class=\"reference\"><a href=\"#cite_note-Opera_News_2011-02-11\">[11]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-Opera_News_2011-02_11-1\" class=\"reference\"><a href=\"#cite_note-Opera_News_2011-02-11\">[11]</a></sup>\n</th>\n<th>Premiere cast<br>Houston, October 22, 1987<br>Conductor: <a href=\"/wiki/John_DeMain\" title=\"John DeMain\">John DeMain</a><sup id=\"cite_ref-Rhein_1987-10-30_12-0\" class=\"reference\"><a href=\"#cite_note-Rhein_1987-10-30-12\">[12]</a></sup><sup id=\"cite_ref-Holmes_1987-10-18_13-0\" class=\"reference\"><a href=\"#cite_note-Holmes_1987-10-18-13\">[13]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Richard_Nixon\" title=\"Richard Nixon\">Richard Nixon</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Pat_Nixon\" title=\"Pat Nixon\">Pat Nixon</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Zhou_Enlai\" title=\"Zhou Enlai\">Chou En-lai (Zhou Enlai)</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Mao_Zedong\" title=\"Mao Zedong\">Mao Tse-tung (Mao Zedong)</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Henry_Kissinger\" title=\"Henry Kissinger\">Henry Kissinger</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Jiang_Qing\" title=\"Jiang Qing\">Chiang Ch'ing (Madame Mao) (Jiang Qing)</a>\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Tang_Wensheng\" title=\"Tang Wensheng\">Nancy Tang (Tang Wensheng)</a>, First Secretary to Mao\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Second secretary to Mao\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a>\n</td>\n</tr>\n<tr>\n<td>Third secretary to Mao\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Dancers, militia, citizens of Peking</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Richard Nixon",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Pat Nixon",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chou En-lai (Zhou Enlai)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mao Tse-tung (Mao Zedong)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Henry Kissinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chiang Ch'ing (Madame Mao) (Jiang Qing)",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Nancy Tang (Tang Wensheng), First Secretary to Mao",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Second secretary to Mao",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Third secretary to Mao",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Dancers, militia, citizens of Peking",
+      "voiceType": ""
+    }
+  ]
+}

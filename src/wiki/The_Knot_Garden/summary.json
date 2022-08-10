@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "The Knot Garden",
+  "displaytitle": "<i>The Knot Garden</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3521497",
+  "titles": {
+    "canonical": "The_Knot_Garden",
+    "normalized": "The Knot Garden",
+    "display": "<i>The Knot Garden</i>"
+  },
+  "pageid": 2048117,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083528620",
+  "tid": "03b8a450-f9b2-11ec-8985-bfa66ff613a2",
+  "timestamp": "2022-04-19T08:26:12Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Knot_Garden",
+      "revisions": "https://en.wikipedia.org/wiki/The_Knot_Garden?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Knot_Garden?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Knot_Garden"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Knot_Garden",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Knot_Garden",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Knot_Garden?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Knot_Garden"
+    }
+  },
+  "extract": "The Knot Garden is the third opera by composer Michael Tippett for which he wrote the original English libretto. The work had its first performance at the Royal Opera House, Covent Garden, on 2 December 1970 conducted by Sir Colin Davis and produced by Sir Peter Hall. There is a recording with the original cast.",
+  "extract_html": "<p><i><b>The Knot Garden</b></i> is the third opera by composer Michael Tippett for which he wrote the original English libretto. The work had its first performance at the Royal Opera House, Covent Garden, on 2 December 1970 conducted by Sir Colin Davis and produced by Sir Peter Hall. There is a recording with the original cast.</p>"
+}

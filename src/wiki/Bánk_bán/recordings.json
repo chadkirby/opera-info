@@ -1,0 +1,40 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Orchestra and conductor\n</th>\n<th>Cast\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1956\n</td>\n<td>Budapest Philharmonic Orchestra and Hungarian State Opera Chorus; <a href=\"/w/index.php?title=Vilmos_Komor&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vilmos Komor (page does not exist)\">Vilmos Komor</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://hu.wikipedia.org/wiki/Komor_Vilmos\" class=\"extiw\" title=\"hu:Komor Vilmos\">hu</a>]</span> (conductor)\n</td>\n\n<td>LP: Qualiton HLPX 150-52 (three record set) (1956)\n</td></tr>\n<tr>\n<td>1969\n</td>\n<td>Budapest Philharmonic Orchestra and Hungarian State Opera Chorus; <a href=\"/wiki/J%C3%A1nos_Ferencsik\" title=\"János Ferencsik\">János Ferencsik</a> (conductor)\n</td>\n\n<td>LP: Hungaroton LPX11376 – 78 (three record set) (1969)<br>CD: DANACORD (two disc set) (1986)\n</td></tr>\n<tr>\n<td>1993\n</td>\n<td>Hungarian Festival Chorus and Budapest Symphonists; Géza Oberfrank (conductor)\n</td>\n\n<td>CD: Alpha Line Records ALR 005-07 (three-disc set)\n</td></tr>\n<tr>\n<td>2001\n</td>\n<td>Orchestra of the Hungarian Millennium, Honvéd Men's Chorus, Hungarian National Chorus; <a href=\"/w/index.php?title=Tam%C3%A1s_P%C3%A1l&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tamás Pál (page does not exist)\">Tamás Pál</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://hu.wikipedia.org/wiki/P%C3%A1l_Tam%C3%A1s_(karmester)\" class=\"extiw\" title=\"hu:Pál Tamás (karmester)\">hu</a>]</span> (conductor)\n</td>\n\n<td>CD: Warner Music Hungary 0927 44606 (two disc set)\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td>Hungarian State Opera Chorus and Orchestra; <a href=\"/w/index.php?title=Domonkos_H%C3%A9ja&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Domonkos Héja (page does not exist)\">Domonkos Héja</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://de.wikipedia.org/wiki/Domonkos_H%C3%A9ja\" class=\"extiw\" title=\"de:Domonkos Héja\">de</a>; <a href=\"https://hu.wikipedia.org/wiki/H%C3%A9ja_Domonkos\" class=\"extiw\" title=\"hu:Héja Domonkos\">hu</a>]</span> (conductor)\n</td>\n\n<td>CD: Opera Studio MAO001 (three disc set)\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1956,
+      "cast": [
+        "Budapest Philharmonic Orchestra and Hungarian State Opera Chorus; Vilmos Komor[hu] (conductor)"
+      ],
+      "conductor": "László Jámbor, Rózsi Delly, László Külkei, József Joviczky, Júlia Osváth, Jánoz Fodor, György Melis, György Radnai, József Bódy, Miklós Tóth. Recorded at the Erkel Theatre."
+    },
+    {
+      "year": 1969,
+      "cast": [
+        "Budapest Philharmonic Orchestra and Hungarian State Opera Chorus; János Ferencsik (conductor)"
+      ],
+      "conductor": "András Faragó, András Rajna, György Melis, László Palócz, Sándor Sólyom-Nagy, József Simándy, Karola Ágay, Erzsébet Komlóssy, József Réti, Imre Jóky"
+    },
+    {
+      "year": 1993,
+      "cast": [
+        "Hungarian Festival Chorus and Budapest Symphonists; Géza Oberfrank (conductor)"
+      ],
+      "conductor": "János Gurbán (II. Endre), Eva Marton (Gertrud), Tamás Daróczy (Ottó), András Molnár (Bánk Bán), Ingrid Kertesi (Melinda), István Gáti (Tiborc), Mihály Kálmándi (Petur Bán), Csaba Airizer (Biberach), Attila Fülöp (Royal officer), Pál Oberfrank (Ensign). Recorded 12–22 September 1993, Alpha Line Studio at the Italian Institute, Budapest"
+    },
+    {
+      "year": 2001,
+      "cast": [
+        "Orchestra of the Hungarian Millennium, Honvéd Men's Chorus, Hungarian National Chorus; Tamás Pál[hu] (conductor)"
+      ],
+      "conductor": "Kolos Kováts (The King of Hungary), Eva Marton (The Queen), Dénes Gulyás (Ottó, Prince of Meran), Atilla Kiss B. (Bánk Bán, Palatine of Hungary), Andrea Rost (his wife), Lajos Miller (Tiborc, a peasant), Sándor Sólyom-Nágy (Petur Bán, The Lord of Bihar), Attils Réti (Biberach, knight-adventurer), Bence Asztalos (Sólom Mester). Recorded 13–19 March 2001, Phoenix Studio, Budapest"
+    },
+    {
+      "year": 2011,
+      "cast": [
+        "Hungarian State Opera Chorus and Orchestra; Domonkos Héja[de; hu] (conductor)"
+      ],
+      "conductor": "Tamás Busa, Gyöngyi Lukács, Attila Fekete, János Bándi, Ingrid Kertesi, Mihály Kálmándi, Csaba Szegedi, Béla Perencz, Lázsló Beöthy-Kiss"
+    }
+  ]
+}

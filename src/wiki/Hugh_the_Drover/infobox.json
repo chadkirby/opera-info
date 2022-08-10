@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Hugh the Drover</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Ralph_Vaughan_Williams\" title=\"Ralph Vaughan Williams\">Ralph Vaughan Williams</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Harold Child</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">14&nbsp;July&nbsp;1924<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1924-07-14</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Her_Majesty%27s_Theatre\" title=\"Her Majesty's Theatre\">His Majesty's Theatre</a>, London</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Hugh the Drover"
+  ],
+  "Librettist": "Harold Child",
+  "Language": "English",
+  "Premiere": "14 July 1924\nHis Majesty's Theatre, London"
+}

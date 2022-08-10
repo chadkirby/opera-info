@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Arlecchino (opera)",
+  "displaytitle": "<i>Arlecchino</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q922043",
+  "titles": {
+    "canonical": "Arlecchino_(opera)",
+    "normalized": "Arlecchino (opera)",
+    "display": "<i>Arlecchino</i> (opera)"
+  },
+  "pageid": 4102357,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Moissi_as_Arlecchino.jpg/189px-Moissi_as_Arlecchino.jpg",
+    "width": 189,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Moissi_as_Arlecchino.jpg",
+    "width": 506,
+    "height": 856
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1058956925",
+  "tid": "d0e54020-f9d8-11ec-ada2-1537f4369949",
+  "timestamp": "2021-12-06T16:10:41Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arlecchino_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Arlecchino_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arlecchino_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arlecchino_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Arlecchino_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Arlecchino_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Arlecchino_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Arlecchino_(opera)"
+    }
+  },
+  "extract": "Arlecchino, oder Die Fenster is a one-act opera with spoken dialog by Ferruccio Busoni, with a libretto in German, composed in 1913. He completed the music for the opera while living in Zurich in 1916. It is a number opera written in neo-classical style and includes ironic allusions to operatic conventions and situations typical of the late 18th and early 19th centuries. It even includes a parody of a duel.",
+  "extract_html": "<p><i><b>Arlecchino</b></i>, <i>oder Die Fenster</i> is a one-act opera with spoken dialog by Ferruccio Busoni, with a libretto in German, composed in 1913. He completed the music for the opera while living in Zurich in 1916. It is a number opera written in neo-classical style and includes ironic allusions to operatic conventions and situations typical of the late 18th and early 19th centuries. It even includes a parody of a duel.</p>"
+}

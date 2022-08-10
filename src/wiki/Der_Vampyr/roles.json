@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th bgcolor=\"ececec\">Role\n</th>\n<th bgcolor=\"ececec\">Voice type\n</th>\n<th bgcolor=\"ececec\">Premiere,<br>29 March 1828<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup><br>(Conductor:  Heinrich Marschner)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Lord_Ruthven_(vampire)\" title=\"Lord Ruthven (vampire)\">Lord Ruthven</a>, the <a href=\"/wiki/Vampire\" title=\"Vampire\">vampire</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Sir Humphrey Davenaut\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Malwina, his daughter\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Sir Edgar Aubry\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Sir John Berkley\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Janthe, his daughter\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>George Dibdin, a servant in Davenaut's house\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Emmy Perth\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Toms Blunt\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Suse, his wife\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>James Gadshill\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Richard Scrop\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Robert Green\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The Vampire Master\n</td>\n<td>speaking part\n</td>\n</tr>\n<tr>\n<td>John Perth\n</td>\n<td>speaking part\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Lord Ruthven, the vampire",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sir Humphrey Davenaut",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Malwina, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sir Edgar Aubry",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sir John Berkley",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Janthe, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "George Dibdin, a servant in Davenaut's house",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Emmy Perth",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Toms Blunt",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Suse, his wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "James Gadshill",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Richard Scrop",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Robert Green",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Vampire Master",
+      "voiceType": "speaking part"
+    },
+    {
+      "role": "John Perth",
+      "voiceType": "speaking part"
+    }
+  ]
+}

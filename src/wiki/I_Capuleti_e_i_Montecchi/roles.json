@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 11 March 1830<br>(Conductor: - )\n</th></tr>\n<tr>\n<td>Tebaldo, <i>betrothed to Giulietta</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Capellio, <i>leader of the Capuleti, father of Giulietta</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Lorenzo, <i>doctor and retainer of the Capuleti</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Romeo, <i>leader of the Montecchi</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Giulietta, <i>in love with Romeo</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Tebaldo, betrothed to Giulietta",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Capellio, leader of the Capuleti, father of Giulietta",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lorenzo, doctor and retainer of the Capuleti",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Romeo, leader of the Montecchi",
+      "voiceType": "mezzo-soprano (en travesti)"
+    },
+    {
+      "role": "Giulietta, in love with Romeo",
+      "voiceType": "soprano"
+    }
+  ]
+}

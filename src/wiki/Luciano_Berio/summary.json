@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Luciano Berio",
+  "displaytitle": "Luciano Berio",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q221450",
+  "titles": {
+    "canonical": "Luciano_Berio",
+    "normalized": "Luciano Berio",
+    "display": "Luciano Berio"
+  },
+  "pageid": 42823962,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Luciano_Berio.jpg/256px-Luciano_Berio.jpg",
+    "width": 256,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Luciano_Berio.jpg",
+    "width": 290,
+    "height": 363
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096898549",
+  "tid": "d9b8d4f0-178d-11ed-8da7-3764b2c4d4b0",
+  "timestamp": "2022-07-07T10:16:05Z",
+  "description": "Italian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Luciano_Berio",
+      "revisions": "https://en.wikipedia.org/wiki/Luciano_Berio?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Luciano_Berio?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Luciano_Berio"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Luciano_Berio",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Luciano_Berio",
+      "edit": "https://en.m.wikipedia.org/wiki/Luciano_Berio?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Luciano_Berio"
+    }
+  },
+  "extract": "Luciano Berio OMRI was an Italian composer noted for his experimental work, and for his pioneering work in electronic music. His early work was influenced by Igor Stravinsky and experiments with serial and electronic techniques, while his later works explore indeterminacy and the use of spoken texts as the basic material for composition.",
+  "extract_html": "<p><b>Luciano Berio</b> OMRI was an Italian composer noted for his experimental work, and for his pioneering work in electronic music. His early work was influenced by Igor Stravinsky and experiments with serial and electronic techniques, while his later works explore indeterminacy and the use of spoken texts as the basic material for composition.</p>"
+}

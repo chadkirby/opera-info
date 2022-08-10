@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 14 September 1954\n<p>Conductor: Benjamin Britten\n</p>\n</th></tr>\n<tr>\n<td>Prologue\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Governess\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Miles\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">treble</a>\n</td>\n</tr>\n<tr>\n<td>Flora\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mrs. Grose, <i>the housekeeper</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Miss Jessel, <i>the former governess</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Peter Quint, <i>the former manservant</i>\n</td>\n<td>Tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Prologue",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Governess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Miles",
+      "voiceType": "treble"
+    },
+    {
+      "role": "Flora",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mrs. Grose, the housekeeper",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Miss Jessel, the former governess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Peter Quint, the former manservant",
+      "voiceType": "Tenor"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Albert Lortzing",
+  "displaytitle": "Albert Lortzing",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q154203",
+  "titles": {
+    "canonical": "Albert_Lortzing",
+    "normalized": "Albert Lortzing",
+    "display": "Albert Lortzing"
+  },
+  "pageid": 354604,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lortzing2.jpg/228px-Lortzing2.jpg",
+    "width": 228,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lortzing2.jpg",
+    "width": 3000,
+    "height": 4200
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094762018",
+  "tid": "51ea70b0-0f81-11ed-87c5-2f43b19d286e",
+  "timestamp": "2022-06-24T10:52:11Z",
+  "description": "German opera composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Albert_Lortzing",
+      "revisions": "https://en.wikipedia.org/wiki/Albert_Lortzing?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Albert_Lortzing?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Albert_Lortzing"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Albert_Lortzing",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Albert_Lortzing",
+      "edit": "https://en.m.wikipedia.org/wiki/Albert_Lortzing?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Albert_Lortzing"
+    }
+  },
+  "extract": "Gustav Albert Lortzing was a German composer, librettist, actor and singer. He is considered to be the main representative of the German Spieloper, a form similar to the French opéra comique, which grew out of the Singspiel.",
+  "extract_html": "<p><b>Gustav Albert Lortzing</b> was a German composer, librettist, actor and singer. He is considered to be the main representative of the German <i>Spieloper</i>, a form similar to the French <i>opéra comique</i>, which grew out of the <i>Singspiel</i>.</p>"
+}

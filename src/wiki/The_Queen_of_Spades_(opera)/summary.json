@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Queen of Spades (opera)",
+  "displaytitle": "<i>The Queen of Spades</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q221047",
+  "titles": {
+    "canonical": "The_Queen_of_Spades_(opera)",
+    "normalized": "The Queen of Spades (opera)",
+    "display": "<i>The Queen of Spades</i> (opera)"
+  },
+  "pageid": 1256333,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tchaikovsky_and_the_Figners_1890.jpg/320px-Tchaikovsky_and_the_Figners_1890.jpg",
+    "width": 320,
+    "height": 303
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tchaikovsky_and_the_Figners_1890.jpg",
+    "width": 444,
+    "height": 420
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086543912",
+  "tid": "b9151a70-06a2-11ed-9495-b55884d52036",
+  "timestamp": "2022-05-06T20:19:50Z",
+  "description": "1890 opera by Pyotr Ilyich Tchaikovsky",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Queen_of_Spades_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Queen_of_Spades_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Queen_of_Spades_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Queen_of_Spades_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Queen_of_Spades_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Queen_of_Spades_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Queen_of_Spades_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Queen_of_Spades_(opera)"
+    }
+  },
+  "extract": "The Queen of Spades or Pique Dame, Op. 68 is an opera in three acts by Pyotr Ilyich Tchaikovsky to a Russian libretto by the composer's brother Modest Tchaikovsky, based on the 1834 novella of the same name by Alexander Pushkin, but with a dramatically altered plot. The premiere took place in 1890 at the Mariinsky Theatre in Saint Petersburg, Russia.",
+  "extract_html": "<p><i><b>The Queen of Spades</b></i> or <i><b>Pique Dame</b></i>, Op. 68 is an opera in three acts by Pyotr Ilyich Tchaikovsky to a Russian libretto by the composer's brother Modest Tchaikovsky, based on the 1834 novella of the same name by Alexander Pushkin, but with a dramatically altered plot. The premiere took place in 1890 at the Mariinsky Theatre in Saint Petersburg, Russia.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Christoph Willibald Gluck",
+  "displaytitle": "Christoph Willibald Gluck",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q130759",
+  "titles": {
+    "canonical": "Christoph_Willibald_Gluck",
+    "normalized": "Christoph Willibald Gluck",
+    "display": "Christoph Willibald Gluck"
+  },
+  "pageid": 99636,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg/258px-Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg",
+    "width": 4191,
+    "height": 5200
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098381460",
+  "tid": "5c518130-13e4-11ed-a95a-058ef4632204",
+  "timestamp": "2022-07-15T15:22:34Z",
+  "description": "18th century composer of opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+      "revisions": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Christoph_Willibald_Gluck"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Christoph_Willibald_Gluck",
+      "edit": "https://en.m.wikipedia.org/wiki/Christoph_Willibald_Gluck?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Christoph_Willibald_Gluck"
+    }
+  },
+  "extract": "Christoph Willibald Gluck was a composer of Italian and French opera in the early classical period. Born in the Upper Palatinate and raised in Bohemia, both part of the Holy Roman Empire, he gained prominence at the Habsburg court at Vienna. There he brought about the practical reform of opera's dramaturgical practices for which many intellectuals had been campaigning. With a series of radical new works in the 1760s, among them Orfeo ed Euridice and Alceste, he broke the stranglehold that Metastasian opera seria had enjoyed for much of the century. Gluck introduced more drama by using orchestral recitative and cutting the usually long da capo aria. His later operas have half the length of a typical baroque opera. Mozart, Berlioz and Wagner revered Gluck very highly.",
+  "extract_html": "<p><b>Christoph Willibald</b> <b>Gluck</b> was a composer of Italian and French opera in the early classical period. Born in the Upper Palatinate and raised in Bohemia, both part of the Holy Roman Empire, he gained prominence at the Habsburg court at Vienna. There he brought about the practical reform of opera's dramaturgical practices for which many intellectuals had been campaigning. With a series of radical new works in the 1760s, among them <i>Orfeo ed Euridice</i> and <i>Alceste</i>, he broke the stranglehold that Metastasian <i>opera seria</i> had enjoyed for much of the century. Gluck introduced more drama by using orchestral recitative and cutting the usually long da capo aria. His later operas have half the length of a typical baroque opera. Mozart, Berlioz and Wagner revered Gluck very highly.</p>"
+}

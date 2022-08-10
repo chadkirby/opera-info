@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La Juive",
+  "displaytitle": "<i>La Juive</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q339043",
+  "titles": {
+    "canonical": "La_Juive",
+    "normalized": "La Juive",
+    "display": "<i>La Juive</i>"
+  },
+  "pageid": 803680,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Corn%C3%A9lie_Falcon_as_Rachel_in_La_Juive_by_Hal%C3%A9vy_1835_-_A_Colin_-_NGO2p110.jpg/222px-Corn%C3%A9lie_Falcon_as_Rachel_in_La_Juive_by_Hal%C3%A9vy_1835_-_A_Colin_-_NGO2p110.jpg",
+    "width": 222,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Corn%C3%A9lie_Falcon_as_Rachel_in_La_Juive_by_Hal%C3%A9vy_1835_-_A_Colin_-_NGO2p110.jpg",
+    "width": 1700,
+    "height": 2449
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103110149",
+  "tid": "dcb024c0-1705-11ed-a0fc-a361ecaed8a0",
+  "timestamp": "2022-08-08T10:35:44Z",
+  "description": "Opera by Fromental Halévy",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_Juive",
+      "revisions": "https://en.wikipedia.org/wiki/La_Juive?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_Juive?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_Juive"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_Juive",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_Juive",
+      "edit": "https://en.m.wikipedia.org/wiki/La_Juive?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_Juive"
+    }
+  },
+  "extract": "La Juive is a grand opera in five acts by Fromental Halévy to an original French libretto by Eugène Scribe; it was first performed at the Opéra, Paris, on 23 February 1835.",
+  "extract_html": "<p><i><b>La Juive</b></i> is a grand opera in five acts by Fromental Halévy to an original French libretto by Eugène Scribe; it was first performed at the Opéra, Paris, on 23 February 1835.</p>"
+}

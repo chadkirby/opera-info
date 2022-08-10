@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Der Kaiser von Atlantis",
+  "displaytitle": "<i>Der Kaiser von Atlantis</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3773235",
+  "titles": {
+    "canonical": "Der_Kaiser_von_Atlantis",
+    "normalized": "Der Kaiser von Atlantis",
+    "display": "<i>Der Kaiser von Atlantis</i>"
+  },
+  "pageid": 9017275,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Viktor_Ullmann_%22Der_Kaiser_von_Atlantis_oder_Die_Tod-Verweigerung.jpg",
+    "width": 160,
+    "height": 120
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Viktor_Ullmann_%22Der_Kaiser_von_Atlantis_oder_Die_Tod-Verweigerung.jpg",
+    "width": 160,
+    "height": 120
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092746662",
+  "tid": "d1639330-15f8-11ed-a33b-3ba7e4180e44",
+  "timestamp": "2022-06-12T09:29:08Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Kaiser_von_Atlantis",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Kaiser_von_Atlantis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Kaiser_von_Atlantis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Kaiser_von_Atlantis"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Kaiser_von_Atlantis",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Kaiser_von_Atlantis",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Kaiser_von_Atlantis?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Kaiser_von_Atlantis"
+    }
+  },
+  "extract": "Der Kaiser von Atlantis oder Die Tod-Verweigerung is a one-act opera by Viktor Ullmann with a libretto by Peter Kien. They collaborated on the work while interned in the Nazi concentration camp of Theresienstadt (Terezín) around 1943. The Nazis did not allow it to be performed there.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Der Kaiser von Atlantis oder Die Tod-Verweigerung</i></span></b></i> is a one-act opera by Viktor Ullmann with a libretto by Peter Kien. They collaborated on the work while interned in the Nazi concentration camp of Theresienstadt (Terezín) around 1943. The Nazis did not allow it to be performed there.</p>"
+}

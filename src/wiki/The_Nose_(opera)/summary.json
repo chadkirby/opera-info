@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Nose (opera)",
+  "displaytitle": "<i>The Nose</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2367888",
+  "titles": {
+    "canonical": "The_Nose_(opera)",
+    "normalized": "The Nose (opera)",
+    "display": "<i>The Nose</i> (opera)"
+  },
+  "pageid": 649655,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dmitrij_Dmitrijevi%C4%8D_%C5%A0ostakovi%C4%8D_%28%D0%94%D0%BC%D0%B8%CC%81%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%CC%81%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%CC%81%D0%B2%D0%B8%D1%87%29.jpg/302px-Dmitrij_Dmitrijevi%C4%8D_%C5%A0ostakovi%C4%8D_%28%D0%94%D0%BC%D0%B8%CC%81%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%CC%81%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%CC%81%D0%B2%D0%B8%D1%87%29.jpg",
+    "width": 302,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dmitrij_Dmitrijevi%C4%8D_%C5%A0ostakovi%C4%8D_%28%D0%94%D0%BC%D0%B8%CC%81%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%CC%81%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%CC%81%D0%B2%D0%B8%D1%87%29.jpg",
+    "width": 490,
+    "height": 520
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093243252",
+  "tid": "1a52c2f0-0f82-11ed-918a-491f03dfe7ce",
+  "timestamp": "2022-06-15T11:30:59Z",
+  "description": "Opera by Dmitri Shostakovich",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Nose_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Nose_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Nose_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Nose_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Nose_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Nose_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Nose_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Nose_(opera)"
+    }
+  },
+  "extract": "The Nose, Op. 15,, is Dmitri Shostakovich's first opera, a satirical work completed in 1928 based on Nikolai Gogol's 1836 story of the same name.",
+  "extract_html": "<p><i><b>The Nose</b></i>, Op. 15,, is Dmitri Shostakovich's first opera, a satirical work completed in 1928 based on Nikolai Gogol's 1836 story of the same name.</p>"
+}

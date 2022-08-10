@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role – In Prague (1888)\n</th>\n<th>Role – On the Moon\n</th>\n<th>Role – In Prague (1420)\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 23 April 1920<br>(Conductor: – <b><a href=\"/wiki/Otakar_Ostr%C4%8Dil\" title=\"Otakar Ostrčil\">Otakar Ostrčil</a></b>)\n</th></tr>\n<tr>\n<td>Matěj Brouček, <i>a landlord</i>\n</td>\n<td>Matěj Brouček\n</td>\n\n\n<td>Mirko Štork<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup>\n</td></tr>\n<tr>\n<td>Mazal, <i>a painter</i>\n</td>\n<td>Blankytný, <i>Azurean</i>\n</td>\n\n\n<td>Miloslav Jeník\n</td></tr>\n<tr>\n<td>Sakristán, <i>Sacristan</i>\n</td>\n<td>Lunobor, <i>Lunigrove</i>\n</td>\n\n\n<td>Vilém Zítek\n</td></tr>\n<tr>\n<td>Málinka, <i>his daughter</i>\n</td>\n<td>Etherea, <i>lunar goddess</i>\n</td>\n\n\n<td>Ema Miřiovská\n</td></tr>\n<tr>\n<td>Würfl, <i>a bartender</i>\n</td>\n<td>Čaroskvoucí, <i>Wonderglitter</i>\n</td>\n\n\n<td>Václav Novák\n</td></tr>\n<tr>\n<td>Číšníček, <i>Young waiter at bar</i>\n</td>\n<td>Zázračné dítě, <i>Child prodigy</i>\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>Fanny, <i>Housekeeper</i>\n</td>\n<td>Nourishing Minister\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>Skladatel, <i>Composer</i>\n</td>\n<td>Harfoboj, <i>Harper</i>\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>Básník, <i>Poet</i>\n</td>\n<td>Oblačný, <i>Cloudy</i>\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>Guests at \"Vikárka”\n</td>\n<td>Delegates of the Moon\n</td>\n\n</tr>\n<tr>\n<td>Spectators\n</td>\n<td>Moonwomen\n</td>\n\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Matěj Brouček, a landlord",
+      "voiceType": "Matěj Brouček"
+    },
+    {
+      "role": "Mazal, a painter",
+      "voiceType": "Blankytný, Azurean"
+    },
+    {
+      "role": "Sakristán, Sacristan",
+      "voiceType": "Lunobor, Lunigrove"
+    },
+    {
+      "role": "Málinka, his daughter",
+      "voiceType": "Etherea, lunar goddess"
+    },
+    {
+      "role": "Würfl, a bartender",
+      "voiceType": "Čaroskvoucí, Wonderglitter"
+    },
+    {
+      "role": "Číšníček, Young waiter at bar",
+      "voiceType": "Zázračné dítě, Child prodigy"
+    },
+    {
+      "role": "Fanny, Housekeeper",
+      "voiceType": "Nourishing Minister"
+    },
+    {
+      "role": "Skladatel, Composer",
+      "voiceType": "Harfoboj, Harper"
+    },
+    {
+      "role": "Básník, Poet",
+      "voiceType": "Oblačný, Cloudy"
+    },
+    {
+      "role": "Guests at \"Vikárka”",
+      "voiceType": "Delegates of the Moon"
+    },
+    {
+      "role": "Spectators",
+      "voiceType": "Moonwomen"
+    }
+  ]
+}

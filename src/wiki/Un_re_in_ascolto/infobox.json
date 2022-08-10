@@ -1,0 +1,11 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Un re in ascolto</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Luciano_Berio\" title=\"Luciano Berio\">Luciano Berio</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Luciano_Berio.jpg\" class=\"image\"><img alt=\"Luciano Berio.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Luciano_Berio.jpg/220px-Luciano_Berio.jpg\" decoding=\"async\" width=\"220\" height=\"275\" srcset=\"//upload.wikimedia.org/wikipedia/commons/c/ce/Luciano_Berio.jpg 1.5x\" data-file-width=\"290\" data-file-height=\"363\"></a><div class=\"infobox-caption\">The composer in the 1970s</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>A King Listens</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Berio</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i><a href=\"/wiki/Under_the_Jaguar_Sun\" title=\"Under the Jaguar Sun\">Under the Jaguar Sun</a></i><br>by <a href=\"/wiki/Italo_Calvino\" title=\"Italo Calvino\">Italo Calvino</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">7&nbsp;August&nbsp;1984<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1984-08-07</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Kleines_Festspielhaus\" class=\"mw-redirect\" title=\"Kleines Festspielhaus\">Kleines Festspielhaus</a>, Salzburg</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Un re in ascolto"
+  ],
+  "Translation": "A King Listens",
+  "Librettist": "Berio",
+  "Language": "Italian",
+  "Based on": "Under the Jaguar Sun\nby Italo Calvino",
+  "Premiere": "7 August 1984\nKleines Festspielhaus, Salzburg"
+}

@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th bgcolor=\"ececec\">Role\n</th>\n<th bgcolor=\"ececec\">Voice type\n</th>\n<th bgcolor=\"ececec\">Premiere, 28 October 1942<br>(Conductor: Clemens Krauss)\n</th></tr>\n<tr>\n<td>The Countess\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Clairon, <i>an actress</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Flamand, <i>a musician</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Olivier, <i>a poet</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>The Count, <i>the Countess's brother</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>La Roche, <i>director of a theatre</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Monsieur Taupe\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Italian singer\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Italian singer\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The Major-Domo\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Musicians and servants</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "The Countess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Clairon, an actress",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Flamand, a musician",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Olivier, a poet",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "The Count, the Countess's brother",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "La Roche, director of a theatre",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Monsieur Taupe",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Italian singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Italian singer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Major-Domo",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Musicians and servants",
+      "voiceType": ""
+    }
+  ]
+}

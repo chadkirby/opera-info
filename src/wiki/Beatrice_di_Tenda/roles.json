@@ -1,0 +1,29 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-Os_14-0\" class=\"reference\"><a href=\"#cite_note-Os-14\">[14]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 16 March 1833\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Beatrice_Lascaris_di_Tenda\" title=\"Beatrice Lascaris di Tenda\">Beatrice di Tenda</a>, <i>Filippo's wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Filippo_Maria_Visconti\" title=\"Filippo Maria Visconti\">Filippo Maria Visconti</a>, <a href=\"/wiki/Duke_of_Milan\" class=\"mw-redirect\" title=\"Duke of Milan\">Duke of Milan</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Agnese_del_Maino\" title=\"Agnese del Maino\">Agnese del Maino</a>, <i>in love with Orombello</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Orombello, <i>Lord of Ventimiglia</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Anichino, <i>loyal friend of Orombello</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Rizzardo del Maino, <i>Agnese's brother and Filippo's confidant</i>\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Beatrice di Tenda, Filippo's wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Filippo Maria Visconti, Duke of Milan",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Agnese del Maino, in love with Orombello",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Orombello, Lord of Ventimiglia",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Anichino, loyal friend of Orombello",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Rizzardo del Maino, Agnese's brother and Filippo's confidant",
+      "voiceType": "tenor"
+    }
+  ]
+}

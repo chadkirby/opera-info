@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>World premiere,<br>St. Petersburg<br>27 November (<a href=\"/wiki/Adoption_of_the_Gregorian_calendar#Adoption_in_Eastern_Europe\" title=\"Adoption of the Gregorian calendar\">Old Style</a>) (9 December, NS) 1836<br>(Conductor: <a href=\"/wiki/Catterino_Cavos\" title=\"Catterino Cavos\">Catterino Cavos</a>)\n</th>\n<th>Moscow premiere<br>7 September (<a href=\"/wiki/Adoption_of_the_Gregorian_calendar#Adoption_in_Eastern_Europe\" title=\"Adoption of the Gregorian calendar\">Old Style</a>) 1842<br>(conductor: <a href=\"/w/index.php?title=Ivan_Iogannis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ivan Iogannis (page does not exist)\">Ivan Iogannis</a> )\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Ivan_Susanin\" title=\"Ivan Susanin\">Ivan Susanin</a>, <i>a peasant of the village of Domnino</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Antonida, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Vanya, <i>Susanin's adopted son</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n</tr>\n<tr>\n<td>Bogdan Sobinin, <i>a militiaman, Antonida's fiance</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Commander of the Polish Detachment\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>A Polish courier\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Commander of the Russian Detachment\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Chorus and silent: <i>Peasant men and women, militiamen, Polish nobles and ladies, knights</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Ivan Susanin, a peasant of the village of Domnino",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Antonida, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Vanya, Susanin's adopted son",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Bogdan Sobinin, a militiaman, Antonida's fiance",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Commander of the Polish Detachment",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Polish courier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Commander of the Russian Detachment",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus and silent: Peasant men and women, militiamen, Polish nobles and ladies, knights",
+      "voiceType": ""
+    }
+  ]
+}

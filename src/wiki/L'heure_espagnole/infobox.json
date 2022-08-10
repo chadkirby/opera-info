@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">L'heure espagnole</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Maurice_Ravel\" title=\"Maurice Ravel\">Maurice Ravel</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Maurice_Ravel_1912.jpg\" class=\"image\"><img alt=\"Maurice Ravel 1912.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Maurice_Ravel_1912.jpg/220px-Maurice_Ravel_1912.jpg\" decoding=\"async\" width=\"220\" height=\"293\" srcset=\"//upload.wikimedia.org/wikipedia/commons/8/84/Maurice_Ravel_1912.jpg 1.5x\" data-file-width=\"266\" data-file-height=\"354\"></a><div class=\"infobox-caption\">Maurice Ravel in 1912</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Franc-Nohain\" title=\"Franc-Nohain\">Franc-Nohain</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">French</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\">Franc-Nohain's play</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">19&nbsp;May&nbsp;1911<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1911-05-19</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Op%C3%A9ra-Comique\" title=\"Opéra-Comique\">Opéra-Comique</a>, Paris</div></div></td></tr></tbody></table>",
+  "titles": [
+    "L'heure espagnole"
+  ],
+  "Librettist": "Franc-Nohain",
+  "Language": "French",
+  "Based on": "Franc-Nohain's play",
+  "Premiere": "19 May 1911\nOpéra-Comique, Paris"
+}

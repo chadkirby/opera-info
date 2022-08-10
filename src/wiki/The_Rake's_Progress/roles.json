@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<br>11 September 1951<br>(Conductor: <a href=\"/wiki/Igor_Stravinsky\" title=\"Igor Stravinsky\">Igor Stravinsky</a>)\n</th></tr>\n<tr>\n<td>Tom Rakewell, <i>a Rake </i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Anne Trulove, <i>his Betrothed</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Nick Shadow, <i>a Devilish Manservant</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Baba the Turk, <i>a Bearded Lady</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Father Trulove, <i>Anne's Father</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Sellem, <i>an Auctioneer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Mother Goose, <i>a Whore</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Keeper of the Madhouse\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Tom Rakewell, a Rake",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Anne Trulove, his Betrothed",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Nick Shadow, a Devilish Manservant",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Baba the Turk, a Bearded Lady",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Father Trulove, Anne's Father",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sellem, an Auctioneer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mother Goose, a Whore",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Keeper of the Madhouse",
+      "voiceType": "bass"
+    }
+  ]
+}

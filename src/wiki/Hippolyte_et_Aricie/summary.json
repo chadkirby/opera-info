@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Hippolyte et Aricie",
+  "displaytitle": "<i>Hippolyte et Aricie</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1376211",
+  "titles": {
+    "canonical": "Hippolyte_et_Aricie",
+    "normalized": "Hippolyte et Aricie",
+    "display": "<i>Hippolyte et Aricie</i>"
+  },
+  "pageid": 6016593,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg/220px-Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg",
+    "width": 220,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg",
+    "width": 417,
+    "height": 606
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1047533676",
+  "tid": "9f66a040-08d6-11ed-aebf-894ec6a6bf63",
+  "timestamp": "2021-10-01T08:50:00Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hippolyte_et_Aricie",
+      "revisions": "https://en.wikipedia.org/wiki/Hippolyte_et_Aricie?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hippolyte_et_Aricie?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hippolyte_et_Aricie"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hippolyte_et_Aricie",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hippolyte_et_Aricie",
+      "edit": "https://en.m.wikipedia.org/wiki/Hippolyte_et_Aricie?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hippolyte_et_Aricie"
+    }
+  },
+  "extract": "Hippolyte et Aricie was the first opera by Jean-Philippe Rameau. It was premiered to great controversy by the Académie Royale de Musique at its theatre in the Palais-Royal in Paris on October 1, 1733. The French libretto, by Abbé Simon-Joseph Pellegrin, is based on Racine's tragedy Phèdre. The opera takes the traditional form of a tragédie en musique with an allegorical prologue followed by five acts. Early audiences found little else conventional about the work.",
+  "extract_html": "<p><b><span><i lang=\"fr\">Hippolyte et Aricie</i></span></b> was the first opera by Jean-Philippe Rameau. It was premiered to great controversy by the Académie Royale de Musique at its theatre in the Palais-Royal in Paris on October 1, 1733. The French libretto, by Abbé Simon-Joseph Pellegrin, is based on Racine's tragedy <i>Phèdre</i>. The opera takes the traditional form of a <span><i lang=\"fr\">tragédie en musique</i></span> with an allegorical prologue followed by five acts. Early audiences found little else conventional about the work.</p>"
+}

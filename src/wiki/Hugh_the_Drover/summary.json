@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "Hugh the Drover",
+  "displaytitle": "<i>Hugh the Drover</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q267076",
+  "titles": {
+    "canonical": "Hugh_the_Drover",
+    "normalized": "Hugh the Drover",
+    "display": "<i>Hugh the Drover</i>"
+  },
+  "pageid": 2046604,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1021456839",
+  "tid": "50ad38f0-0f85-11ed-8f43-a38fdcfe10e0",
+  "timestamp": "2021-05-04T20:12:05Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hugh_the_Drover",
+      "revisions": "https://en.wikipedia.org/wiki/Hugh_the_Drover?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hugh_the_Drover?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hugh_the_Drover"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hugh_the_Drover",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hugh_the_Drover",
+      "edit": "https://en.m.wikipedia.org/wiki/Hugh_the_Drover?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hugh_the_Drover"
+    }
+  },
+  "extract": "\n\nHugh the Drover is an opera in two acts by Ralph Vaughan Williams to an original English libretto by Harold Child. The work has set numbers with recitatives. It has been described as a modern example of a ballad opera. Contemporary comment noted the use of humour and the role of the chorus in the work, in the context of developing English opera.",
+  "extract_html": "<p>\n\n<i><b>Hugh the Drover</b></i> is an opera in two acts by Ralph Vaughan Williams to an original English libretto by Harold Child. The work has set numbers with recitatives. It has been described as a modern example of a ballad opera. Contemporary comment noted the use of humour and the role of the chorus in the work, in the context of developing English opera.</p>"
+}

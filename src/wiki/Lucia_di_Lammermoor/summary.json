@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lucia di Lammermoor",
+  "displaytitle": "<i>Lucia di Lammermoor</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q244209",
+  "titles": {
+    "canonical": "Lucia_di_Lammermoor",
+    "normalized": "Lucia di Lammermoor",
+    "display": "<i>Lucia di Lammermoor</i>"
+  },
+  "pageid": 38387,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Fanny_Tacchinardi_Persiani_%28retouched%29.jpg/251px-Fanny_Tacchinardi_Persiani_%28retouched%29.jpg",
+    "width": 251,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Fanny_Tacchinardi_Persiani_%28retouched%29.jpg",
+    "width": 561,
+    "height": 714
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085983690",
+  "tid": "e36ff8d0-119c-11ed-9354-63952dbf671f",
+  "timestamp": "2022-05-03T14:18:30Z",
+  "description": "Opera by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lucia_di_Lammermoor",
+      "revisions": "https://en.wikipedia.org/wiki/Lucia_di_Lammermoor?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lucia_di_Lammermoor?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lucia_di_Lammermoor"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Lucia_di_Lammermoor",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lucia_di_Lammermoor",
+      "edit": "https://en.m.wikipedia.org/wiki/Lucia_di_Lammermoor?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Lucia_di_Lammermoor"
+    }
+  },
+  "extract": "Lucia di Lammermoor is a dramma tragico in three acts by Italian composer Gaetano Donizetti. Salvadore Cammarano wrote the Italian-language libretto loosely based upon Sir Walter Scott's 1819 historical novel The Bride of Lammermoor.",
+  "extract_html": "<p><i><b>Lucia di Lammermoor</b></i> is a <i>dramma tragico</i> in three acts by Italian composer Gaetano Donizetti. Salvadore Cammarano wrote the Italian-language libretto loosely based upon Sir Walter Scott's 1819 historical novel <i>The Bride of Lammermoor</i>.</p>"
+}

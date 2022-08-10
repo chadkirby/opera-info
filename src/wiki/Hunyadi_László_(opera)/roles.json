@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 27 January 1844<br>(Conductor: - )\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Ladislaus_the_Posthumous\" title=\"Ladislaus the Posthumous\">László V</a> <i>King of Hungary</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Erzs%C3%A9bet_Szil%C3%A1gyi\" class=\"mw-redirect\" title=\"Erzsébet Szilágyi\">Erzsébet Szilágyi</a> <i>widow of <a href=\"/wiki/J%C3%A1nos_Hunyadi\" class=\"mw-redirect\" title=\"János Hunyadi\">János Hunyadi</a></i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/L%C3%A1szl%C3%B3_Hunyadi\" class=\"mw-redirect\" title=\"László Hunyadi\">László Hunyadi</a> <i>her son</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Matthias_Corvinus\" title=\"Matthias Corvinus\">Mátyás Hunyadi</a> <i>László's brother</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Miklós Gara <i>the count palatine</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice)\" class=\"mw-redirect\" title=\"Bass (voice)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Mária <i>his daughter</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Ulrich_II,_Count_of_Celje\" title=\"Ulrich II, Count of Celje\">Ulrik Cillei</a> <i>the regent</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Rozgonyi <i>an army officer</i>\n</td>\n<td>baritone\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "László V King of Hungary",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Erzsébet Szilágyi widow of János Hunyadi",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "László Hunyadi her son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mátyás Hunyadi László's brother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Miklós Gara the count palatine",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mária his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ulrik Cillei the regent",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Rozgonyi an army officer",
+      "voiceType": "baritone"
+    }
+  ]
+}

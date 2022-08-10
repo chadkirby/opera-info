@@ -1,0 +1,81 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 12 April 1826 <br>Conductor: Carl Maria von Weber<sup id=\"cite_ref-FOOTNOTECasaglia2005_6-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTECasaglia2005-6\">[6]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Oberon\" title=\"Oberon\">Oberon</a>, <i>King of the Elves</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Puck\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Titania\n</td>\n<td>mute\n</td>\n</tr>\n<tr>\n<td>Reiza, <i>daughter of Haroun al Rachid</i>,\n<p>spelled <i>Rezia</i> in German\n</p>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Fatima, <i>Reiza's attendant</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Sir <a href=\"/wiki/Huon_of_Bordeaux\" title=\"Huon of Bordeaux\">Huon of Bordeaux</a>, <i>Duke of Guienne</i>\n<p>spelled <i>Hüon</i> in German\n</p>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Sherasmin, <i>Huon's squire</i>\n<p>spelled <i>Scherasmin</i> in German\n</p>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Two <a href=\"/wiki/Mermaid\" title=\"Mermaid\">mermaids</a>\n</td>\n<td>mezzo-sopranos\n</td>\n</tr>\n<tr>\n<td>Almanzor, <i>Emir of Tunis</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Roshana, <i>wife of Almanzor</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a><sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (July 2020)\">citation needed</span></a></i>]</sup>\n</td>\n</tr>\n<tr>\n<td>Hassan\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a><sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (July 2014)\">citation needed</span></a></i>]</sup>\n</td>\n</tr>\n<tr>\n<td>Namouna, <i>Fatima's grandmother</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Harun_al-Rashid\" title=\"Harun al-Rashid\">Haroun al Rachid</a>, <i>Caliph of Baghdad</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Babekan, <i>a Saracen prince</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Abdallah, <i>a corsair</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Charlemagne\" title=\"Charlemagne\">Charlemagne</a>\n</td>\n<td>mute\n</td>\n</tr>\n<tr>\n<td>Hamet\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Amrou\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Fairies, ladies, knights, slaves, mermaids.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Oberon, King of the Elves",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Puck",
+      "voiceType": "mezzo-soprano (en travesti)"
+    },
+    {
+      "role": "Titania",
+      "voiceType": "mute"
+    },
+    {
+      "role": "Reiza, daughter of Haroun al Rachid, spelled Rezia in German",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Fatima, Reiza's attendant",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Sir Huon of Bordeaux, Duke of Guienne spelled Hüon in German",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sherasmin, Huon's squire spelled Scherasmin in German",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Two mermaids",
+      "voiceType": "mezzo-sopranos"
+    },
+    {
+      "role": "Almanzor, Emir of Tunis",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Roshana, wife of Almanzor",
+      "voiceType": "contralto[citation needed]"
+    },
+    {
+      "role": "Hassan",
+      "voiceType": "bass[citation needed]"
+    },
+    {
+      "role": "Namouna, Fatima's grandmother",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Haroun al Rachid, Caliph of Baghdad",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Babekan, a Saracen prince",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Abdallah, a corsair",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Charlemagne",
+      "voiceType": "mute"
+    },
+    {
+      "role": "Hamet",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Amrou",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Chorus: Fairies, ladies, knights, slaves, mermaids.",
+      "voiceType": ""
+    }
+  ]
+}

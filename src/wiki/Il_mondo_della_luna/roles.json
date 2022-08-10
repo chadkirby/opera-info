@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-Rice_4-0\" class=\"reference\"><a href=\"#cite_note-Rice-4\">[4]</a></sup><sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup> 3 August 1777<br>Conductor: Joseph Haydn\n</th></tr>\n<tr>\n<td>Ecclitico, <i>a would-be astrologer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Ernesto, <i>a cavalier</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Buonafede\n</td>\n<td><a href=\"/wiki/Baritone_(voice_type)\" class=\"mw-redirect\" title=\"Baritone (voice type)\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Clarice, <i>daughter of Buonafede</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Flaminia, <i>another daughter of Buonafede</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Lisetta, <i>maid of Buonafede</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Cecco, <i>servant of Ernesto</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Four scholars and noblemen</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Ecclitico, a would-be astrologer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ernesto, a cavalier",
+      "voiceType": "contralto castrato"
+    },
+    {
+      "role": "Buonafede",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Clarice, daughter of Buonafede",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Flaminia, another daughter of Buonafede",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Lisetta, maid of Buonafede",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Cecco, servant of Ernesto",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Four scholars and noblemen",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 16 March 1894<br>Conductor: <a href=\"/wiki/Paul_Taffanel\" title=\"Paul Taffanel\">Paul Taffanel</a>\n</th></tr>\n<tr>\n<td>Thaïs, <i>a courtesan</i>\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>Athanaël, <i>a Cenobite monk</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Nicias, <i>a nobleman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Crobyle, <i>servant of Nicias</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Myrtale, <i>servant of Nicias</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Palémon, <i>leader of the Cenobites</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Albine, <i>an abbess</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>A servant\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Cenobites, Nuns, Citizens of Alexandria, Nicias's friends.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Thaïs, a courtesan",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Athanaël, a Cenobite monk",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nicias, a nobleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Crobyle, servant of Nicias",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Myrtale, servant of Nicias",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Palémon, leader of the Cenobites",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Albine, an abbess",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "A servant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Cenobites, Nuns, Citizens of Alexandria, Nicias's friends.",
+      "voiceType": ""
+    }
+  ]
+}

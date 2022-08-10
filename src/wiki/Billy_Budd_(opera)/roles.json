@@ -1,0 +1,85 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 1 December 1951<br>(original four-act version)<br>(Conductor: Benjamin Britten)<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\">[25]</a></sup>\n</th>\n<th>Premiere cast for the revised two-act version<br>9 January 1964 (Conductor: Georg Solti)\n</th></tr>\n<tr>\n<td>Captain Vere <i>of HMS Indomitable</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Billy Budd, <i>able seaman</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>John Claggart, <i>Master-at-arms</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Mr. Redburn, <i>First Lieutenant</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Mr. Flint, <i>Sailing Master</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Lieutenant Ratcliffe\n</td>\n<td>baritone or bass\n</td>\n\n</tr>\n<tr>\n<td>Red Whiskers, <i><a href=\"/wiki/Impressment\" title=\"Impressment\">an impressed man</a></i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Donald\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Dansker, <i>an old seaman</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>A Novice\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>The Novice's Friend\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Squeak\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Bosun\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>First Mate\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Second Mate\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Maintop\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Arthur Jones, <i> <a href=\"/wiki/Impressment\" title=\"Impressment\">an impressed man</a></i>\n</td>\n<td>tenor or baritone\n</td>\n\n</tr>\n<tr>\n<td>Cabin Boy\n</td>\n<td>spoken role\n</td>\n\n</tr>\n<tr>\n<td>Four <a href=\"/wiki/Midshipman\" title=\"Midshipman\">midshipmen</a>\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">trebles</a>\n</td>\n\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>Midshipmen, <a href=\"/wiki/Powder_monkey\" title=\"Powder monkey\">Powder monkeys</a>, Officers, Sailors, Drummers, Marines</i>\n</td>\n<td><a href=\"/wiki/Royal_Opera_Chorus\" class=\"mw-redirect\" title=\"Royal Opera Chorus\">Royal Opera Chorus</a> &amp; Children from Kingsland Central School\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Captain Vere of HMS Indomitable",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Billy Budd, able seaman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "John Claggart, Master-at-arms",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mr. Redburn, First Lieutenant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mr. Flint, Sailing Master",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Lieutenant Ratcliffe",
+      "voiceType": "baritone or bass"
+    },
+    {
+      "role": "Red Whiskers, an impressed man",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Donald",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Dansker, an old seaman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Novice",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Novice's Friend",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Squeak",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bosun",
+      "voiceType": "bass"
+    },
+    {
+      "role": "First Mate",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Second Mate",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Maintop",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Arthur Jones, an impressed man",
+      "voiceType": "tenor or baritone"
+    },
+    {
+      "role": "Cabin Boy",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Four midshipmen",
+      "voiceType": "trebles"
+    },
+    {
+      "role": "Chorus: Midshipmen, Powder monkeys, Officers, Sailors, Drummers, Marines",
+      "voiceType": "Royal Opera Chorus & Children from Kingsland Central School"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere casts</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[14]</a></sup>\n</th>\n<th>Prague premiere cast,<br>29 October <a href=\"/wiki/1787_in_music\" title=\"1787 in music\">1787</a><sup id=\"cite_ref-FOOTNOTECasaglia2005_15-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTECasaglia2005-15\">[15]</a></sup><br>Conductor: W. A. Mozart\n</th>\n<th>Vienna premiere cast,<br>7 May <a href=\"/wiki/1788_in_music\" title=\"1788 in music\">1788</a><sup id=\"cite_ref-FOOTNOTEDeutsch1965313_16-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEDeutsch1965313-16\">[16]</a></sup><br>Conductor: W. A. Mozart\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Don_Juan\" title=\"Don Juan\">Don Giovanni</a>, <i>a young, extremely licentious nobleman</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Il Commendatore\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Donna Anna, <i>his daughter, promised in marriage to Don Ottavio</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Don Ottavio\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Donna Elvira, <i>a lady of <a href=\"/wiki/Burgos\" title=\"Burgos\">Burgos</a> abandoned by Don Giovanni</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Leporello, <i>Don Giovanni's servant</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Masetto, <i>a peasant, in love with Zerlina</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Zerlina, <i>a peasant</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Chorus: peasants, servants, young ladies, musicians, demons</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Don Giovanni, a young, extremely licentious nobleman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Il Commendatore",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Donna Anna, his daughter, promised in marriage to Don Ottavio",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Don Ottavio",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Donna Elvira, a lady of Burgos abandoned by Don Giovanni",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Leporello, Don Giovanni's servant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Masetto, a peasant, in love with Zerlina",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Zerlina, a peasant",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus: peasants, servants, young ladies, musicians, demons",
+      "voiceType": ""
+    }
+  ]
+}

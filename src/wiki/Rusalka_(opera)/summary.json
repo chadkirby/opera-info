@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rusalka (opera)",
+  "displaytitle": "<i>Rusalka</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q831255",
+  "titles": {
+    "canonical": "Rusalka_(opera)",
+    "normalized": "Rusalka (opera)",
+    "display": "<i>Rusalka</i> (opera)"
+  },
+  "pageid": 644726,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Poster_for_the_premiere_of_Rusalka_in_Prague%2C_31_March%2C_1901..jpg/230px-Poster_for_the_premiere_of_Rusalka_in_Prague%2C_31_March%2C_1901..jpg",
+    "width": 230,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Poster_for_the_premiere_of_Rusalka_in_Prague%2C_31_March%2C_1901..jpg",
+    "width": 1307,
+    "height": 1820
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101382037",
+  "tid": "556181e0-1038-11ed-a4e8-4910c761fec3",
+  "timestamp": "2022-07-30T18:49:23Z",
+  "description": "1901 opera by Czech composer Antonín Dvořák",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rusalka_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Rusalka_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rusalka_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rusalka_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rusalka_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rusalka_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Rusalka_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rusalka_(opera)"
+    }
+  },
+  "extract": "Rusalka, Op. 114, is an opera by Antonín Dvořák. The Czech libretto was written by the poet Jaroslav Kvapil (1868–1950) based on the fairy tales of Karel Jaromír Erben and Božena Němcová. A rusalka is a water sprite from Slavic mythology, usually inhabiting a lake or river. Rusalka was the ninth opera Dvořák composed. It is one of the most successful Czech operas, and represents a cornerstone of the repertoire of Czech opera houses.",
+  "extract_html": "<p><i><b>Rusalka</b></i>, Op. 114, is an opera by Antonín Dvořák. The Czech libretto was written by the poet Jaroslav Kvapil (1868–1950) based on the fairy tales of Karel Jaromír Erben and Božena Němcová. A rusalka is a water sprite from Slavic mythology, usually inhabiting a lake or river. <i>Rusalka</i> was the ninth opera Dvořák composed. It is one of the most successful Czech operas, and represents a cornerstone of the repertoire of Czech opera houses.</p>"
+}

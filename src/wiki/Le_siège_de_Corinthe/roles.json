@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 9 October 1826<br>(Conductor: <a href=\"/wiki/Fran%C3%A7ois_Antoine_Habeneck\" class=\"mw-redirect\" title=\"François Antoine Habeneck\">François Antoine Habeneck</a>)\n</th></tr>\n<tr>\n<td>Cléomène, <i>Governor of Corinth</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Pamira, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Néoclès, <i>a young Greek officer</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Mehmed_the_Conqueror\" class=\"mw-redirect\" title=\"Mehmed the Conqueror\">Mahomet II</a>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Adraste\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Hiéros\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Ismène\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Omar\n</td>\n<td>tenor\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Cléomène, Governor of Corinth",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pamira, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Néoclès, a young Greek officer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mahomet II",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Adraste",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Hiéros",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ismène",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Omar",
+      "voiceType": "tenor"
+    }
+  ]
+}

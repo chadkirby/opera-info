@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 7 February 1786<sup id=\"cite_ref-OPGL_3-2\" class=\"reference\"><a href=\"#cite_note-OPGL-3\">[3]</a></sup>\n</th></tr>\n<tr>\n<td>Frank, <i>an impresario</i>\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>Eiler, <i>a banker</i>\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>Buff, <i>a buffo singer</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Monsieur Vogelsang, <i>a singer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Madame Herz, <i>a singer</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mademoiselle Silberklang, <i>a singer</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Herz, <i>an actor</i>\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>Madame Pfeil, <i>an actress</i>\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>Madame Krone, <i>an actress</i>\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>Madame Vogelsang, <i>an actress</i>\n</td>\n<td>spoken role\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Frank, an impresario",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Eiler, a banker",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Buff, a buffo singer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Monsieur Vogelsang, a singer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Madame Herz, a singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mademoiselle Silberklang, a singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Herz, an actor",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Madame Pfeil, an actress",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Madame Krone, an actress",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Madame Vogelsang, an actress",
+      "voiceType": "spoken role"
+    }
+  ]
+}

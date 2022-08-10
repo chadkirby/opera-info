@@ -1,0 +1,129 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, September 16, 1966<br>(Conductor: <a href=\"/wiki/Thomas_Schippers\" title=\"Thomas Schippers\">Thomas Schippers</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Cleopatra\" title=\"Cleopatra\">Cleopatra</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Mark_Antony\" title=\"Mark Antony\">Mark Antony</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Octavius_Caesar\" class=\"mw-redirect\" title=\"Octavius Caesar\">Octavius Caesar</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)\" title=\"Gnaeus Domitius Ahenobarbus (consul 32 BC)\">Enobarbus</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Charmian_(servant_to_Cleopatra)\" class=\"mw-redirect\" title=\"Charmian (servant to Cleopatra)\">Charmian</a>, <i>servant to Cleopatra</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Iras\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Mardian\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Messenger\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Alexas\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Soothsayer\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Rustic\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Octavia_the_Younger\" title=\"Octavia the Younger\">Octavia</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Gaius_Maecenas\" title=\"Gaius Maecenas\">Maecenas</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Marcus_Vipsanius_Agrippa\" title=\"Marcus Vipsanius Agrippa\">Agrippa</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Marcus_Aemilius_Lepidus_(triumvir)\" title=\"Marcus Aemilius Lepidus (triumvir)\">Lepidus</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Thidias\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Soldier of Caesar\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Eros\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Publius_Cornelius_Dolabella_(consul_44_BC)\" title=\"Publius Cornelius Dolabella (consul 44 BC)\">Dolabella</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Canidius\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Demetrius\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Scarus\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Decretas\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>Captain of the Guard\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Guard 1\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Guard 2\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Guard 3\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Soldier of Antony\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Watchman 1\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Watchman 2\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Sentinel\n</td>\n<td>bass\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Cleopatra",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mark Antony",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Octavius Caesar",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Enobarbus",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Charmian, servant to Cleopatra",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Iras",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Mardian",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Messenger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Alexas",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Soothsayer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Rustic",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Octavia",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Maecenas",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Agrippa",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lepidus",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Thidias",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Soldier of Caesar",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Eros",
+      "voiceType": ""
+    },
+    {
+      "role": "Dolabella",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Canidius",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Demetrius",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Scarus",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Decretas",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Captain of the Guard",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Guard 1",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Guard 2",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Guard 3",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Soldier of Antony",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Watchman 1",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Watchman 2",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sentinel",
+      "voiceType": "bass"
+    }
+  ]
+}

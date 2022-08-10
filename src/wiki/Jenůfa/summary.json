@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jenůfa",
+  "displaytitle": "<i>Jenůfa</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1196783",
+  "titles": {
+    "canonical": "Jenůfa",
+    "normalized": "Jenůfa",
+    "display": "<i>Jenůfa</i>"
+  },
+  "pageid": 1227728,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jenufa.jpg",
+    "width": 200,
+    "height": 293
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jenufa.jpg",
+    "width": 200,
+    "height": 293
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087115262",
+  "tid": "ecf9a6f0-0f83-11ed-80c7-4938bb7dcdf8",
+  "timestamp": "2022-05-10T12:55:07Z",
+  "description": "Opera by Leoš Janáček",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jen%C5%AFfa",
+      "revisions": "https://en.wikipedia.org/wiki/Jen%C5%AFfa?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jen%C5%AFfa?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jen%C5%AFfa"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Jen%C5%AFfa",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jen%C5%AFfa",
+      "edit": "https://en.m.wikipedia.org/wiki/Jen%C5%AFfa?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Jen%C5%AFfa"
+    }
+  },
+  "extract": "Její pastorkyňa is an opera in three acts by Leoš Janáček to a Czech libretto by the composer, based on the play Její pastorkyňa by Gabriela Preissová. It was first performed at the National Theatre, Brno on 21 January 1904. Composed between 1896 and 1902, it is among the first operas written in prose.",
+  "extract_html": "<p><i><b>Její pastorkyňa</b></i> is an opera in three acts by Leoš Janáček to a Czech libretto by the composer, based on the play <i>Její pastorkyňa</i> by Gabriela Preissová. It was first performed at the National Theatre, Brno on 21 January 1904. Composed between 1896 and 1902, it is among the first operas written in prose.</p>"
+}

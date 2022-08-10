@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Robert Schumann",
+  "displaytitle": "Robert Schumann",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7351",
+  "titles": {
+    "canonical": "Robert_Schumann",
+    "normalized": "Robert Schumann",
+    "display": "Robert Schumann"
+  },
+  "pageid": 44887,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Robert_Schumann_1839.jpg/320px-Robert_Schumann_1839.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Robert_Schumann_1839.jpg",
+    "width": 3100,
+    "height": 3100
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102711812",
+  "tid": "8356cfb0-158d-11ed-9d41-6191b1a2a122",
+  "timestamp": "2022-08-06T13:41:42Z",
+  "description": "German composer, pianist and critic (1810–1856)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robert_Schumann",
+      "revisions": "https://en.wikipedia.org/wiki/Robert_Schumann?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robert_Schumann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Schumann"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Robert_Schumann",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Robert_Schumann",
+      "edit": "https://en.m.wikipedia.org/wiki/Robert_Schumann?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Robert_Schumann"
+    }
+  },
+  "extract": "Robert Schumann was a German composer, pianist, and influential music critic. He is widely regarded as one of the greatest composers of the Romantic era. Schumann left the study of law, intending to pursue a career as a virtuoso pianist. His teacher, Friedrich Wieck, a German pianist, had assured him that he could become the finest pianist in Europe, but a hand injury ended this dream. Schumann then focused his musical energies on composing.",
+  "extract_html": "<p><b>Robert Schumann</b> was a German composer, pianist, and influential music critic. He is widely regarded as one of the greatest composers of the Romantic era. Schumann left the study of law, intending to pursue a career as a virtuoso pianist. His teacher, Friedrich Wieck, a German pianist, had assured him that he could become the finest pianist in Europe, but a hand injury ended this dream. Schumann then focused his musical energies on composing.</p>"
+}

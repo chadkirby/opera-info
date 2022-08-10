@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Le roi d'Ys",
+  "displaytitle": "<i>Le roi d'Ys</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1810129",
+  "titles": {
+    "canonical": "Le_roi_d'Ys",
+    "normalized": "Le roi d'Ys",
+    "display": "<i>Le roi d'Ys</i>"
+  },
+  "pageid": 8917399,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Auguste_Fran%C3%A7ois-Marie_Gorguet_-_poster_for_the_premi%C3%A8re_performance_of_%C3%89douard_Lalo%27s_Le_roi_d%27Ys_%281888%29.jpg/226px-Auguste_Fran%C3%A7ois-Marie_Gorguet_-_poster_for_the_premi%C3%A8re_performance_of_%C3%89douard_Lalo%27s_Le_roi_d%27Ys_%281888%29.jpg",
+    "width": 226,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Auguste_Fran%C3%A7ois-Marie_Gorguet_-_poster_for_the_premi%C3%A8re_performance_of_%C3%89douard_Lalo%27s_Le_roi_d%27Ys_%281888%29.jpg",
+    "width": 6324,
+    "height": 8968
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088482721",
+  "tid": "bfe8ea50-fe89-11ec-8b2f-6160fa6019e0",
+  "timestamp": "2022-05-18T08:00:22Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Le_roi_d'Ys",
+      "revisions": "https://en.wikipedia.org/wiki/Le_roi_d'Ys?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Le_roi_d'Ys?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Le_roi_d'Ys"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Le_roi_d'Ys",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Le_roi_d'Ys",
+      "edit": "https://en.m.wikipedia.org/wiki/Le_roi_d'Ys?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Le_roi_d'Ys"
+    }
+  },
+  "extract": "Le roi d'Ys is an opera in three acts and five tableaux by the French composer Édouard Lalo, to a libretto by Édouard Blau, based on the old Breton legend of the drowned city of Ys. That city was, according to the legend, the capital of the kingdom of Cornouaille.",
+  "extract_html": "<p><i><b><span><i lang=\"fr\">Le roi d'Ys</i></span></b></i> is an opera in three acts and five tableaux by the French composer Édouard Lalo, to a libretto by Édouard Blau, based on the old Breton legend of the drowned city of Ys. That city was, according to the legend, the capital of the kingdom of Cornouaille.</p>"
+}

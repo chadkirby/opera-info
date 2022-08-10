@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Il matrimonio segreto",
+  "displaytitle": "<i>Il matrimonio segreto</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q428319",
+  "titles": {
+    "canonical": "Il_matrimonio_segreto",
+    "normalized": "Il matrimonio segreto",
+    "display": "<i>Il matrimonio segreto</i>"
+  },
+  "pageid": 1256738,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Domenico_Cimarosa.jpg/235px-Domenico_Cimarosa.jpg",
+    "width": 235,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Domenico_Cimarosa.jpg",
+    "width": 353,
+    "height": 480
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1042528521",
+  "tid": "2a3e1170-fb7c-11ec-b95f-510bd25fec39",
+  "timestamp": "2021-09-05T12:54:53Z",
+  "description": "Opera by Domenico Cimarosa",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_matrimonio_segreto",
+      "revisions": "https://en.wikipedia.org/wiki/Il_matrimonio_segreto?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_matrimonio_segreto?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_matrimonio_segreto"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_matrimonio_segreto",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_matrimonio_segreto",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_matrimonio_segreto?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_matrimonio_segreto"
+    }
+  },
+  "extract": "Il matrimonio segreto is a dramma giocoso in two acts, music by Domenico Cimarosa, on a libretto by Giovanni Bertati, based on the 1766 play The Clandestine Marriage by George Colman the Elder and David Garrick. It was first performed on 7 February 1792 at the Imperial Hofburg Theatre in Vienna in the presence of Emperor Leopold II.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">Il matrimonio segreto</i></span></b></i> is a dramma giocoso in two acts, music by Domenico Cimarosa, on a libretto by Giovanni Bertati, based on the 1766 play <i>The Clandestine Marriage</i> by George Colman the Elder and David Garrick. It was first performed on 7 February 1792 at the Imperial Hofburg Theatre in Vienna in the presence of Emperor Leopold II.</p>"
+}

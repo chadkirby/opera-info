@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael William Balfe",
+  "displaytitle": "Michael William Balfe",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q434171",
+  "titles": {
+    "canonical": "Michael_William_Balfe",
+    "normalized": "Michael William Balfe",
+    "display": "Michael William Balfe"
+  },
+  "pageid": 145884,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Michael_William_Balfe_-_Atelier_Nadar_-_Original.jpg/222px-Michael_William_Balfe_-_Atelier_Nadar_-_Original.jpg",
+    "width": 222,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Michael_William_Balfe_-_Atelier_Nadar_-_Original.jpg",
+    "width": 2176,
+    "height": 3136
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100078344",
+  "tid": "63421a30-0b02-11ed-aa2a-5718e0454c8e",
+  "timestamp": "2022-07-24T03:40:38Z",
+  "description": "Irish composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_William_Balfe",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_William_Balfe?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_William_Balfe?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_William_Balfe"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Michael_William_Balfe",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Michael_William_Balfe",
+      "edit": "https://en.m.wikipedia.org/wiki/Michael_William_Balfe?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Michael_William_Balfe"
+    }
+  },
+  "extract": "Michael William Balfe was an Irish composer, best remembered for his operas, especially The Bohemian Girl.",
+  "extract_html": "<p><b>Michael William Balfe</b> was an Irish composer, best remembered for his operas, especially <i>The Bohemian Girl</i>.</p>"
+}

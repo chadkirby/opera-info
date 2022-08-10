@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Daniel Auber",
+  "displaytitle": "Daniel Auber",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q157672",
+  "titles": {
+    "canonical": "Daniel_Auber",
+    "normalized": "Daniel Auber",
+    "display": "Daniel Auber"
+  },
+  "pageid": 238342,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Daniel-Fran%C3%A7ois-Esprit_Auber_by_Hortense_Haudebourt-Lescot.jpg/246px-Daniel-Fran%C3%A7ois-Esprit_Auber_by_Hortense_Haudebourt-Lescot.jpg",
+    "width": 246,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Daniel-Fran%C3%A7ois-Esprit_Auber_by_Hortense_Haudebourt-Lescot.jpg",
+    "width": 550,
+    "height": 716
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096836121",
+  "tid": "05fc8cb0-1544-11ed-b0a0-93a3e2014e61",
+  "timestamp": "2022-07-06T23:27:56Z",
+  "description": "French opera composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Daniel_Auber",
+      "revisions": "https://en.wikipedia.org/wiki/Daniel_Auber?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Daniel_Auber?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_Auber"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Daniel_Auber",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Daniel_Auber",
+      "edit": "https://en.m.wikipedia.org/wiki/Daniel_Auber?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Daniel_Auber"
+    }
+  },
+  "extract": "Daniel-François-Esprit Auber was a French composer and director of the Paris Conservatoire.",
+  "extract_html": "<p><b>Daniel-François-Esprit Auber</b> was a French composer and director of the Paris Conservatoire.</p>"
+}

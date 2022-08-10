@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Alexander Borodin",
+  "displaytitle": "Alexander Borodin",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q164004",
+  "titles": {
+    "canonical": "Alexander_Borodin",
+    "normalized": "Alexander Borodin",
+    "display": "Alexander Borodin"
+  },
+  "pageid": 143605,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Borodin.jpg/291px-Borodin.jpg",
+    "width": 291,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Borodin.jpg",
+    "width": 681,
+    "height": 750
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099438954",
+  "tid": "08799aa0-1544-11ed-bacb-a7caaf8a7039",
+  "timestamp": "2022-07-20T19:54:11Z",
+  "description": "Russian composer, doctor and chemist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alexander_Borodin",
+      "revisions": "https://en.wikipedia.org/wiki/Alexander_Borodin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alexander_Borodin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alexander_Borodin"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Alexander_Borodin",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Alexander_Borodin",
+      "edit": "https://en.m.wikipedia.org/wiki/Alexander_Borodin?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Alexander_Borodin"
+    }
+  },
+  "extract": "Alexander Porfiryevich Borodin was a Romantic composer and chemist of Georgian-Russian extraction. He was one of the prominent 19th-century composers known as \"The Five\", a group dedicated to producing a uniquely Russian kind of classical music. Borodin is known best for his symphonies, his two string quartets, the symphonic poem In the Steppes of Central Asia and his opera Prince Igor.",
+  "extract_html": "<p><b>Alexander Porfiryevich Borodin</b> was a Romantic composer and chemist of Georgian-Russian extraction. He was one of the prominent 19th-century composers known as \"The Five\", a group dedicated to producing a uniquely Russian kind of classical music. Borodin is known best for his symphonies, his two string quartets, the symphonic poem <i>In the Steppes of Central Asia</i> and his opera <i>Prince Igor</i>.</p>"
+}

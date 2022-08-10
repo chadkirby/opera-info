@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast<br>6 October 1600\n</th></tr>\n<tr>\n<td>La Tragedia\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Euridice\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Orfeo\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Arcetro, <i>a shepherd</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\tcastrato\n</td>\n</tr>\n<tr>\n<td>Aminta, <i>a shepherd</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Tirsi, <i>a shepherd</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Caronte\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Dafne, <i>a messenger</i>\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">boy soprano</a>(<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Plutone\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Proserpina\n</td>\n<td>soprano castrato (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Radamanto\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Venere\n</td>\n<td>soprano castrato (en travesti)\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Nymphs and shepherds, shades and deities of hell</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "La Tragedia",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Euridice",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Orfeo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Arcetro, a shepherd",
+      "voiceType": "contralto castrato"
+    },
+    {
+      "role": "Aminta, a shepherd",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Tirsi, a shepherd",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Caronte",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Dafne, a messenger",
+      "voiceType": "boy soprano(en travesti)"
+    },
+    {
+      "role": "Plutone",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Proserpina",
+      "voiceType": "soprano castrato (en travesti)"
+    },
+    {
+      "role": "Radamanto",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Venere",
+      "voiceType": "soprano castrato (en travesti)"
+    },
+    {
+      "role": "Nymphs and shepherds, shades and deities of hell",
+      "voiceType": ""
+    }
+  ]
+}

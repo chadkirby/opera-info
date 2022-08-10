@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "L'enfant et les sortilèges",
+  "displaytitle": "<i>L'enfant et les sortilèges</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q267467",
+  "titles": {
+    "canonical": "L'enfant_et_les_sortilèges",
+    "normalized": "L'enfant et les sortilèges",
+    "display": "<i>L'enfant et les sortilèges</i>"
+  },
+  "pageid": 1878784,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Marie-Therese_Gauley.jpg/320px-Marie-Therese_Gauley.jpg",
+    "width": 320,
+    "height": 154
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Marie-Therese_Gauley.jpg",
+    "width": 3557,
+    "height": 1711
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069689401",
+  "tid": "d24540a0-15f8-11ed-b078-79e3a38ee9ad",
+  "timestamp": "2022-02-03T15:27:59Z",
+  "description": "Opera by Maurice Ravel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'enfant_et_les_sortil%C3%A8ges",
+      "revisions": "https://en.wikipedia.org/wiki/L'enfant_et_les_sortil%C3%A8ges?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'enfant_et_les_sortil%C3%A8ges?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'enfant_et_les_sortil%C3%A8ges"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'enfant_et_les_sortil%C3%A8ges",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'enfant_et_les_sortil%C3%A8ges",
+      "edit": "https://en.m.wikipedia.org/wiki/L'enfant_et_les_sortil%C3%A8ges?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'enfant_et_les_sortil%C3%A8ges"
+    }
+  },
+  "extract": "L'enfant et les sortilèges: Fantaisie lyrique en deux parties is an opera in one act, with music by Maurice Ravel to a libretto by Colette. It is Ravel's second opera, his first being L'heure espagnole. Written from 1917 to 1925, L'enfant et les sortilèges was first performed in Monte Carlo in 1925 conducted by Victor de Sabata.",
+  "extract_html": "<p><i><b>L'enfant et les sortilèges: Fantaisie lyrique en deux parties</b></i> is an opera in one act, with music by Maurice Ravel to a libretto by Colette. It is Ravel's second opera, his first being <i>L'heure espagnole</i>. Written from 1917 to 1925, <i>L'enfant et les sortilèges</i> was first performed in Monte Carlo in 1925 conducted by Victor de Sabata.</p>"
+}

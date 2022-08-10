@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Prodigal Son (Britten)",
+  "displaytitle": "<i>The Prodigal Son</i> (Britten)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3522335",
+  "titles": {
+    "canonical": "The_Prodigal_Son_(Britten)",
+    "normalized": "The Prodigal Son (Britten)",
+    "display": "<i>The Prodigal Son</i> (Britten)"
+  },
+  "pageid": 9017557,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083528701",
+  "tid": "817a60f0-fe07-11ec-a6ec-91dc6671cf35",
+  "timestamp": "2022-04-19T08:27:04Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Prodigal_Son_(Britten)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Prodigal_Son_(Britten)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Prodigal_Son_(Britten)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Prodigal_Son_(Britten)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Prodigal_Son_(Britten)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Prodigal_Son_(Britten)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Prodigal_Son_(Britten)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Prodigal_Son_(Britten)"
+    }
+  },
+  "extract": "The Prodigal Son is a music drama by Benjamin Britten with a libretto by William Plomer. Based on the Biblical story of the Prodigal Son, this was Britten's third \"parable for church performance\", after Curlew River and The Burning Fiery Furnace. Britten dedicated the score to Dmitri Shostakovich.",
+  "extract_html": "<p><i><b>The Prodigal Son</b></i> is a music drama by Benjamin Britten with a libretto by William Plomer. Based on the Biblical story of the Prodigal Son, this was Britten's third \"parable for church performance\", after <i>Curlew River</i> and <i>The Burning Fiery Furnace</i>. Britten dedicated the score to Dmitri Shostakovich.</p>"
+}

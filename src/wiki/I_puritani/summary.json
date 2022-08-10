@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "I puritani",
+  "displaytitle": "<i>I puritani</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q470886",
+  "titles": {
+    "canonical": "I_puritani",
+    "normalized": "I puritani",
+    "display": "<i>I puritani</i>"
+  },
+  "pageid": 63676,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Luigi_Verardi_after_Dominico_Ferri_-_Vincenzo_Bellini_-_Th%C3%A9atre_Royal_Italien._Salle_d%27armes_dans_l%27Op%C3%A9ra_I_Puritani.jpg/320px-Luigi_Verardi_after_Dominico_Ferri_-_Vincenzo_Bellini_-_Th%C3%A9atre_Royal_Italien._Salle_d%27armes_dans_l%27Op%C3%A9ra_I_Puritani.jpg",
+    "width": 320,
+    "height": 258
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Luigi_Verardi_after_Dominico_Ferri_-_Vincenzo_Bellini_-_Th%C3%A9atre_Royal_Italien._Salle_d%27armes_dans_l%27Op%C3%A9ra_I_Puritani.jpg",
+    "width": 4980,
+    "height": 4012
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099188216",
+  "tid": "d238e490-15f8-11ed-bca3-8b8fd2599d17",
+  "timestamp": "2022-07-19T12:33:59Z",
+  "description": "Opera by Vincenzo Bellini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/I_puritani",
+      "revisions": "https://en.wikipedia.org/wiki/I_puritani?action=history",
+      "edit": "https://en.wikipedia.org/wiki/I_puritani?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:I_puritani"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/I_puritani",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/I_puritani",
+      "edit": "https://en.m.wikipedia.org/wiki/I_puritani?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:I_puritani"
+    }
+  },
+  "extract": "I puritani is an 1835 opera by Vincenzo Bellini. It was originally written in two acts and later changed to three acts on the advice of Gioachino Rossini, with whom the young composer had become friends. The music was set to a libretto by Count Carlo Pepoli, an Italian émigré poet whom Bellini had met at a salon run by the exile Princess Belgiojoso, which became a meeting place for many Italian revolutionaries. The opera is based on Têtes Rondes et Cavaliers, a historical play written by Jacques-François Ancelot and Joseph Xavier Saintine and set in the English Civil War, which some sources state was based on Walter Scott's 1816 novel Old Mortality, while others state that there is no connection.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">I puritani</i></span></b></i> is an 1835 opera by Vincenzo Bellini. It was originally written in two acts and later changed to three acts on the advice of Gioachino Rossini, with whom the young composer had become friends. The music was set to a libretto by Count Carlo Pepoli, an Italian émigré poet whom Bellini had met at a salon run by the exile Princess Belgiojoso, which became a meeting place for many Italian revolutionaries. The opera is based on <i>Têtes Rondes et Cavaliers</i>, a historical play written by Jacques-François Ancelot and Joseph Xavier Saintine and set in the English Civil War, which some sources state was based on Walter Scott's 1816 novel <i>Old Mortality,</i> while others state that there is no connection.</p>"
+}

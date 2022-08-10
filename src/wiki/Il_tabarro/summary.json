@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Il tabarro",
+  "displaytitle": "<i>Il tabarro</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q468235",
+  "titles": {
+    "canonical": "Il_tabarro",
+    "normalized": "Il tabarro",
+    "display": "<i>Il tabarro</i>"
+  },
+  "pageid": 1923625,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Il_Tabarro_-_Giuseppe_Verdi_-_Edizione_Ricordi.jpg/216px-Il_Tabarro_-_Giuseppe_Verdi_-_Edizione_Ricordi.jpg",
+    "width": 216,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/ba/Il_Tabarro_-_Giuseppe_Verdi_-_Edizione_Ricordi.jpg",
+    "width": 736,
+    "height": 1089
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1060285930",
+  "tid": "d08a2320-15f8-11ed-b4f7-9daa0dbdfecf",
+  "timestamp": "2021-12-14T15:32:38Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_tabarro",
+      "revisions": "https://en.wikipedia.org/wiki/Il_tabarro?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_tabarro?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_tabarro"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_tabarro",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_tabarro",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_tabarro?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_tabarro"
+    }
+  },
+  "extract": "Il tabarro is an opera in one act by Giacomo Puccini to an Italian libretto by Giuseppe Adami, based on Didier Gold's play La houppelande. It is the first of the trio of operas known as Il trittico. The first performance was given on December 14, 1918 at the Metropolitan Opera in New York City.",
+  "extract_html": "<p><i><b>Il tabarro</b></i> is an opera in one act by Giacomo Puccini to an Italian libretto by Giuseppe Adami, based on Didier Gold's play <i>La houppelande</i>. It is the first of the trio of operas known as <i>Il trittico</i>. The first performance was given on December 14, 1918 at the Metropolitan Opera in New York City.</p>"
+}

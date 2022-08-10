@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">The Knot Garden</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Michael_Tippett\" title=\"Michael Tippett\">Michael Tippett</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Tippett</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">2&nbsp;December&nbsp;1970<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1970-12-02</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera House</a>, <a href=\"/wiki/London\" title=\"London\">London</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "The Knot Garden"
+  ],
+  "Librettist": "Tippett",
+  "Language": "English",
+  "Premiere": "2 December 1970\nRoyal Opera House, London"
+}

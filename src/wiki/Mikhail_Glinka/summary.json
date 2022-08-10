@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mikhail Glinka",
+  "displaytitle": "Mikhail Glinka",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q181885",
+  "titles": {
+    "canonical": "Mikhail_Glinka",
+    "normalized": "Mikhail Glinka",
+    "display": "Mikhail Glinka"
+  },
+  "pageid": 254773,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Michail_Glinka_by_Brullov.jpg/262px-Michail_Glinka_by_Brullov.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Michail_Glinka_by_Brullov.jpg",
+    "width": 1386,
+    "height": 1693
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102836807",
+  "tid": "b1bbf550-160b-11ed-b33f-c9018f4962a5",
+  "timestamp": "2022-08-07T04:44:57Z",
+  "description": "Russian composer (1804–1857)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mikhail_Glinka",
+      "revisions": "https://en.wikipedia.org/wiki/Mikhail_Glinka?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mikhail_Glinka?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mikhail_Glinka"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Mikhail_Glinka",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mikhail_Glinka",
+      "edit": "https://en.m.wikipedia.org/wiki/Mikhail_Glinka?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Mikhail_Glinka"
+    }
+  },
+  "extract": "Mikhail Ivanovich Glinka was the first Russian composer to gain wide recognition within his own country and is often regarded as the fountainhead of Russian classical music. His compositions were an important influence on Russian composers, notably the members of The Five, who produced a distinctive Russian style of music.",
+  "extract_html": "<p><b>Mikhail Ivanovich Glinka</b> was the first Russian composer to gain wide recognition within his own country and is often regarded as the fountainhead of Russian classical music. His compositions were an important influence on Russian composers, notably the members of The Five, who produced a distinctive Russian style of music.</p>"
+}

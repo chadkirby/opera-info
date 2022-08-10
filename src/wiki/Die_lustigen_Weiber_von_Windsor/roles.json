@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 9 March 1849<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup><br>Conductor: Otto Nicolai\n</th></tr>\n<tr>\n<td>Frau Fluth (Alice Ford)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Frau Reich (Meg Page)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Sir <a href=\"/wiki/John_Falstaff\" title=\"John Falstaff\">John Falstaff</a>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Fenton\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Herr Fluth (Ford)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Anna Reich (Anne Page)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Herr Reich (Page)\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Spärlich (Slender)\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Dr. Cajus\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Robin\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>The innkeeper\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>A waiter\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>First citizen\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second, third, and fourth citizens\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Two servants of Herr Fluth\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i><a href=\"/wiki/Choir\" title=\"Choir\">Chorus</a> of men and women of Windsor, neighbors, elves, spooks, and insects</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Frau Fluth (Alice Ford)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Frau Reich (Meg Page)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Sir John Falstaff",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Fenton",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Herr Fluth (Ford)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Anna Reich (Anne Page)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Herr Reich (Page)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Spärlich (Slender)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dr. Cajus",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Robin",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "The innkeeper",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "A waiter",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "First citizen",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second, third, and fourth citizens",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Two servants of Herr Fluth",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Chorus of men and women of Windsor, neighbors, elves, spooks, and insects",
+      "voiceType": ""
+    }
+  ]
+}

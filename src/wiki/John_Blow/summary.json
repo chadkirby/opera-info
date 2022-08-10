@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "John Blow",
+  "displaytitle": "John Blow",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q311110",
+  "titles": {
+    "canonical": "John_Blow",
+    "normalized": "John Blow",
+    "display": "John Blow"
+  },
+  "pageid": 164131,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/John_Blow.jpg/320px-John_Blow.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/John_Blow.jpg",
+    "width": 2300,
+    "height": 2300
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101859165",
+  "tid": "af306360-1224-11ed-98df-5db971df3fa0",
+  "timestamp": "2022-08-02T05:33:46Z",
+  "description": "English composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/John_Blow",
+      "revisions": "https://en.wikipedia.org/wiki/John_Blow?action=history",
+      "edit": "https://en.wikipedia.org/wiki/John_Blow?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_Blow"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/John_Blow",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/John_Blow",
+      "edit": "https://en.m.wikipedia.org/wiki/John_Blow?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:John_Blow"
+    }
+  },
+  "extract": "John Blow was an English composer and organist of the Baroque period. Appointed organist of Westminster Abbey in late 1668, his pupils included William Croft, Jeremiah Clarke and Henry Purcell. In 1685 he was named a private musician to James II. His only stage composition, Venus and Adonis, is thought to have influenced Henry Purcell's later opera Dido and Aeneas. In 1687, he became choirmaster at St Paul's Cathedral, where many of his pieces were performed. In 1699 he was appointed to the newly created post of Composer to the Chapel Royal.",
+  "extract_html": "<p><b>John Blow</b> was an English composer and organist of the Baroque period. Appointed organist of Westminster Abbey in late 1668, his pupils included William Croft, Jeremiah Clarke and Henry Purcell. In 1685 he was named a private musician to James II. His only stage composition, <i>Venus and Adonis</i>, is thought to have influenced Henry Purcell's later opera <i>Dido and Aeneas</i>. In 1687, he became choirmaster at St Paul's Cathedral, where many of his pieces were performed. In 1699 he was appointed to the newly created post of Composer to the Chapel Royal.</p>"
+}

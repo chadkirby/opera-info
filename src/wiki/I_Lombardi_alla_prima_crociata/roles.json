@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 11 February 1843<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\">[18]</a></sup><br>(Conductor: <a href=\"/wiki/Eugenio_Cavallini\" title=\"Eugenio Cavallini\">Eugenio Cavallini</a>)\n</th></tr>\n<tr>\n<td>Arvino, <i>son of Lord Folco</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Pagano/Hermit, <i>son of Lord Folco</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Viclinda, <i>wife of Arvino</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Giselda, <i>daughter of Arvino</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Oronte, <i>son of Acciano ruler of Antioch</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Yaghi-Siyan\" class=\"mw-redirect\" title=\"Yaghi-Siyan\">Acciano</a>, <i>ruler of Antioch</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Sofia, <i>wife of Acciano</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Pirro, <i>Arvino's squire</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Prior of Milan\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Villagers of Milan, palace guards, crusaders, pilgrims, nuns, cut-throats, harem women, warriors – Chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Arvino, son of Lord Folco",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pagano/Hermit, son of Lord Folco",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Viclinda, wife of Arvino",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Giselda, daughter of Arvino",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Oronte, son of Acciano ruler of Antioch",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Acciano, ruler of Antioch",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sofia, wife of Acciano",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Pirro, Arvino's squire",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Prior of Milan",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Villagers of Milan, palace guards, crusaders, pilgrims, nuns, cut-throats, harem women, warriors – Chorus",
+      "voiceType": ""
+    }
+  ]
+}

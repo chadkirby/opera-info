@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-Institute_1-1\" class=\"reference\"><a href=\"#cite_note-Institute-1\">[1]</a></sup>\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 27 January 1733<br>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Roland\" title=\"Roland\">Orlando</a>, <i>a knight </i>\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Angelica_(character)\" title=\"Angelica (character)\">Angelica</a>, <i>Queen of Cathay</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Medoro, <i>an African prince</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Dorinda, <i>a shepherdess</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Zoroastro, <i>a magician</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Orlando, a knight",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Angelica, Queen of Cathay",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Medoro, an African prince",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Dorinda, a shepherdess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Zoroastro, a magician",
+      "voiceType": "bass"
+    }
+  ]
+}

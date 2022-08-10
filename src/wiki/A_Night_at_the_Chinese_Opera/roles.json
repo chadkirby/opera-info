@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<br><a href=\"/wiki/Cheltenham_Music_Festival\" title=\"Cheltenham Music Festival\">Cheltenham Music Festival</a>, 8 July 1987<br>(Conductor: <a href=\"/wiki/Andrew_Parrott\" title=\"Andrew Parrott\">Andrew Parrott</a>)<sup id=\"cite_ref-Opera87_4-2\" class=\"reference\"><a href=\"#cite_note-Opera87-4\">[4]</a></sup>\n</th></tr>\n<tr>\n<td>Little Moon / Actor\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mrs Chin / Old Crone\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>An Actor\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Chao Lin as a boy\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Military Governor\n</td>\n<td><a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a>\n</td>\n</tr>\n<tr>\n<td>Old P'eng / Mountain Dweller\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Nightwatchman / Marco Polo\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Chao Lin\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>An Actor\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Chao Sun / Fireman\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Mongolian Soldier\n</td>\n<td>baritone\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Little Moon / Actor",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mrs Chin / Old Crone",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "An Actor",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chao Lin as a boy",
+      "voiceType": ""
+    },
+    {
+      "role": "Military Governor",
+      "voiceType": "countertenor"
+    },
+    {
+      "role": "Old P'eng / Mountain Dweller",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nightwatchman / Marco Polo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Chao Lin",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "An Actor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chao Sun / Fireman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mongolian Soldier",
+      "voiceType": "baritone"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 31 March 1901<br>Conductor: <a href=\"/wiki/Karel_Kova%C5%99ovic\" title=\"Karel Kovařovic\">Karel Kovařovic</a>\n</th></tr>\n<tr>\n<td>Rusalka, <i>a water nymph</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>The prince\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Vodn%C3%ADk\" class=\"mw-redirect\" title=\"Vodník\">Vodník</a>, <i>the water <a href=\"/wiki/Goblin\" title=\"Goblin\">goblin</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The foreign princess\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Je%C5%BEibaba\" class=\"mw-redirect\" title=\"Ježibaba\">Ježibaba</a>, <i>a witch</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>First wood sprite\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Second wood sprite\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Third wood sprite\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Gamekeeper\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Turnspit/Kitchen boy\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Hunter\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Wood nymphs, guests at the castle, entourage of the prince</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Rusalka, a water nymph",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The prince",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Vodník, the water goblin",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The foreign princess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ježibaba, a witch",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "First wood sprite",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Second wood sprite",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Third wood sprite",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Gamekeeper",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Turnspit/Kitchen boy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hunter",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chorus: Wood nymphs, guests at the castle, entourage of the prince",
+      "voiceType": ""
+    }
+  ]
+}

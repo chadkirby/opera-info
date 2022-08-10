@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Harrison Birtwistle",
+  "displaytitle": "Harrison Birtwistle",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q354335",
+  "titles": {
+    "canonical": "Harrison_Birtwistle",
+    "normalized": "Harrison Birtwistle",
+    "display": "Harrison Birtwistle"
+  },
+  "pageid": 159354,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Harrison_Birtwistle_%28cropped%29.jpg/240px-Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 1294,
+    "height": 1728
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102177749",
+  "tid": "73f45ab0-1362-11ed-8d71-11d0cdb9e287",
+  "timestamp": "2022-08-03T19:28:25Z",
+  "description": "English composer (1934–2022)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Harrison_Birtwistle",
+      "revisions": "https://en.wikipedia.org/wiki/Harrison_Birtwistle?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Harrison_Birtwistle?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Harrison_Birtwistle"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Harrison_Birtwistle",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Harrison_Birtwistle",
+      "edit": "https://en.m.wikipedia.org/wiki/Harrison_Birtwistle?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Harrison_Birtwistle"
+    }
+  },
+  "extract": "Sir Harrison Birtwistle was an English composer of contemporary classical music best known for his operas, often based on mythological subjects. Among his many compositions, his better known works include The Triumph of Time (1972) and the operas The Mask of Orpheus (1986), Gawain (1991), and The Minotaur (2008). The last of these was ranked by music critics at The Guardian in 2019 as the third-best piece of the 21st-century. Even his compositions that were not written for the stage often showed a theatrical approach. A performance of his saxophone concerto Panic during the BBC's Last Night of the Proms caused \"national notoriety\". He received many international awards and honorary degrees.",
+  "extract_html": "<p><b>Sir Harrison Birtwistle</b> was an English composer of contemporary classical music best known for his operas, often based on mythological subjects. Among his many compositions, his better known works include <i>The Triumph of Time</i> (1972) and the operas <i>The Mask of Orpheus</i> (1986), <i>Gawain</i> (1991), and <i>The Minotaur</i> (2008). The last of these was ranked by music critics at <i>The Guardian</i> in 2019 as the third-best piece of the 21st-century. Even his compositions that were not written for the stage often showed a theatrical approach. A performance of his saxophone concerto <i>Panic</i> during the BBC's Last Night of the Proms caused \"national notoriety\". He received many international awards and honorary degrees.</p>"
+}

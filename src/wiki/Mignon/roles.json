@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th bgcolor=\"ececec\">Role\n</th>\n<th bgcolor=\"ececec\">Voice type\n</th>\n<th bgcolor=\"ececec\">Premiere cast,<br>17 November 1866<br>(Conductor: <a href=\"/wiki/Th%C3%A9ophile_Tilmant\" title=\"Théophile Tilmant\">Théophile Tilmant</a>)\n</th>\n<th bgcolor=\"ececec\">Second version cast,<br>5 July 1870<br>(Conductor: <a href=\"/wiki/Luigi_Arditi\" title=\"Luigi Arditi\">Luigi Arditi</a>)<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup>\n</th></tr>\n<tr>\n<td>Mignon\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> (1866) <br><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> (1870)\n</td>\n\n</tr>\n<tr>\n<td>Philine, <i>an actress</i>\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Wilhelm Meister, <i>a student</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Frédéric, <i>Philine's admirer</i>\n</td>\n<td>tenor (1866) <br><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> (1870)\n</td>\n\n</tr>\n<tr>\n<td>Laerte, <i>an actor</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Lothario, <i>a wandering minstrel</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Jarno, <i>a gypsy</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Antonio, <i>a castle servant</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Chorus: <i>Townspeople, peasants, gypsies, guests, actors</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Mignon",
+      "voiceType": "mezzo-soprano (1866) \nsoprano (1870)"
+    },
+    {
+      "role": "Philine, an actress",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Wilhelm Meister, a student",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frédéric, Philine's admirer",
+      "voiceType": "tenor (1866) \ncontralto (1870)"
+    },
+    {
+      "role": "Laerte, an actor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lothario, a wandering minstrel",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Jarno, a gypsy",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Antonio, a castle servant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Townspeople, peasants, gypsies, guests, actors",
+      "voiceType": ""
+    }
+  ]
+}

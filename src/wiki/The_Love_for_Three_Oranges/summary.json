@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Love for Three Oranges",
+  "displaytitle": "<i>The Love for Three Oranges</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q907735",
+  "titles": {
+    "canonical": "The_Love_for_Three_Oranges",
+    "normalized": "The Love for Three Oranges",
+    "display": "<i>The Love for Three Oranges</i>"
+  },
+  "pageid": 900016,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/25.02.1971._%22L%27amour_des_trois_oranges%22._%281971%29_-_53Fi4137_%28cropped%29.jpg/320px-25.02.1971._%22L%27amour_des_trois_oranges%22._%281971%29_-_53Fi4137_%28cropped%29.jpg",
+    "width": 320,
+    "height": 183
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/25.02.1971._%22L%27amour_des_trois_oranges%22._%281971%29_-_53Fi4137_%28cropped%29.jpg",
+    "width": 2212,
+    "height": 1264
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093892426",
+  "tid": "2e121880-11a4-11ed-ad83-05b42e084a04",
+  "timestamp": "2022-06-19T13:20:23Z",
+  "description": "Opera by Sergei Prokofiev",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Love_for_Three_Oranges",
+      "revisions": "https://en.wikipedia.org/wiki/The_Love_for_Three_Oranges?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Love_for_Three_Oranges?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Love_for_Three_Oranges"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Love_for_Three_Oranges",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Love_for_Three_Oranges",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Love_for_Three_Oranges?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Love_for_Three_Oranges"
+    }
+  },
+  "extract": "The Love for Three Oranges, Op. 33, also known by its French language title L'amour des trois oranges, is a satirical opera by Sergei Prokofiev. Its French libretto was based on the Italian play L'amore delle tre melarance by Carlo Gozzi. The opera premiered at the Auditorium Theatre in Chicago, Illinois, on 30 December 1921.",
+  "extract_html": "<p><i><b>The Love for Three Oranges</b></i>, Op. 33, also known by its French language title <i><b><span><i lang=\"fr\">L'amour des trois oranges</i></span></b></i>, is a satirical opera by Sergei Prokofiev. Its French libretto was based on the Italian play <i>L'amore delle tre melarance</i> by Carlo Gozzi. The opera premiered at the Auditorium Theatre in Chicago, Illinois, on 30 December 1921.</p>"
+}

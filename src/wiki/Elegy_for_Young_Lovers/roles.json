@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 20 May 1961<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup><br>Conductor: <a href=\"/wiki/Heinrich_Bender_(conductor)\" title=\"Heinrich Bender (conductor)\">Heinrich Bender</a>\n</th></tr>\n<tr>\n<td>Hilde Mack, <i>a widow</i>\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>Elizabeth Zimmer\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Carolina, Countess of Kirchstätten, <i>secretary to Mittenhofer</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Toni Reischmann\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Gregor Mittenhofer, <i>a poet</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Dr. Wilhelm Reischmann, <i>a physician</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Josef Mauer, <i>a mountain climb leader</i>\n</td>\n<td>spoken\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Hilde Mack, a widow",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Elizabeth Zimmer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Carolina, Countess of Kirchstätten, secretary to Mittenhofer",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Toni Reischmann",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Gregor Mittenhofer, a poet",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Dr. Wilhelm Reischmann, a physician",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Josef Mauer, a mountain climb leader",
+      "voiceType": "spoken"
+    }
+  ]
+}

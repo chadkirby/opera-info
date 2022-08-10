@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">A Night at the Chinese Opera</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Judith_Weir\" title=\"Judith Weir\">Judith Weir</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Weir</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i><a href=\"/wiki/The_Orphan_of_Zhao\" title=\"The Orphan of Zhao\">The Orphan of Zhao</a></i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">8&nbsp;July&nbsp;1987<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1987-07-08</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Kent_Opera\" title=\"Kent Opera\">Kent Opera</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "A Night at the Chinese Opera"
+  ],
+  "Librettist": "Weir",
+  "Language": "English",
+  "Based on": "The Orphan of Zhao",
+  "Premiere": "8 July 1987\nKent Opera"
+}

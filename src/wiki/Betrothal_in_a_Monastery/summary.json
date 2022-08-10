@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Betrothal in a Monastery",
+  "displaytitle": "<i>Betrothal in a Monastery</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2629201",
+  "titles": {
+    "canonical": "Betrothal_in_a_Monastery",
+    "normalized": "Betrothal in a Monastery",
+    "display": "<i>Betrothal in a Monastery</i>"
+  },
+  "pageid": 2016012,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg/260px-Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "width": 260,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "width": 2116,
+    "height": 2607
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1078034292",
+  "tid": "1d663990-11a8-11ed-937c-5559db31cb12",
+  "timestamp": "2022-03-19T14:15:26Z",
+  "description": "Opera by Sergei Prokofiev",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Betrothal_in_a_Monastery",
+      "revisions": "https://en.wikipedia.org/wiki/Betrothal_in_a_Monastery?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Betrothal_in_a_Monastery?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Betrothal_in_a_Monastery"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Betrothal_in_a_Monastery",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Betrothal_in_a_Monastery",
+      "edit": "https://en.m.wikipedia.org/wiki/Betrothal_in_a_Monastery?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Betrothal_in_a_Monastery"
+    }
+  },
+  "extract": "Betrothal in a Monastery, Op. 86 is an opera by Sergei Prokofiev, his sixth with an opus number. The libretto, in Russian, was by the composer and Mira Mendelson, after Richard Brinsley Sheridan's ballad opera libretto for Thomas Linley the younger's The Duenna.",
+  "extract_html": "<p><i><b>Betrothal in a Monastery</b></i>, Op. 86 is an opera by Sergei Prokofiev, his sixth with an opus number. The libretto, in Russian, was by the composer and Mira Mendelson, after Richard Brinsley Sheridan's ballad opera libretto for Thomas Linley the younger's <i>The Duenna</i>.</p>"
+}

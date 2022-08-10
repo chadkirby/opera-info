@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Tamerlano",
+  "displaytitle": "<i>Tamerlano</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2164275",
+  "titles": {
+    "canonical": "Tamerlano",
+    "normalized": "Tamerlano",
+    "display": "<i>Tamerlano</i>"
+  },
+  "pageid": 2632968,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Georg_Friedrich_H%C3%A4ndel_-_Tamerlano_-_title_page_of_the_libretto_-_London_1724.png/194px-Georg_Friedrich_H%C3%A4ndel_-_Tamerlano_-_title_page_of_the_libretto_-_London_1724.png",
+    "width": 194,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Georg_Friedrich_H%C3%A4ndel_-_Tamerlano_-_title_page_of_the_libretto_-_London_1724.png",
+    "width": 1173,
+    "height": 1935
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086128783",
+  "tid": "8f59abf0-1247-11ed-adf7-7f3243d0e9b5",
+  "timestamp": "2022-05-04T09:46:56Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tamerlano",
+      "revisions": "https://en.wikipedia.org/wiki/Tamerlano?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tamerlano?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tamerlano"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Tamerlano",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tamerlano",
+      "edit": "https://en.m.wikipedia.org/wiki/Tamerlano?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Tamerlano"
+    }
+  },
+  "extract": "Tamerlano is an opera seria in three acts by George Frideric Handel. The Italian libretto was by Nicola Francesco Haym, adapted from Agostin Piovene's Tamerlano together with another libretto entitled Bajazet after Nicolas Pradon's Tamerlan, ou La Mort de Bajazet. The opera was staged by the Royal Academy of Music in the King's Theatre at the Haymarket, London.",
+  "extract_html": "<p><i><b>Tamerlano</b></i> is an opera seria in three acts by George Frideric Handel. The Italian libretto was by Nicola Francesco Haym, adapted from Agostin Piovene's <i>Tamerlano</i> together with another libretto entitled <i>Bajazet</i> after Nicolas Pradon's <i>Tamerlan, ou La Mort de Bajazet</i>. The opera was staged by the Royal Academy of Music in the King's Theatre at the Haymarket, London.</p>"
+}

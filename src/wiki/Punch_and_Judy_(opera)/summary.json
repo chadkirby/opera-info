@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Punch and Judy (opera)",
+  "displaytitle": "<i>Punch and Judy</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3925583",
+  "titles": {
+    "canonical": "Punch_and_Judy_(opera)",
+    "normalized": "Punch and Judy (opera)",
+    "display": "<i>Punch and Judy</i> (opera)"
+  },
+  "pageid": 9017525,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Harrison_Birtwistle_%28cropped%29.jpg/240px-Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 1294,
+    "height": 1728
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091800520",
+  "tid": "2cc14090-fa21-11ec-a74d-cfb50b6d6912",
+  "timestamp": "2022-06-06T13:22:18Z",
+  "description": "1968 chamber opera by Harrison Birtwistle and Stephen Pruslin",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Punch_and_Judy_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Punch_and_Judy_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Punch_and_Judy_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Punch_and_Judy_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Punch_and_Judy_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Punch_and_Judy_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Punch_and_Judy_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Punch_and_Judy_(opera)"
+    }
+  },
+  "extract": "Punch and Judy is a chamber opera with music by Harrison Birtwistle and a libretto by Stephen Pruslin, based on the puppet figures of the same names. Birtwistle wrote the score from 1966 to 1967. The opera was first performed at the Aldeburgh Festival, which had commissioned the work, on 8 June 1968, with David Atherton conducting the English Opera Group. The premiere cast included John Cameron as Mr Punch.",
+  "extract_html": "<p><i><b>Punch and Judy</b></i> is a chamber opera with music by Harrison Birtwistle and a libretto by Stephen Pruslin, based on the puppet figures of the same names. Birtwistle wrote the score from 1966 to 1967. The opera was first performed at the Aldeburgh Festival, which had commissioned the work, on 8 June 1968, with David Atherton conducting the English Opera Group. The premiere cast included John Cameron as Mr Punch.</p>"
+}

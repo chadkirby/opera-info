@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "John Adams (composer)",
+  "displaytitle": "John Adams (composer)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q84114",
+  "titles": {
+    "canonical": "John_Adams_(composer)",
+    "normalized": "John Adams (composer)",
+    "display": "John Adams (composer)"
+  },
+  "pageid": 16518,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/JA-portrait-1-LW.jpg/227px-JA-portrait-1-LW.jpg",
+    "width": 227,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/JA-portrait-1-LW.jpg",
+    "width": 355,
+    "height": 500
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100075244",
+  "tid": "73fa5770-119c-11ed-8d32-41532e48f1af",
+  "timestamp": "2022-07-24T03:12:31Z",
+  "description": "American composer (born 1947)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/John_Adams_(composer)",
+      "revisions": "https://en.wikipedia.org/wiki/John_Adams_(composer)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/John_Adams_(composer)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_Adams_(composer)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/John_Adams_(composer)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/John_Adams_(composer)",
+      "edit": "https://en.m.wikipedia.org/wiki/John_Adams_(composer)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:John_Adams_(composer)"
+    }
+  },
+  "extract": "John Coolidge Adams is an American composer and conductor whose music is rooted in minimalism. Among the most regularly performed composers of contemporary classical music, he is particularly noted for his operas, which are often centered around recent historical events. Apart from opera, his oeuvre includes orchestral, concertante, vocal, choral, chamber, electroacoustic and piano music.",
+  "extract_html": "<p><b>John Coolidge Adams</b> is an American composer and conductor whose music is rooted in minimalism. Among the most regularly performed composers of contemporary classical music, he is particularly noted for his operas, which are often centered around recent historical events. Apart from opera, <span>his <i>oeuvre</i></span> includes orchestral, concertante, vocal, choral, chamber, electroacoustic and piano music.</p>"
+}

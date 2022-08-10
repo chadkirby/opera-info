@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Friedrich von Flotow",
+  "displaytitle": "Friedrich von Flotow",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q155425",
+  "titles": {
+    "canonical": "Friedrich_von_Flotow",
+    "normalized": "Friedrich von Flotow",
+    "display": "Friedrich von Flotow"
+  },
+  "pageid": 676623,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Friedrich_von_Flotow_1866.jpg/258px-Friedrich_von_Flotow_1866.jpg",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Friedrich_von_Flotow_1866.jpg",
+    "width": 3270,
+    "height": 4050
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1063098446",
+  "tid": "292cf250-0f82-11ed-8fd9-0f74bb4c6b35",
+  "timestamp": "2022-01-01T05:56:42Z",
+  "description": "19th century German composer known for his operas",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Friedrich_von_Flotow",
+      "revisions": "https://en.wikipedia.org/wiki/Friedrich_von_Flotow?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Friedrich_von_Flotow?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Friedrich_von_Flotow"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Friedrich_von_Flotow",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Friedrich_von_Flotow",
+      "edit": "https://en.m.wikipedia.org/wiki/Friedrich_von_Flotow?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Friedrich_von_Flotow"
+    }
+  },
+  "extract": "Friedrich Adolf Ferdinand, Freiherr von Flotow /flo:to/ was a German composer. He is chiefly remembered for his opera Martha, which was popular in the 19th century and the early part of the 20th.",
+  "extract_html": "<p><b>Friedrich Adolf Ferdinand, Freiherr von Flotow</b> /flo:to/ was a German composer. He is chiefly remembered for his opera <i>Martha</i>, which was popular in the 19th century and the early part of the 20th.</p>"
+}

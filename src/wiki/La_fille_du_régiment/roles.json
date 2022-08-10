@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 11 February 1840<br>(<a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Gaetano&nbsp;Donizetti)<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\">[32]</a></sup>\n</th></tr>\n<tr>\n<td>Marie, <i>a <a href=\"/wiki/Vivandi%C3%A8re\" title=\"Vivandière\">vivandière</a></i>\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>Tonio, <i>a young <a href=\"/wiki/County_of_Tyrol\" title=\"County of Tyrol\">Tyrolean</a></i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Sergeant Sulpice\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The Marquise of Berkenfield\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Hortensius, <i>a butler</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A corporal\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A peasant\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The Duchess of Crakentorp\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>A notary\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>French soldiers, <a href=\"/wiki/County_of_Tyrol\" title=\"County of Tyrol\">Tyrolean</a> people, domestic servants of the Duchess</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Marie, a vivandière",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Tonio, a young Tyrolean",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sergeant Sulpice",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Marquise of Berkenfield",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Hortensius, a butler",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A corporal",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A peasant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Duchess of Crakentorp",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "A notary",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "French soldiers, Tyrolean people, domestic servants of the Duchess",
+      "voiceType": ""
+    }
+  ]
+}

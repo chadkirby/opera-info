@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 30 December 1835<br>(Conductor: <a href=\"/wiki/Eugenio_Cavallini\" title=\"Eugenio Cavallini\">Eugenio Cavallini</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Mary,_Queen_of_Scots\" title=\"Mary, Queen of Scots\">Maria Stuarda</a>, <i>Queen of Scotland</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Elizabeth_I\" title=\"Elizabeth I\">Elisabetta</a>, <i>Queen of England</i>\n</td>\n<td>soprano or mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Anna Kennedy, <i>Maria's companion</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Robert_Dudley,_1st_Earl_of_Leicester\" title=\"Robert Dudley, 1st Earl of Leicester\">Roberto</a>, <i>Earl of Leicester</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/William_Cecil,_1st_Baron_Burghley\" title=\"William Cecil, 1st Baron Burghley\">Lord Guglielmo Cecil</a>, <i>Chancellor of the Exchequer</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/George_Talbot,_6th_Earl_of_Shrewsbury\" title=\"George Talbot, 6th Earl of Shrewsbury\">Giorgio Talbot</a>, <i>Earl of Shrewsbury</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>A herald\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Maria Stuarda, Queen of Scotland",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Elisabetta, Queen of England",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Anna Kennedy, Maria's companion",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Roberto, Earl of Leicester",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lord Guglielmo Cecil, Chancellor of the Exchequer",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Giorgio Talbot, Earl of Shrewsbury",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A herald",
+      "voiceType": "tenor"
+    }
+  ]
+}

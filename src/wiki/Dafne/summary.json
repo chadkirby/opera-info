@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dafne",
+  "displaytitle": "<i>Dafne</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1247911",
+  "titles": {
+    "canonical": "Dafne",
+    "normalized": "Dafne",
+    "display": "<i>Dafne</i>"
+  },
+  "pageid": 655883,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Daphne_chased_by_Apollo.jpg/261px-Daphne_chased_by_Apollo.jpg",
+    "width": 261,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daphne_chased_by_Apollo.jpg",
+    "width": 1082,
+    "height": 1324
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1078823076",
+  "tid": "0c70e400-f98e-11ec-8493-635facdbba0d",
+  "timestamp": "2022-03-23T14:21:51Z",
+  "description": "First modern opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dafne",
+      "revisions": "https://en.wikipedia.org/wiki/Dafne?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dafne?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dafne"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Dafne",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dafne",
+      "edit": "https://en.m.wikipedia.org/wiki/Dafne?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Dafne"
+    }
+  },
+  "extract": "Dafne is the earliest known work that, by modern standards, could be considered an opera. The libretto by Ottavio Rinuccini survives complete; the mostly lost music was completed by Jacopo Peri, but at least two of the six surviving fragments are by Jacopo Corsi. Dafne was first performed during Carnival of 1598 at the Palazzo Corsi.",
+  "extract_html": "<p><i><b>Dafne</b></i> is the earliest known work that, by modern standards, could be considered an opera. The libretto by Ottavio Rinuccini survives complete; the mostly lost music was completed by Jacopo Peri, but at least two of the six surviving fragments are by Jacopo Corsi. <i>Dafne</i> was first performed during Carnival of 1598 at the Palazzo Corsi.</p>"
+}

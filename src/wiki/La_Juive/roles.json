@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup> 23&nbsp;February&nbsp;1835<br>(Conductor: <a href=\"/wiki/Fran%C3%A7ois_Habeneck\" title=\"François Habeneck\">François&nbsp;Habeneck</a>)\n</th></tr>\n<tr>\n<td>Eléazar, <i>a Jewish goldsmith</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Rachel, <i>his supposed daughter, the \"Jewess\" of the title</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Prince Léopold\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Princess Eudoxie, <i>niece of the emperor</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Gian Francesco, Cardinal de Brogni, <i>President of the Council</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Ruggiero, <i>city provost</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Albert, <i>a sergeant</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>A herald\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Officer of the emperor\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>First man of the people\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Second man of the people\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Third man of the people\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Member of the <a href=\"/wiki/Holy_Office\" class=\"mw-redirect\" title=\"Holy Office\">Holy Office</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Majordomo\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Emperor <a href=\"/wiki/Sigismund,_Holy_Roman_Emperor\" title=\"Sigismund, Holy Roman Emperor\">Sigismund</a>\n</td>\n<td>Silent\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Eléazar, a Jewish goldsmith",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Rachel, his supposed daughter, the \"Jewess\" of the title",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Prince Léopold",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Princess Eudoxie, niece of the emperor",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gian Francesco, Cardinal de Brogni, President of the Council",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ruggiero, city provost",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Albert, a sergeant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A herald",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Officer of the emperor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "First man of the people",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Second man of the people",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Third man of the people",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Member of the Holy Office",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Majordomo",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Emperor Sigismund",
+      "voiceType": "Silent"
+    }
+  ]
+}

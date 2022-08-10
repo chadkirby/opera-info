@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Claudio Monteverdi",
+  "displaytitle": "Claudio Monteverdi",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q53068",
+  "titles": {
+    "canonical": "Claudio_Monteverdi",
+    "normalized": "Claudio Monteverdi",
+    "display": "Claudio Monteverdi"
+  },
+  "pageid": 6226,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg/256px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg",
+    "width": 256,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg",
+    "width": 1648,
+    "height": 2060
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096273492",
+  "tid": "3290e380-119c-11ed-846f-3d1000a3e7bd",
+  "timestamp": "2022-07-03T11:58:29Z",
+  "description": "Italian composer (1567–1643)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+      "revisions": "https://en.wikipedia.org/wiki/Claudio_Monteverdi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Claudio_Monteverdi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Claudio_Monteverdi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Claudio_Monteverdi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Claudio_Monteverdi",
+      "edit": "https://en.m.wikipedia.org/wiki/Claudio_Monteverdi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Claudio_Monteverdi"
+    }
+  },
+  "extract": "Claudio Giovanni Antonio Monteverdi was an Italian composer, string player, choirmaster, and priest. A composer of both secular and sacred music, and a pioneer in the development of opera, he is considered a crucial transitional figure between the Renaissance and Baroque periods of music history.",
+  "extract_html": "<p><b>Claudio Giovanni Antonio Monteverdi</b> was an Italian composer, string player, choirmaster, and priest. A composer of both secular and sacred music, and a pioneer in the development of opera, he is considered a crucial transitional figure between the Renaissance and Baroque periods of music history.</p>"
+}

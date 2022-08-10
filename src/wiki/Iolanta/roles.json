@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Saint Petersburg premiere,<br>18 December 1892<br>(6 December <a href=\"/wiki/Old_Style_and_New_Style_dates\" title=\"Old Style and New Style dates\">O.S.</a>)<br>(Conductor: <a href=\"/wiki/Eduard_N%C3%A1pravn%C3%ADk\" title=\"Eduard Nápravník\">Eduard Nápravník</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Ren%C3%A9_of_Anjou\" title=\"René of Anjou\">René</a>, <i>King of Provence</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Robert, <i>Duke of Burgundy</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Ferry_II_of_Lorraine\" class=\"mw-redirect\" title=\"Ferry II of Lorraine\">Count Vaudémont</a>, <i>a Burgundian knight</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Ibn-Hakia, <i>a Moorish physician</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Alméric, <i>armor-bearer to King René</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Bertrand, <i>doorkeeper of the castle</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Yolande,_Duchess_of_Lorraine\" title=\"Yolande, Duchess of Lorraine\">Iolanta</a>, <i>blind daughter of King René</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Marta, <i>Bertrand's wife, Iolanta's nursemaid</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Brigitta, <i>Iolanta's friend</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Laura, <i>Iolanta's friend</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus, silent roles: <i>Iolanta's servant-girls and friends, the king's retinue, the Burgundian Duke's regiment, men-at-arms</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "René, King of Provence",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Robert, Duke of Burgundy",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Count Vaudémont, a Burgundian knight",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ibn-Hakia, a Moorish physician",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Alméric, armor-bearer to King René",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bertrand, doorkeeper of the castle",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Iolanta, blind daughter of King René",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Marta, Bertrand's wife, Iolanta's nursemaid",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Brigitta, Iolanta's friend",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Laura, Iolanta's friend",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Chorus, silent roles: Iolanta's servant-girls and friends, the king's retinue, the Burgundian Duke's regiment, men-at-arms",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "L'amico Fritz",
+  "displaytitle": "<i>L'amico Fritz</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q578706",
+  "titles": {
+    "canonical": "L'amico_Fritz",
+    "normalized": "L'amico Fritz",
+    "display": "<i>L'amico Fritz</i>"
+  },
+  "pageid": 5891409,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pietro_Mascagni_2.jpg/228px-Pietro_Mascagni_2.jpg",
+    "width": 228,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pietro_Mascagni_2.jpg",
+    "width": 990,
+    "height": 1389
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101258503",
+  "tid": "70da49f0-0fb3-11ed-8b89-19e7e3ff9b85",
+  "timestamp": "2022-07-30T02:58:06Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'amico_Fritz",
+      "revisions": "https://en.wikipedia.org/wiki/L'amico_Fritz?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'amico_Fritz?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'amico_Fritz"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'amico_Fritz",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'amico_Fritz",
+      "edit": "https://en.m.wikipedia.org/wiki/L'amico_Fritz?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'amico_Fritz"
+    }
+  },
+  "extract": "L'amico Fritz is an opera in three acts by Pietro Mascagni, premiered in 1891 from a libretto by P. Suardon, based on the French novel L'ami Fritz by Émile Erckmann and Pierre-Alexandre Chatrian.",
+  "extract_html": "<p><i><b>L'amico Fritz</b></i> is an opera in three acts by Pietro Mascagni, premiered in 1891 from a libretto by P. Suardon, based on the French novel <i>L'ami Fritz</i> by Émile Erckmann and Pierre-Alexandre Chatrian.</p>"
+}

@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 26 December 1830<br>(Conductor: - )\n</th></tr>\n<tr>\n<td>Anna Bolena (<a href=\"/wiki/Anne_Boleyn\" title=\"Anne Boleyn\">Anne Boleyn</a>)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Enrico (<a href=\"/wiki/Henry_VIII_of_England\" class=\"mw-redirect\" title=\"Henry VIII of England\">Henry VIII</a>)\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Giovanna Seymour (<a href=\"/wiki/Jane_Seymour\" title=\"Jane Seymour\">Jane Seymour</a>), <i>Anna's lady-in-waiting</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Lord Rochefort (<a href=\"/wiki/George_Boleyn\" class=\"mw-redirect\" title=\"George Boleyn\">George Boleyn</a>), <i>Anna's brother</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Riccardo Percy (<a href=\"/wiki/Henry_Percy,_6th_Earl_of_Northumberland\" title=\"Henry Percy, 6th Earl of Northumberland\">Henry Percy, 6th Earl of Northumberland</a>)<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Smeton (<a href=\"/wiki/Mark_Smeaton\" title=\"Mark Smeaton\">Mark Smeaton</a>), <i>musician</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Hervey, <i>court official</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Courtiers, soldiers, huntsmen</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Anna Bolena (Anne Boleyn)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Enrico (Henry VIII)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Giovanna Seymour (Jane Seymour), Anna's lady-in-waiting",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Lord Rochefort (George Boleyn), Anna's brother",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Riccardo Percy (Henry Percy, 6th Earl of Northumberland)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Smeton (Mark Smeaton), musician",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Hervey, court official",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Courtiers, soldiers, huntsmen",
+      "voiceType": ""
+    }
+  ]
+}

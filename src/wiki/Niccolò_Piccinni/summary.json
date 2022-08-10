@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Niccolò Piccinni",
+  "displaytitle": "Niccolò Piccinni",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q310687",
+  "titles": {
+    "canonical": "Niccolò_Piccinni",
+    "normalized": "Niccolò Piccinni",
+    "display": "Niccolò Piccinni"
+  },
+  "pageid": 221389,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Piccinni%2C_Niccol%C3%B2_1.JPG/256px-Piccinni%2C_Niccol%C3%B2_1.JPG",
+    "width": 256,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Piccinni%2C_Niccol%C3%B2_1.JPG",
+    "width": 1875,
+    "height": 2340
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086248891",
+  "tid": "d3b26db0-0f80-11ed-9da8-b36b6ab29458",
+  "timestamp": "2022-05-05T01:55:40Z",
+  "description": "Italian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Piccinni",
+      "revisions": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Piccinni?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Piccinni?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Niccol%C3%B2_Piccinni"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Niccol%C3%B2_Piccinni",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Niccol%C3%B2_Piccinni",
+      "edit": "https://en.m.wikipedia.org/wiki/Niccol%C3%B2_Piccinni?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Niccol%C3%B2_Piccinni"
+    }
+  },
+  "extract": "Niccolò Piccinni was an Italian composer of symphonies, sacred music, chamber music, and opera. Although he is somewhat obscure today, Piccinni was one of the most popular composers of opera—particularly the Neapolitan opera buffa—of the Classical period.",
+  "extract_html": "<p><b>Niccolò Piccinni</b> was an Italian composer of symphonies, sacred music, chamber music, and opera. Although he is somewhat obscure today, Piccinni was one of the most popular composers of opera—particularly the Neapolitan opera buffa—of the Classical period.</p>"
+}

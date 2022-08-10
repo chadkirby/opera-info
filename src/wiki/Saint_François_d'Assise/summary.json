@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Saint François d'Assise",
+  "displaytitle": "<i>Saint François d'Assise</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2605813",
+  "titles": {
+    "canonical": "Saint_François_d'Assise",
+    "normalized": "Saint François d'Assise",
+    "display": "<i>Saint François d'Assise</i>"
+  },
+  "pageid": 2418830,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Giotto_-_Legend_of_St_Francis_-_-15-_-_Sermon_to_the_Birds.jpg/238px-Giotto_-_Legend_of_St_Francis_-_-15-_-_Sermon_to_the_Birds.jpg",
+    "width": 238,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Giotto_-_Legend_of_St_Francis_-_-15-_-_Sermon_to_the_Birds.jpg",
+    "width": 956,
+    "height": 1284
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1084759672",
+  "tid": "c656c530-14a8-11ed-bee5-2da843bd968b",
+  "timestamp": "2022-04-26T12:25:14Z",
+  "description": "Opera by Olivier Messiaen",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d'Assise",
+      "revisions": "https://en.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d'Assise?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d'Assise?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Saint_Fran%C3%A7ois_d'Assise"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d'Assise",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Saint_Fran%C3%A7ois_d'Assise",
+      "edit": "https://en.m.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d'Assise?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Saint_Fran%C3%A7ois_d'Assise"
+    }
+  },
+  "extract": "Saint François d'Assise : Scènes Franciscaines, or simply Saint François d'Assise, is an opera in three acts and eight scenes by French composer Olivier Messiaen, who was also its librettist; written from 1975 to 1979, with orchestration and copying from 1979 to 1983. It concerns Saint Francis of Assisi, the titular character, and displays Messiaen's devout Catholicism.",
+  "extract_html": "<p><i><b>Saint François d'Assise : Scènes Franciscaines</b></i>, or simply <i><b>Saint François d'Assise</b></i>, is an opera in three acts and eight scenes by French composer Olivier Messiaen, who was also its librettist; written from 1975 to 1979, with orchestration and copying from 1979 to 1983. It concerns Saint Francis of Assisi, the titular character, and displays Messiaen's devout Catholicism.</p>"
+}

@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voive types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 11 November 1906<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup><br>Conductor: Carl Nielsen\n</th></tr>\n<tr>\n<td>Jeronimus, <i>a citizen of Copenhagen</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Magdelone, <i> his wife</i>\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Leander, <i>their son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Henrik, <i>Leander's valet</i>\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>Arv, <i>Jeronimus' servant</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Leonard, <i>a citizen of <a href=\"/wiki/Slagelse\" title=\"Slagelse\">Slagelse</a></i>\n</td>\n<td>tenor or <a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Leonora, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Pernille, <i>Leonora's maid</i>\n</td>\n<td>soprano or mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Mask Vendor\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Doorman at the Playhouse\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A Tutor\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Night Watchman\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Master of the Masquerade\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Masqueraders, Students, Girls, Officers\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Jeronimus, a citizen of Copenhagen",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Magdelone, his wife",
+      "voiceType": "alto or mezzo-soprano"
+    },
+    {
+      "role": "Leander, their son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Henrik, Leander's valet",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Arv, Jeronimus' servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Leonard, a citizen of Slagelse",
+      "voiceType": "tenor or baritone"
+    },
+    {
+      "role": "Leonora, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Pernille, Leonora's maid",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Mask Vendor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Doorman at the Playhouse",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Tutor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Night Watchman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Master of the Masquerade",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Masqueraders, Students, Girls, Officers",
+      "voiceType": ""
+    }
+  ]
+}

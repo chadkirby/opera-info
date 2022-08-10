@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast<br>Moscow, 7 January 1898<br>(Conductor: Eugenio Esposito)\n</th>\n<th>Premiere cast<br>St. Petersburg, 26 January 1901<br>(Conductor: <a href=\"/wiki/Eduard_N%C3%A1pravn%C3%ADk\" title=\"Eduard Nápravník\">Eduard Nápravník</a>)\n</th></tr>\n<tr>\n<td>Foma Nazarich, <i>doyen, elder of <a href=\"/wiki/Novgorod\" class=\"mw-redirect\" title=\"Novgorod\">Novgorod</a></i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Luka Zinovich, <i>governor, elder of Novgorod</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Sadko\" title=\"Sadko\">Sadko</a>, <i><a href=\"/wiki/Gusli\" title=\"Gusli\">gusli</a>-player and singer in Novgorod</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Lyubava Buslayevna, <i>his young wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Nezhata, <i>young gusli-player from Kiev</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n</tr>\n<tr>\n<td>Duda, <i><a href=\"/wiki/Skomorokh\" title=\"Skomorokh\">skomorokh</a></i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Sopel, <i>skomorokh</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>The <a href=\"/wiki/Varangians\" title=\"Varangians\">Varangian</a>, <i>overseas guest</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>The Indian, <i>overseas guest</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>The Venetian, <i>overseas guest</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Ocean-Sea, <i>the Sea King</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Volkhova, <i>the beautiful princess; his youngest, favorite daughter</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>The Apparition, <i>a mythic mighty warrior in the guise of a pilgrim</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Chorus, silent roles: <i>Merchants of Novgorod, wandering minstrels, sailors, maidens, inhabitants of the undersea kingdom, people</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Foma Nazarich, doyen, elder of Novgorod",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Luka Zinovich, governor, elder of Novgorod",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sadko, gusli-player and singer in Novgorod",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lyubava Buslayevna, his young wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Nezhata, young gusli-player from Kiev",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Duda, skomorokh",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sopel, skomorokh",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Varangian, overseas guest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Indian, overseas guest",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Venetian, overseas guest",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Ocean-Sea, the Sea King",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Volkhova, the beautiful princess; his youngest, favorite daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Apparition, a mythic mighty warrior in the guise of a pilgrim",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chorus, silent roles: Merchants of Novgorod, wandering minstrels, sailors, maidens, inhabitants of the undersea kingdom, people",
+      "voiceType": ""
+    }
+  ]
+}

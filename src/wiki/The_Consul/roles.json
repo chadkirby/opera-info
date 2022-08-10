@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 1 March 1950<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup><br>Conductor: <a href=\"/wiki/Lehman_Engel\" title=\"Lehman Engel\">Lehman Engel</a>\n</th></tr>\n<tr>\n<td>Magda Sorel</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td>Secretary of the consulate</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a></td>\n</tr>\n<tr>\n<td>Mother, <i>mother to John Sorel</i></td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a></td>\n</tr>\n<tr>\n<td>John Sorel, <i>husband to Magda</i></td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n</tr>\n<tr>\n<td>Secret Police Agent</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a></td>\n</tr>\n<tr>\n<td>Nika Magadoff, <i>magician</i></td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a></td>\n</tr>\n<tr>\n<td>Mr. Kofner</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a></td>\n</tr>\n<tr>\n<td>Foreign Woman</td>\n<td>soprano</td>\n</tr>\n<tr>\n<td>Anna Gomez</td>\n<td>soprano</td>\n</tr>\n<tr>\n<td>Vera Boronel</td>\n<td>contralto</td>\n</tr>\n<tr>\n<td>Assan</td>\n<td>baritone</td>\n</tr>\n<tr>\n<td>First Police Agent</td>\n<td>bass-baritone</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Magda Sorel",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Secretary of the consulate",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Mother, mother to John Sorel",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "John Sorel, husband to Magda",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Secret Police Agent",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Nika Magadoff, magician",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mr. Kofner",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Foreign Woman",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Anna Gomez",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Vera Boronel",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Assan",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "First Police Agent",
+      "voiceType": "bass-baritone"
+    }
+  ]
+}

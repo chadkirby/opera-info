@@ -1,0 +1,55 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"190\">Cast <br>(Hélène,<br>Henri,<br>Montfort,<br>Procida)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label <sup id=\"cite_ref-OPDIS_14-1\" class=\"reference\"><a href=\"#cite_note-OPDIS-14\">[14]</a></sup>\n</th></tr>\n<tr>\n<td>1951</td>\n<td>Maud Cunitz<br><a href=\"/wiki/Helge_Rosvaenge\" title=\"Helge Rosvaenge\">Helge Rosvaenge</a><br><a href=\"/wiki/Heinrich_Schlusnus\" title=\"Heinrich Schlusnus\">Heinrich Schlusnus</a><br><a href=\"/wiki/Otto_von_Rohr_(bass)\" class=\"mw-redirect\" title=\"Otto von Rohr (bass)\">Otto von Rohr</a></td>\n\n<td><a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a><br>Cat: LPEM 19244/46\n</td></tr>\n<tr>\n<td>1969</td>\n<td><a href=\"/wiki/Jacqueline_Brumaire\" title=\"Jacqueline Brumaire\">Jacqueline Brumaire</a><br>Jean Bonhomme<br>Neilson Taylor<br><a href=\"/wiki/Stafford_Dean\" title=\"Stafford Dean\">Stafford Dean</a></td>\n\n<td>Audio CD: <a href=\"/wiki/Opera_Rara\" title=\"Opera Rara\">Opera Rara</a><br>Cat: ORCV303\n</td></tr>\n<tr>\n<td>2003\n</td>\n<td>Nelly Miricioiu,<br><a href=\"/wiki/Marcello_Giordani\" title=\"Marcello Giordani\">Marcello Giordani</a>,<br><a href=\"/wiki/Anthony_Michaels-Moore\" title=\"Anthony Michaels-Moore\">Anthony Michaels-Moore</a>,<br>Ferruccio Furlanetto\n</td>\n\n<td>Audio CD: Celestial Audio,<br>Cat: CA 452\n</td></tr>\n<tr>\n<td>2010\n</td>\n<td>Barbara Haveman<br>Burkhard Fritz<br><a href=\"/wiki/Alejandro_Marco-Buhrmester\" title=\"Alejandro Marco-Buhrmester\">Alejandro Marco-Buhrmester</a><br>Balint Szabo\n</td>\n\n<td>Blu-ray, DVD: Opus Arte<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\">[29]</a></sup><br>Cat: 1060D\n</td></tr>\n<tr>\n<td>2013\n</td>\n<td><a href=\"/wiki/Lianna_Haroutounian\" title=\"Lianna Haroutounian\">Lianna Haroutounian</a><br><a href=\"/wiki/Bryan_Hymel\" title=\"Bryan Hymel\">Bryan Hymel</a><br><a href=\"/wiki/Michael_Volle\" title=\"Michael Volle\">Michael Volle</a><br><a href=\"/wiki/Erwin_Schrott\" title=\"Erwin Schrott\">Erwin Schrott</a>\n</td>\n\n<td>Blu-ray, DVD: Opus Arte<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\">[30]</a></sup>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1951,
+      "cast": [
+        "Maud Cunitz",
+        "Helge Rosvaenge",
+        "Heinrich Schlusnus",
+        "Otto von Rohr"
+      ],
+      "conductor": "Kurt Schröder"
+    },
+    {
+      "year": 1969,
+      "cast": [
+        "Jacqueline Brumaire",
+        "Jean Bonhomme",
+        "Neilson Taylor",
+        "Stafford Dean"
+      ],
+      "conductor": "Mario Rossi"
+    },
+    {
+      "year": 2003,
+      "cast": [
+        "Nelly Miricioiu",
+        "Marcello Giordani",
+        "Anthony Michaels-Moore",
+        "Ferruccio Furlanetto"
+      ],
+      "conductor": "James Conlon"
+    },
+    {
+      "year": 2010,
+      "cast": [
+        "Barbara Haveman",
+        "Burkhard Fritz",
+        "Alejandro Marco-Buhrmester",
+        "Balint Szabo"
+      ],
+      "conductor": "Paolo Carignani"
+    },
+    {
+      "year": 2013,
+      "cast": [
+        "Lianna Haroutounian",
+        "Bryan Hymel",
+        "Michael Volle",
+        "Erwin Schrott"
+      ],
+      "conductor": "Antonio Pappano"
+    }
+  ]
+}

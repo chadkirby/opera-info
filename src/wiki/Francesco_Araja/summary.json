@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Francesco Araja",
+  "displaytitle": "Francesco Araja",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q120419",
+  "titles": {
+    "canonical": "Francesco_Araja",
+    "normalized": "Francesco Araja",
+    "display": "Francesco Araja"
+  },
+  "pageid": 5073279,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Francesco_Araja.jpg/320px-Francesco_Araja.jpg",
+    "width": 320,
+    "height": 265
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Francesco_Araja.jpg",
+    "width": 856,
+    "height": 709
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086247649",
+  "tid": "4688cca0-0f89-11ed-8f08-eb311ea7121f",
+  "timestamp": "2022-05-05T01:46:35Z",
+  "description": "Italian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Francesco_Araja",
+      "revisions": "https://en.wikipedia.org/wiki/Francesco_Araja?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Francesco_Araja?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Francesco_Araja"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Francesco_Araja",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Francesco_Araja",
+      "edit": "https://en.m.wikipedia.org/wiki/Francesco_Araja?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Francesco_Araja"
+    }
+  },
+  "extract": "Francesco Domenico Araja was an Italian composer who spent 25 years in Russia and wrote at least 14 operas for the Russian Imperial Court including Tsefal i Prokris, the first opera in Russian.",
+  "extract_html": "<p><b>Francesco Domenico Araja</b> was an Italian composer who spent 25 years in Russia and wrote at least 14 operas for the Russian Imperial Court including <i>Tsefal i Prokris</i>, the first opera in Russian.</p>"
+}

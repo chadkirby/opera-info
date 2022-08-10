@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Bedřich Smetana",
+  "displaytitle": "Bedřich Smetana",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q48173",
+  "titles": {
+    "canonical": "Bedřich_Smetana",
+    "normalized": "Bedřich Smetana",
+    "display": "Bedřich Smetana"
+  },
+  "pageid": 140422,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Smetana.jpg/198px-Smetana.jpg",
+    "width": 198,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Smetana.jpg",
+    "width": 250,
+    "height": 404
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091245818",
+  "tid": "09448bc0-1544-11ed-b931-71ed5e3b8eff",
+  "timestamp": "2022-06-03T03:06:58Z",
+  "description": "Czech composer (1824–1884)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana",
+      "revisions": "https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Bed%C5%99ich_Smetana"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Bed%C5%99ich_Smetana",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Bed%C5%99ich_Smetana",
+      "edit": "https://en.m.wikipedia.org/wiki/Bed%C5%99ich_Smetana?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Bed%C5%99ich_Smetana"
+    }
+  },
+  "extract": "Bedřich Smetana was a Czech composer who pioneered the development of a musical style that became closely identified with his people's aspirations to a cultural and political \"revival.\" He has been regarded in his homeland as the father of Czech music. Internationally he is best known for his 1866 opera The Bartered Bride and for the symphonic cycle Má vlast, which portrays the history, legends and landscape of the composer's native Bohemia. It contains the famous symphonic poem \"Vltava\", also popularly known by its German name \"Die Moldau\".",
+  "extract_html": "<p><b>Bedřich Smetana</b> was a Czech composer who pioneered the development of a musical style that became closely identified with his people's aspirations to a cultural and political \"revival.\" He has been regarded in his homeland as the father of Czech music. Internationally he is best known for his 1866 opera <i>The Bartered Bride</i> and for the symphonic cycle <i>Má vlast</i>, which portrays the history, legends and landscape of the composer's native Bohemia. It contains the famous symphonic poem \"Vltava\", also popularly known by its German name \"Die Moldau\".</p>"
+}

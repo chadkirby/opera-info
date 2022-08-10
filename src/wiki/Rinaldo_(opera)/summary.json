@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rinaldo (opera)",
+  "displaytitle": "<i>Rinaldo</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q767249",
+  "titles": {
+    "canonical": "Rinaldo_(opera)",
+    "normalized": "Rinaldo (opera)",
+    "display": "<i>Rinaldo</i> (opera)"
+  },
+  "pageid": 382160,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Handel%2C_Lascia_ch%E2%80%99io_pianga_autograph_score%2C_1711.jpg/320px-Handel%2C_Lascia_ch%E2%80%99io_pianga_autograph_score%2C_1711.jpg",
+    "width": 320,
+    "height": 249
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/f8/Handel%2C_Lascia_ch%E2%80%99io_pianga_autograph_score%2C_1711.jpg",
+    "width": 954,
+    "height": 743
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1043362273",
+  "tid": "8fb56080-1247-11ed-ad5e-3dfa2101c044",
+  "timestamp": "2021-09-09T18:24:23Z",
+  "description": "1711 opera by George Frideric Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rinaldo_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Rinaldo_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rinaldo_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rinaldo_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rinaldo_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rinaldo_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Rinaldo_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rinaldo_(opera)"
+    }
+  },
+  "extract": "Rinaldo is an opera by George Frideric Handel, composed in 1711, and was the first Italian language opera written specifically for the London stage. The libretto was prepared by Giacomo Rossi from a scenario provided by Aaron Hill, and the work was first performed at the Queen's Theatre in London's Haymarket on 24 February 1711. The story of love, war and redemption, set at the time of the First Crusade, is loosely based on Torquato Tasso's epic poem Gerusalemme liberata, and its staging involved many original and vivid effects. It was a great success with the public, despite negative reactions from literary critics hostile to the contemporary trend towards Italian entertainment in English theatres.",
+  "extract_html": "<p><i><b>Rinaldo</b></i> is an opera by George Frideric Handel, composed in 1711, and was the first Italian language opera written specifically for the London stage. The libretto was prepared by Giacomo Rossi from a scenario provided by Aaron Hill, and the work was first performed at the Queen's Theatre in London's Haymarket on 24 February 1711. The story of love, war and redemption, set at the time of the First Crusade, is loosely based on Torquato Tasso's epic poem <i>Gerusalemme liberata</i>, and its staging involved many original and vivid effects. It was a great success with the public, despite negative reactions from literary critics hostile to the contemporary trend towards Italian entertainment in English theatres.</p>"
+}

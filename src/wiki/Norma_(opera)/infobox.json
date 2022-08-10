@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Norma</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Vincenzo_Bellini\" title=\"Vincenzo Bellini\">Vincenzo Bellini</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Bellini-Norma-original_cast-detail.jpg\" class=\"image\"><img alt=\"Bellini-Norma-original cast-detail.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/6/69/Bellini-Norma-original_cast-detail.jpg\" decoding=\"async\" width=\"220\" height=\"308\" data-file-width=\"220\" data-file-height=\"308\"></a><div class=\"infobox-caption\">Domenico Donzelli, Giuditta Pasta,<br>and Giulia Grisi (original cast)</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Felice_Romani\" title=\"Felice Romani\">Felice Romani</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><a href=\"/wiki/Alexandre_Soumet\" title=\"Alexandre Soumet\">Alexandre Soumet</a>'s play <i>Norma, ou L'infanticide</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">26&nbsp;December&nbsp;1831<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1831-12-26</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><span class=\"nowrap\"><a href=\"/wiki/Teatro_alla_Scala\" class=\"mw-redirect\" title=\"Teatro alla Scala\">Teatro alla Scala</a>, Milan</span></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Norma"
+  ],
+  "Librettist": "Felice Romani",
+  "Language": "Italian",
+  "Based on": "Alexandre Soumet's play Norma, ou L'infanticide",
+  "Premiere": "26 December 1831\nTeatro alla Scala, Milan"
+}

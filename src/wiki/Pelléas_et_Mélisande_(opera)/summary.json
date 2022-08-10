@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pelléas et Mélisande (opera)",
+  "displaytitle": "<i>Pelléas et Mélisande</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q368019",
+  "titles": {
+    "canonical": "Pelléas_et_Mélisande_(opera)",
+    "normalized": "Pelléas et Mélisande (opera)",
+    "display": "<i>Pelléas et Mélisande</i> (opera)"
+  },
+  "pageid": 354433,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg/232px-Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg",
+    "width": 232,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg",
+    "width": 6784,
+    "height": 9344
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1089854763",
+  "tid": "9d191750-173b-11ed-b9d5-bf69a3eea313",
+  "timestamp": "2022-05-26T00:58:19Z",
+  "description": "1902 opera by Claude Debussy",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pell%C3%A9as_et_M%C3%A9lisande_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Pell%C3%A9as_et_M%C3%A9lisande_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Pell%C3%A9as_et_M%C3%A9lisande_(opera)"
+    }
+  },
+  "extract": "Pelléas et Mélisande is an opera in five acts with music by Claude Debussy. The French libretto was adapted from Maurice Maeterlinck's symbolist play of the same name. It premiered at the Salle Favart in Paris by the Opéra-Comique on 30 April 1902; Jean Périer was Pelléas and Mary Garden was Mélisande, conducted by André Messager, who was instrumental in getting the Opéra-Comique to stage the work. The only opera Debussy ever completed, it is considered a landmark in 20th-century music.",
+  "extract_html": "<p><i><b>Pelléas et Mélisande</b></i> is an opera in five acts with music by Claude Debussy. The French libretto was adapted from Maurice Maeterlinck's symbolist play of the same name. It premiered at the Salle Favart in Paris by the Opéra-Comique on 30 April 1902; Jean Périer was Pelléas and Mary Garden was Mélisande, conducted by André Messager, who was instrumental in getting the Opéra-Comique to stage the work. The only opera Debussy ever completed, it is considered a landmark in 20th-century music.</p>"
+}

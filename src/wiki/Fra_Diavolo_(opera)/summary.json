@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Fra Diavolo (opera)",
+  "displaytitle": "<i>Fra Diavolo</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1440309",
+  "titles": {
+    "canonical": "Fra_Diavolo_(opera)",
+    "normalized": "Fra Diavolo (opera)",
+    "display": "<i>Fra Diavolo</i> (opera)"
+  },
+  "pageid": 8917491,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%28John%29_Sims_Reeves_by_Alessandro_Ossani.jpg/194px-%28John%29_Sims_Reeves_by_Alessandro_Ossani.jpg",
+    "width": 194,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%28John%29_Sims_Reeves_by_Alessandro_Ossani.jpg",
+    "width": 2400,
+    "height": 3949
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096373019",
+  "tid": "50fda950-fb41-11ec-942b-a90dad0dcd27",
+  "timestamp": "2022-07-04T02:30:47Z",
+  "description": "Opera by Daniel Auber",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Fra_Diavolo_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Fra_Diavolo_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Fra_Diavolo_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Fra_Diavolo_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Fra_Diavolo_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Fra_Diavolo_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Fra_Diavolo_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Fra_Diavolo_(opera)"
+    }
+  },
+  "extract": "Fra Diavolo, ou L'hôtellerie de Terracine is an opéra comique in three acts by the French composer Daniel Auber, from a libretto by Auber's regular collaborator Eugène Scribe. It is loosely based on the life of the Itrani guerrilla leader Michele Pezza, active in southern Italy in the period 1800-1806, who went under the name of Fra Diavolo.",
+  "extract_html": "<p><i><b>Fra Diavolo, ou L'hôtellerie de Terracine</b></i> is an opéra comique in three acts by the French composer Daniel Auber, from a libretto by Auber's regular collaborator Eugène Scribe. It is loosely based on the life of the Itrani guerrilla leader Michele Pezza, active in southern Italy in the period 1800-1806, who went under the name of Fra Diavolo.</p>"
+}

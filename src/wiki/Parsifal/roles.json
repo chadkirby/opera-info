@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere casts 1882 and 1903 (Metropolitan Opera)</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 26 July 1882<br>Conductor: <a href=\"/wiki/Hermann_Levi\" title=\"Hermann Levi\">Hermann Levi</a><sup id=\"cite_ref-35\" class=\"reference\"><a href=\"#cite_note-35\">[35]</a></sup>\n</th>\n<th>Met premiere cast, 24 December 1903<br>Conductor: <a href=\"/wiki/Alfred_Hertz\" title=\"Alfred Hertz\">Alfred Hertz</a><sup id=\"cite_ref-36\" class=\"reference\"><a href=\"#cite_note-36\">[36]</a></sup>\n</th></tr>\n<tr>\n<td>Parsifal\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Kundry\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a><br>or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Gurnemanz, <i>a veteran Knight of the Grail</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Amfortas, <i>ruler of the Grail kingdom</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Klingsor, <i>a magician</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Titurel, <i>Amfortas' father</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Two Grail Knights\n</td>\n<td>tenor, <br>bass\n</td>\n\n</tr>\n<tr>\n<td>Four Esquires\n</td>\n<td>soprano,<br>alto,<br>two tenors\n</td>\n\n</tr>\n<tr>\n<td>Six Flowermaidens\n</td>\n<td>three sopranos, <br>three <a href=\"/wiki/Contralto\" title=\"Contralto\">contraltos</a><br>or six sopranos\n</td>\n\n</tr>\n<tr>\n<td>Voice from Above, <i>Eine Stimme</i>\n</td>\n<td>contralto\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Knights of the Grail, boys, Flowermaidens</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Parsifal",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Kundry",
+      "voiceType": "soprano\nor mezzo-soprano"
+    },
+    {
+      "role": "Gurnemanz, a veteran Knight of the Grail",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Amfortas, ruler of the Grail kingdom",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Klingsor, a magician",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Titurel, Amfortas' father",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Two Grail Knights",
+      "voiceType": "tenor, \nbass"
+    },
+    {
+      "role": "Four Esquires",
+      "voiceType": "soprano,\nalto,\ntwo tenors"
+    },
+    {
+      "role": "Six Flowermaidens",
+      "voiceType": "three sopranos, \nthree contraltos\nor six sopranos"
+    },
+    {
+      "role": "Voice from Above, Eine Stimme",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Knights of the Grail, boys, Flowermaidens",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Iphigénie en Tauride",
+  "displaytitle": "<i>Iphigénie en Tauride</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q687822",
+  "titles": {
+    "canonical": "Iphigénie_en_Tauride",
+    "normalized": "Iphigénie en Tauride",
+    "display": "<i>Iphigénie en Tauride</i>"
+  },
+  "pageid": 355337,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097311340",
+  "tid": "d217ef10-15f8-11ed-a6a8-1f411ff46c22",
+  "timestamp": "2022-07-10T00:19:04Z",
+  "description": "1779 opera by Christoph Willibald Gluck",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride",
+      "revisions": "https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Iphig%C3%A9nie_en_Tauride"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Iphig%C3%A9nie_en_Tauride",
+      "edit": "https://en.m.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Iphig%C3%A9nie_en_Tauride"
+    }
+  },
+  "extract": "Iphigénie en Tauride is a 1779 opera by Christoph Willibald Gluck in four acts. It was his fifth opera for the French stage. The libretto was written by Nicolas-François Guillard.",
+  "extract_html": "<p><i><b>Iphigénie en Tauride</b></i> is a 1779 opera by Christoph Willibald Gluck in four acts. It was his fifth opera for the French stage. The libretto was written by Nicolas-François Guillard.</p>"
+}

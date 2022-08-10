@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 3 June 1967<br>(Conductor: <a href=\"/wiki/James_Lockhart_(music_director)\" title=\"James Lockhart (music director)\">James Lockhart</a>)\n</th></tr>\n<tr>\n<td>Yelena Ivanovna Popova, <i>a widow</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Grigory Stepanovich Smirnov, <i>a creditor</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Luka, <i>Popova's servant</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The Cook\n</td>\n<td>Brief speaking role\n</td>\n</tr>\n<tr>\n<td>The Groom\n</td>\n<td>Brief speaking role\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Yelena Ivanovna Popova, a widow",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Grigory Stepanovich Smirnov, a creditor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Luka, Popova's servant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Cook",
+      "voiceType": "Brief speaking role"
+    },
+    {
+      "role": "The Groom",
+      "voiceType": "Brief speaking role"
+    }
+  ]
+}

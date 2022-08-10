@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Legend of the Invisible City of Kitezh and the Maiden Fevroniya",
+  "displaytitle": "<i>The Legend of the Invisible City of Kitezh and the Maiden Fevroniya</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1038931",
+  "titles": {
+    "canonical": "The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya",
+    "normalized": "The Legend of the Invisible City of Kitezh and the Maiden Fevroniya",
+    "display": "<i>The Legend of the Invisible City of Kitezh and the Maiden Fevroniya</i>"
+  },
+  "pageid": 2016602,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ivan_Bilibin_173.jpg/320px-Ivan_Bilibin_173.jpg",
+    "width": 320,
+    "height": 218
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ivan_Bilibin_173.jpg",
+    "width": 2655,
+    "height": 1811
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095989111",
+  "tid": "77fa2330-12ac-11ed-b974-d3fd6536b9be",
+  "timestamp": "2022-07-01T16:10:29Z",
+  "description": "Opera by Nikolai Rimsky-Korsakov",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya",
+      "revisions": "https://en.wikipedia.org/wiki/The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya"
+    }
+  },
+  "extract": "The Legend of the Invisible City of Kitezh and the Maiden Fevroniya is an opera in four acts by Nikolai Rimsky-Korsakov. The libretto was written by Vladimir Belsky, and is based on a combination of two Russian legends: that of Saint Fevroniya of Murom, and the city of Kitezh, which became invisible when attacked by the Tatars. The opera was completed in 1905, and the premiere performance took place at the Mariinsky Theatre in St. Petersburg, on February 7, 1907, the last in Rimsky-Korsakov‘s lifetime.",
+  "extract_html": "<p><i><b>The Legend of the Invisible City of Kitezh and the Maiden Fevroniya</b></i> is an opera in four acts by Nikolai Rimsky-Korsakov. The libretto was written by Vladimir Belsky, and is based on a combination of two Russian legends: that of Saint Fevroniya of Murom, and the city of Kitezh, which became invisible when attacked by the Tatars. The opera was completed in 1905, and the premiere performance took place at the Mariinsky Theatre in St. Petersburg, on February 7, 1907, the last in Rimsky-Korsakov‘s lifetime.</p>"
+}

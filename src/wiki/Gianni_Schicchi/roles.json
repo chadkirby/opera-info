@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 14 December 1918<sup id=\"cite_ref-times_6-0\" class=\"reference\"><a href=\"#cite_note-times-6\">[6]</a></sup><br>Conductor: <a href=\"/wiki/Roberto_Moranzoni\" title=\"Roberto Moranzoni\">Roberto Moranzoni</a>\n</th></tr>\n<tr>\n<td>Gianni Schicchi (age 50)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Lauretta, <i>his daughter</i> (age 21)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Zita, <i>cousin of Buoso Donati</i> (age 60)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Rinuccio, <i>Zita's nephew</i> (age 24)\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Gherardo, <i>Buoso's nephew</i> (age 40)\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Nella, <i>Gherardo's wife</i> (age 34)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Gherardino, <i>their son</i> (age 7)\n</td>\n<td>soprano or <a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">treble</a>\n</td>\n</tr>\n<tr>\n<td>Betto di Signa, <i>Buoso's brother-in-law, poor and shabbily dressed, of uncertain age</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Simone, <i>cousin of Buoso</i> (age 70)\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Marco, <i>Simone's son</i> (age 45)\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>La Ciesca, <i>Marco's wife</i> (age 38)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Maestro Spinelloccio, <i>a doctor</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Ser Amantio di Nicolao, <i>a notary</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Pinellino, <i>a cobbler</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Guccio, <i>a dyer</i>\n</td>\n<td>bass\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Gianni Schicchi (age 50)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Lauretta, his daughter (age 21)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Zita, cousin of Buoso Donati (age 60)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Rinuccio, Zita's nephew (age 24)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Gherardo, Buoso's nephew (age 40)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nella, Gherardo's wife (age 34)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gherardino, their son (age 7)",
+      "voiceType": "soprano or treble"
+    },
+    {
+      "role": "Betto di Signa, Buoso's brother-in-law, poor and shabbily dressed, of uncertain age",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Simone, cousin of Buoso (age 70)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Marco, Simone's son (age 45)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "La Ciesca, Marco's wife (age 38)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Maestro Spinelloccio, a doctor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ser Amantio di Nicolao, a notary",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Pinellino, a cobbler",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Guccio, a dyer",
+      "voiceType": "bass"
+    }
+  ]
+}

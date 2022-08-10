@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Antonín Dvořák",
+  "displaytitle": "Antonín Dvořák",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7298",
+  "titles": {
+    "canonical": "Antonín_Dvořák",
+    "normalized": "Antonín Dvořák",
+    "display": "Antonín Dvořák"
+  },
+  "pageid": 76572,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dvorak.jpg/258px-Dvorak.jpg",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Dvorak.jpg",
+    "width": 2100,
+    "height": 2600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103067533",
+  "tid": "13b62430-16e1-11ed-98ff-f513c843fe8b",
+  "timestamp": "2022-08-08T06:12:22Z",
+  "description": "Czech composer (1841–1904)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "revisions": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Anton%C3%ADn_Dvo%C5%99%C3%A1k"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "edit": "https://en.m.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Anton%C3%ADn_Dvo%C5%99%C3%A1k"
+    }
+  },
+  "extract": "Antonín Leopold Dvořák was a Czech composer, one of the first Czech composers to achieve worldwide recognition. Dvořák frequently employed rhythms and other aspects of the folk music of Moravia and his native Bohemia, following the Romantic-era nationalist example of his predecessor Bedřich Smetana. Dvořák's style has been described as \"the fullest recreation of a national idiom with that of the symphonic tradition, absorbing folk influences and finding effective ways of using them\".",
+  "extract_html": "<p><b>Antonín Leopold Dvořák</b> was a Czech composer, one of the first Czech composers to achieve worldwide recognition. Dvořák frequently employed rhythms and other aspects of the folk music of Moravia and his native Bohemia, following the Romantic-era nationalist example of his predecessor Bedřich Smetana. Dvořák's style has been described as \"the fullest recreation of a national idiom with that of the symphonic tradition, absorbing folk influences and finding effective ways of using them\".</p>"
+}

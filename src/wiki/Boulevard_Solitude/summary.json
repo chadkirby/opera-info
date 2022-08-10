@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Boulevard Solitude",
+  "displaytitle": "<i>Boulevard Solitude</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2921944",
+  "titles": {
+    "canonical": "Boulevard_Solitude",
+    "normalized": "Boulevard Solitude",
+    "display": "<i>Boulevard Solitude</i>"
+  },
+  "pageid": 5380036,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg/229px-Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 572,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1073808102",
+  "tid": "d0f9add0-15f8-11ed-8ed7-bb15eb5d1dc2",
+  "timestamp": "2022-02-24T18:48:42Z",
+  "description": "Lyric drama in seven tableaux by Hans Werner Henze",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Boulevard_Solitude",
+      "revisions": "https://en.wikipedia.org/wiki/Boulevard_Solitude?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Boulevard_Solitude?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Boulevard_Solitude"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Boulevard_Solitude",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Boulevard_Solitude",
+      "edit": "https://en.m.wikipedia.org/wiki/Boulevard_Solitude?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Boulevard_Solitude"
+    }
+  },
+  "extract": "Boulevard Solitude is a Lyrisches Drama or opera in one act by Hans Werner Henze to a German libretto by Grete Weil after the play by Walter Jockisch, in its turn a modern retelling of Abbé Prévost's 1731 novel Manon Lescaut. The piece is a reworking of the Manon Lescaut story, already adapted operatically by Auber, Massenet and Puccini, and here relocated to Paris after World War II where, as is noted in Grove, the focus of the story moves away from Manon and towards Armand des Grieux. It became Henze's first fully-fledged opera. The work stands out for its strong jazz influences, from a composer who had hitherto been associated with twelve-tone technique.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Boulevard Solitude</i></span></b></i> is a <i><span><i lang=\"de\">Lyrisches Drama</i></span></i> or opera in one act by Hans Werner Henze to a German libretto by Grete Weil after the play by Walter Jockisch, in its turn a modern retelling of Abbé Prévost's 1731 novel <i>Manon Lescaut</i>. The piece is a reworking of the Manon Lescaut story, already adapted operatically by Auber, Massenet and Puccini, and here relocated to Paris after World War II where, as is noted in Grove, the focus of the story moves away from Manon and towards Armand des Grieux. It became Henze's first fully-fledged opera. The work stands out for its strong jazz influences, from a composer who had hitherto been associated with twelve-tone technique.</p>"
+}

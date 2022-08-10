@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Leonard Bernstein",
+  "displaytitle": "Leonard Bernstein",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q152505",
+  "titles": {
+    "canonical": "Leonard_Bernstein",
+    "normalized": "Leonard Bernstein",
+    "display": "Leonard Bernstein"
+  },
+  "pageid": 43282,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leonard_Bernstein_by_Jack_Mitchell.jpg/249px-Leonard_Bernstein_by_Jack_Mitchell.jpg",
+    "width": 249,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonard_Bernstein_by_Jack_Mitchell.jpg",
+    "width": 347,
+    "height": 445
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102531285",
+  "tid": "dae380a0-14cc-11ed-9095-3b430c91d0ae",
+  "timestamp": "2022-08-05T14:42:32Z",
+  "description": "American conductor and composer (1918–1990)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+      "revisions": "https://en.wikipedia.org/wiki/Leonard_Bernstein?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Leonard_Bernstein?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Leonard_Bernstein"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Leonard_Bernstein",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Leonard_Bernstein",
+      "edit": "https://en.m.wikipedia.org/wiki/Leonard_Bernstein?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Leonard_Bernstein"
+    }
+  },
+  "extract": "Leonard Bernstein was an American conductor, composer, pianist, music educator, author, and humanitarian. Considered to be one of the most important conductors of his time, he was the first American conductor to receive international acclaim. According to music critic Donal Henahan, he was \"one of the most prodigiously talented and successful musicians in American history\". Bernstein was the recipient of many honors, including seven Emmy Awards, two Tony Awards, sixteen Grammy Awards including the Lifetime Achievement Award, and the Kennedy Center Honor.",
+  "extract_html": "<p><b>Leonard Bernstein</b> was an American conductor, composer, pianist, music educator, author, and humanitarian. Considered to be one of the most important conductors of his time, he was the first American conductor to receive international acclaim. According to music critic Donal Henahan, he was \"one of the most prodigiously talented and successful musicians in American history\". Bernstein was the recipient of many honors, including seven Emmy Awards, two Tony Awards, sixteen Grammy Awards including the Lifetime Achievement Award, and the Kennedy Center Honor.</p>"
+}

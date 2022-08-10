@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast<br>11&nbsp;March&nbsp;1867<sup id=\"cite_ref-Premiere_53-0\" class=\"reference\"><a href=\"#cite_note-Premiere-53\">[53]</a></sup><sup id=\"cite_ref-54\" class=\"reference\"><a href=\"#cite_note-54\">[54]</a></sup><br>(Conductor:<br><a href=\"/wiki/Fran%C3%A7ois_George-Hainl\" title=\"François George-Hainl\">François George-Hainl</a>)\n</th>\n<th>Revised version<br>Premiere cast<br>10&nbsp;January&nbsp;1884<sup id=\"cite_ref-Premiere_53-1\" class=\"reference\"><a href=\"#cite_note-Premiere-53\">[53]</a></sup><br>(Conductor: <a href=\"/wiki/Franco_Faccio\" title=\"Franco Faccio\">Franco Faccio</a>)<sup id=\"cite_ref-55\" class=\"reference\"><a href=\"#cite_note-55\">[55]</a></sup>\n</th></tr>\n<tr>\n<td>Philippe II (Filippo II / <a href=\"/wiki/Philip_II_of_Spain\" title=\"Philip II of Spain\">Philip II</a>), <i>the King of Spain, son of <a href=\"/wiki/Charles_V,_Holy_Roman_Emperor\" title=\"Charles V, Holy Roman Emperor\">Charles V</a> and father of Don Carlos</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Carlos,_Prince_of_Asturias\" title=\"Carlos, Prince of Asturias\">Don Carlos</a> (Don Carlo), <i>Infante of Spain, son and heir to the King</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Rodrigue (Rodrigo), <i>Marquis of Posa, a friend of the</i> Infante <i>Don Carlos</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Le Grand Inquisiteur (<a href=\"/wiki/Grand_Inquisitor\" title=\"Grand Inquisitor\">The Grand Inquisitor</a>)<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\">[56]</a></sup>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Élisabeth de Valois (<a href=\"/wiki/Elisabeth_of_Valois\" title=\"Elisabeth of Valois\">Elisabeth of Valois</a>), <i>a French princess initially betrothed to Don Carlos but then married to King Philip</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Ana_de_Mendoza_y_de_la_Cerda\" class=\"mw-redirect\" title=\"Ana de Mendoza y de la Cerda\">Princess Eboli</a>, <i>an aristocrat in court</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>A monk, who at the end of Act 5 appears as Charles-Quint (<a href=\"/wiki/Charles_V,_Holy_Roman_Emperor\" title=\"Charles V, Holy Roman Emperor\">Emperor Charles V</a>), thought to be dead<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\">[57]</a></sup>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Thibault (Tebaldo), <i>page to Elisabeth</i>\n</td>\n<td>soprano (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n\n</tr>\n<tr>\n<td>A Voice from Heaven\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>The Count of Lerma, <i>a Spanish delegate to France</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Royal Herald\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Countess of Aremberg, <i>a lady-in-waiting to Elisabeth</i>\n</td>\n<td>silent\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Flemish envoys, Inquisitors, Ladies and Gentlemen of the Spanish Court, the people, Pages, Guards, Monks, Soldiers – chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Philippe II (Filippo II / Philip II), the King of Spain, son of Charles V and father of Don Carlos",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Don Carlos (Don Carlo), Infante of Spain, son and heir to the King",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Rodrigue (Rodrigo), Marquis of Posa, a friend of the Infante Don Carlos",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Le Grand Inquisiteur (The Grand Inquisitor)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Élisabeth de Valois (Elisabeth of Valois), a French princess initially betrothed to Don Carlos but then married to King Philip",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Princess Eboli, an aristocrat in court",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "A monk, who at the end of Act 5 appears as Charles-Quint (Emperor Charles V), thought to be dead",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Thibault (Tebaldo), page to Elisabeth",
+      "voiceType": "soprano (en travesti)"
+    },
+    {
+      "role": "A Voice from Heaven",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Count of Lerma, a Spanish delegate to France",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Royal Herald",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Countess of Aremberg, a lady-in-waiting to Elisabeth",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Flemish envoys, Inquisitors, Ladies and Gentlemen of the Spanish Court, the people, Pages, Guards, Monks, Soldiers – chorus",
+      "voiceType": ""
+    }
+  ]
+}

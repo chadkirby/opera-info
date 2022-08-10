@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable floatright\" style=\"float:right;clear:right;width:24.2em;font-size:88%;text-align:center;margin:0.5em 0 0.5em 1em;padding:0;border-spacing:0\"><caption style=\"font-size:115%\">Professional ratings</caption><tbody><tr><th colspan=\"2\" style=\"text-align:center;font-size:100%\">1979 Tomato LP</th></tr><tr><th scope=\"col\" colspan=\"2\" style=\"text-align:center;background:#d1dbdf;font-size:100%\">Review scores</th></tr><tr><th scope=\"col\">Source</th><th scope=\"col\">Rating</th></tr><tr><td style=\"text-align:center;vertical-align:middle\"><i><a href=\"/wiki/Christgau%27s_Record_Guide:_Rock_Albums_of_the_Seventies\" title=\"Christgau's Record Guide: Rock Albums of the Seventies\">Christgau's Record Guide</a></i></td><td style=\"text-align:center;vertical-align:middle\">B+<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\">[29]</a></sup></td></tr><tr><td style=\"text-align:center;vertical-align:middle\"><i><a href=\"/wiki/Pitchfork_(website)\" title=\"Pitchfork (website)\">Pitchfork</a></i></td><td style=\"text-align:center;vertical-align:middle\">10/10<sup id=\"cite_ref-31\" class=\"reference\"><a href=\"#cite_note-31\">[30]</a></sup></td></tr></tbody></table>",
+  "items": [
+    {
+      "year": null,
+      "cast": [
+        ""
+      ],
+      "conductor": ""
+    },
+    {
+      "year": null,
+      "cast": [
+        "Rating"
+      ],
+      "conductor": ""
+    },
+    {
+      "year": null,
+      "cast": [
+        "B+"
+      ],
+      "conductor": ""
+    },
+    {
+      "year": null,
+      "cast": [
+        "10/10"
+      ],
+      "conductor": ""
+    }
+  ]
+}

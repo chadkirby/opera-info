@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Simon Boccanegra",
+  "displaytitle": "<i>Simon Boccanegra</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q548161",
+  "titles": {
+    "canonical": "Simon_Boccanegra",
+    "normalized": "Simon Boccanegra",
+    "display": "<i>Simon Boccanegra</i>"
+  },
+  "pageid": 377825,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Giuseppe_Verdi%2C_Simon_Boccanegra_first_edition_libretto_for_the_1881_revision_of_the_opera_-_Restoration.jpg/225px-Giuseppe_Verdi%2C_Simon_Boccanegra_first_edition_libretto_for_the_1881_revision_of_the_opera_-_Restoration.jpg",
+    "width": 225,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Giuseppe_Verdi%2C_Simon_Boccanegra_first_edition_libretto_for_the_1881_revision_of_the_opera_-_Restoration.jpg",
+    "width": 1647,
+    "height": 2336
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1066501144",
+  "tid": "628ba470-0f81-11ed-b3c0-41fcbd93cc7d",
+  "timestamp": "2022-01-18T17:26:35Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Simon_Boccanegra",
+      "revisions": "https://en.wikipedia.org/wiki/Simon_Boccanegra?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Simon_Boccanegra?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Simon_Boccanegra"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Simon_Boccanegra",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Simon_Boccanegra",
+      "edit": "https://en.m.wikipedia.org/wiki/Simon_Boccanegra?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Simon_Boccanegra"
+    }
+  },
+  "extract": "Simon Boccanegra is an opera with a prologue and three acts by Giuseppe Verdi to an Italian libretto by Francesco Maria Piave, based on the play Simón Bocanegra (1843) by Antonio García Gutiérrez, whose play El trovador had been the basis for Verdi's 1853 opera, Il trovatore.",
+  "extract_html": "<p><i><b>Simon Boccanegra</b></i> is an opera with a prologue and three acts by Giuseppe Verdi to an Italian libretto by Francesco Maria Piave, based on the play <i>Simón Bocanegra</i> (1843) by Antonio García Gutiérrez, whose play <i>El trovador</i> had been the basis for Verdi's 1853 opera, <i>Il trovatore</i>.</p>"
+}

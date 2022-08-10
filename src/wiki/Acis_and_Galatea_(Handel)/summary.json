@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Acis and Galatea (Handel)",
+  "displaytitle": "<i>Acis and Galatea</i> (Handel)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q341482",
+  "titles": {
+    "canonical": "Acis_and_Galatea_(Handel)",
+    "normalized": "Acis and Galatea (Handel)",
+    "display": "<i>Acis and Galatea</i> (Handel)"
+  },
+  "pageid": 3527116,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/265px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 2400,
+    "height": 2901
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083091454",
+  "tid": "8f420540-1247-11ed-8497-8fefc970e8f5",
+  "timestamp": "2022-04-17T00:12:23Z",
+  "description": "1718 masque by Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Acis_and_Galatea_(Handel)",
+      "revisions": "https://en.wikipedia.org/wiki/Acis_and_Galatea_(Handel)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Acis_and_Galatea_(Handel)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Acis_and_Galatea_(Handel)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Acis_and_Galatea_(Handel)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Acis_and_Galatea_(Handel)",
+      "edit": "https://en.m.wikipedia.org/wiki/Acis_and_Galatea_(Handel)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Acis_and_Galatea_(Handel)"
+    }
+  },
+  "extract": "Acis and Galatea is a musical work by George Frideric Handel with an English text by John Gay. The work has been variously described as a serenata, a masque, a pastoral or pastoral opera, a \"little opera\", an entertainment and by the New Grove Dictionary of Music as an oratorio. The work was originally devised as a one-act masque which premiered in 1718.",
+  "extract_html": "<p><i><b>Acis and Galatea</b></i> is a musical work by George Frideric Handel with an English text by John Gay. The work has been variously described as a serenata, a masque, a pastoral or pastoral opera, a \"little opera\", an entertainment and by the New Grove Dictionary of Music as an oratorio. The work was originally devised as a one-act masque which premiered in 1718.</p>"
+}

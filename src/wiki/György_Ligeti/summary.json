@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "György Ligeti",
+  "displaytitle": "György Ligeti",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q154331",
+  "titles": {
+    "canonical": "György_Ligeti",
+    "normalized": "György Ligeti",
+    "display": "György Ligeti"
+  },
+  "pageid": 145255,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gy%C3%B6rgy_Ligeti_%281984%29.jpg/213px-Gy%C3%B6rgy_Ligeti_%281984%29.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gy%C3%B6rgy_Ligeti_%281984%29.jpg",
+    "width": 2264,
+    "height": 3396
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1089264404",
+  "tid": "e2231150-178d-11ed-be56-d94942ff1511",
+  "timestamp": "2022-05-22T20:26:50Z",
+  "description": "Hungarian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti",
+      "revisions": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gy%C3%B6rgy_Ligeti"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gy%C3%B6rgy_Ligeti",
+      "edit": "https://en.m.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gy%C3%B6rgy_Ligeti"
+    }
+  },
+  "extract": "György Sándor Ligeti was a Hungarian-Austrian composer of contemporary classical music. He has been described as \"one of the most important avant-garde composers in the latter half of the twentieth century\" and \"one of the most innovative and influential among progressive figures of his time\".",
+  "extract_html": "<p><b>György Sándor Ligeti</b> was a Hungarian-Austrian composer of contemporary classical music. He has been described as \"one of the most important avant-garde composers in the latter half of the twentieth century\" and \"one of the most innovative and influential among progressive figures of his time\".</p>"
+}

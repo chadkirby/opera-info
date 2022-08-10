@@ -1,0 +1,81 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Venus_(mythology)\" title=\"Venus (mythology)\">Venus</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Adonis\" title=\"Adonis\">Adonis</a>\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>Marte (<a href=\"/wiki/Mars_(mythology)\" title=\"Mars (mythology)\">Mars</a>)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td></tr>\n<tr>\n<td>Amor (<a href=\"/wiki/Cupid\" title=\"Cupid\">Cupid</a>)\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>Belona (<a href=\"/wiki/Bellona_(goddess)\" title=\"Bellona (goddess)\">Bellona</a>)\n</td>\n<td>mezzo-soprano\n</td></tr>\n<tr>\n<td>Dragón, <i>a soldier</i>\n</td>\n<td>mezzo-soprano\n</td></tr>\n<tr>\n<td>Celfa, <i>a peasant</i>\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>Chato, <i>a peasant</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td></tr>\n<tr>\n<td>El Desengaño (Disillusion)\n</td>\n<td>baritone\n</td></tr>\n<tr>\n<td>La Ira (Anger)\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>La Sospecha (Suspicion)\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>La Envidia (Envy)\n</td>\n<td><a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a>\n</td></tr>\n<tr>\n<td>El Temor (Fear)\n</td>\n<td>tenor\n</td></tr>\n<tr>\n<td>El Rencor (Bitterness)\n</td>\n<td>?\n</td></tr>\n<tr>\n<td>Flora (<a href=\"/wiki/Nymph\" title=\"Nymph\">nymph</a>)\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>Cintia (nymph)\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>Clori (nymph)\n</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>Libia (nymph)\n</td>\n<td>mezzo-soprano\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Muse\" class=\"mw-redirect\" title=\"Muse\">Muses</a>, soldiers and shepherds\n</td>\n<td><a href=\"/wiki/Choir\" title=\"Choir\">chorus</a>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Venus",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Adonis",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Marte (Mars)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Amor (Cupid)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Belona (Bellona)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Dragón, a soldier",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Celfa, a peasant",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chato, a peasant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "El Desengaño (Disillusion)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "La Ira (Anger)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "La Sospecha (Suspicion)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "La Envidia (Envy)",
+      "voiceType": "countertenor"
+    },
+    {
+      "role": "El Temor (Fear)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "El Rencor (Bitterness)",
+      "voiceType": "?"
+    },
+    {
+      "role": "Flora (nymph)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Cintia (nymph)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Clori (nymph)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Libia (nymph)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Muses, soldiers and shepherds",
+      "voiceType": "chorus"
+    }
+  ]
+}

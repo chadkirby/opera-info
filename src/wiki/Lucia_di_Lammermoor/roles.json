@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast\n</th></tr>\n<tr>\n<td>Lucia Ashton\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Lord Enrico Ashton, Lord of Lammermoor; Lucia's brother\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Sir Edgardo di Ravenswood\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Lord Arturo Bucklaw\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Raimondo Bidebent, a Calvinist chaplain\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Alisa, Lucia's handmaid\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Normanno, a huntsman; a retainer of Enrico\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Lucia Ashton",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Lord Enrico Ashton, Lord of Lammermoor; Lucia's brother",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sir Edgardo di Ravenswood",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lord Arturo Bucklaw",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Raimondo Bidebent, a Calvinist chaplain",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Alisa, Lucia's handmaid",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Normanno, a huntsman; a retainer of Enrico",
+      "voiceType": "tenor"
+    }
+  ]
+}

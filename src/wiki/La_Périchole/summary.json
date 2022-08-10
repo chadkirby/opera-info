@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La Périchole",
+  "displaytitle": "La Périchole",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q730336",
+  "titles": {
+    "canonical": "La_Périchole",
+    "normalized": "La Périchole",
+    "display": "La Périchole"
+  },
+  "pageid": 6161748,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jannin_A._-_Affiche_de_La_P%C3%A9richole_%28premi%C3%A8re_version%29.jpg/242px-Jannin_A._-_Affiche_de_La_P%C3%A9richole_%28premi%C3%A8re_version%29.jpg",
+    "width": 242,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jannin_A._-_Affiche_de_La_P%C3%A9richole_%28premi%C3%A8re_version%29.jpg",
+    "width": 1024,
+    "height": 1354
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096282225",
+  "tid": "fac1bb50-0f89-11ed-9049-dd4d5d8746ac",
+  "timestamp": "2022-07-03T13:03:30Z",
+  "description": "Opera by Jacques Offenbach, premiered in 1868",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_P%C3%A9richole",
+      "revisions": "https://en.wikipedia.org/wiki/La_P%C3%A9richole?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_P%C3%A9richole?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_P%C3%A9richole"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_P%C3%A9richole",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_P%C3%A9richole",
+      "edit": "https://en.m.wikipedia.org/wiki/La_P%C3%A9richole?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_P%C3%A9richole"
+    }
+  },
+  "extract": "La Périchole is an opéra bouffe in three acts by Jacques Offenbach. Henri Meilhac and Ludovic Halévy wrote the French libretto based on the 1829 one act play Le carrosse du Saint-Sacrement by Prosper Mérimée, which was revived on 13 March 1850 at the Théâtre-Français. Offenbach was probably aware of this production, as he conducted the orchestra of the Comédie-Française from around this time. Another theatrical creation that pre-dates Offenbach's opéra bouffe and may have influenced the piece is a farce by Desforges and Théaulon given on 21 October 1835 at the Théâtre du Palais-Royal.",
+  "extract_html": "<p><i><b>La Périchole</b></i> is an opéra bouffe in three acts by Jacques Offenbach. Henri Meilhac and Ludovic Halévy wrote the French libretto based on the 1829 one act play <i>Le carrosse du Saint-Sacrement</i> by Prosper Mérimée, which was revived on 13 March 1850 at the Théâtre-Français. Offenbach was probably aware of this production, as he conducted the orchestra of the Comédie-Française from around this time. Another theatrical creation that pre-dates Offenbach's opéra bouffe and may have influenced the piece is a farce by Desforges and Théaulon given on 21 October 1835 at the Théâtre du Palais-Royal.</p>"
+}

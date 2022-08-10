@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ludwig van Beethoven",
+  "displaytitle": "Ludwig van Beethoven",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q255",
+  "titles": {
+    "canonical": "Ludwig_van_Beethoven",
+    "normalized": "Ludwig van Beethoven",
+    "display": "Ludwig van Beethoven"
+  },
+  "pageid": 17914,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/266px-Beethoven.jpg",
+    "width": 266,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg",
+    "width": 1200,
+    "height": 1443
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102945263",
+  "tid": "bbab63f0-1680-11ed-8bfa-bb6dfed336d5",
+  "timestamp": "2022-08-07T18:42:41Z",
+  "description": "German composer (1770–1827)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "revisions": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ludwig_van_Beethoven"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ludwig_van_Beethoven",
+      "edit": "https://en.m.wikipedia.org/wiki/Ludwig_van_Beethoven?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ludwig_van_Beethoven"
+    }
+  },
+  "extract": "Ludwig van Beethoven was a German composer and pianist. Beethoven remains one of the most admired composers in the history of Western music; his works rank amongst the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music. His career has conventionally been divided into early, middle, and late periods. His early period, during which he forged his craft, is typically considered to have lasted until 1802. From 1802 to around 1812, his middle period showed an individual development from the styles of Joseph Haydn and Wolfgang Amadeus Mozart, and is sometimes characterized as heroic. During this time, he began to grow increasingly deaf. In his late period, from 1812 to 1827, he extended his innovations in musical form and expression.",
+  "extract_html": "<p><b>Ludwig van Beethoven</b> was a German composer and pianist. Beethoven remains one of the most admired composers in the history of Western music; his works rank amongst the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music. His career has conventionally been divided into early, middle, and late periods. His early period, during which he forged his craft, is typically considered to have lasted until 1802. From 1802 to around 1812, his middle period showed an individual development from the styles of Joseph Haydn and Wolfgang Amadeus Mozart, and is sometimes characterized as heroic. During this time, he began to grow increasingly deaf. In his late period, from 1812 to 1827, he extended his innovations in musical form and expression.</p>"
+}

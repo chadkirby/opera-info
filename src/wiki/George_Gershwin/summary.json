@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "George Gershwin",
+  "displaytitle": "George Gershwin",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q123829",
+  "titles": {
+    "canonical": "George_Gershwin",
+    "normalized": "George Gershwin",
+    "display": "George Gershwin"
+  },
+  "pageid": 13066,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/George_Gershwin_1937.jpg/255px-George_Gershwin_1937.jpg",
+    "width": 255,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/George_Gershwin_1937.jpg",
+    "width": 317,
+    "height": 398
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099561153",
+  "tid": "c27a0d40-1837-11ed-9095-3b430c91d0ae",
+  "timestamp": "2022-07-21T12:04:23Z",
+  "description": "American composer and pianist (1898–1937)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/George_Gershwin",
+      "revisions": "https://en.wikipedia.org/wiki/George_Gershwin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/George_Gershwin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:George_Gershwin"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/George_Gershwin",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/George_Gershwin",
+      "edit": "https://en.m.wikipedia.org/wiki/George_Gershwin?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:George_Gershwin"
+    }
+  },
+  "extract": "George Gershwin was an American pianist and composer, whose compositions spanned both popular and classical genres. Among his best-known works are the orchestral compositions Rhapsody in Blue (1924) and An American in Paris (1928), the songs \"Swanee\" (1919) and \"Fascinating Rhythm\" (1924), the jazz standards \"Embraceable You\" (1928) and \"I Got Rhythm\" (1930), and the opera Porgy and Bess (1935), which included the hit \"Summertime\".",
+  "extract_html": "<p><b>George Gershwin</b> was an American pianist and composer, whose compositions spanned both popular and classical genres. Among his best-known works are the orchestral compositions <i>Rhapsody in Blue</i> (1924) and <i>An American in Paris</i> (1928), the songs \"Swanee\" (1919) and \"Fascinating Rhythm\" (1924), the jazz standards \"Embraceable You\" (1928) and \"I Got Rhythm\" (1930), and the opera <i>Porgy and Bess</i> (1935), which included the hit \"Summertime\".</p>"
+}

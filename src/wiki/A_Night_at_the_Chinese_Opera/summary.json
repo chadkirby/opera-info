@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "A Night at the Chinese Opera",
+  "displaytitle": "<i>A Night at the Chinese Opera</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4658584",
+  "titles": {
+    "canonical": "A_Night_at_the_Chinese_Opera",
+    "normalized": "A Night at the Chinese Opera",
+    "display": "<i>A Night at the Chinese Opera</i>"
+  },
+  "pageid": 9017670,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100206050",
+  "tid": "2b513c20-1839-11ed-a3ef-bbc315fefb3a",
+  "timestamp": "2022-07-24T18:41:41Z",
+  "description": "Opera by Judith Weir",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/A_Night_at_the_Chinese_Opera",
+      "revisions": "https://en.wikipedia.org/wiki/A_Night_at_the_Chinese_Opera?action=history",
+      "edit": "https://en.wikipedia.org/wiki/A_Night_at_the_Chinese_Opera?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:A_Night_at_the_Chinese_Opera"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/A_Night_at_the_Chinese_Opera",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/A_Night_at_the_Chinese_Opera",
+      "edit": "https://en.m.wikipedia.org/wiki/A_Night_at_the_Chinese_Opera?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:A_Night_at_the_Chinese_Opera"
+    }
+  },
+  "extract": "A Night at the Chinese Opera is an opera in three acts by Judith Weir, who also wrote the libretto. Aside from an earlier opera for children, this was Weir's first full-scale opera, written on commission from the BBC for performance by Kent Opera. Weir incorporated an early Chinese play of the Yuan dynasty, The Orphan of Zhao, as the centrepiece of Act 2 of her opera.",
+  "extract_html": "<p><i><b>A Night at the Chinese Opera</b></i> is an opera in three acts by Judith Weir, who also wrote the libretto. Aside from an earlier opera for children, this was Weir's first full-scale opera, written on commission from the BBC for performance by Kent Opera. Weir incorporated an early Chinese play of the Yuan dynasty, <i>The Orphan of Zhao</i>, as the centrepiece of Act 2 of her opera.</p>"
+}

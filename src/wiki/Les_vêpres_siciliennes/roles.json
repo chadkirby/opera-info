@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role:<br>\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<br> 13 June 1855<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\">[23]</a></sup><br>(Conductor:<br> <a href=\"/wiki/Narcisse_Girard\" title=\"Narcisse Girard\">Narcisse Girard</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Guy_de_Montfort,_Count_of_Nola\" title=\"Guy de Montfort, Count of Nola\">Guy de Montfort</a>, <i>Governor of Sicily under Charles d'Anjou, King of Naples</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Le Sire de Béthune, <i>a French officer</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Le Comte de Vaudemont, <i>a French officer</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Henri, <i>a young Sicilian</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/John_of_Procida\" title=\"John of Procida\">Jean Procida</a>, <i>a Sicilian doctor</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>La Duchesse Hélène, <i>sister of Duke Frederick of Austria</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Ninette, <i>her maid</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Daniéli, <i>her servant</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Thibault, <i>a French soldier</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Robert, <i>a French soldier</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Mainfroid, <i>a Sicilian, adherent of Procida</i>\n</td>\n<td>tenor\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Guy de Montfort, Governor of Sicily under Charles d'Anjou, King of Naples",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Le Sire de Béthune, a French officer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Le Comte de Vaudemont, a French officer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Henri, a young Sicilian",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jean Procida, a Sicilian doctor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "La Duchesse Hélène, sister of Duke Frederick of Austria",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ninette, her maid",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Daniéli, her servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Thibault, a French soldier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Robert, a French soldier",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mainfroid, a Sicilian, adherent of Procida",
+      "voiceType": "tenor"
+    }
+  ]
+}

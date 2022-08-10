@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast <br>(Stiffelio, Lina,<br>Stankar, Jorg)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-37\" class=\"reference\"><a href=\"#cite_note-37\">[37]</a></sup>\n</th></tr>\n<tr>\n<td>1968</td>\n<td><a href=\"/w/index.php?title=Gastone_Limarilli&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gastone Limarilli (page does not exist)\">Gastone Limarilli</a>,<br><a href=\"/wiki/Angeles_Gulin\" class=\"mw-redirect\" title=\"Angeles Gulin\">Angeles Gulin</a>,<br><a href=\"/w/index.php?title=Walter_Alberti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Walter Alberti (page does not exist)\">Walter Alberti</a>,<br><a href=\"/w/index.php?title=Beniamino_Prior&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Beniamino Prior (page does not exist)\">Beniamino Prior</a></td>\n\n<td>Audio CD: <a href=\"/w/index.php?title=Melodram_Milano&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Melodram Milano (page does not exist)\">Melodram Milano</a><br>Cat: CDM 27033\n</td></tr>\n<tr>\n<td>1979</td>\n<td><a href=\"/wiki/Jos%C3%A9_Carreras\" title=\"José Carreras\">José Carreras</a>,<br><a href=\"/wiki/Sylvia_Sass\" title=\"Sylvia Sass\">Sylvia Sass</a>,<br><a href=\"/wiki/Matteo_Manuguerra\" title=\"Matteo Manuguerra\">Matteo Manuguerra</a>,<br><a href=\"/wiki/Wladimiro_Ganzarolli\" title=\"Wladimiro Ganzarolli\">Wladimiro Ganzarolli</a></td>\n\n<td>Audio CD: Philips<br>Cat: 422 432-2\n</td></tr>\n<tr>\n<td>1993</td>\n<td><a href=\"/wiki/Jos%C3%A9_Carreras\" title=\"José Carreras\">José Carreras</a>,<br><a href=\"/wiki/Catherine_Malfitano\" title=\"Catherine Malfitano\">Catherine Malfitano</a>,<br>Gregory Yurisich,<br><a href=\"/wiki/Gwynne_Howell\" title=\"Gwynne Howell\">Gwynne Howell</a></td>\n\n<td>DVD: <a href=\"/wiki/Kultur\" class=\"mw-redirect\" title=\"Kultur\">Kultur</a><br>Cat: D1497\n</td></tr>\n<tr>\n<td>1993</td>\n<td><a href=\"/wiki/Pl%C3%A1cido_Domingo\" title=\"Plácido Domingo\">Plácido Domingo</a>,<br><a href=\"/wiki/Sharon_Sweet\" title=\"Sharon Sweet\">Sharon Sweet</a>,<br><a href=\"/wiki/Vladimir_Chernov\" title=\"Vladimir Chernov\">Vladimir Chernov</a>,<br><a href=\"/wiki/Paul_Plishka\" title=\"Paul Plishka\">Paul Plishka</a></td>\n\n<td>DVD: <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a><br>Cat: 00440 073 4288\n</td></tr>\n<tr>\n<td>2001</td>\n<td>Mario Malagnini,<br>Dimitra Theodossiou,<br>Marco Vratogna,<br>Enzo Capuano</td>\n\n<td>Audio CD: Dynamic<br>Cat: CDS362\n</td></tr>\n<tr>\n<td>2012</td>\n<td>Roberto Aronica,<br>Yu Guanqun,<br>Roberto Frontali,<br>George Andguladze\n</td>\n\n<td>DVD:C Major<br>Cat:723104<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\">[38]</a></sup>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1968,
+      "cast": [
+        "Gastone Limarilli",
+        "Angeles Gulin",
+        "Walter Alberti",
+        "Beniamino Prior"
+      ],
+      "conductor": "Peter Maag"
+    },
+    {
+      "year": 1979,
+      "cast": [
+        "José Carreras",
+        "Sylvia Sass",
+        "Matteo Manuguerra",
+        "Wladimiro Ganzarolli"
+      ],
+      "conductor": "Lamberto Gardelli"
+    },
+    {
+      "year": 1993,
+      "cast": [
+        "José Carreras",
+        "Catherine Malfitano",
+        "Gregory Yurisich",
+        "Gwynne Howell"
+      ],
+      "conductor": "Edward Downes"
+    },
+    {
+      "year": 1993,
+      "cast": [
+        "Plácido Domingo",
+        "Sharon Sweet",
+        "Vladimir Chernov",
+        "Paul Plishka"
+      ],
+      "conductor": "James Levine"
+    },
+    {
+      "year": 2001,
+      "cast": [
+        "Mario Malagnini",
+        "Dimitra Theodossiou",
+        "Marco Vratogna",
+        "Enzo Capuano"
+      ],
+      "conductor": "Nicola Luisotti"
+    },
+    {
+      "year": 2012,
+      "cast": [
+        "Roberto Aronica",
+        "Yu Guanqun",
+        "Roberto Frontali",
+        "George Andguladze"
+      ],
+      "conductor": "Andrea Battistoni"
+    }
+  ]
+}

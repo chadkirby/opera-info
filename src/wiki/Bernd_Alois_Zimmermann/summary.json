@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Bernd Alois Zimmermann",
+  "displaytitle": "Bernd Alois Zimmermann",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q312582",
+  "titles": {
+    "canonical": "Bernd_Alois_Zimmermann",
+    "normalized": "Bernd Alois Zimmermann",
+    "display": "Bernd Alois Zimmermann"
+  },
+  "pageid": 1637383,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1063098617",
+  "tid": "a6d303a0-0f84-11ed-997a-27a90034d9ac",
+  "timestamp": "2022-01-01T05:57:26Z",
+  "description": "German composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Bernd_Alois_Zimmermann",
+      "revisions": "https://en.wikipedia.org/wiki/Bernd_Alois_Zimmermann?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Bernd_Alois_Zimmermann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Bernd_Alois_Zimmermann"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Bernd_Alois_Zimmermann",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Bernd_Alois_Zimmermann",
+      "edit": "https://en.m.wikipedia.org/wiki/Bernd_Alois_Zimmermann?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Bernd_Alois_Zimmermann"
+    }
+  },
+  "extract": "\n\nBernd Alois Zimmermann was a German composer. He is perhaps best known for his opera Die Soldaten, which is regarded as one of the most important German operas of the 20th century, after those of Berg. As a result of his individual style, it is hard to label his music as avant-garde, serial or postmodern. His music employs a wide range of methods including the twelve-tone row and musical quotation.",
+  "extract_html": "<p>\n\n<b>Bernd Alois Zimmermann</b> was a German composer. He is perhaps best known for his opera <i>Die Soldaten</i>, which is regarded as one of the most important German operas of the 20th century, after those of Berg. As a result of his individual style, it is hard to label his music as avant-garde, serial or postmodern. His music employs a wide range of methods including the twelve-tone row and musical quotation.</p>"
+}

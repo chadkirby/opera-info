@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 29 October 1837<br>(Conductor: – )\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Elizabeth_I_of_England\" class=\"mw-redirect\" title=\"Elizabeth I of England\">Elisabetta, Queen of England</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Charles_Howard,_1st_Earl_of_Nottingham\" title=\"Charles Howard, 1st Earl of Nottingham\">The Duke of Nottingham</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Sara, Duchess of Nottingham\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Robert_Devereux,_2nd_Earl_of_Essex\" title=\"Robert Devereux, 2nd Earl of Essex\">Roberto Devereux, Earl of Essex</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Robert_Cecil,_1st_Earl_of_Salisbury\" title=\"Robert Cecil, 1st Earl of Salisbury\">Lord Cecil</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Sir <a href=\"/wiki/Walter_Raleigh\" title=\"Walter Raleigh\">Gualtiero Raleigh</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>A page\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>A servant of Nottingham\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Lords of the parliament, knights, squires, pages, guards of Nottingham</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Elisabetta, Queen of England",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Duke of Nottingham",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sara, Duchess of Nottingham",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Roberto Devereux, Earl of Essex",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lord Cecil",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sir Gualtiero Raleigh",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A page",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "A servant of Nottingham",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lords of the parliament, knights, squires, pages, guards of Nottingham",
+      "voiceType": ""
+    }
+  ]
+}

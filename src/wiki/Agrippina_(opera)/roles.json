@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 26 December 1709<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: George Frideric Handel\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Agrippina_the_Younger\" title=\"Agrippina the Younger\">Agrippina</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Nero\" title=\"Nero\">Nero</a><br>(Italian: Nerone)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Pallas_(freedman)\" title=\"Pallas (freedman)\">Pallas</a><br>(Pallante)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Tiberius_Claudius_Narcissus\" title=\"Tiberius Claudius Narcissus\">Narcissus</a><br>(Narciso)\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Lesbus<br>(Lesbo)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Otho\" title=\"Otho\">Otho</a><br>(Ottone)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Poppaea_Sabina\" title=\"Poppaea Sabina\">Poppaea</a><br>(Poppea)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Claudius\" title=\"Claudius\">Claudius</a><br>(Claudio)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Juno_(mythology)\" title=\"Juno (mythology)\">Juno</a><br>(Giunone)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Agrippina",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Nero\n(Italian: Nerone)",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Pallas\n(Pallante)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Narcissus\n(Narciso)",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Lesbus\n(Lesbo)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Otho\n(Ottone)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Poppaea\n(Poppea)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Claudius\n(Claudio)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Juno\n(Giunone)",
+      "voiceType": "contralto"
+    }
+  ]
+}

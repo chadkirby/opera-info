@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jonny spielt auf",
+  "displaytitle": "<i>Jonny spielt auf</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1703479",
+  "titles": {
+    "canonical": "Jonny_spielt_auf",
+    "normalized": "Jonny spielt auf",
+    "display": "<i>Jonny spielt auf</i>"
+  },
+  "pageid": 9017190,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Krenek_Jonny-spielt-auf_Titel.jpg/248px-Krenek_Jonny-spielt-auf_Titel.jpg",
+    "width": 248,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Krenek_Jonny-spielt-auf_Titel.jpg",
+    "width": 3980,
+    "height": 5140
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102971543",
+  "tid": "cf1ac320-1691-11ed-9826-31d223637b8f",
+  "timestamp": "2022-08-07T20:44:59Z",
+  "description": "Opera by Ernst Křenek",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jonny_spielt_auf",
+      "revisions": "https://en.wikipedia.org/wiki/Jonny_spielt_auf?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jonny_spielt_auf?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jonny_spielt_auf"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Jonny_spielt_auf",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jonny_spielt_auf",
+      "edit": "https://en.m.wikipedia.org/wiki/Jonny_spielt_auf?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Jonny_spielt_auf"
+    }
+  },
+  "extract": "Jonny spielt auf is a German-language opera with words and music by Austrian composer Ernst Krenek about a jazz violinist. The work typified the cultural freedom of the 'golden era' of the Weimar Republic.",
+  "extract_html": "<p><i><b>Jonny spielt auf</b></i> is a German-language opera with words and music by Austrian composer Ernst Krenek about a jazz violinist. The work typified the cultural freedom of the 'golden era' of the Weimar Republic.</p>"
+}

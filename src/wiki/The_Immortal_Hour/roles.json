@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 26 August 1914<br>(Conductor: <a href=\"/wiki/Charles_Kennedy_Scott\" title=\"Charles Kennedy Scott\">Charles Kennedy Scott</a>)<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Eochu_Feidlech\" title=\"Eochu Feidlech\">Eochaidh</a>, <i>the heroic king</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/%C3%89ta%C3%ADn\" title=\"Étaín\">Etain</a>, <i>the faery princess who is eternally fair and youthful</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Dalua, <i>the Lord of Shadow</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Midir\" title=\"Midir\">Midir</a>, <i>Etain's eternal lover</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Manus, <i>a peasant</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Maive, <i>Manus's wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Spirit voice\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Old <a href=\"/wiki/Bard\" title=\"Bard\">bard</a>\n</td>\n<td>bass\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Eochaidh, the heroic king",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Etain, the faery princess who is eternally fair and youthful",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Dalua, the Lord of Shadow",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Midir, Etain's eternal lover",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Manus, a peasant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Maive, Manus's wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Spirit voice",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Old bard",
+      "voiceType": "bass"
+    }
+  ]
+}

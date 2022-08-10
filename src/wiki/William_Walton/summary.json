@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "William Walton",
+  "displaytitle": "William Walton",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q310939",
+  "titles": {
+    "canonical": "William_Walton",
+    "normalized": "William Walton",
+    "display": "William Walton"
+  },
+  "pageid": 94339,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sir_William_Turner_Walton.jpg/241px-Sir_William_Turner_Walton.jpg",
+    "width": 241,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sir_William_Turner_Walton.jpg",
+    "width": 602,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1090014071",
+  "tid": "e1751e10-178d-11ed-8ed7-bb15eb5d1dc2",
+  "timestamp": "2022-05-26T21:43:24Z",
+  "description": "English composer (1902–1983)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/William_Walton",
+      "revisions": "https://en.wikipedia.org/wiki/William_Walton?action=history",
+      "edit": "https://en.wikipedia.org/wiki/William_Walton?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:William_Walton"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/William_Walton",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/William_Walton",
+      "edit": "https://en.m.wikipedia.org/wiki/William_Walton?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:William_Walton"
+    }
+  },
+  "extract": "Sir William Turner Walton was an English composer. During a sixty-year career, he wrote music in several classical genres and styles, from film scores to opera. His best-known works include Façade, the cantata Belshazzar's Feast, the Viola Concerto, the First Symphony, and the British coronation marches Crown Imperial and Orb and Sceptre.",
+  "extract_html": "<p><b>Sir William Turner Walton</b> was an English composer. During a sixty-year career, he wrote music in several classical genres and styles, from film scores to opera. His best-known works include <i>Façade</i>, the cantata <i>Belshazzar's Feast</i>, the Viola Concerto, the First Symphony, and the British coronation marches <span><i>Crown Imperial</i></span> and <i>Orb and Sceptre</i>.</p>"
+}

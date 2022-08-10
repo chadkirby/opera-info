@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 30 May 1866<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[14]</a></sup><br>Conductor: <a href=\"/wiki/Bed%C5%99ich_Smetana\" title=\"Bedřich Smetana\">Bedřich Smetana</a>\n</th></tr>\n<tr>\n<td>Krušina, <i>a peasant</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Ludmila, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mařenka, <i>their daughter</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mícha, <i>a landowner</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Háta, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Vašek, <i>their son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Jeník, <i>Mícha's son by a former marriage</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Kecal, <i>a marriage broker</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Principál komediantů, <i>Ringmaster</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Indián, <i>an Indian comedian</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Esmeralda, <i>dancer and comedienne</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Villagers, circus artists, boys</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Krušina, a peasant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Ludmila, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mařenka, their daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mícha, a landowner",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Háta, his wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Vašek, their son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jeník, Mícha's son by a former marriage",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Kecal, a marriage broker",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Principál komediantů, Ringmaster",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Indián, an Indian comedian",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Esmeralda, dancer and comedienne",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus: Villagers, circus artists, boys",
+      "voiceType": ""
+    }
+  ]
+}

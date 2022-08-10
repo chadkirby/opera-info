@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Manon Lescaut (Puccini)",
+  "displaytitle": "<i>Manon Lescaut</i> (Puccini)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q459341",
+  "titles": {
+    "canonical": "Manon_Lescaut_(Puccini)",
+    "normalized": "Manon Lescaut (Puccini)",
+    "display": "<i>Manon Lescaut</i> (Puccini)"
+  },
+  "pageid": 1913832,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Locandina_Manon_Lescaut.jpg/320px-Locandina_Manon_Lescaut.jpg",
+    "width": 320,
+    "height": 219
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Locandina_Manon_Lescaut.jpg",
+    "width": 1390,
+    "height": 950
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1042799361",
+  "tid": "d0a64380-fe87-11ec-9970-e7c454e8b968",
+  "timestamp": "2021-09-06T20:45:41Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Manon_Lescaut_(Puccini)",
+      "revisions": "https://en.wikipedia.org/wiki/Manon_Lescaut_(Puccini)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Manon_Lescaut_(Puccini)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Manon_Lescaut_(Puccini)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Manon_Lescaut_(Puccini)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Manon_Lescaut_(Puccini)",
+      "edit": "https://en.m.wikipedia.org/wiki/Manon_Lescaut_(Puccini)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Manon_Lescaut_(Puccini)"
+    }
+  },
+  "extract": "Manon Lescaut is an Italian-language opera in four acts composed by Giacomo Puccini between 1889 and 1892 to a libretto by Luigi Illica, Marco Praga and Domenico Oliva, based on the 1731 novel Histoire du Chevalier des Grieux, et de Manon Lescaut by the Abbé Prévost. The opera was first performed in 1893 in Turin, at the Teatro Regio.",
+  "extract_html": "<p><i><b>Manon Lescaut</b></i> is an Italian-language opera in four acts composed by Giacomo Puccini between 1889 and 1892 to a libretto by Luigi Illica, Marco Praga and Domenico Oliva, based on the 1731 novel <i>Histoire du Chevalier des Grieux, et de Manon Lescaut</i> by the Abbé Prévost. The opera was first performed in 1893 in Turin, at the Teatro Regio.</p>"
+}

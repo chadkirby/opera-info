@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Giulio Cesare",
+  "displaytitle": "<i>Giulio Cesare</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q875563",
+  "titles": {
+    "canonical": "Giulio_Cesare",
+    "normalized": "Giulio Cesare",
+    "display": "<i>Giulio Cesare</i>"
+  },
+  "pageid": 356040,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Giulio_Cesare_opera.PNG/190px-Giulio_Cesare_opera.PNG",
+    "width": 190,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Giulio_Cesare_opera.PNG",
+    "width": 903,
+    "height": 1520
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086128217",
+  "tid": "8fc73ad0-1247-11ed-b6b7-67e67aded407",
+  "timestamp": "2022-05-04T09:41:48Z",
+  "description": "Opera by George Frederic Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Giulio_Cesare",
+      "revisions": "https://en.wikipedia.org/wiki/Giulio_Cesare?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Giulio_Cesare?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Giulio_Cesare"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Giulio_Cesare",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Giulio_Cesare",
+      "edit": "https://en.m.wikipedia.org/wiki/Giulio_Cesare?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Giulio_Cesare"
+    }
+  },
+  "extract": "Giulio Cesare in Egitto, commonly known as Giulio Cesare, is a dramma per musica in three acts composed by George Frideric Handel for the Royal Academy of Music in 1724. The libretto was written by Nicola Francesco Haym who used an earlier libretto by Giacomo Francesco Bussani, which had been set to music by Antonio Sartorio (1676). The opera was a success at its first performances, was frequently revived by Handel in his subsequent opera seasons and is now one of the most often performed Baroque operas.",
+  "extract_html": "<p><i><b>Giulio Cesare in Egitto</b></i>, commonly known as <i><b>Giulio Cesare</b></i>, is a dramma per musica in three acts composed by George Frideric Handel for the Royal Academy of Music in 1724. The libretto was written by Nicola Francesco Haym who used an earlier libretto by Giacomo Francesco Bussani, which had been set to music by Antonio Sartorio (1676). The opera was a success at its first performances, was frequently revived by Handel in his subsequent opera seasons and is now one of the most often performed Baroque operas.</p>"
+}

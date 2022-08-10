@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Mask of Orpheus",
+  "displaytitle": "<i>The Mask of Orpheus</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7750517",
+  "titles": {
+    "canonical": "The_Mask_of_Orpheus",
+    "normalized": "The Mask of Orpheus",
+    "display": "<i>The Mask of Orpheus</i>"
+  },
+  "pageid": 167676,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Harrison_Birtwistle_%28cropped%29.jpg/240px-Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 1294,
+    "height": 1728
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096838055",
+  "tid": "542dfaf0-0724-11ed-b68e-e9541f179700",
+  "timestamp": "2022-07-06T23:48:11Z",
+  "description": "1986 opera by Harrison Birtwhistle",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Mask_of_Orpheus",
+      "revisions": "https://en.wikipedia.org/wiki/The_Mask_of_Orpheus?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Mask_of_Orpheus?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Mask_of_Orpheus"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Mask_of_Orpheus",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Mask_of_Orpheus",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Mask_of_Orpheus?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Mask_of_Orpheus"
+    }
+  },
+  "extract": "The Mask of Orpheus is an opera with music by Harrison Birtwistle, electronic music realised by Barry Anderson and a libretto by Peter Zinovieff. It was premiered in London at the English National Opera on 21 May 1986 to great critical acclaim. The work has only been fully staged twice, both at the English National Opera. A recorded version conducted by Andrew Davis and Martyn Brabbins has also received good reviews. The work is around three hours long.",
+  "extract_html": "<p><i><b>The Mask of Orpheus</b></i> is an opera with music by Harrison Birtwistle, electronic music realised by Barry Anderson and a libretto by Peter Zinovieff. It was premiered in London at the English National Opera on 21 May 1986 to great critical acclaim. The work has only been fully staged twice, both at the English National Opera. A recorded version conducted by Andrew Davis and Martyn Brabbins has also received good reviews. The work is around three hours long.</p>"
+}

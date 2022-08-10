@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Luisa Miller",
+  "displaytitle": "<i>Luisa Miller</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q545265",
+  "titles": {
+    "canonical": "Luisa_Miller",
+    "normalized": "Luisa Miller",
+    "display": "<i>Luisa Miller</i>"
+  },
+  "pageid": 1942842,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Luisa_Miller_Illustration_Ricordi.jpg/320px-Luisa_Miller_Illustration_Ricordi.jpg",
+    "width": 320,
+    "height": 216
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Luisa_Miller_Illustration_Ricordi.jpg",
+    "width": 1495,
+    "height": 1009
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102275110",
+  "tid": "81c950a0-13c6-11ed-93c6-4352482fd00f",
+  "timestamp": "2022-08-04T07:24:38Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Luisa_Miller",
+      "revisions": "https://en.wikipedia.org/wiki/Luisa_Miller?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Luisa_Miller?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Luisa_Miller"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Luisa_Miller",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Luisa_Miller",
+      "edit": "https://en.m.wikipedia.org/wiki/Luisa_Miller?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Luisa_Miller"
+    }
+  },
+  "extract": "Luisa Miller is an opera in three acts by Giuseppe Verdi to an Italian libretto by Salvadore Cammarano, based on the play Kabale und Liebe by the German dramatist Friedrich von Schiller.",
+  "extract_html": "<p><i><b>Luisa Miller</b></i> is an opera in three acts by Giuseppe Verdi to an Italian libretto by Salvadore Cammarano, based on the play <i>Kabale und Liebe</i> by the German dramatist Friedrich von Schiller.</p>"
+}

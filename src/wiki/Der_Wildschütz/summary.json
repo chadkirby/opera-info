@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Der Wildschütz",
+  "displaytitle": "<i>Der Wildschütz</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q253376",
+  "titles": {
+    "canonical": "Der_Wildschütz",
+    "normalized": "Der Wildschütz",
+    "display": "<i>Der Wildschütz</i>"
+  },
+  "pageid": 8730036,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lortzing2.jpg/228px-Lortzing2.jpg",
+    "width": 228,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lortzing2.jpg",
+    "width": 3000,
+    "height": 4200
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1033879203",
+  "tid": "d0cf4270-15f8-11ed-a988-1fd2c1c0e423",
+  "timestamp": "2021-07-16T12:01:05Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Wildsch%C3%BCtz",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Wildsch%C3%BCtz?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Wildsch%C3%BCtz?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Wildsch%C3%BCtz"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Wildsch%C3%BCtz",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Wildsch%C3%BCtz",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Wildsch%C3%BCtz?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Wildsch%C3%BCtz"
+    }
+  },
+  "extract": "Der Wildschütz oder Die Stimme der Natur is a German Komische Oper, or comic opera, in three acts by Albert Lortzing from a libretto by the composer adapted from the comedy Der Rehbock, oder Die schuldlosen Schuldbewussten by August von Kotzebue. It had its premiere at the Stadttheater in Leipzig on 31 December 1842.",
+  "extract_html": "<p><i><b>Der Wildschütz oder Die Stimme der Natur</b></i> is a German <i>Komische Oper</i>, or comic opera, in three acts by Albert Lortzing from a libretto by the composer adapted from the comedy <i>Der Rehbock, oder Die schuldlosen Schuldbewussten</i> by August von Kotzebue. It had its premiere at the Stadttheater in Leipzig on 31 December 1842.</p>"
+}

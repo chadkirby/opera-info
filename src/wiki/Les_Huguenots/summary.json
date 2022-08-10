@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Les Huguenots",
+  "displaytitle": "<i>Les Huguenots</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q466848",
+  "titles": {
+    "canonical": "Les_Huguenots",
+    "normalized": "Les Huguenots",
+    "display": "<i>Les Huguenots</i>"
+  },
+  "pageid": 377890,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Philippe_Chaperon_-_Meyerbeer_-_Les_Huguenots_Act_I_%281896%29.jpg/320px-Philippe_Chaperon_-_Meyerbeer_-_Les_Huguenots_Act_I_%281896%29.jpg",
+    "width": 320,
+    "height": 282
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Philippe_Chaperon_-_Meyerbeer_-_Les_Huguenots_Act_I_%281896%29.jpg",
+    "width": 5084,
+    "height": 4476
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098421574",
+  "tid": "aa5b43d0-0a51-11ed-9f6c-078de1918203",
+  "timestamp": "2022-07-15T19:25:03Z",
+  "description": "French opera by Giacomo Meyerbeer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Les_Huguenots",
+      "revisions": "https://en.wikipedia.org/wiki/Les_Huguenots?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Les_Huguenots?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Les_Huguenots"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Les_Huguenots",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Les_Huguenots",
+      "edit": "https://en.m.wikipedia.org/wiki/Les_Huguenots?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Les_Huguenots"
+    }
+  },
+  "extract": "Les Huguenots is an opera by Giacomo Meyerbeer and is one of the most popular and spectacular examples of grand opera. In five acts, to a libretto by Eugène Scribe and Émile Deschamps, it premiered in Paris on 29 February 1836.",
+  "extract_html": "<p><b><span><i lang=\"fr\">Les Huguenots</i></span></b> is an opera by Giacomo Meyerbeer and is one of the most popular and spectacular examples of grand opera. In five acts, to a libretto by Eugène Scribe and Émile Deschamps, it premiered in Paris on 29 February 1836.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tristan und Isolde",
+  "displaytitle": "<i>Tristan und Isolde</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1324254",
+  "titles": {
+    "canonical": "Tristan_und_Isolde",
+    "normalized": "Tristan und Isolde",
+    "display": "<i>Tristan und Isolde</i>"
+  },
+  "pageid": 38241,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Joseph_Albert_-_Ludwig_und_Malwine_Schnorr_von_Carolsfeld_-_Tristan_und_Isolde%2C_1865f.jpg/320px-Joseph_Albert_-_Ludwig_und_Malwine_Schnorr_von_Carolsfeld_-_Tristan_und_Isolde%2C_1865f.jpg",
+    "width": 320,
+    "height": 244
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Joseph_Albert_-_Ludwig_und_Malwine_Schnorr_von_Carolsfeld_-_Tristan_und_Isolde%2C_1865f.jpg",
+    "width": 2024,
+    "height": 1543
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097392102",
+  "tid": "e3af72d0-119c-11ed-825e-17a8f1e57c7e",
+  "timestamp": "2022-07-10T13:48:55Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tristan_und_Isolde",
+      "revisions": "https://en.wikipedia.org/wiki/Tristan_und_Isolde?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tristan_und_Isolde?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tristan_und_Isolde"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Tristan_und_Isolde",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tristan_und_Isolde",
+      "edit": "https://en.m.wikipedia.org/wiki/Tristan_und_Isolde?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Tristan_und_Isolde"
+    }
+  },
+  "extract": "Tristan und Isolde, WWV 90, is an opera in three acts by Richard Wagner to a German libretto by the composer, based largely on the 12th-century romance Tristan and Iseult by Gottfried von Strassburg. It was composed between 1857 and 1859 and premiered at the Königliches Hoftheater und Nationaltheater in Munich on 10 June 1865 with Hans von Bülow conducting. Wagner referred to the work not as an opera, but called it \"eine Handlung\".",
+  "extract_html": "<p><i><b>Tristan und Isolde</b></i>, WWV 90, is an opera in three acts by Richard Wagner to a German libretto by the composer, based largely on the 12th-century romance Tristan and Iseult by Gottfried von Strassburg. It was composed between 1857 and 1859 and premiered at the Königliches Hoftheater und Nationaltheater in Munich on 10 June 1865 with Hans von Bülow conducting. Wagner referred to the work not as an opera, but called it \"<span><i lang=\"de\">eine Handlung</i></span>\".</p>"
+}

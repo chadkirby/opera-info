@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 8 December 1849<sup id=\"cite_ref-22\" class=\"reference\"><a href=\"#cite_note-22\">[22]</a></sup><br>(Conductor: - )\n</th></tr>\n<tr>\n<td>Miller, <i>a retired soldier</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Luisa, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Count Walter\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Rodolfo, <i>his son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Federica, <i>Duchess of <a href=\"/wiki/Ostheim\" title=\"Ostheim\">Ostheim</a>, Walter's niece</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Wurm, <i>Walter's steward</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Laura, <i>a village girl</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>A peasant\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Damigelle di Federica, Paggi, Famigliari, Arcieri, Abitanti del villaggio</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Miller, a retired soldier",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Luisa, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Count Walter",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Rodolfo, his son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Federica, Duchess of Ostheim, Walter's niece",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Wurm, Walter's steward",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Laura, a village girl",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "A peasant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Damigelle di Federica, Paggi, Famigliari, Arcieri, Abitanti del villaggio",
+      "voiceType": ""
+    }
+  ]
+}

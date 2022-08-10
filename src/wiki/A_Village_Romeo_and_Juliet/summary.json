@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "A Village Romeo and Juliet",
+  "displaytitle": "<i>A Village Romeo and Juliet</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2819953",
+  "titles": {
+    "canonical": "A_Village_Romeo_and_Juliet",
+    "normalized": "A Village Romeo and Juliet",
+    "display": "<i>A Village Romeo and Juliet</i>"
+  },
+  "pageid": 8969081,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rosen_-_Frederick_Delius.jpg/272px-Rosen_-_Frederick_Delius.jpg",
+    "width": 272,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Rosen_-_Frederick_Delius.jpg",
+    "width": 408,
+    "height": 480
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093074380",
+  "tid": "d2676ea0-15f8-11ed-b45a-cfc96b7de5b1",
+  "timestamp": "2022-06-14T11:47:32Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/A_Village_Romeo_and_Juliet",
+      "revisions": "https://en.wikipedia.org/wiki/A_Village_Romeo_and_Juliet?action=history",
+      "edit": "https://en.wikipedia.org/wiki/A_Village_Romeo_and_Juliet?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:A_Village_Romeo_and_Juliet"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/A_Village_Romeo_and_Juliet",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/A_Village_Romeo_and_Juliet",
+      "edit": "https://en.m.wikipedia.org/wiki/A_Village_Romeo_and_Juliet?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:A_Village_Romeo_and_Juliet"
+    }
+  },
+  "extract": "A Village Romeo and Juliet is an opera by Frederick Delius, the fourth of his six operas. The composer himself, with his wife Jelka, wrote the English-language libretto based on the short story \"Romeo und Julia auf dem Dorfe\" by the Swiss author Gottfried Keller. The first performance was at the Komische Oper Berlin on 21 February 1907, as Romeo und Julia auf dem Dorfe. Thomas Beecham conducted the British premiere at the Royal Opera House, Covent Garden in London on 22 February 1910. The US premiere was on 26 April 1972 in Washington, D.C.",
+  "extract_html": "<p><i><b>A Village Romeo and Juliet</b></i> is an opera by Frederick Delius, the fourth of his six operas. The composer himself, with his wife Jelka, wrote the English-language libretto based on the short story \"<i>Romeo und Julia auf dem Dorfe</i>\" by the Swiss author Gottfried Keller. The first performance was at the Komische Oper Berlin on 21 February 1907, as <i><b>Romeo und Julia auf dem Dorfe</b></i>. Thomas Beecham conducted the British premiere at the Royal Opera House, Covent Garden in London on 22 February 1910. The US premiere was on 26 April 1972 in Washington, D.C.</p>"
+}

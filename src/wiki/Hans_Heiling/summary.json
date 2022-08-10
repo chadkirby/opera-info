@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Hans Heiling",
+  "displaytitle": "<i>Hans Heiling</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q845843",
+  "titles": {
+    "canonical": "Hans_Heiling",
+    "normalized": "Hans Heiling",
+    "display": "<i>Hans Heiling</i>"
+  },
+  "pageid": 8968728,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Marschner_Hans_Heiling_Score.png",
+    "width": 175,
+    "height": 271
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Marschner_Hans_Heiling_Score.png",
+    "width": 175,
+    "height": 271
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092337738",
+  "tid": "d11684a0-15f8-11ed-8301-5f8a2d3f55a2",
+  "timestamp": "2022-06-09T17:46:13Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hans_Heiling",
+      "revisions": "https://en.wikipedia.org/wiki/Hans_Heiling?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hans_Heiling?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hans_Heiling"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hans_Heiling",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hans_Heiling",
+      "edit": "https://en.m.wikipedia.org/wiki/Hans_Heiling?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hans_Heiling"
+    }
+  },
+  "extract": "Hans Heiling is a German Romantic opera in 3 acts with prologue by Heinrich Marschner with a libretto by Eduard Devrient, who also sang the title role at the première at the Königliche Hofoper, Berlin, on 24 May 1833. From there, the work went on to become Marschner's most successful opera. The opera brought the composer a considerable reputation, although this did not materially affect his position in Hanover, where he was music director of the Court Theatre. Like Marschner's other great success, Der Vampyr, the plot of Hans Heiling makes great use of supernatural elements. As with several of his operas, Hans Heiling is based on a folk legend.",
+  "extract_html": "<p><i><b>Hans Heiling</b></i> is a German Romantic opera in 3 acts with prologue by Heinrich Marschner with a libretto by Eduard Devrient, who also sang the title role at the première at the Königliche Hofoper, Berlin, on 24 May 1833. From there, the work went on to become Marschner's most successful opera. The opera brought the composer a considerable reputation, although this did not materially affect his position in Hanover, where he was music director of the Court Theatre. Like Marschner's other great success, <i>Der Vampyr</i>, the plot of <i>Hans Heiling</i> makes great use of supernatural elements. As with several of his operas, <i>Hans Heiling</i> is based on a folk legend.</p>"
+}

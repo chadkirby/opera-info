@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Cléomène,<br>Pamira,<br>Néoclès,<br>Maometto\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label <sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup>\n</th></tr>\n<tr>\n<td>1969\n</td>\n<td><a href=\"/wiki/Franco_Bonisolli\" title=\"Franco Bonisolli\">Franco Bonisolli</a>,<br><a href=\"/wiki/Beverly_Sills\" title=\"Beverly Sills\">Beverly Sills</a>,<br><a href=\"/wiki/Marilyn_Horne\" title=\"Marilyn Horne\">Marilyn Horne</a>,<br><a href=\"/wiki/Justino_D%C3%ADaz\" title=\"Justino Díaz\">Justino Díaz</a>\n</td>\n\n<td>Audio CD: Arkadia <br>Cat: CD 573;<br>Legato Classics<br>Cat: LCD 135-2;<br>Celestial Audio<br>Cat: CA 034\n</td></tr>\n<tr>\n<td>1974\n</td>\n<td><a href=\"/wiki/Harry_Theyard\" title=\"Harry Theyard\">Harry Theyard</a>,<br><a href=\"/wiki/Beverly_Sills\" title=\"Beverly Sills\">Beverly Sills</a>,<br><a href=\"/wiki/Shirley_Verrett\" title=\"Shirley Verrett\">Shirley Verrett</a>,<br><a href=\"/wiki/Justino_D%C3%ADaz\" title=\"Justino Díaz\">Justino Díaz</a>\n</td>\n\n<td>Audio CD: <a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a><br>Cat: 64335\n</td></tr>\n<tr>\n<td>1975\n</td>\n<td><a href=\"/wiki/Harry_Theyard\" title=\"Harry Theyard\">Harry Theyard</a>,<br><a href=\"/wiki/Beverly_Sills\" title=\"Beverly Sills\">Beverly Sills</a>,<br><a href=\"/wiki/Shirley_Verrett\" title=\"Shirley Verrett\">Shirley Verrett</a>,<br><a href=\"/wiki/Justino_D%C3%ADaz\" title=\"Justino Díaz\">Justino Díaz</a>\n</td>\n\n<td>Audio CD: Bensar<br>Cat: OL 41975\n</td></tr>\n<tr>\n<td>1992\n</td>\n<td><a href=\"/wiki/Dano_Raffanti\" title=\"Dano Raffanti\">Dano Raffanti</a>,<br><a href=\"/wiki/Luciana_Serra\" title=\"Luciana Serra\">Luciana Serra</a>,<br>Maurizio Comencini,<br>Marcello Lippi\n</td>\n\n<td>Audio CD: Nuova Era<br>Cat: 7140-7142 &amp; Cat: NE 7372/3\n</td></tr>\n<tr>\n<td>2000\n</td>\n<td><span class=\"nowrap\">Stephen Mark Brown</span>,<br><a href=\"/wiki/Ruth_Ann_Swenson\" title=\"Ruth Ann Swenson\">Ruth Ann Swenson</a>,<br><a href=\"/wiki/Giuseppe_Filianoti\" title=\"Giuseppe Filianoti\">Giuseppe Filianoti</a>,<br>Michele Pertusi\n</td>\n\n<td>Audio CD: House of Opera<br>Cat: CD 597; Charles Handelman, Live Opera<br>Cat: (unnumbered)\n</td></tr>\n<tr>\n<td>2010\n</td>\n<td>Marc Sala,<br>Majella Cullagh,<br><a href=\"/wiki/Michael_Spyres\" title=\"Michael Spyres\">Michael Spyres</a>,<br>Lorenzo Regazzo\n</td>\n\n<td>Audio CD: Naxos<br>Cat: 8.660329-30\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1969,
+      "cast": [
+        "Franco Bonisolli",
+        "Beverly Sills",
+        "Marilyn Horne",
+        "Justino Díaz"
+      ],
+      "conductor": "Thomas Schippers"
+    },
+    {
+      "year": 1974,
+      "cast": [
+        "Harry Theyard",
+        "Beverly Sills",
+        "Shirley Verrett",
+        "Justino Díaz"
+      ],
+      "conductor": "Thomas Schippers"
+    },
+    {
+      "year": 1975,
+      "cast": [
+        "Harry Theyard",
+        "Beverly Sills",
+        "Shirley Verrett",
+        "Justino Díaz"
+      ],
+      "conductor": "Thomas Schippers"
+    },
+    {
+      "year": 1992,
+      "cast": [
+        "Dano Raffanti",
+        "Luciana Serra",
+        "Maurizio Comencini",
+        "Marcello Lippi"
+      ],
+      "conductor": "Paolo Olmi"
+    },
+    {
+      "year": 2000,
+      "cast": [
+        "Stephen Mark Brown",
+        "Ruth Ann Swenson",
+        "Giuseppe Filianoti",
+        "Michele Pertusi"
+      ],
+      "conductor": "Maurizio Benini"
+    },
+    {
+      "year": 2010,
+      "cast": [
+        "Marc Sala",
+        "Majella Cullagh",
+        "Michael Spyres",
+        "Lorenzo Regazzo"
+      ],
+      "conductor": "Jean-Luc Tingaud"
+    }
+  ]
+}

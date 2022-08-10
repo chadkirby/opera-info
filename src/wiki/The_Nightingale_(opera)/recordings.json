@@ -1,0 +1,44 @@
+{
+  "html": "<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>The Nightingale,<br>The Emperor,<br>The Cook,<br>Death,<br>The Bonze,<br>The Fisherman,<br>The Chamberlain\n</th>\n<th>Conductor,<br>Orchestra and Chorus\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1990\n</td>\n<td>Phyllis Bryn Julson,<br><a href=\"/wiki/Neil_Howlett\" title=\"Neil Howlett\">Neil Howlett</a>,<br><a href=\"/wiki/Felicity_Palmer\" title=\"Felicity Palmer\">Felicity Palmer</a>,<br><a href=\"/wiki/Elizabeth_Laurence\" title=\"Elizabeth Laurence\">Elizabeth Laurence</a>,<br>Michael George,<br>Ian Caley,<br><a href=\"/wiki/John_Tomlinson_(bass)\" title=\"John Tomlinson (bass)\">John Tomlinson</a>\n</td>\n\n<td>Audio CD: <a href=\"/wiki/Erato_Records\" title=\"Erato Records\">Erato Disques</a><br>Cat: 4509-98955-2 (plus other pieces)<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup>\n</td></tr>\n<tr>\n<td>1997\n</td>\n<td>Olga Trifonova,<br>Paul Whelan,<br>Pippa Longworth,<br>Sally Burgess,<br>Andrew Greenan,<br>Robert Tear,<br><span class=\"nowrap\">Stephen Richardson</span>\n</td>\n\n<td>Audio CD: Naxos,<br>Cat: 8557501<br>plus <i><a href=\"/wiki/The_Rite_of_Spring\" title=\"The Rite of Spring\">The Rite of Spring</a></i><sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup>\n</td></tr>\n<tr>\n<td>1999\n</td>\n<td><a href=\"/wiki/Natalie_Dessay\" title=\"Natalie Dessay\">Natalie Dessay</a>,<br><a href=\"/wiki/Albert_Schagidullin\" title=\"Albert Schagidullin\">Albert Schagidullin</a>,<br><a href=\"/wiki/Marie_McLaughlin\" title=\"Marie McLaughlin\">Marie McLaughlin</a>,<br><a href=\"/wiki/Violeta_Urmana\" title=\"Violeta Urmana\">Violeta Urmana</a>,<br>Maxime Mikhailov,<br>Vsevolod Grivnov,<br><a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a>\n</td>\n\n<td>Audio CD: <a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a><br>Cat: 7243 5 56874 2 5<br>plus <i><a href=\"/wiki/Renard_(Stravinsky)\" title=\"Renard (Stravinsky)\">Renard</a></i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1990,
+      "cast": [
+        "Phyllis Bryn Julson",
+        "Neil Howlett",
+        "Felicity Palmer",
+        "Elizabeth Laurence",
+        "Michael George",
+        "Ian Caley",
+        "John Tomlinson"
+      ],
+      "conductor": "Pierre Boulez"
+    },
+    {
+      "year": 1997,
+      "cast": [
+        "Olga Trifonova",
+        "Paul Whelan",
+        "Pippa Longworth",
+        "Sally Burgess",
+        "Andrew Greenan",
+        "Robert Tear",
+        "Stephen Richardson"
+      ],
+      "conductor": "Robert Craft"
+    },
+    {
+      "year": 1999,
+      "cast": [
+        "Natalie Dessay",
+        "Albert Schagidullin",
+        "Marie McLaughlin",
+        "Violeta Urmana",
+        "Maxime Mikhailov",
+        "Vsevolod Grivnov",
+        "Laurent Naouri"
+      ],
+      "conductor": "James Conlon"
+    }
+  ]
+}

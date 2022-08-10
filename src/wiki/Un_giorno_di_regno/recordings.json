@@ -1,0 +1,50 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast (Belfiore,<br>Kelbar,<br>Marchesa,<br>Giulietta,<br>Edoardo)\n</th>\n<th>Conductor,<br>orchestra and chorus\n</th>\n<th>Label<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\">[19]</a></sup>\n</th></tr>\n<tr>\n<td>1951</td>\n<td><a href=\"/wiki/Renato_Capecchi\" title=\"Renato Capecchi\">Renato Capecchi</a>,<br><a href=\"/wiki/Sesto_Bruscantini\" title=\"Sesto Bruscantini\">Sesto Bruscantini</a>,<br><a href=\"/wiki/Lina_Pagliughi\" title=\"Lina Pagliughi\">Lina Pagliughi</a>,<br>Laura Cozzi,<br><a href=\"/wiki/Juan_Oncina\" title=\"Juan Oncina\">Juan Oncina</a></td>\n\n<td>CD: Warner-Fonit<br>Cat: 8573-82664-2<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td>1973</td>\n<td><a href=\"/wiki/Ingvar_Wixell\" title=\"Ingvar Wixell\">Ingvar Wixell</a>,<br><a href=\"/wiki/Wladimiro_Ganzarolli\" title=\"Wladimiro Ganzarolli\">Wladimiro Ganzarolli</a>,<br><a href=\"/wiki/Fiorenza_Cossotto\" title=\"Fiorenza Cossotto\">Fiorenza Cossotto</a>,<br><a href=\"/wiki/Jessye_Norman\" title=\"Jessye Norman\">Jessye Norman</a>,<br><a href=\"/wiki/Jos%C3%A9_Carreras\" title=\"José Carreras\">José Carreras</a></td>\n\n<td>CD: <a href=\"/wiki/Philips\" title=\"Philips\">Philips</a> <br>Cat: 422429\n</td></tr>\n<tr>\n<td>2010</td>\n<td>Guido Loconsolo,<br>Andrea Porta,<br><a href=\"/wiki/Anna_Caterina_Antonacci\" title=\"Anna Caterina Antonacci\">Anna Caterina Antonacci</a>,<br><a href=\"/wiki/Alessandra_Marianelli\" title=\"Alessandra Marianelli\">Alessandra Marianelli</a>,<br>Ivan Magri, <br><a href=\"/wiki/Paolo_Bordogna\" title=\"Paolo Bordogna\">Paolo Bordogna</a></td>\n\n<td>DVD (Blu-ray, PAL): Unitel Classica<br>Cat: 720304\n</td></tr>\n<tr>\n<td>2013</td>\n<td>Mikheil Kiria,<br>Simone Alberti,<br>Alice Quintavalla,<br>Angela Nisi,<br><a href=\"/wiki/Marco_Frusoni\" title=\"Marco Frusoni\">Marco Frusoni</a></td>\n\n<td>CD: Tactus<br>Cat: TC812290\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1951,
+      "cast": [
+        "Renato Capecchi",
+        "Sesto Bruscantini",
+        "Lina Pagliughi",
+        "Laura Cozzi",
+        "Juan Oncina"
+      ],
+      "conductor": "Alfredo Simonetto"
+    },
+    {
+      "year": 1973,
+      "cast": [
+        "Ingvar Wixell",
+        "Wladimiro Ganzarolli",
+        "Fiorenza Cossotto",
+        "Jessye Norman",
+        "José Carreras"
+      ],
+      "conductor": "Lamberto Gardelli"
+    },
+    {
+      "year": 2010,
+      "cast": [
+        "Guido Loconsolo",
+        "Andrea Porta",
+        "Anna Caterina Antonacci",
+        "Alessandra Marianelli",
+        "Ivan Magri, ",
+        "Paolo Bordogna"
+      ],
+      "conductor": "Donato Renzetti"
+    },
+    {
+      "year": 2013,
+      "cast": [
+        "Mikheil Kiria",
+        "Simone Alberti",
+        "Alice Quintavalla",
+        "Angela Nisi",
+        "Marco Frusoni"
+      ],
+      "conductor": "Gabriele Bonolis"
+    }
+  ]
+}

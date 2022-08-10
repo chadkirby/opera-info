@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-score_1-1\" class=\"reference\"><a href=\"#cite_note-score-1\">[1]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-score_1-2\" class=\"reference\"><a href=\"#cite_note-score-1\">[1]</a></sup>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup> 6 December 1846<br>Conductor: Hector&nbsp;Berlioz\n</th></tr>\n<tr>\n<td>Marguerite, <i>a young woman</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Faust, <i>an aging scholar</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Méphistophélès, <i>the Devil disguised as a gentleman</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a> or <a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a><sup id=\"cite_ref-score_1-3\" class=\"reference\"><a href=\"#cite_note-score-1\">[1]</a></sup><sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[14]</a></sup>\n</td>\n</tr>\n<tr>\n<td>Brander, <i>a student</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Peasants, gnomes and sylphs, soldiers and students, demons and the damned, celestial spirits</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Marguerite, a young woman",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Faust, an aging scholar",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Méphistophélès, the Devil disguised as a gentleman",
+      "voiceType": "baritone or bass"
+    },
+    {
+      "role": "Brander, a student",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Peasants, gnomes and sylphs, soldiers and students, demons and the damned, celestial spirits",
+      "voiceType": ""
+    }
+  ]
+}

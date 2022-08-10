@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<br>6 February 1813<br>(Conductor: -)\n</th></tr>\n<tr>\n<td>Tancredi, <i>an exiled Syracusan soldier</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Amenaide, <i>the daughter of a noble family, in love with Tancredi</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Argirio, <i>father of Amenaide; head of his family, at war with the family of Orbazzano</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Orbazzano, <i>the head of his noble family, at war with the family of Argirio</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Isaura, <i>friend to Amenaide</i>\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Roggiero, <i>Tancredi's squire</i>\n</td>\n<td>mezzo-soprano or tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Knights, nobles, squires, Syracusans, Saracens; ladies-in-waiting, warriors, pages, guards, etc</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Tancredi, an exiled Syracusan soldier",
+      "voiceType": "contralto or mezzo-soprano"
+    },
+    {
+      "role": "Amenaide, the daughter of a noble family, in love with Tancredi",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Argirio, father of Amenaide; head of his family, at war with the family of Orbazzano",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Orbazzano, the head of his noble family, at war with the family of Argirio",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Isaura, friend to Amenaide",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Roggiero, Tancredi's squire",
+      "voiceType": "mezzo-soprano or tenor"
+    },
+    {
+      "role": "Knights, nobles, squires, Syracusans, Saracens; ladies-in-waiting, warriors, pages, guards, etc",
+      "voiceType": ""
+    }
+  ]
+}

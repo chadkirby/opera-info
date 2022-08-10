@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premier cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[6]</a></sup><br>10 May 1907<br>(conductor: <a href=\"/wiki/Fran%C3%A7ois_Ruhlmann\" title=\"François Ruhlmann\">François Ruhlmann</a>)\n</th></tr>\n<tr>\n<td>Ariane\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>La nourrice (Nurse)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Barbe-bleue (Bluebeard)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Sélysette, <i>one of Bluebeard's wives</i>\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Ygraine, <i>one of Bluebeard's wives</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mélisande, <i>one of Bluebeard's wives</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Bellangère, <i>one of Bluebeard's wives</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Alladine, <i>one of Bluebeard's wives</i>\n</td>\n<td>mime\n</td>\n</tr>\n<tr>\n<td>An Old Peasant\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>2nd Peasant\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>3rd Peasant\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>Peasants</i>, <i>Crowd</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Ariane",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "La nourrice (Nurse)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Barbe-bleue (Bluebeard)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sélysette, one of Bluebeard's wives",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Ygraine, one of Bluebeard's wives",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mélisande, one of Bluebeard's wives",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Bellangère, one of Bluebeard's wives",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Alladine, one of Bluebeard's wives",
+      "voiceType": "mime"
+    },
+    {
+      "role": "An Old Peasant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "2nd Peasant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "3rd Peasant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Peasants, Crowd",
+      "voiceType": ""
+    }
+  ]
+}

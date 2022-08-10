@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Die Walküre",
+  "displaytitle": "<i>Die Walküre</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q324319",
+  "titles": {
+    "canonical": "Die_Walküre",
+    "normalized": "Die Walküre",
+    "display": "<i>Die Walküre</i>"
+  },
+  "pageid": 49508,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Victor_Angerer_-_Josef_Hoffmann%27s_%2804-14%29_Hunding-Saal.jpg/320px-Victor_Angerer_-_Josef_Hoffmann%27s_%2804-14%29_Hunding-Saal.jpg",
+    "width": 320,
+    "height": 247
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Victor_Angerer_-_Josef_Hoffmann%27s_%2804-14%29_Hunding-Saal.jpg",
+    "width": 2765,
+    "height": 2137
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102337036",
+  "tid": "ed91a2d0-1405-11ed-853a-2dd4c12767c2",
+  "timestamp": "2022-08-04T14:58:37Z",
+  "description": "Music drama by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_Walk%C3%BCre",
+      "revisions": "https://en.wikipedia.org/wiki/Die_Walk%C3%BCre?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_Walk%C3%BCre?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_Walk%C3%BCre"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_Walk%C3%BCre",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_Walk%C3%BCre",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_Walk%C3%BCre?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_Walk%C3%BCre"
+    }
+  },
+  "extract": "Die Walküre, WWV 86B, is the second of the four music dramas that constitute Richard Wagner's Der Ring des Nibelungen. It was performed, as a single opera, at the National Theatre Munich on 26 June 1870, and received its first performance as part of the Ring cycle at the Bayreuth Festspielhaus on 14 August 1876.",
+  "extract_html": "<p><b><span><i lang=\"de\">Die Walküre</i></span></b>, WWV 86B, is the second of the four music dramas that constitute Richard Wagner's <i>Der Ring des Nibelungen</i>. It was performed, as a single opera, at the National Theatre Munich on 26 June 1870, and received its first performance as part of the <i>Ring</i> cycle at the Bayreuth Festspielhaus on 14 August 1876.</p>"
+}

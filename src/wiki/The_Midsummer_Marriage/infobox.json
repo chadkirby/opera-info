@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">The Midsummer Marriage</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Michael_Tippett\" title=\"Michael Tippett\">Michael Tippett</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Tippett</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i><a href=\"/wiki/The_Magic_Flute\" title=\"The Magic Flute\">The Magic Flute</a></i><br>by <a href=\"/wiki/Wolfgang_Amadeus_Mozart\" title=\"Wolfgang Amadeus Mozart\">Mozart</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">27&nbsp;January&nbsp;1955<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1955-01-27</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Covent Garden</a>, London</div></div></td></tr></tbody></table>",
+  "titles": [
+    "The Midsummer Marriage"
+  ],
+  "Librettist": "Tippett",
+  "Language": "English",
+  "Based on": "The Magic Flute\nby Mozart",
+  "Premiere": "27 January 1955\nCovent Garden, London"
+}

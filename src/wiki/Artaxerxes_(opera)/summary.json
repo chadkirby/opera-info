@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Artaxerxes (opera)",
+  "displaytitle": "<i>Artaxerxes</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q384482",
+  "titles": {
+    "canonical": "Artaxerxes_(opera)",
+    "normalized": "Artaxerxes (opera)",
+    "display": "<i>Artaxerxes</i> (opera)"
+  },
+  "pageid": 24535605,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Vestris_as_Artaxerxes.jpg/224px-Vestris_as_Artaxerxes.jpg",
+    "width": 224,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vestris_as_Artaxerxes.jpg",
+    "width": 374,
+    "height": 533
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102635164",
+  "tid": "d3af7f00-15f8-11ed-9b1f-733fdd3c1f1e",
+  "timestamp": "2022-08-06T02:59:25Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Artaxerxes_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Artaxerxes_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Artaxerxes_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Artaxerxes_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Artaxerxes_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Artaxerxes_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Artaxerxes_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Artaxerxes_(opera)"
+    }
+  },
+  "extract": "Artaxerxes is an opera in three acts composed by Thomas Arne set to an English adaptation of Metastasio's 1729 libretto Artaserse. The first English opera seria, Artaxerxes premiered on 2 February 1762 at the Theatre Royal, Covent Garden, and continued to be regularly performed until the late 1830s. Its plot is loosely based on the historical figure, Artaxerxes I who succeeded his father Xerxes I after his assassination by Artabanus.",
+  "extract_html": "<p><i><b>Artaxerxes</b></i> is an opera in three acts composed by Thomas Arne set to an English adaptation of Metastasio's 1729 libretto <i>Artaserse</i>. The first English <i>opera seria</i>, <i>Artaxerxes</i> premiered on 2 February 1762 at the Theatre Royal, Covent Garden, and continued to be regularly performed until the late 1830s. Its plot is loosely based on the historical figure, Artaxerxes I who succeeded his father Xerxes I after his assassination by Artabanus.</p>"
+}

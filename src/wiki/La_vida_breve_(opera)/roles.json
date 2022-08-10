@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-oper_2-0\" class=\"reference\"><a href=\"#cite_note-oper-2\">[2]</a></sup>\n</th>\n<th>Voice type<sup id=\"cite_ref-oper_2-1\" class=\"reference\"><a href=\"#cite_note-oper-2\">[2]</a></sup>\n</th>\n<th>Premiere Cast, 1 April 1913<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup><br>(Conductor: <a href=\"/w/index.php?title=Jacques_Miranne&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Jacques Miranne (page does not exist)\">Jacques Miranne</a>)\n</th></tr>\n<tr>\n<td>Salud, a gypsy\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>La abuela (Salud's grandmother)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Paco\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Tío Sarvaor (Salvador, Salud's uncle)\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Carmela, the bride\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Manuel, the bride's brother\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Cantaor (Cantador, singer at the wedding)&nbsp;&nbsp;\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>First saleswoman\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Second saleswoman\n</td>\n<td>mezzo-soprano&nbsp;&nbsp;\n</td>\n</tr>\n<tr>\n<td>Salesman\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Solo voice in forge chorus\n</td>\n<td>tenor\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Salud, a gypsy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "La abuela (Salud's grandmother)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Paco",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Tío Sarvaor (Salvador, Salud's uncle)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Carmela, the bride",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Manuel, the bride's brother",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Cantaor (Cantador, singer at the wedding)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "First saleswoman",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Second saleswoman",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Salesman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Solo voice in forge chorus",
+      "voiceType": "tenor"
+    }
+  ]
+}

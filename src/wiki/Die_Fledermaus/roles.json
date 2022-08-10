@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 5 April 1874<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Johann Strauss II<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup>\n</th></tr>\n<tr>\n<td>Gabriel von Eisenstein\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>/<a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Rosalinde, <i>Eisenstein's wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Adele, <i>Rosalinde's maid</i>\n</td>\n<td>coloratura soprano\n</td>\n</tr>\n<tr>\n<td>Ida, <i>Adele's sister</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Alfred, <i>a singer-teacher</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Dr Falke, <i>a notary</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Dr Blind, <i>a lawyer</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Frank, <i>a prison governor</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Prince Orlofsky, <i>a Russian prince</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Yvan, <i>the prince's valet</i>\n</td>\n<td>speaking role\n</td>\n</tr>\n<tr>\n<td>Frosch, <i>a jailer</i>\n</td>\n<td>speaking role\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Party-goers and servants at Prince Orlofsky's (chorus)</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Gabriel von Eisenstein",
+      "voiceType": "tenor/baritone"
+    },
+    {
+      "role": "Rosalinde, Eisenstein's wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Adele, Rosalinde's maid",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Ida, Adele's sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Alfred, a singer-teacher",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dr Falke, a notary",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Dr Blind, a lawyer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frank, a prison governor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Prince Orlofsky, a Russian prince",
+      "voiceType": "mezzo-soprano (en travesti)"
+    },
+    {
+      "role": "Yvan, the prince's valet",
+      "voiceType": "speaking role"
+    },
+    {
+      "role": "Frosch, a jailer",
+      "voiceType": "speaking role"
+    },
+    {
+      "role": "Party-goers and servants at Prince Orlofsky's (chorus)",
+      "voiceType": ""
+    }
+  ]
+}

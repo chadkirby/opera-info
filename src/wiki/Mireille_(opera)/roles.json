@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\">[33]</a></sup>\n</th>\n<th>Premiere Cast,<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\">[34]</a></sup> <span class=\"nowrap\">19 March 1864</span><br>(Conductor: <a href=\"/wiki/Adolphe_Deloffre\" title=\"Adolphe Deloffre\">Adolphe Deloffre</a>)\n</th></tr>\n<tr>\n<td>Mireille\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Vincent, <i>her lover</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Ourrias, <i>a bull-tender</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Maître Ramon, <i>father of Mireille</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Taven, <i>an old woman</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Vincenette, <i>Vincent's sister</i>\n</td>\n<td>soprano<sup id=\"cite_ref-35\" class=\"reference\"><a href=\"#cite_note-35\">[35]</a></sup>\n</td>\n</tr>\n<tr>\n<td>Andreloun, <i>a shepherd</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Maître Ambroise, <i>father of Vincent</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Clémence, <i>a friend of Mireille</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A ferryman\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Mulberry gatherers, townspeople, friends of Ourrias, spirits of the Rhône, farmhands, pilgrims</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Mireille",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Vincent, her lover",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ourrias, a bull-tender",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Maître Ramon, father of Mireille",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Taven, an old woman",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Vincenette, Vincent's sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Andreloun, a shepherd",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Maître Ambroise, father of Vincent",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Clémence, a friend of Mireille",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A ferryman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mulberry gatherers, townspeople, friends of Ourrias, spirits of the Rhône, farmhands, pilgrims",
+      "voiceType": ""
+    }
+  ]
+}

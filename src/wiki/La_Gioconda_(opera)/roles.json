@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 8 April 1876<br>(Conductor: <a href=\"/wiki/Franco_Faccio\" title=\"Franco Faccio\">Franco Faccio</a>)\n</th></tr>\n<tr>\n<td>Gioconda, <i>a singer</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Laura Adorno, <i>a Genoese lady</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>La Cieca, <i>Gioconda's mother</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Enzo Grimaldo, <i>a Genoese prince, disguised as a Dalmatian seaman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Barnaba, <i>spy of the Inquisition</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Alvise Badoero, <i>one of the leaders of the Inquisition, Laura's husband</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Zuàne, <i>a boatman competing in the regatta</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Isèpo, <i>a scribe</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>A singer\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>A pilot\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Workers, senators, priests, nobles, sailors, children</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Gioconda, a singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Laura Adorno, a Genoese lady",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "La Cieca, Gioconda's mother",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Enzo Grimaldo, a Genoese prince, disguised as a Dalmatian seaman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Barnaba, spy of the Inquisition",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Alvise Badoero, one of the leaders of the Inquisition, Laura's husband",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Zuàne, a boatman competing in the regatta",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Isèpo, a scribe",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A singer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A pilot",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Workers, senators, priests, nobles, sailors, children",
+      "voiceType": ""
+    }
+  ]
+}

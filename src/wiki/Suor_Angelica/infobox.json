@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Suor Angelica</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\">One-act opera, <span class=\"nowrap\">part of <i><a href=\"/wiki/Il_trittico\" title=\"Il trittico\">Il trittico</a></i></span> by <a href=\"/wiki/Giacomo_Puccini\" title=\"Giacomo Puccini\">Giacomo Puccini</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:SuorAngelica-poster.gif\" class=\"image\"><img alt=\"SuorAngelica-poster.gif\" src=\"//upload.wikimedia.org/wikipedia/commons/3/32/SuorAngelica-poster.gif\" decoding=\"async\" width=\"170\" height=\"244\" data-file-width=\"170\" data-file-height=\"244\"></a><div class=\"infobox-caption\">Poster, 1918</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Giovacchino_Forzano\" title=\"Giovacchino Forzano\">Giovacchino Forzano</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">14&nbsp;December&nbsp;1918<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1918-12-14</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Metropolitan_Opera\" title=\"Metropolitan Opera\">Metropolitan Opera</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Suor Angelica"
+  ],
+  "Librettist": "Giovacchino Forzano",
+  "Language": "Italian",
+  "Premiere": "14 December 1918\nMetropolitan Opera"
+}

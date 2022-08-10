@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 16&nbsp;February&nbsp;1892<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup><br>(Conductor: <a href=\"/wiki/Wilhelm_Jahn\" title=\"Wilhelm Jahn\">Wilhelm Jahn</a>)\n</th></tr>\n<tr>\n<td>Charlotte, <i>aged 20</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Sophie, <i>her sister, aged 15</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Werther, <i>a young poet, aged 23</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Albert, <i>betrothed to Charlotte; aged 25</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Le Bailli, <i>Charlotte's father; aged 50</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Schmidt, <i>a friend of the Bailli</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Johann, <i>a friend of the Bailli</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Brühlmann, <i>a young man</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Käthchen, <i>Brühlmann's fiancée of seven years</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Children of the Bailli – Fritz, Max, Hans, Karl, Gretel, Clara\n</td>\n<td>children's voices\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Inhabitants of Wetzlar, guests, servants; off-stage women's and children's voices</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Charlotte, aged 20",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Sophie, her sister, aged 15",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Werther, a young poet, aged 23",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Albert, betrothed to Charlotte; aged 25",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Le Bailli, Charlotte's father; aged 50",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Schmidt, a friend of the Bailli",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Johann, a friend of the Bailli",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Brühlmann, a young man",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Käthchen, Brühlmann's fiancée of seven years",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Children of the Bailli – Fritz, Max, Hans, Karl, Gretel, Clara",
+      "voiceType": "children's voices"
+    },
+    {
+      "role": "Inhabitants of Wetzlar, guests, servants; off-stage women's and children's voices",
+      "voiceType": ""
+    }
+  ]
+}

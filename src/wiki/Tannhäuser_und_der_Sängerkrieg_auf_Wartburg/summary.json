@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tannhäuser (opera)",
+  "displaytitle": "<i>Tannhäuser</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q560619",
+  "titles": {
+    "canonical": "Tannhäuser_(opera)",
+    "normalized": "Tannhäuser (opera)",
+    "display": "<i>Tannhäuser</i> (opera)"
+  },
+  "pageid": 2223496,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tavola_5%2C_bozzetto_di_Gebr%C3%BCder_Br%C3%BCckner_per_Tannh%C3%A4user_%28s.d.%29_-_Archivio_Storico_Ricordi_ICON011721_-_Restoration%2C_crop.jpg/320px-Tavola_5%2C_bozzetto_di_Gebr%C3%BCder_Br%C3%BCckner_per_Tannh%C3%A4user_%28s.d.%29_-_Archivio_Storico_Ricordi_ICON011721_-_Restoration%2C_crop.jpg",
+    "width": 320,
+    "height": 243
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Tavola_5%2C_bozzetto_di_Gebr%C3%BCder_Br%C3%BCckner_per_Tannh%C3%A4user_%28s.d.%29_-_Archivio_Storico_Ricordi_ICON011721_-_Restoration%2C_crop.jpg",
+    "width": 2770,
+    "height": 2107
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094894769",
+  "tid": "b98e6bd0-11a8-11ed-ac8f-57fee0946bfd",
+  "timestamp": "2022-06-25T06:32:09Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tannh%C3%A4user_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Tannh%C3%A4user_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tannh%C3%A4user_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tannh%C3%A4user_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Tannh%C3%A4user_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tannh%C3%A4user_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Tannh%C3%A4user_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Tannh%C3%A4user_(opera)"
+    }
+  },
+  "extract": "Tannhäuser is an 1845 opera in three acts, with music and text by Richard Wagner. It is based on two German legends: Tannhäuser, the mythologized medieval German Minnesänger and poet, and the tale of the Wartburg Song Contest. The story centres on the struggle between sacred and profane love, as well as redemption through love, a theme running through most of Wagner's work.",
+  "extract_html": "<p><i><b>Tannhäuser</b></i> is an 1845 opera in three acts, with music and text by Richard Wagner. It is based on two German legends: Tannhäuser, the mythologized medieval German Minnesänger and poet, and the tale of the Wartburg Song Contest. The story centres on the struggle between sacred and profane love, as well as redemption through love, a theme running through most of Wagner's work.</p>"
+}

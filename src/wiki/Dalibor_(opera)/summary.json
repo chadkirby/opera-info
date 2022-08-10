@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dalibor (opera)",
+  "displaytitle": "<i>Dalibor</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1157925",
+  "titles": {
+    "canonical": "Dalibor_(opera)",
+    "normalized": "Dalibor (opera)",
+    "display": "<i>Dalibor</i> (opera)"
+  },
+  "pageid": 2022058,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Smetana1854portrait.jpg/265px-Smetana1854portrait.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Smetana1854portrait.jpg",
+    "width": 284,
+    "height": 343
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091293394",
+  "tid": "5f4a5f80-f9b1-11ec-8f1a-afb5d4ec6c89",
+  "timestamp": "2022-06-03T11:11:04Z",
+  "description": "Opera by Bedřich Smetana",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dalibor_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Dalibor_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dalibor_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dalibor_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Dalibor_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dalibor_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Dalibor_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Dalibor_(opera)"
+    }
+  },
+  "extract": "Dalibor is a Czech opera in three acts by Bedřich Smetana. The libretto was written in German by Josef Wenzig, and translated into Czech by Ervin Špindler. It was first performed at the New Town Theatre in Prague on 16 May 1868. The opera received criticism at the time for being overly influenced by German opera, including that of Richard Wagner's Lohengrin.",
+  "extract_html": "<p><i><b>Dalibor</b></i> is a Czech opera in three acts by Bedřich Smetana. The libretto was written in German by Josef Wenzig, and translated into Czech by Ervin Špindler. It was first performed at the New Town Theatre in Prague on 16 May 1868. The opera received criticism at the time for being overly influenced by German opera, including that of Richard Wagner's <i>Lohengrin</i>.</p>"
+}

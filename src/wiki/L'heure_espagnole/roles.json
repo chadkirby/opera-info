@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<br>19 May 1911<br>(Conductor: <a href=\"/wiki/Fran%C3%A7ois_Ruhlmann\" title=\"François Ruhlmann\">François Ruhlmann</a>)\n</th></tr>\n<tr>\n<td>Torquemada, <i>a clockmaker</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a><sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup>\n</td>\n</tr>\n<tr>\n<td>Concepción, <i>Torquemada's wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Gonzalve, <i>a student poet</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Ramiro, <i>a muleteer</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Don Iñigo Gomez, <i>a banker</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Torquemada, a clockmaker",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Concepción, Torquemada's wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Gonzalve, a student poet",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ramiro, a muleteer",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Don Iñigo Gomez, a banker",
+      "voiceType": "bass"
+    }
+  ]
+}

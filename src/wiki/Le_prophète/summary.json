@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Le prophète",
+  "displaytitle": "<i>Le prophète</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q263297",
+  "titles": {
+    "canonical": "Le_prophète",
+    "normalized": "Le prophète",
+    "display": "<i>Le prophète</i>"
+  },
+  "pageid": 4992824,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Le_proph%C3%A8te_Act4_sc2_1849_-_NGO3p1147.jpg/320px-Le_proph%C3%A8te_Act4_sc2_1849_-_NGO3p1147.jpg",
+    "width": 320,
+    "height": 262
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Le_proph%C3%A8te_Act4_sc2_1849_-_NGO3p1147.jpg",
+    "width": 1820,
+    "height": 1491
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1078589909",
+  "tid": "d2273150-15f8-11ed-8f93-ebddcc90bd52",
+  "timestamp": "2022-03-22T09:31:41Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Le_proph%C3%A8te",
+      "revisions": "https://en.wikipedia.org/wiki/Le_proph%C3%A8te?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Le_proph%C3%A8te?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Le_proph%C3%A8te"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Le_proph%C3%A8te",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Le_proph%C3%A8te",
+      "edit": "https://en.m.wikipedia.org/wiki/Le_proph%C3%A8te?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Le_proph%C3%A8te"
+    }
+  },
+  "extract": "Le prophète is a grand opera in five acts by Giacomo Meyerbeer, which was premiered in Paris on 16 April 1849. The French-language libretto was by Eugène Scribe and Émile Deschamps, after passages from the Essay on the Manners and Spirit of Nations by Voltaire. The plot is based on the life of John of Leiden, Anabaptist leader and self-proclaimed \"King of Münster\" in the 16th century.",
+  "extract_html": "<p><i><b>Le prophète</b></i> is a grand opera in five acts by Giacomo Meyerbeer, which was premiered in Paris on 16 April 1849. The French-language libretto was by Eugène Scribe and Émile Deschamps, after passages from the <i>Essay on the Manners and Spirit of Nations</i> by Voltaire. The plot is based on the life of John of Leiden, Anabaptist leader and self-proclaimed \"King of Münster\" in the 16th century.</p>"
+}

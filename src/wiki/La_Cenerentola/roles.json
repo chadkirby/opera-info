@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 25 January 1817<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Gioachino Rossini\n</th></tr>\n<tr>\n<td>Angelina (Cenerentola, <a href=\"/wiki/Cinderella\" title=\"Cinderella\">Cinderella</a>)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Don Ramiro, <i>Prince of Salerno</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Dandini_(character)\" title=\"Dandini (character)\">Dandini</a>, <i>valet to the Prince</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Don Magnifico, <i>Baron of Montefiascone and Cenerentola's stepfather</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Alidoro, <i>philosopher and the Prince's former tutor</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Clorinda, <i>Don Magnifico's elder daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Tisbe, <i>Don Magnifico's younger daughter</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td><i>Courtiers from Prince Ramiro's palace</i>\n</td>\n<td colspan=\"2\">tenors, basses\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Angelina (Cenerentola, Cinderella)",
+      "voiceType": "contralto or mezzo-soprano"
+    },
+    {
+      "role": "Don Ramiro, Prince of Salerno",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dandini, valet to the Prince",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Don Magnifico, Baron of Montefiascone and Cenerentola's stepfather",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Alidoro, philosopher and the Prince's former tutor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Clorinda, Don Magnifico's elder daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Tisbe, Don Magnifico's younger daughter",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Courtiers from Prince Ramiro's palace",
+      "voiceType": "tenors, basses"
+    }
+  ]
+}

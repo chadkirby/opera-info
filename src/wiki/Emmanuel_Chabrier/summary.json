@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Emmanuel Chabrier",
+  "displaytitle": "Emmanuel Chabrier",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313374",
+  "titles": {
+    "canonical": "Emmanuel_Chabrier",
+    "normalized": "Emmanuel Chabrier",
+    "display": "Emmanuel Chabrier"
+  },
+  "pageid": 901465,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Emmanuel_Chabrier.jpg/320px-Emmanuel_Chabrier.jpg",
+    "width": 320,
+    "height": 279
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Emmanuel_Chabrier.jpg",
+    "width": 491,
+    "height": 428
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102623613",
+  "tid": "dbd25a90-1526-11ed-82d2-0d03bd6994f8",
+  "timestamp": "2022-08-06T01:26:53Z",
+  "description": "French Romantic composer and pianist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Emmanuel_Chabrier",
+      "revisions": "https://en.wikipedia.org/wiki/Emmanuel_Chabrier?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Emmanuel_Chabrier?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Emmanuel_Chabrier"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Emmanuel_Chabrier",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Emmanuel_Chabrier",
+      "edit": "https://en.m.wikipedia.org/wiki/Emmanuel_Chabrier?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Emmanuel_Chabrier"
+    }
+  },
+  "extract": "Alexis-Emmanuel Chabrier was a French Romantic composer and pianist. His bourgeois family did not approve of a musical career for him, and he studied law in Paris and then worked as a civil servant until the age of thirty-nine while immersing himself in the modernist artistic life of the French capital and composing in his spare time. From 1880 until his final illness he was a full-time composer.",
+  "extract_html": "<p><b>Alexis-Emmanuel Chabrier</b> was a French Romantic composer and pianist. His bourgeois family did not approve of a musical career for him, and he studied law in Paris and then worked as a civil servant until the age of thirty-nine while immersing himself in the modernist artistic life of the French capital and composing in his spare time. From 1880 until his final illness he was a full-time composer.</p>"
+}

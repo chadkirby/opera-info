@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Agrippina (opera)",
+  "displaytitle": "<i>Agrippina</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q397041",
+  "titles": {
+    "canonical": "Agrippina_(opera)",
+    "normalized": "Agrippina (opera)",
+    "display": "<i>Agrippina</i> (opera)"
+  },
+  "pageid": 1257935,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Frontespizio_Agrippina.JPG/167px-Frontespizio_Agrippina.JPG",
+    "width": 167,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Frontespizio_Agrippina.JPG",
+    "width": 1580,
+    "height": 3024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102757009",
+  "tid": "d27689d0-15f8-11ed-a54a-d3cfca40e41a",
+  "timestamp": "2022-08-06T18:48:51Z",
+  "description": "1709 opera seria by G. F. Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Agrippina_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Agrippina_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Agrippina_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Agrippina_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Agrippina_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Agrippina_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Agrippina_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Agrippina_(opera)"
+    }
+  },
+  "extract": "Agrippina is an opera seria in three acts by George Frideric Handel with a libretto by Cardinal Vincenzo Grimani. Composed for the 1709–10 Venice Carnevale season, the opera tells the story of Agrippina, the mother of Nero, as she plots the downfall of the Roman Emperor Claudius and the installation of her son as emperor. Grimani's libretto, considered one of the best that Handel set, is an \"anti-heroic satirical comedy\", full of topical political allusions. Some analysts believe that it reflects Grimani's political and diplomatic rivalry with Pope Clement XI.",
+  "extract_html": "<p><i><b>Agrippina</b></i> is an <i>opera seria</i> in three acts by George Frideric Handel with a libretto by Cardinal Vincenzo Grimani. Composed for the <span class=\"nowrap\">1709–10</span> Venice <span><i>Carnevale</i></span> season, the opera tells the story of Agrippina, the mother of Nero, as she plots the downfall of the Roman Emperor Claudius and the installation of her son as emperor. Grimani's libretto, considered one of the best that Handel set, is an \"anti-heroic satirical comedy\", full of topical political allusions. Some analysts believe that it reflects Grimani's political and diplomatic rivalry with Pope Clement XI.</p>"
+}

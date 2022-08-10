@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Semiramide",
+  "displaytitle": "<i>Semiramide</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q900744",
+  "titles": {
+    "canonical": "Semiramide",
+    "normalized": "Semiramide",
+    "display": "<i>Semiramide</i>"
+  },
+  "pageid": 356925,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rossini_-_Semiramide_-_Paris_1825_-_Hippolyte_Lecomte_-_Semiramis_1er_Costume_%28Mdme_Fodor%29_%28cropped%29.jpg/237px-Rossini_-_Semiramide_-_Paris_1825_-_Hippolyte_Lecomte_-_Semiramis_1er_Costume_%28Mdme_Fodor%29_%28cropped%29.jpg",
+    "width": 237,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rossini_-_Semiramide_-_Paris_1825_-_Hippolyte_Lecomte_-_Semiramis_1er_Costume_%28Mdme_Fodor%29_%28cropped%29.jpg",
+    "width": 621,
+    "height": 837
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1027751156",
+  "tid": "f1f65b50-0063-11ed-8034-a3f0558548fc",
+  "timestamp": "2021-06-09T19:47:46Z",
+  "description": "1823 opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Semiramide",
+      "revisions": "https://en.wikipedia.org/wiki/Semiramide?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Semiramide?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Semiramide"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Semiramide",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Semiramide",
+      "edit": "https://en.m.wikipedia.org/wiki/Semiramide?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Semiramide"
+    }
+  },
+  "extract": "Semiramide is an opera in two acts by Gioachino Rossini.\nThe libretto by Gaetano Rossi is based on Voltaire's tragedy Semiramis, which in turn was based on the legend of Semiramis of Assyria. The opera was first performed at La Fenice in Venice on 3 February 1823.",
+  "extract_html": "<p><i><b>Semiramide</b></i> is an opera in two acts by Gioachino Rossini.\nThe libretto by Gaetano Rossi is based on Voltaire's tragedy <i>Semiramis</i>, which in turn was based on the legend of Semiramis of Assyria. The opera was first performed at La Fenice in Venice on 3 February 1823.</p>"
+}

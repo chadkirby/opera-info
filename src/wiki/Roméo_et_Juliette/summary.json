@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Roméo et Juliette",
+  "displaytitle": "<i>Roméo et Juliette</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q918714",
+  "titles": {
+    "canonical": "Roméo_et_Juliette",
+    "normalized": "Roméo et Juliette",
+    "display": "<i>Roméo et Juliette</i>"
+  },
+  "pageid": 1421245,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rom%C3%A9o_et_Juliette_%28Gounod%29_Act2_London_1867_%28Patti%2C_Mario%29_NGO4p32.jpg/200px-Rom%C3%A9o_et_Juliette_%28Gounod%29_Act2_London_1867_%28Patti%2C_Mario%29_NGO4p32.jpg",
+    "width": 200,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Rom%C3%A9o_et_Juliette_%28Gounod%29_Act2_London_1867_%28Patti%2C_Mario%29_NGO4p32.jpg",
+    "width": 1132,
+    "height": 1806
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095380061",
+  "tid": "311115c0-11a6-11ed-98df-5db971df3fa0",
+  "timestamp": "2022-06-28T01:30:36Z",
+  "description": "1867 opera by Charles Gounod",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette",
+      "revisions": "https://en.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rom%C3%A9o_et_Juliette"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rom%C3%A9o_et_Juliette",
+      "edit": "https://en.m.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rom%C3%A9o_et_Juliette"
+    }
+  },
+  "extract": "Roméo et Juliette is an opera in five acts by Charles Gounod to a French libretto by Jules Barbier and Michel Carré, based on Romeo and Juliet by William Shakespeare. It was first performed at the Théâtre Lyrique, Paris on 27 April 1867. This opera is notable for the series of four duets for the main characters and the waltz song \"Je veux vivre\" for the soprano.",
+  "extract_html": "<p><i><b>Roméo et Juliette</b></i> is an opera in five acts by Charles Gounod to a French libretto by Jules Barbier and Michel Carré, based on <i>Romeo and Juliet</i> by William Shakespeare. It was first performed at the Théâtre Lyrique, Paris on 27 April 1867. This opera is notable for the series of four duets for the main characters and the waltz song <i>\"Je veux vivre\"</i> for the soprano.</p>"
+}

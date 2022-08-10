@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Le roi malgré lui",
+  "displaytitle": "<i>Le roi malgré lui</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3114555",
+  "titles": {
+    "canonical": "Le_roi_malgré_lui",
+    "normalized": "Le roi malgré lui",
+    "display": "<i>Le roi malgré lui</i>"
+  },
+  "pageid": 3660903,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Th%C3%A9%C3%A2tre_national_de_l%27Op%C3%A9ra-Comique._Le_Roi_malgr%C3%A9_lui._Musique_de_Emmanuel_Chabrier._Affiche_Jules_Ch%C3%A9ret.jpg/235px-Th%C3%A9%C3%A2tre_national_de_l%27Op%C3%A9ra-Comique._Le_Roi_malgr%C3%A9_lui._Musique_de_Emmanuel_Chabrier._Affiche_Jules_Ch%C3%A9ret.jpg",
+    "width": 235,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Th%C3%A9%C3%A2tre_national_de_l%27Op%C3%A9ra-Comique._Le_Roi_malgr%C3%A9_lui._Musique_de_Emmanuel_Chabrier._Affiche_Jules_Ch%C3%A9ret.jpg",
+    "width": 448,
+    "height": 609
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1033694624",
+  "tid": "d0d0f020-15f8-11ed-85b4-6f0b65581aae",
+  "timestamp": "2021-07-15T07:46:40Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Le_roi_malgr%C3%A9_lui",
+      "revisions": "https://en.wikipedia.org/wiki/Le_roi_malgr%C3%A9_lui?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Le_roi_malgr%C3%A9_lui?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Le_roi_malgr%C3%A9_lui"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Le_roi_malgr%C3%A9_lui",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Le_roi_malgr%C3%A9_lui",
+      "edit": "https://en.m.wikipedia.org/wiki/Le_roi_malgr%C3%A9_lui?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Le_roi_malgr%C3%A9_lui"
+    }
+  },
+  "extract": "Le roi malgré lui is an opéra-comique in three acts by Emmanuel Chabrier of 1887 with an original libretto by Emile de Najac and Paul Burani. The opera is revived occasionally, but has not yet found a place in repertory.",
+  "extract_html": "<p><i><b>Le roi malgré lui</b></i> is an opéra-comique in three acts by Emmanuel Chabrier of 1887 with an original libretto by Emile de Najac and Paul Burani. The opera is revived occasionally, but has not yet found a place in repertory.</p>"
+}

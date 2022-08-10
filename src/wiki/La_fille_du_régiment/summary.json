@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La fille du régiment",
+  "displaytitle": "<i>La fille du régiment</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q729568",
+  "titles": {
+    "canonical": "La_fille_du_régiment",
+    "normalized": "La fille du régiment",
+    "display": "<i>La fille du régiment</i>"
+  },
+  "pageid": 38317,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Roles_de_Melle_Borgh%C3%A8se_et_Henri_dans_la_Fille_du_R%C3%A9giment_%28Chronique_des_The%C3%A2tres%2C_1840_-_Gallica_%28adjusted%29%29.jpg/320px-Roles_de_Melle_Borgh%C3%A8se_et_Henri_dans_la_Fille_du_R%C3%A9giment_%28Chronique_des_The%C3%A2tres%2C_1840_-_Gallica_%28adjusted%29%29.jpg",
+    "width": 320,
+    "height": 251
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Roles_de_Melle_Borgh%C3%A8se_et_Henri_dans_la_Fille_du_R%C3%A9giment_%28Chronique_des_The%C3%A2tres%2C_1840_-_Gallica_%28adjusted%29%29.jpg",
+    "width": 2568,
+    "height": 2017
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093339519",
+  "tid": "d07b5610-15f8-11ed-ad8b-f7b8e550413c",
+  "timestamp": "2022-06-16T00:17:30Z",
+  "description": "1840 opéra comique by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_fille_du_r%C3%A9giment",
+      "revisions": "https://en.wikipedia.org/wiki/La_fille_du_r%C3%A9giment?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_fille_du_r%C3%A9giment?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_fille_du_r%C3%A9giment"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_fille_du_r%C3%A9giment",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_fille_du_r%C3%A9giment",
+      "edit": "https://en.m.wikipedia.org/wiki/La_fille_du_r%C3%A9giment?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_fille_du_r%C3%A9giment"
+    }
+  },
+  "extract": "La fille du régiment is an opéra comique in two acts by Gaetano Donizetti, set to a French libretto by Jules-Henri Vernoy de Saint-Georges and Jean-François Bayard. It was first performed on 11 February 1840 by the Paris Opéra-Comique at the Salle de la Bourse.",
+  "extract_html": "<p><i><b><span><i lang=\"fr\">La fille du régiment</i></span></b></i> is an opéra comique in two acts by Gaetano Donizetti, set to a French libretto by Jules-Henri Vernoy de Saint-Georges and Jean-François Bayard. It was first performed on 11 February 1840 by the Paris Opéra-Comique at the Salle de la Bourse.</p>"
+}

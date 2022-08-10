@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast,<br>15 December 1858<br>(Conductor: Franz Liszt)\n</th></tr>\n<tr>\n<td>Nureddin\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Bostana\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Abdul Hassan Ali Ebn Bekar, <i>the barber</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Margiana\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Baba Mustapha, <i>the <a href=\"/wiki/Qadi\" title=\"Qadi\">Cadi</a></i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The <a href=\"/wiki/Caliph\" class=\"mw-redirect\" title=\"Caliph\">Caliph</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>servants of Nureddin, friends of the Cadi, people of Baghdad, mourning women, followers of the Caliph</i>.\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Nureddin",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bostana",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Abdul Hassan Ali Ebn Bekar, the barber",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Margiana",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Baba Mustapha, the Cadi",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Caliph",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chorus: servants of Nureddin, friends of the Cadi, people of Baghdad, mourning women, followers of the Caliph.",
+      "voiceType": ""
+    }
+  ]
+}

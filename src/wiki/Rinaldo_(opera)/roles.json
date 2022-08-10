@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th width=\"300\">Role<br>(in singing order)\n</th>\n<th width=\"100\">Voice type<br> (1711)<sup id=\"cite_ref-D&amp;K181_12-1\" class=\"reference\"><a href=\"#cite_note-D&amp;K181-12\">[12]</a></sup>\n</th>\n<th width=\"350\">Notes\n</th>\n<th width=\"200\">Premiere cast, 24 February 1711<br>Conductor:<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\">[19]</a></sup>\n</th>\n<th width=\"50\">Ref.\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Godfrey_of_Bouillon\" title=\"Godfrey of Bouillon\">Goffredo</a>: <i>leader of the First Crusade. 1096–99</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-0\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Renaud_de_Montauban#Rinaldo_of_Jerusalem_Delivered\" title=\"Renaud de Montauban\">Rinaldo</a>: <i>a nobleman of the House of Este</i>\n</td>\n<td>alto <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-1\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td>Almirena: <i>daughter of Goffredo</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-2\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td>Eustazio: <i>brother to Goffredo</i>\n</td>\n<td>alto castrato\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-3\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup><sup id=\"cite_ref-D&amp;K184_21-0\" class=\"reference\"><a href=\"#cite_note-D&amp;K184-21\">[21]</a></sup>\n</td></tr>\n<tr>\n<td>A herald\n</td>\n<td>tenor\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-4\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td>Argante: <i><a href=\"/wiki/Saracen\" title=\"Saracen\">Saracen</a> king of Jerusalem</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-5\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Armida\" title=\"Armida\">Armida</a>: <i>Queen of Damascus, Argante's mistress</i>\n</td>\n<td>soprano\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-6\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup><sup id=\"cite_ref-22\" class=\"reference\"><a href=\"#cite_note-22\">[22]</a></sup>\n</td></tr>\n<tr>\n<td>Two mermaids\n</td>\n<td>sopranos\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-7\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td>A woman\n</td>\n<td>soprano\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-8\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td>A Christian magician\n</td>\n<td>alto castrato\n</td>\n\n\n<td><sup id=\"cite_ref-D&amp;N_20-9\" class=\"reference\"><a href=\"#cite_note-D&amp;N-20\">[20]</a></sup>\n</td></tr>\n<tr>\n<td>Mermaids, spirits, fairies, officers, guards, attendants\n</td>\n<td>Non-singing parts\n</td>\n\n\n<td>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Goffredo: leader of the First Crusade. 1096–99",
+      "voiceType": "contralto (en travesti)"
+    },
+    {
+      "role": "Rinaldo: a nobleman of the House of Este",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Almirena: daughter of Goffredo",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Eustazio: brother to Goffredo",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "A herald",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Argante: Saracen king of Jerusalem",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Armida: Queen of Damascus, Argante's mistress",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Two mermaids",
+      "voiceType": "sopranos"
+    },
+    {
+      "role": "A woman",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A Christian magician",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Mermaids, spirits, fairies, officers, guards, attendants",
+      "voiceType": "Non-singing parts"
+    }
+  ]
+}

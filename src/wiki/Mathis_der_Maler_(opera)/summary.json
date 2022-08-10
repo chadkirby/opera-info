@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mathis der Maler (opera)",
+  "displaytitle": "<i>Mathis der Maler</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q508290",
+  "titles": {
+    "canonical": "Mathis_der_Maler_(opera)",
+    "normalized": "Mathis der Maler (opera)",
+    "display": "<i>Mathis der Maler</i> (opera)"
+  },
+  "pageid": 1260052,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Grunewald_Self_Portrait.jpg/234px-Grunewald_Self_Portrait.jpg",
+    "width": 234,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Grunewald_Self_Portrait.jpg",
+    "width": 727,
+    "height": 995
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1090955809",
+  "tid": "d0b5c700-15f8-11ed-af21-9b0b0d5f77e9",
+  "timestamp": "2022-06-01T10:33:04Z",
+  "description": "Opera by Paul Hindemith",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mathis_der_Maler_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Mathis_der_Maler_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mathis_der_Maler_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mathis_der_Maler_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Mathis_der_Maler_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mathis_der_Maler_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Mathis_der_Maler_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Mathis_der_Maler_(opera)"
+    }
+  },
+  "extract": "Mathis der Maler is an opera by Paul Hindemith. The work's protagonist, Matthias Grünewald, was a historical figure who flourished during the Reformation, and whose art, in particular the Isenheim Altarpiece, inspired many creative figures in the early 20th century.",
+  "extract_html": "<p><i><b>Mathis der Maler</b></i> is an opera by Paul Hindemith. The work's protagonist, Matthias Grünewald, was a historical figure who flourished during the Reformation, and whose art, in particular the Isenheim Altarpiece, inspired many creative figures in the early 20th century.</p>"
+}

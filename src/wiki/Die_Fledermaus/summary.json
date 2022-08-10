@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Die Fledermaus",
+  "displaytitle": "<i>Die Fledermaus</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q464930",
+  "titles": {
+    "canonical": "Die_Fledermaus",
+    "normalized": "Die Fledermaus",
+    "display": "<i>Die Fledermaus</i>"
+  },
+  "pageid": 46677,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Johann_Strauss_II.jpg/247px-Johann_Strauss_II.jpg",
+    "width": 247,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Johann_Strauss_II.jpg",
+    "width": 350,
+    "height": 454
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086735998",
+  "tid": "8572bf10-1683-11ed-af04-9fd477669cb6",
+  "timestamp": "2022-05-08T01:24:35Z",
+  "description": "Comic operetta in three acts by Johann Strauss II",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_Fledermaus",
+      "revisions": "https://en.wikipedia.org/wiki/Die_Fledermaus?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_Fledermaus?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_Fledermaus"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_Fledermaus",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_Fledermaus",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_Fledermaus?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_Fledermaus"
+    }
+  },
+  "extract": "Die Fledermaus is an operetta composed by Johann Strauss II to a German libretto by Karl Haffner and Richard Genée, which premiered in 1874.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Die Fledermaus</i></span></b></i> is an operetta composed by Johann Strauss II to a German libretto by Karl Haffner and Richard Genée, which premiered in 1874.</p>"
+}

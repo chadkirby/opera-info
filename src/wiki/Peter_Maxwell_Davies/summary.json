@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Peter Maxwell Davies",
+  "displaytitle": "Peter Maxwell Davies",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q139223",
+  "titles": {
+    "canonical": "Peter_Maxwell_Davies",
+    "normalized": "Peter Maxwell Davies",
+    "display": "Peter Maxwell Davies"
+  },
+  "pageid": 392501,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peter_Maxwell_Davies.jpg/320px-Peter_Maxwell_Davies.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Peter_Maxwell_Davies.jpg",
+    "width": 2829,
+    "height": 2832
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1076281578",
+  "tid": "6e3cf580-0f81-11ed-83e3-91a038aab52b",
+  "timestamp": "2022-03-10T08:49:00Z",
+  "description": "English composer and conductor (1934–2016)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Peter_Maxwell_Davies",
+      "revisions": "https://en.wikipedia.org/wiki/Peter_Maxwell_Davies?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Peter_Maxwell_Davies?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Maxwell_Davies"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Peter_Maxwell_Davies",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Peter_Maxwell_Davies",
+      "edit": "https://en.m.wikipedia.org/wiki/Peter_Maxwell_Davies?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Peter_Maxwell_Davies"
+    }
+  },
+  "extract": "Sir Peter Maxwell Davies was an English composer and conductor, who in 2004 was made Master of the Queen's Music.",
+  "extract_html": "<p><b>Sir Peter Maxwell Davies</b> was an English composer and conductor, who in 2004 was made Master of the Queen's Music.</p>"
+}

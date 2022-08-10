@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Dalibor</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\">Opera by <a href=\"/wiki/Bed%C5%99ich_Smetana\" title=\"Bedřich Smetana\">Bedřich Smetana</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Smetana1854portrait.jpg\" class=\"image\"><img alt=\"Smetana1854portrait.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Smetana1854portrait.jpg/200px-Smetana1854portrait.jpg\" decoding=\"async\" width=\"200\" height=\"242\" srcset=\"//upload.wikimedia.org/wikipedia/commons/6/6f/Smetana1854portrait.jpg 1.5x\" data-file-width=\"284\" data-file-height=\"343\"></a><div class=\"infobox-caption\">Smetana in 1854; painting by <a href=\"/wiki/Geskel_Saloman\" title=\"Geskel Saloman\">Geskel Saloman</a></div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Josef_Wenzig\" title=\"Josef Wenzig\">Josef Wenzig</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Czech</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">16&nbsp;May&nbsp;1868<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1868-05-16</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><span class=\"nowrap\"><a href=\"/wiki/Provisional_Theatre_(Prague)\" title=\"Provisional Theatre (Prague)\">Provisional Theatre</a>, Prague</span></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Dalibor"
+  ],
+  "Librettist": "Josef Wenzig",
+  "Language": "Czech",
+  "Premiere": "16 May 1868\nProvisional Theatre, Prague"
+}

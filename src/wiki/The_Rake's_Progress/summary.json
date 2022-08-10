@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Rake's Progress",
+  "displaytitle": "<i>The Rake's Progress</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q539339",
+  "titles": {
+    "canonical": "The_Rake's_Progress",
+    "normalized": "The Rake's Progress",
+    "display": "<i>The Rake's Progress</i>"
+  },
+  "pageid": 719936,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Igor_Stravinsky_LOC_32392u.jpg/265px-Igor_Stravinsky_LOC_32392u.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg",
+    "width": 4477,
+    "height": 5410
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092660335",
+  "tid": "9d2ef570-f990-11ec-a016-f35d5121a3fe",
+  "timestamp": "2022-06-11T18:28:40Z",
+  "description": "Opera by Igor Stravinsky",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Rake's_Progress",
+      "revisions": "https://en.wikipedia.org/wiki/The_Rake's_Progress?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Rake's_Progress?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Rake's_Progress"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Rake's_Progress",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Rake's_Progress",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Rake's_Progress?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Rake's_Progress"
+    }
+  },
+  "extract": "The Rake's Progress is an English-language opera from 1951 in three acts and an epilogue by Igor Stravinsky. The libretto, written by W. H. Auden and Chester Kallman, is based loosely on the eight paintings and engravings A Rake's Progress (1733–1735) of William Hogarth, which Stravinsky had seen on 2 May 1947, in a Chicago exhibition.",
+  "extract_html": "<p><i><b>The Rake's Progress</b></i> is an English-language opera from 1951 in three acts and an epilogue by Igor Stravinsky. The libretto, written by W. H. Auden and Chester Kallman, is based loosely on the eight paintings and engravings <i>A Rake's Progress</i> (1733–1735) of William Hogarth, which Stravinsky had seen on 2 May 1947, in a Chicago exhibition.</p>"
+}

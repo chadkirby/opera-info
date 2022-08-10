@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Wolfgang Amadeus Mozart",
+  "displaytitle": "Wolfgang Amadeus Mozart",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q254",
+  "titles": {
+    "canonical": "Wolfgang_Amadeus_Mozart",
+    "normalized": "Wolfgang Amadeus Mozart",
+    "display": "Wolfgang Amadeus Mozart"
+  },
+  "pageid": 33163,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Croce-Mozart-Detail.jpg/247px-Croce-Mozart-Detail.jpg",
+    "width": 247,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Croce-Mozart-Detail.jpg",
+    "width": 577,
+    "height": 748
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102793272",
+  "tid": "cf0202b0-15db-11ed-89a6-cf5cc17c2435",
+  "timestamp": "2022-08-06T23:02:08Z",
+  "description": "Classical-era composer (1756–1791)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "revisions": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Wolfgang_Amadeus_Mozart"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Wolfgang_Amadeus_Mozart",
+      "edit": "https://en.m.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Wolfgang_Amadeus_Mozart"
+    }
+  },
+  "extract": "Wolfgang Amadeus Mozart, baptised as Joannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical period. Despite his short life, his rapid pace of composition resulted in more than 800 works of virtually every genre of his time. Many of these compositions are acknowledged as pinnacles of the symphonic, concertante, chamber, operatic, and choral repertoire. Mozart is widely regarded as among the greatest composers in the history of Western music, with his music admired for its \"melodic beauty, its formal elegance and its richness of harmony and texture\".",
+  "extract_html": "<p><b>Wolfgang Amadeus Mozart</b>, baptised as <b>Joannes Chrysostomus Wolfgangus Theophilus Mozart</b>, was a prolific and influential composer of the Classical period. Despite his short life, his rapid pace of composition resulted in more than 800 works of virtually every genre of his time. Many of these compositions are acknowledged as pinnacles of the symphonic, concertante, chamber, operatic, and choral repertoire. Mozart is widely regarded as among the greatest composers in the history of Western music, with his music admired for its \"melodic beauty, its formal elegance and its richness of harmony and texture\".</p>"
+}

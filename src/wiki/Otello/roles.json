@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 5 February 1887<sup id=\"cite_ref-FOOTNOTEBudden1992322_46-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEBudden1992322-46\">[46]</a></sup><br>Conductor: <a href=\"/wiki/Franco_Faccio\" title=\"Franco Faccio\">Franco Faccio</a><sup id=\"cite_ref-FOOTNOTEBudden1992322_46-1\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEBudden1992322-46\">[46]</a></sup>\n</th></tr>\n<tr>\n<td>Otello, <i>a Moorish general</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Desdemona, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Iago, <i>Otello's ensign</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Emilia, <i>wife of Iago and maid of Desdemona</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Cassio, <i>Otello's captain</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Roderigo, <i>a gentleman of Venice</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Lodovico, <i>ambassador of the Venetian Republic</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Montano, <i>former Governor of Cyprus</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A herald\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Venetian soldiers and sailors; and Cypriot townsfolk and children</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Otello, a Moorish general",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Desdemona, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Iago, Otello's ensign",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Emilia, wife of Iago and maid of Desdemona",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Cassio, Otello's captain",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Roderigo, a gentleman of Venice",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lodovico, ambassador of the Venetian Republic",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Montano, former Governor of Cyprus",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A herald",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Venetian soldiers and sailors; and Cypriot townsfolk and children",
+      "voiceType": ""
+    }
+  ]
+}

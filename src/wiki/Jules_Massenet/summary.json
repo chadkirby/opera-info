@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jules Massenet",
+  "displaytitle": "Jules Massenet",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q194436",
+  "titles": {
+    "canonical": "Jules_Massenet",
+    "normalized": "Jules Massenet",
+    "display": "Jules Massenet"
+  },
+  "pageid": 355236,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Massenet-1880-by-Pierre-Petit.jpg/252px-Massenet-1880-by-Pierre-Petit.jpg",
+    "width": 252,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Massenet-1880-by-Pierre-Petit.jpg",
+    "width": 423,
+    "height": 536
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102391327",
+  "tid": "088ed050-1544-11ed-a754-79177066e2a9",
+  "timestamp": "2022-08-04T20:54:01Z",
+  "description": "French composer (1842–1912)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jules_Massenet",
+      "revisions": "https://en.wikipedia.org/wiki/Jules_Massenet?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jules_Massenet?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jules_Massenet"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Jules_Massenet",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jules_Massenet",
+      "edit": "https://en.m.wikipedia.org/wiki/Jules_Massenet?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Jules_Massenet"
+    }
+  },
+  "extract": "Jules Émile Frédéric Massenet was a French composer of the Romantic era best known for his operas, of which he wrote more than thirty. The two most frequently staged are Manon (1884) and Werther (1892). He also composed oratorios, ballets, orchestral works, incidental music, piano pieces, songs and other music.",
+  "extract_html": "<p><b>Jules Émile Frédéric Massenet</b> was a French composer of the Romantic era best known for his operas, of which he wrote more than thirty. The two most frequently staged are <i>Manon</i> (1884) and <i>Werther</i> (1892). He also composed oratorios, ballets, orchestral works, incidental music, piano pieces, songs and other music.</p>"
+}

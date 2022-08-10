@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Ariane et Barbe-bleue",
+  "displaytitle": "<i>Ariane et Barbe-bleue</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q655858",
+  "titles": {
+    "canonical": "Ariane_et_Barbe-bleue",
+    "normalized": "Ariane et Barbe-bleue",
+    "display": "<i>Ariane et Barbe-bleue</i>"
+  },
+  "pageid": 6720109,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paul_Dukas_01.jpg/320px-Paul_Dukas_01.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Paul_Dukas_01.jpg",
+    "width": 380,
+    "height": 380
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101283711",
+  "tid": "d22c1350-15f8-11ed-b880-13611bad0e27",
+  "timestamp": "2022-07-30T06:42:43Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ariane_et_Barbe-bleue",
+      "revisions": "https://en.wikipedia.org/wiki/Ariane_et_Barbe-bleue?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ariane_et_Barbe-bleue?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ariane_et_Barbe-bleue"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ariane_et_Barbe-bleue",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ariane_et_Barbe-bleue",
+      "edit": "https://en.m.wikipedia.org/wiki/Ariane_et_Barbe-bleue?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ariane_et_Barbe-bleue"
+    }
+  },
+  "extract": "Ariane et Barbe-bleue is an opera in three acts by Paul Dukas. The French libretto is adapted from the symbolist play of the same name by Maurice Maeterlinck, itself loosely based on the French literary tale La Barbe bleue by Charles Perrault.",
+  "extract_html": "<p><i><b>Ariane et Barbe-bleue</b></i> is an opera in three acts by Paul Dukas. The French libretto is adapted from the symbolist play of the same name by Maurice Maeterlinck, itself loosely based on the French literary tale <i>La Barbe bleue</i> by Charles Perrault.</p>"
+}

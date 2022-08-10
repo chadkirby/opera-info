@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La dame blanche",
+  "displaytitle": "<i>La dame blanche</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q973780",
+  "titles": {
+    "canonical": "La_dame_blanche",
+    "normalized": "La dame blanche",
+    "display": "<i>La dame blanche</i>"
+  },
+  "pageid": 6559715,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Fr-Adrien_Boieldieu.jpg/320px-Fr-Adrien_Boieldieu.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Fr-Adrien_Boieldieu.jpg",
+    "width": 2200,
+    "height": 2200
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088026469",
+  "tid": "d0b85f10-15f8-11ed-a0c2-5d5d7aa5ada5",
+  "timestamp": "2022-05-15T20:17:03Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_dame_blanche",
+      "revisions": "https://en.wikipedia.org/wiki/La_dame_blanche?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_dame_blanche?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_dame_blanche"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_dame_blanche",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_dame_blanche",
+      "edit": "https://en.m.wikipedia.org/wiki/La_dame_blanche?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_dame_blanche"
+    }
+  },
+  "extract": "La dame blanche is an opéra comique in three acts by the French composer François-Adrien Boieldieu. The libretto was written by Eugène Scribe and is based on episodes from no fewer than five works of the Scottish writer Sir Walter Scott, including his novels Guy Mannering (1815), The Monastery (1820), and The Abbot (1820). The opera has typical elements of the Romantic in its Gothic mode, including an exotic Scottish locale, a lost heir, a mysterious castle, a hidden fortune, and a ghost, in this case benevolent. The work was one of the first attempts to introduce the fantastic into opera and is a model for works such as Giacomo Meyerbeer's Robert le diable (1831) and Charles Gounod's Faust (1859). The opera's musical style also heavily influenced later operas like Lucia di Lammermoor, I puritani and La jolie fille de Perth.",
+  "extract_html": "<p><i><b>La dame blanche</b></i> is an opéra comique in three acts by the French composer François-Adrien Boieldieu. The libretto was written by Eugène Scribe and is based on episodes from no fewer than five works of the Scottish writer Sir Walter Scott, including his novels <i>Guy Mannering</i> (1815), <i>The Monastery</i> (1820), and <i>The Abbot</i> (1820). The opera has typical elements of the Romantic in its Gothic mode, including an exotic Scottish locale, a lost heir, a mysterious castle, a hidden fortune, and a ghost, in this case benevolent. The work was one of the first attempts to introduce the fantastic into opera and is a model for works such as Giacomo Meyerbeer's <i>Robert le diable</i> (1831) and Charles Gounod's <i>Faust</i> (1859). The opera's musical style also heavily influenced later operas like <i>Lucia di Lammermoor</i>, <i>I puritani</i> and <i>La jolie fille de Perth</i>.</p>"
+}

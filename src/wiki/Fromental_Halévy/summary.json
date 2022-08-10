@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Fromental Halévy",
+  "displaytitle": "Fromental Halévy",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313917",
+  "titles": {
+    "canonical": "Fromental_Halévy",
+    "normalized": "Fromental Halévy",
+    "display": "Fromental Halévy"
+  },
+  "pageid": 537607,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fromental_Halevy_by_Etienne_Carjat-crop.jpg/229px-Fromental_Halevy_by_Etienne_Carjat-crop.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fromental_Halevy_by_Etienne_Carjat-crop.jpg",
+    "width": 748,
+    "height": 1045
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1063096788",
+  "tid": "080777e0-1544-11ed-b208-038a1f40925b",
+  "timestamp": "2022-01-01T05:47:22Z",
+  "description": "French composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Fromental_Hal%C3%A9vy",
+      "revisions": "https://en.wikipedia.org/wiki/Fromental_Hal%C3%A9vy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Fromental_Hal%C3%A9vy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Fromental_Hal%C3%A9vy"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Fromental_Hal%C3%A9vy",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Fromental_Hal%C3%A9vy",
+      "edit": "https://en.m.wikipedia.org/wiki/Fromental_Hal%C3%A9vy?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Fromental_Hal%C3%A9vy"
+    }
+  },
+  "extract": "Jacques-François-Fromental-Élie Halévy, usually known as Fromental Halévy, was a French composer. He is known today largely for his opera La Juive.",
+  "extract_html": "<p><b>Jacques-François-Fromental-Élie Halévy</b>, usually known as <b>Fromental Halévy</b>, was a French composer. He is known today largely for his opera <i>La Juive</i>.</p>"
+}

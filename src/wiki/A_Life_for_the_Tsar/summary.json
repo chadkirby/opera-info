@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "A Life for the Tsar",
+  "displaytitle": "<i>A Life for the Tsar</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q94737",
+  "titles": {
+    "canonical": "A_Life_for_the_Tsar",
+    "normalized": "A Life for the Tsar",
+    "display": "<i>A Life for the Tsar</i>"
+  },
+  "pageid": 1253732,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Osip_petrov_susanin.jpg/202px-Osip_petrov_susanin.jpg",
+    "width": 202,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Osip_petrov_susanin.jpg",
+    "width": 688,
+    "height": 1088
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1045318329",
+  "tid": "7bd64bf0-12ac-11ed-a04d-592dc9907da4",
+  "timestamp": "2021-09-20T00:00:51Z",
+  "description": "Opera by Mikhail Glinka",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/A_Life_for_the_Tsar",
+      "revisions": "https://en.wikipedia.org/wiki/A_Life_for_the_Tsar?action=history",
+      "edit": "https://en.wikipedia.org/wiki/A_Life_for_the_Tsar?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:A_Life_for_the_Tsar"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/A_Life_for_the_Tsar",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/A_Life_for_the_Tsar",
+      "edit": "https://en.m.wikipedia.org/wiki/A_Life_for_the_Tsar?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:A_Life_for_the_Tsar"
+    }
+  },
+  "extract": "A Life for the Tsar is a \"patriotic-heroic tragic opera\" in four acts with an epilogue by Mikhail Glinka. During the Soviet era the opera was known under the name Ivan Susanin.",
+  "extract_html": "<p><i><b>A Life for the Tsar</b></i> is a \"patriotic-heroic tragic opera\" in four acts with an epilogue by Mikhail Glinka. During the Soviet era the opera was known under the name <i>Ivan Susanin</i>.</p>"
+}

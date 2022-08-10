@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Taverner (opera)",
+  "displaytitle": "<i>Taverner</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2876719",
+  "titles": {
+    "canonical": "Taverner_(opera)",
+    "normalized": "Taverner (opera)",
+    "display": "<i>Taverner</i> (opera)"
+  },
+  "pageid": 9017621,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peter_Maxwell_Davies.jpg/320px-Peter_Maxwell_Davies.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Peter_Maxwell_Davies.jpg",
+    "width": 2829,
+    "height": 2832
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083528455",
+  "tid": "2d67b9c0-fa21-11ec-b1d5-5554fc764fda",
+  "timestamp": "2022-04-19T08:24:32Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Taverner_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Taverner_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Taverner_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Taverner_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Taverner_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Taverner_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Taverner_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Taverner_(opera)"
+    }
+  },
+  "extract": "Taverner is an opera with music and libretto by Peter Maxwell Davies. It is based on the life of the 16th-century English composer John Taverner, but in what Davies himself acknowledged was a non-realistic treatment. The gestation for the opera dated as far back as 1956 during Davies's years in Manchester, and continued when he went to Princeton University in 1962. Davies produced several instrumental works related to the opera during this gestation period, including the Points and Dances from 'Taverner' and the Second Fantasia on John Taverner's \"In Nomine\". Davies had completed the opera in 1968, but lost parts of the score in a fire at his Dorset cottage in 1969, which necessitated recomposition.",
+  "extract_html": "<p><i><b>Taverner</b></i> is an opera with music and libretto by Peter Maxwell Davies. It is based on the life of the 16th-century English composer John Taverner, but in what Davies himself acknowledged was a non-realistic treatment. The gestation for the opera dated as far back as 1956 during Davies's years in Manchester, and continued when he went to Princeton University in 1962. Davies produced several instrumental works related to the opera during this gestation period, including the <i>Points and Dances from 'Taverner'</i> and the <i>Second Fantasia on John Taverner's \"In Nomine\"</i>. Davies had completed the opera in 1968, but lost parts of the score in a fire at his Dorset cottage in 1969, which necessitated recomposition.</p>"
+}

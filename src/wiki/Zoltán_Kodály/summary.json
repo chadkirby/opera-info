@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Zoltán Kodály",
+  "displaytitle": "Zoltán Kodály",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q153008",
+  "titles": {
+    "canonical": "Zoltán_Kodály",
+    "normalized": "Zoltán Kodály",
+    "display": "Zoltán Kodály"
+  },
+  "pageid": 172840,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kod%C3%A1ly_Zolt%C3%A1n_1930s.jpg/248px-Kod%C3%A1ly_Zolt%C3%A1n_1930s.jpg",
+    "width": 248,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kod%C3%A1ly_Zolt%C3%A1n_1930s.jpg",
+    "width": 349,
+    "height": 450
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099815018",
+  "tid": "923041a0-0f80-11ed-a031-4f15b4a7903d",
+  "timestamp": "2022-07-22T18:44:34Z",
+  "description": "Hungarian composer, ethnomusicologist, pedagogue",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Zolt%C3%A1n_Kod%C3%A1ly",
+      "revisions": "https://en.wikipedia.org/wiki/Zolt%C3%A1n_Kod%C3%A1ly?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Zolt%C3%A1n_Kod%C3%A1ly?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Zolt%C3%A1n_Kod%C3%A1ly"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Zolt%C3%A1n_Kod%C3%A1ly",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Zolt%C3%A1n_Kod%C3%A1ly",
+      "edit": "https://en.m.wikipedia.org/wiki/Zolt%C3%A1n_Kod%C3%A1ly?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Zolt%C3%A1n_Kod%C3%A1ly"
+    }
+  },
+  "extract": "Zoltán Kodály was a Hungarian composer, ethnomusicologist, pedagogue, linguist, and philosopher. He is well known internationally as the creator of the Kodály method of music education.",
+  "extract_html": "<p><b>Zoltán Kodály</b> was a Hungarian composer, ethnomusicologist, pedagogue, linguist, and philosopher. He is well known internationally as the creator of the Kodály method of music education.</p>"
+}

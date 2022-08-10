@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Il segreto di Susanna",
+  "displaytitle": "<i>Il segreto di Susanna</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q521233",
+  "titles": {
+    "canonical": "Il_segreto_di_Susanna",
+    "normalized": "Il segreto di Susanna",
+    "display": "<i>Il segreto di Susanna</i>"
+  },
+  "pageid": 3766460,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ermanno_Wolf-Ferrari_1906.jpg/215px-Ermanno_Wolf-Ferrari_1906.jpg",
+    "width": 215,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ermanno_Wolf-Ferrari_1906.jpg",
+    "width": 471,
+    "height": 701
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1070711588",
+  "tid": "d1e45bf0-15f8-11ed-af21-9b0b0d5f77e9",
+  "timestamp": "2022-02-08T21:40:26Z",
+  "description": "Opera by Ermanno Wolf-Ferrari",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_segreto_di_Susanna",
+      "revisions": "https://en.wikipedia.org/wiki/Il_segreto_di_Susanna?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_segreto_di_Susanna?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_segreto_di_Susanna"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_segreto_di_Susanna",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_segreto_di_Susanna",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_segreto_di_Susanna?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_segreto_di_Susanna"
+    }
+  },
+  "extract": "Il segreto di Susanna is an intermezzo in one act by Ermanno Wolf-Ferrari to an Italian libretto by Enrico Golisciani. The premiere of the opera was in German, in a translation by Max Kalbeck, at the Hoftheater in Munich on 4 December 1909.",
+  "extract_html": "<p><i><b>Il segreto di Susanna</b></i> is an intermezzo in one act by Ermanno Wolf-Ferrari to an Italian libretto by Enrico Golisciani. The premiere of the opera was in German, in a translation by Max Kalbeck, at the Hoftheater in Munich on 4 December 1909.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Orfeo ed Euridice",
+  "displaytitle": "<i>Orfeo ed Euridice</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q723776",
+  "titles": {
+    "canonical": "Orfeo_ed_Euridice",
+    "normalized": "Orfeo ed Euridice",
+    "display": "<i>Orfeo ed Euridice</i>"
+  },
+  "pageid": 354439,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gluck%27s_Orph%C3%A9e_-_title_page_illustration_%28lightened_and_cropped%29.jpg/213px-Gluck%27s_Orph%C3%A9e_-_title_page_illustration_%28lightened_and_cropped%29.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Gluck%27s_Orph%C3%A9e_-_title_page_illustration_%28lightened_and_cropped%29.jpg",
+    "width": 259,
+    "height": 388
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1041025468",
+  "tid": "55032540-0724-11ed-a5d7-ef4f0f01a555",
+  "timestamp": "2021-08-28T03:33:46Z",
+  "description": "Opera by Christoph Willibald Gluck",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Orfeo_ed_Euridice",
+      "revisions": "https://en.wikipedia.org/wiki/Orfeo_ed_Euridice?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Orfeo_ed_Euridice?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Orfeo_ed_Euridice"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Orfeo_ed_Euridice",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Orfeo_ed_Euridice",
+      "edit": "https://en.m.wikipedia.org/wiki/Orfeo_ed_Euridice?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Orfeo_ed_Euridice"
+    }
+  },
+  "extract": "Orfeo ed Euridice is an opera composed by Christoph Willibald Gluck, based on the myth of Orpheus and set to a libretto by Ranieri de' Calzabigi. It belongs to the genre of the azione teatrale, meaning an opera on a mythological subject with choruses and dancing. The piece was first performed at the Burgtheater in Vienna on 5 October 1762, in the presence of Empress Maria Theresa. Orfeo ed Euridice is the first of Gluck's \"reform\" operas, in which he attempted to replace the abstruse plots and overly complex music of opera seria with a \"noble simplicity\" in both the music and the drama.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">Orfeo ed Euridice</i></span></b></i> is an opera composed by Christoph Willibald Gluck, based on the myth of Orpheus and set to a libretto by Ranieri de' Calzabigi. It belongs to the genre of the <i>azione teatrale</i>, meaning an opera on a mythological subject with choruses and dancing. The piece was first performed at the Burgtheater in Vienna on 5 October 1762, in the presence of Empress Maria Theresa. <i>Orfeo ed Euridice</i> is the first of Gluck's \"reform\" operas, in which he attempted to replace the abstruse plots and overly complex music of <i>opera seria</i> with a \"noble simplicity\" in both the music and the drama.</p>"
+}

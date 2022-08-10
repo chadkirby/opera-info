@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Turn of the Screw (opera)",
+  "displaytitle": "<i>The Turn of the Screw</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q464606",
+  "titles": {
+    "canonical": "The_Turn_of_the_Screw_(opera)",
+    "normalized": "The Turn of the Screw (opera)",
+    "display": "<i>The Turn of the Screw</i> (opera)"
+  },
+  "pageid": 2081670,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/191001Turn_of_the_Screw118.jpg/213px-191001Turn_of_the_Screw118.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/191001Turn_of_the_Screw118.jpg",
+    "width": 2212,
+    "height": 3318
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1081826003",
+  "tid": "47ea78c0-11a8-11ed-96a6-553eb65ef1d6",
+  "timestamp": "2022-04-09T22:52:05Z",
+  "description": "Opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Turn_of_the_Screw_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Turn_of_the_Screw_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Turn_of_the_Screw_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Turn_of_the_Screw_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Turn_of_the_Screw_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Turn_of_the_Screw_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Turn_of_the_Screw_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Turn_of_the_Screw_(opera)"
+    }
+  },
+  "extract": "The Turn of the Screw is a 20th-century English chamber opera composed by Benjamin Britten with a libretto by Myfanwy Piper, \"wife of the artist John Piper, who had been a friend of the composer since 1935 and had provided designs for several of the operas\". The libretto is based on the 1898 novella The Turn of the Screw by Henry James. The opera was commissioned by the Venice Biennale and given its world premiere on 14 September 1954, at the Teatro La Fenice, Venice. The original recording was made during that year, with the composer conducting.",
+  "extract_html": "<p><i><b>The Turn of the Screw</b></i> is a 20th-century English chamber opera composed by Benjamin Britten with a libretto by Myfanwy Piper, \"wife of the artist John Piper, who had been a friend of the composer since 1935 and had provided designs for several of the operas\". The libretto is based on the 1898 novella <i>The Turn of the Screw</i> by Henry James. The opera was commissioned by the Venice Biennale and given its world premiere on 14 September 1954, at the Teatro La Fenice, Venice. The original recording was made during that year, with the composer conducting.</p>"
+}

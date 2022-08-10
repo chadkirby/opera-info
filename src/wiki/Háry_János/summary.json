@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "Háry János",
+  "displaytitle": "<i>Háry János</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q277044",
+  "titles": {
+    "canonical": "Háry_János",
+    "normalized": "Háry János",
+    "display": "<i>Háry János</i>"
+  },
+  "pageid": 2025146,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093117362",
+  "tid": "fa5188e0-050b-11ed-83fd-9f93ca2650db",
+  "timestamp": "2022-06-14T17:23:46Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos",
+      "revisions": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos?action=history",
+      "edit": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:H%C3%A1ry_J%C3%A1nos"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/H%C3%A1ry_J%C3%A1nos",
+      "edit": "https://en.m.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:H%C3%A1ry_J%C3%A1nos"
+    }
+  },
+  "extract": "Háry János is a Hungarian folk opera in four acts by Zoltán Kodály to a Hungarian libretto by Béla Paulini (1881–1945) and Zsolt Harsányi, based on the comic epic The Veteran by János Garay about a supposed veteran named Háry János. The subtitle of the piece is Háry János kalandozásai Nagyabonytul a Burgváráig – János Háry: his Adventures from Nagyabony to the Vienna Burg.",
+  "extract_html": "<p><i><b>Háry János</b></i> is a Hungarian folk opera in four acts by Zoltán Kodály to a Hungarian libretto by Béla Paulini (1881–1945) and Zsolt Harsányi, based on the comic epic <i>The Veteran</i> by János Garay about a supposed veteran named Háry János. The subtitle of the piece is <i>Háry János kalandozásai Nagyabonytul a Burgváráig</i> – <i>János Háry: his Adventures from Nagyabony to the Vienna Burg</i>.</p>"
+}

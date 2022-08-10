@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 9 March 1844<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup><br>(Conductor: - <a href=\"/wiki/Gaetano_Mares\" title=\"Gaetano Mares\">Gaetano Mares</a>)\n</th></tr>\n<tr>\n<td>Ernani, <i>the bandit</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Don Carlo, <i>later <a href=\"/wiki/Charles_V,_Holy_Roman_Emperor\" title=\"Charles V, Holy Roman Emperor\">Charles V, Holy Roman Emperor</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Don Ruy Gomez de Silva\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Elvira, <i>his niece and fiancée</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Giovanna, <i>her nurse</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Don Riccardo, <i>Don Carlo's equerry</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Jago, <i>Don Ruy's equerry</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Rebels, brigands, attendants, knights, servant, nobles, ladies - Chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Ernani, the bandit",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Carlo, later Charles V, Holy Roman Emperor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Don Ruy Gomez de Silva",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Elvira, his niece and fiancée",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Giovanna, her nurse",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Don Riccardo, Don Carlo's equerry",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jago, Don Ruy's equerry",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Rebels, brigands, attendants, knights, servant, nobles, ladies - Chorus",
+      "voiceType": ""
+    }
+  ]
+}

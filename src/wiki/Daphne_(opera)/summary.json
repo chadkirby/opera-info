@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Daphne (opera)",
+  "displaytitle": "<i>Daphne</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1165496",
+  "titles": {
+    "canonical": "Daphne_(opera)",
+    "normalized": "Daphne (opera)",
+    "display": "<i>Daphne</i> (opera)"
+  },
+  "pageid": 5614110,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg/226px-Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 226,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 535,
+    "height": 756
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085732749",
+  "tid": "bdbfe5a0-f9f0-11ec-9bbb-5d4472e2a865",
+  "timestamp": "2022-05-02T04:23:04Z",
+  "description": "Opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Daphne_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Daphne_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Daphne_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daphne_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Daphne_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Daphne_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Daphne_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Daphne_(opera)"
+    }
+  },
+  "extract": "Daphne, Op. 82, is an opera in one act by Richard Strauss, subtitled \"Bucolic Tragedy in One Act\". The German libretto was by Joseph Gregor. The opera is based loosely on the mythological figure Daphne from Ovid's Metamorphoses and includes elements taken from The Bacchae by Euripides.",
+  "extract_html": "<p><i><b>Daphne</b></i>, Op. 82, is an opera in one act by Richard Strauss, subtitled \"Bucolic Tragedy in One Act\". The German libretto was by Joseph Gregor. The opera is based loosely on the mythological figure Daphne from Ovid's <i>Metamorphoses</i> and includes elements taken from <i>The Bacchae</i> by Euripides.</p>"
+}

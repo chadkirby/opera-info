@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Der ferne Klang</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Franz_Schreker\" title=\"Franz Schreker\">Franz Schreker</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Schreker_1912.jpg\" class=\"image\"><img alt=\"Schreker 1912.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schreker_1912.jpg/240px-Schreker_1912.jpg\" decoding=\"async\" width=\"240\" height=\"312\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schreker_1912.jpg/360px-Schreker_1912.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/41/Schreker_1912.jpg 2x\" data-file-width=\"474\" data-file-height=\"617\"></a><div class=\"infobox-caption\">The composer in 1912</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>The Distant Sound</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Schreker</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">German</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">18&nbsp;August&nbsp;1912<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1912-08-18</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Oper_Frankfurt\" title=\"Oper Frankfurt\">Oper Frankfurt</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Der ferne Klang"
+  ],
+  "Translation": "The Distant Sound",
+  "Librettist": "Schreker",
+  "Language": "German",
+  "Premiere": "18 August 1912\nOper Frankfurt"
+}

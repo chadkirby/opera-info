@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 7 May 1888<br>(Conductor: <a href=\"/wiki/Jules_Danb%C3%A9\" title=\"Jules Danbé\">Jules Danbé</a>)\n</th></tr>\n<tr>\n<td>The King of Ys\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Margared, <i>the King's daughter</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Rozenn, <i>the King's daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Prince Karnac\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Mylio, <i>a knight</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Jahel, <i>the King's herald and master of the palace</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Corentin_of_Quimper\" title=\"Corentin of Quimper\">St. Corentin</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">People, soldiers, gentlemen, priests, horsemen, ladies and followers\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "The King of Ys",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Margared, the King's daughter",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Rozenn, the King's daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Prince Karnac",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mylio, a knight",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jahel, the King's herald and master of the palace",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "St. Corentin",
+      "voiceType": "bass"
+    },
+    {
+      "role": "People, soldiers, gentlemen, priests, horsemen, ladies and followers",
+      "voiceType": ""
+    }
+  ]
+}

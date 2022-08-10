@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 17 November 1898<br>(Conductor: <a href=\"/wiki/Umberto_Giordano\" title=\"Umberto Giordano\">Umberto Giordano</a>)\n</th></tr>\n<tr>\n<td>Princess Fedora Romazov\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Count Loris Ipanov\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Countess Olga Sukarev\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>De Siriex, <i>a diplomat</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Désiré, <i>a servant</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Dimitri, <i>a servant</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Gretch, <i>a police inspector</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Loreck,<i> a surgeon</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Cirillo, <i>a coachman</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Baron Rouvel\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Boroff, <i>a doctor</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Sergio, <i>a servant</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Nicola, <i>a servant</i>\n</td>\n<td>contralto/bass\n</td>\n</tr>\n<tr>\n<td>Michele, <i>a porter</i>\n</td>\n<td>spoken role\n</td>\n</tr>\n<tr>\n<td>Peasant Boy\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Boleslao Lazinski, <i>a pianist</i>\n</td>\n<td>(silent role)\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Princess Fedora Romazov",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Count Loris Ipanov",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Countess Olga Sukarev",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "De Siriex, a diplomat",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Désiré, a servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dimitri, a servant",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Gretch, a police inspector",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Loreck,a surgeon",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Cirillo, a coachman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Baron Rouvel",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Boroff, a doctor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sergio, a servant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Nicola, a servant",
+      "voiceType": "contralto/bass"
+    },
+    {
+      "role": "Michele, a porter",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Peasant Boy",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Boleslao Lazinski, a pianist",
+      "voiceType": "(silent role)"
+    }
+  ]
+}

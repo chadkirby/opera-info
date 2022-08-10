@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 9 February 1893<sup id=\"cite_ref-70\" class=\"reference\"><a href=\"#cite_note-70\">[61]</a></sup><br>(<a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Edoardo_Mascheroni\" title=\"Edoardo Mascheroni\">Edoardo Mascheroni</a>)<sup id=\"cite_ref-71\" class=\"reference\"><a href=\"#cite_note-71\">[62]</a></sup>\n</th></tr>\n<tr>\n<td>Sir John <a href=\"/wiki/Falstaff\" class=\"mw-redirect\" title=\"Falstaff\">Falstaff</a>, <i>a fat knight</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Ford, <i>a wealthy man</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Alice Ford, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Nannetta, <i>their daughter</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Meg Page\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Mistress_Quickly\" title=\"Mistress Quickly\">Mistress Quickly</a>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Fenton, <i>one of Nannetta's suitors</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Dr Caius\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Bardolph_(Shakespeare_character)\" title=\"Bardolph (Shakespeare character)\">Bardolfo</a>, <i>a follower of Falstaff</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Ancient_Pistol\" title=\"Ancient Pistol\">Pistola</a>, <i>a follower of Falstaff</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Mine Host of the Garter Inn\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td>Robin, <i>Falstaff's page</i>\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus of townspeople, Ford's servants, and masqueraders dressed as fairies etc.\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Sir John Falstaff, a fat knight",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Ford, a wealthy man",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Alice Ford, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Nannetta, their daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Meg Page",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Mistress Quickly",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Fenton, one of Nannetta's suitors",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dr Caius",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bardolfo, a follower of Falstaff",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pistola, a follower of Falstaff",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mine Host of the Garter Inn",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Robin, Falstaff's page",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Chorus of townspeople, Ford's servants, and masqueraders dressed as fairies etc.",
+      "voiceType": ""
+    }
+  ]
+}

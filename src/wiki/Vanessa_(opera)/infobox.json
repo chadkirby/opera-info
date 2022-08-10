@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Vanessa</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Samuel_Barber\" title=\"Samuel Barber\">Samuel Barber</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Samuel_Barber.jpg\" class=\"image\"><img alt=\"Samuel Barber.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Samuel_Barber.jpg/220px-Samuel_Barber.jpg\" decoding=\"async\" width=\"220\" height=\"307\" srcset=\"//upload.wikimedia.org/wikipedia/commons/9/91/Samuel_Barber.jpg 1.5x\" data-file-width=\"262\" data-file-height=\"366\"></a><div class=\"infobox-caption\">The composer in 1944</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Gian_Carlo_Menotti\" title=\"Gian Carlo Menotti\">Gian Carlo Menotti</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">January&nbsp;15,&nbsp;1958<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1958-01-15</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Metropolitan_Opera\" title=\"Metropolitan Opera\">Metropolitan Opera</a>, New York</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Vanessa"
+  ],
+  "Librettist": "Gian Carlo Menotti",
+  "Language": "English",
+  "Premiere": "January 15, 1958\nMetropolitan Opera, New York"
+}

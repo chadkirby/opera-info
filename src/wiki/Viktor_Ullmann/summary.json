@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Viktor Ullmann",
+  "displaytitle": "Viktor Ullmann",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q78530",
+  "titles": {
+    "canonical": "Viktor_Ullmann",
+    "normalized": "Viktor Ullmann",
+    "display": "Viktor Ullmann"
+  },
+  "pageid": 1933080,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Viktor_Ullmann_2.jpg",
+    "width": 240,
+    "height": 264
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Viktor_Ullmann_2.jpg",
+    "width": 240,
+    "height": 264
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095844345",
+  "tid": "c6f17c80-01fa-11ed-9cbb-4b366ee501d0",
+  "timestamp": "2022-06-30T18:53:07Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Viktor_Ullmann",
+      "revisions": "https://en.wikipedia.org/wiki/Viktor_Ullmann?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Viktor_Ullmann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Viktor_Ullmann"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Viktor_Ullmann",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Viktor_Ullmann",
+      "edit": "https://en.m.wikipedia.org/wiki/Viktor_Ullmann?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Viktor_Ullmann"
+    }
+  },
+  "extract": "Viktor Ullmann was a Silesia-born Austrian composer, conductor and pianist.",
+  "extract_html": "<p><b>Viktor Ullmann</b> was a Silesia-born Austrian composer, conductor and pianist.</p>"
+}

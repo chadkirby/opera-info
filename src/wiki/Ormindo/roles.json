@@ -1,0 +1,77 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup>\n</th>\n<th>Premiere Cast, 1644<br>(Conductor: - )\n</th></tr>\n<tr>\n<td>Amida, <i>Prince of Tremisene (<a href=\"/wiki/Tlemcen\" title=\"Tlemcen\">Tlemcen</a>)</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Amore (<a href=\"/wiki/Cupid\" title=\"Cupid\">Cupid</a>)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Erice, <i>Sicle's nurse</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a> (<a href=\"/wiki/Travesti_(theatre)\" title=\"Travesti (theatre)\">travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Erisbe, <i>the wife of Hariadeno</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><i>Guardian of the arsenal of <a href=\"/wiki/Anfa\" title=\"Anfa\">Anfa</a></i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Hariadeno, <i>King of <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a> and Fessa (<a href=\"/wiki/Fez,_Morocco\" title=\"Fez, Morocco\">Fez</a>)</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Il Destino (Destiny)\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>L'Armonia (Harmony)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>La Fortuna (Fortune)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Melide, <i>Sicle's lady-in-waiting</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mirinda, <i>Erisbe's confidante</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Nerillo, <i>Amida's page</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Ormindo, <i>Hariadeno's unknown son</i>\n</td>\n<td>contralto castrato\n</td>\n</tr>\n<tr>\n<td>Osman, <i>King Hariadeno's captain</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Sicle, <i>Princess of Susio (<a href=\"/wiki/Sous\" title=\"Sous\">Sous</a>)</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><i>Messenger</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Anemoi\" title=\"Anemoi\">The Winds</a>\n</td>\n<td>tenor and bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Ormindo's soldiers, Amida's soldiers, Mauritanian soldiers, Erisbe's ladies-in-waiting\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Amida, Prince of Tremisene (Tlemcen)",
+      "voiceType": "contralto castrato"
+    },
+    {
+      "role": "Amore (Cupid)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Erice, Sicle's nurse",
+      "voiceType": "tenor (travesti)"
+    },
+    {
+      "role": "Erisbe, the wife of Hariadeno",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Guardian of the arsenal of Anfa",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Hariadeno, King of Morocco and Fessa (Fez)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Il Destino (Destiny)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "L'Armonia (Harmony)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "La Fortuna (Fortune)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Melide, Sicle's lady-in-waiting",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mirinda, Erisbe's confidante",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Nerillo, Amida's page",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ormindo, Hariadeno's unknown son",
+      "voiceType": "contralto castrato"
+    },
+    {
+      "role": "Osman, King Hariadeno's captain",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sicle, Princess of Susio (Sous)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Messenger",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Winds",
+      "voiceType": "tenor and bass"
+    },
+    {
+      "role": "Ormindo's soldiers, Amida's soldiers, Mauritanian soldiers, Erisbe's ladies-in-waiting",
+      "voiceType": ""
+    }
+  ]
+}

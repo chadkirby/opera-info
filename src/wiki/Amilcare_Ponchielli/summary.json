@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Amilcare Ponchielli",
+  "displaytitle": "Amilcare Ponchielli",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q207390",
+  "titles": {
+    "canonical": "Amilcare_Ponchielli",
+    "normalized": "Amilcare Ponchielli",
+    "display": "Amilcare Ponchielli"
+  },
+  "pageid": 75907,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amilcare_Ponchielli_%28before_1886%29_-_Archivio_Storico_Ricordi_FOTO000794_-_Restoration.jpg/224px-Amilcare_Ponchielli_%28before_1886%29_-_Archivio_Storico_Ricordi_FOTO000794_-_Restoration.jpg",
+    "width": 224,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Amilcare_Ponchielli_%28before_1886%29_-_Archivio_Storico_Ricordi_FOTO000794_-_Restoration.jpg",
+    "width": 1429,
+    "height": 2039
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093094092",
+  "tid": "6771c3c0-119d-11ed-8bb2-1997c6b6d320",
+  "timestamp": "2022-06-14T14:17:31Z",
+  "description": "Italian opera composer (1834-1886)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Amilcare_Ponchielli",
+      "revisions": "https://en.wikipedia.org/wiki/Amilcare_Ponchielli?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Amilcare_Ponchielli?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Amilcare_Ponchielli"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Amilcare_Ponchielli",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Amilcare_Ponchielli",
+      "edit": "https://en.m.wikipedia.org/wiki/Amilcare_Ponchielli?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Amilcare_Ponchielli"
+    }
+  },
+  "extract": "Amilcare Ponchielli was an Italian opera composer, best known for his opera La Gioconda. He was married to the soprano Teresina Brambilla.",
+  "extract_html": "<p><b>Amilcare Ponchielli</b> was an Italian opera composer, best known for his opera <span><i>La Gioconda</i></span>. He was married to the soprano Teresina Brambilla.</p>"
+}

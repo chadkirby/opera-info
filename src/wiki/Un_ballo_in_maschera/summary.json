@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Un ballo in maschera",
+  "displaytitle": "<i>Un ballo in maschera</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q221757",
+  "titles": {
+    "canonical": "Un_ballo_in_maschera",
+    "normalized": "Un ballo in maschera",
+    "display": "<i>Un ballo in maschera</i>"
+  },
+  "pageid": 180483,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Giuseppe_Verdi%2C_Un_Ballo_in_maschera%2C_Vocal_score_frontispiece_-_restoration.jpg/303px-Giuseppe_Verdi%2C_Un_Ballo_in_maschera%2C_Vocal_score_frontispiece_-_restoration.jpg",
+    "width": 303,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/3/3d/Giuseppe_Verdi%2C_Un_Ballo_in_maschera%2C_Vocal_score_frontispiece_-_restoration.jpg",
+    "width": 3552,
+    "height": 3752
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094897194",
+  "tid": "427a6c70-01f8-11ed-a42e-6358103fc965",
+  "timestamp": "2022-06-25T07:00:39Z",
+  "description": "1859 opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Un_ballo_in_maschera",
+      "revisions": "https://en.wikipedia.org/wiki/Un_ballo_in_maschera?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Un_ballo_in_maschera?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Un_ballo_in_maschera"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Un_ballo_in_maschera",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Un_ballo_in_maschera",
+      "edit": "https://en.m.wikipedia.org/wiki/Un_ballo_in_maschera?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Un_ballo_in_maschera"
+    }
+  },
+  "extract": "Un ballo in maschera (A Masked Ball) is an 1859 opera in three acts by Giuseppe Verdi. The text, by Antonio Somma, was based on Eugène Scribe's libretto for Daniel Auber's 1833 five act opera, Gustave III, ou Le bal masqué.",
+  "extract_html": "<p><i><b>Un ballo in maschera</b></i> <i>(A Masked Ball)</i> is an 1859 opera in three acts by Giuseppe Verdi. The text, by Antonio Somma, was based on Eugène Scribe's libretto for Daniel Auber's 1833 five act opera, <i>Gustave III, ou Le bal masqué</i>.</p>"
+}

@@ -1,0 +1,85 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup> 24 May 1899<br>(Conductor: <a href=\"/wiki/Alexandre_Luigini\" title=\"Alexandre Luigini\">Alexandre Luigini</a>)\n</th></tr>\n<tr>\n<td>Cendrillon (Cinderella)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Madame de la Haltière, <i>stepmother of Cendrillon</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Le Prince Charmant (Prince Charming)\n</td>\n<td><a href=\"/wiki/Voice_type#Soprano\" title=\"Voice type\">falcon</a> or 'soprano de sentiment'\n</td>\n</tr>\n<tr>\n<td>La Fée (the Fairy)\n</td>\n<td>light soprano\n</td>\n</tr>\n<tr>\n<td>Noémie, <i>stepsister of Cendrillon</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Dorothée, <i>stepsister of Cendrillon</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Pandolfe, <i>Cendrillon's father</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">'basse chantante'</a> or <a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Le Roi (the King)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Le Doyen de la Faculté\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a> (<a href=\"/wiki/Antoine_Trial\" title=\"Antoine Trial\">trial</a>)\n</td>\n</tr>\n<tr>\n<td>Le Surintendant des plaisirs\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Le Premier Ministre\n</td>\n<td>'basse chantante' or baritone\n</td>\n</tr>\n<tr>\n<td>1st spirit\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>2nd spirit\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>3rd spirit\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>4th spirit\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>5th spirit\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>6th spirit\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Voice of the royal herald (off-stage)\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>A ballerina\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: servants, courtiers, doctors, ministers, lords and ladies; Ballet – will-o'-the-wisps, tailors, hairdressers, milliners, a fiancé and fiancée, daughters of nobility, princesses, dewdrops.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Cendrillon (Cinderella)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Madame de la Haltière, stepmother of Cendrillon",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Le Prince Charmant (Prince Charming)",
+      "voiceType": "falcon or 'soprano de sentiment'"
+    },
+    {
+      "role": "La Fée (the Fairy)",
+      "voiceType": "light soprano"
+    },
+    {
+      "role": "Noémie, stepsister of Cendrillon",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Dorothée, stepsister of Cendrillon",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Pandolfe, Cendrillon's father",
+      "voiceType": "'basse chantante' or baritone"
+    },
+    {
+      "role": "Le Roi (the King)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Le Doyen de la Faculté",
+      "voiceType": "tenor (trial)"
+    },
+    {
+      "role": "Le Surintendant des plaisirs",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Le Premier Ministre",
+      "voiceType": "'basse chantante' or baritone"
+    },
+    {
+      "role": "1st spirit",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "2nd spirit",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "3rd spirit",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "4th spirit",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "5th spirit",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "6th spirit",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Voice of the royal herald (off-stage)",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "A ballerina",
+      "voiceType": ""
+    },
+    {
+      "role": "Chorus: servants, courtiers, doctors, ministers, lords and ladies; Ballet – will-o'-the-wisps, tailors, hairdressers, milliners, a fiancé and fiancée, daughters of nobility, princesses, dewdrops.",
+      "voiceType": ""
+    }
+  ]
+}

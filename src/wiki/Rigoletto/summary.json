@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rigoletto",
+  "displaytitle": "<i>Rigoletto</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q189234",
+  "titles": {
+    "canonical": "Rigoletto",
+    "normalized": "Rigoletto",
+    "display": "<i>Rigoletto</i>"
+  },
+  "pageid": 65957,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Philippe_Chaperon_-_Rigoletto.jpg/320px-Philippe_Chaperon_-_Rigoletto.jpg",
+    "width": 320,
+    "height": 255
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Philippe_Chaperon_-_Rigoletto.jpg",
+    "width": 5376,
+    "height": 4290
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102546665",
+  "tid": "d2777430-15f8-11ed-89a7-1bc0c447619e",
+  "timestamp": "2022-08-05T16:24:57Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rigoletto",
+      "revisions": "https://en.wikipedia.org/wiki/Rigoletto?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rigoletto?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rigoletto"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rigoletto",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rigoletto",
+      "edit": "https://en.m.wikipedia.org/wiki/Rigoletto?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rigoletto"
+    }
+  },
+  "extract": "Rigoletto is an opera in three acts by Giuseppe Verdi. The Italian libretto was written by Francesco Maria Piave based on the 1832 play Le roi s'amuse by Victor Hugo. Despite serious initial problems with the Austrian censors who had control over northern Italian theatres at the time, the opera had a triumphant premiere at La Fenice in Venice on 11 March 1851.",
+  "extract_html": "<p><i><b>Rigoletto</b></i> is an opera in three acts by Giuseppe Verdi. The Italian libretto was written by Francesco Maria Piave based on the 1832 play <i>Le roi s'amuse</i> by Victor Hugo. Despite serious initial problems with the Austrian censors who had control over northern Italian theatres at the time, the opera had a triumphant premiere at La Fenice in Venice on 11 March 1851.</p>"
+}

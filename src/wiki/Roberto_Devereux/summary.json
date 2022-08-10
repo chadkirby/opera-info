@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Roberto Devereux",
+  "displaytitle": "<i>Roberto Devereux</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q672708",
+  "titles": {
+    "canonical": "Roberto_Devereux",
+    "normalized": "Roberto Devereux",
+    "display": "<i>Roberto Devereux</i>"
+  },
+  "pageid": 552280,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Karl_Brullov_31.jpg/253px-Karl_Brullov_31.jpg",
+    "width": 253,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Karl_Brullov_31.jpg",
+    "width": 2680,
+    "height": 3388
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097627559",
+  "tid": "2f250f10-0151-11ed-86ed-e9e3dcd5b26a",
+  "timestamp": "2022-07-11T19:39:28Z",
+  "description": "Opera by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Roberto_Devereux",
+      "revisions": "https://en.wikipedia.org/wiki/Roberto_Devereux?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Roberto_Devereux?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roberto_Devereux"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Roberto_Devereux",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Roberto_Devereux",
+      "edit": "https://en.m.wikipedia.org/wiki/Roberto_Devereux?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Roberto_Devereux"
+    }
+  },
+  "extract": "Roberto Devereux is a tragedia lirica, or tragic opera, by Gaetano Donizetti. Salvadore Cammarano wrote the Italian libretto after François Ancelot's tragedy Elisabeth d'Angleterre (1829), and based as well on the Historie secrete des amours d'Elisabeth et du comte d'Essex (1787) by Jacques Lescène des Maisons. Devereux was the subject of at least two other French plays: Le Comte d'Essex by Thomas Corneille and Le Comte d'Essex by Gauthier de Costes, seigneur de la Calprenède.",
+  "extract_html": "<p><i><b>Roberto Devereux</b></i> is a <i>tragedia lirica</i>, or tragic opera, by Gaetano Donizetti. Salvadore Cammarano wrote the Italian libretto after François Ancelot's tragedy <i>Elisabeth d'Angleterre</i> (1829), and based as well on the <i>Historie secrete des amours d'Elisabeth et du comte d'Essex</i> (1787) by <i>Jacques Lescène des Maisons</i>. Devereux was the subject of at least two other French plays: <i>Le Comte d'Essex</i> by Thomas Corneille and <i>Le Comte d'Essex</i> by Gauthier de Costes, seigneur de la Calprenède.</p>"
+}

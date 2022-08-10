@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Medium",
+  "displaytitle": "<i>The Medium</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1169743",
+  "titles": {
+    "canonical": "The_Medium",
+    "normalized": "The Medium",
+    "display": "<i>The Medium</i>"
+  },
+  "pageid": 854960,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/214px-Gcmenotti.jpg",
+    "width": 214,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gcmenotti.jpg",
+    "width": 272,
+    "height": 406
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1070711854",
+  "tid": "a6082470-0f82-11ed-a360-f36c167b7cc2",
+  "timestamp": "2022-02-08T21:42:00Z",
+  "description": "Opera by Gian Carlo Menotti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Medium",
+      "revisions": "https://en.wikipedia.org/wiki/The_Medium?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Medium?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Medium"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Medium",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Medium",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Medium?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Medium"
+    }
+  },
+  "extract": "The Medium is a short (one-hour-long) two-act dramatic opera with words and music by Gian Carlo Menotti. Commissioned by the Alice M. Ditson Fund at Columbia University, its first performance was there on 8 May 1946. The opera's first professional production was presented on a double bill with Menotti's The Telephone at the Heckscher Theater, New York City, February 18–20, 1947 by the Ballet Society. The Broadway production took place on May 1, 1947, at the Ethel Barrymore Theater with the same cast.",
+  "extract_html": "<p><i><b>The Medium</b></i> is a short (one-hour-long) two-act dramatic opera with words and music by Gian Carlo Menotti. Commissioned by the Alice M. Ditson Fund at Columbia University, its first performance was there on 8 May 1946. The opera's first professional production was presented on a double bill with Menotti's <i>The Telephone</i> at the Heckscher Theater, New York City, February 18–20, 1947 by the Ballet Society. The Broadway production took place on May 1, 1947, at the Ethel Barrymore Theater with the same cast.</p>"
+}

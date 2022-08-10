@@ -1,0 +1,42 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>\n<h2><span class=\"mw-headline\" id=\"Year\">Year</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=L%27amico_Fritz&amp;action=edit&amp;section=8\" title=\"Edit section: Year\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n</th>\n<th width=\"199\">Cast<br>(Fritz, Suzel, Beppe, David)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1942</td>\n<td><a href=\"/wiki/Ferruccio_Tagliavini\" title=\"Ferruccio Tagliavini\">Ferruccio Tagliavini</a>,  <br> <a href=\"/wiki/Pia_Tassinari\" title=\"Pia Tassinari\">Pia Tassinari</a>, <br> <a href=\"/w/index.php?title=Amalia_Pini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Amalia Pini (page does not exist)\">Amalia Pini</a>, <br> <a href=\"/wiki/Saturno_Meletti\" title=\"Saturno Meletti\">Saturno Meletti</a></td>\n\n<td>Audio LP: <a href=\"/wiki/Cetra_Records\" title=\"Cetra Records\">Cetra</a>\n</td></tr>\n<tr>\n<td>1951\n</td>\n<td>Rina Gigli\n<p>Benjamin (Beniamino) Gigli\n</p><p>Afro Poli\n</p><p>Miriam Pirazzini\n</p>\n</td>\n\n<td>Audio CD: Eklipse Records\n</td></tr>\n<tr>\n<td>1968</td>\n<td><a href=\"/wiki/Luciano_Pavarotti\" title=\"Luciano Pavarotti\">Luciano Pavarotti</a>,  <br> <a href=\"/wiki/Mirella_Freni\" title=\"Mirella Freni\">Mirella Freni</a>, <br> <a href=\"/w/index.php?title=Laura_Didier_Gambardella&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Laura Didier Gambardella (page does not exist)\">Laura Didier Gambardella</a>, <br> <a href=\"/wiki/Vicente_Sardinero\" title=\"Vicente Sardinero\">Vicente Sardinero</a></td>\n\n<td>Audio CD: <a href=\"/wiki/EMI\" title=\"EMI\">EMI</a>\n</td></tr>\n<tr>\n<td>2009</td>\n<td><a href=\"/wiki/Roberto_Alagna\" title=\"Roberto Alagna\">Roberto Alagna</a>,  <br> <a href=\"/wiki/Angela_Gheorghiu\" title=\"Angela Gheorghiu\">Angela Gheorghiu</a>, <br> <a href=\"/wiki/Laura_Polverelli\" title=\"Laura Polverelli\">Laura Polverelli</a>, <br> <a href=\"/wiki/George_Petean\" title=\"George Petean\">George Petean</a></td>\n\n<td>Audio CD: <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1942,
+      "cast": [
+        "Ferruccio Tagliavini, ",
+        " Pia Tassinari, ",
+        " Amalia Pini, ",
+        " Saturno Meletti"
+      ],
+      "conductor": "Pietro Mascagni "
+    },
+    {
+      "year": 1951,
+      "cast": [
+        "Rina Gigli Benjamin (Beniamino) GigliAfro PoliMiriam Pirazzini"
+      ],
+      "conductor": "Gianandrea Gavazzeni Chorus and Orchestra of The Teatro San Carlo, Naples (1951)"
+    },
+    {
+      "year": 1968,
+      "cast": [
+        "Luciano Pavarotti, ",
+        " Mirella Freni, ",
+        " Laura Didier Gambardella, ",
+        " Vicente Sardinero"
+      ],
+      "conductor": "Gianandrea Gavazzeni "
+    },
+    {
+      "year": 2009,
+      "cast": [
+        "Roberto Alagna, ",
+        " Angela Gheorghiu, ",
+        " Laura Polverelli, ",
+        " George Petean"
+      ],
+      "conductor": "Alberto Veronesi "
+    }
+  ]
+}

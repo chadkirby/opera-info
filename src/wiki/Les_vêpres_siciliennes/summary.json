@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Les vêpres siciliennes",
+  "displaytitle": "<i>Les vêpres siciliennes</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q471645",
+  "titles": {
+    "canonical": "Les_vêpres_siciliennes",
+    "normalized": "Les vêpres siciliennes",
+    "display": "<i>Les vêpres siciliennes</i>"
+  },
+  "pageid": 1944703,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vespri_Siciliani-by_Roberto_Focosi.jpg/320px-Vespri_Siciliani-by_Roberto_Focosi.jpg",
+    "width": 320,
+    "height": 227
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Vespri_Siciliani-by_Roberto_Focosi.jpg",
+    "width": 1024,
+    "height": 727
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101577926",
+  "tid": "d0e7e400-167b-11ed-a3dd-994cad2f9c35",
+  "timestamp": "2022-07-31T19:38:00Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Les_v%C3%AApres_siciliennes",
+      "revisions": "https://en.wikipedia.org/wiki/Les_v%C3%AApres_siciliennes?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Les_v%C3%AApres_siciliennes?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Les_v%C3%AApres_siciliennes"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Les_v%C3%AApres_siciliennes",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Les_v%C3%AApres_siciliennes",
+      "edit": "https://en.m.wikipedia.org/wiki/Les_v%C3%AApres_siciliennes?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Les_v%C3%AApres_siciliennes"
+    }
+  },
+  "extract": "Les vêpres siciliennes is a grand opera in five acts by the Italian romantic composer Giuseppe Verdi set to a French libretto by Eugène Scribe and Charles Duveyrier from their work Le duc d'Albe of 1838. Les vêpres followed immediately after Verdi's three great mid-career masterpieces, Rigoletto, Il trovatore and La traviata of 1850 to 1853 and was first performed at the Paris Opéra on 13 June 1855.",
+  "extract_html": "<p><i><b>Les vêpres siciliennes</b></i> is a grand opera in five acts by the Italian romantic composer Giuseppe Verdi set to a French libretto by Eugène Scribe and Charles Duveyrier from their work <i>Le duc d'Albe</i> of 1838. <i>Les vêpres</i> followed immediately after Verdi's three great mid-career masterpieces, <i>Rigoletto</i>, <i>Il trovatore</i> and <i>La traviata</i> of 1850 to 1853 and was first performed at the Paris Opéra on 13 June 1855.</p>"
+}

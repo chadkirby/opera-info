@@ -1,0 +1,73 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>World première (sung in Italian)<br>World première cast<br>26 January 1957 (Milan)<br>(conductor: <a href=\"/wiki/Nino_Sanzogno\" title=\"Nino Sanzogno\">Nino Sanzogno</a>)\n</th>\n<th>Première of original French version<br>French première cast<br>21 June 1957 (Paris)<br>(conductor: <a href=\"/wiki/Pierre_Dervaux\" title=\"Pierre Dervaux\">Pierre Dervaux</a>)\n</th></tr>\n<tr>\n<td>Marquis de la Force\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Chevalier de la Force, <i>his son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Blanche de la Force/Sister Blanche of the Agony of Christ, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Thierry, <i>a footman</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Madame de Croissy, <i>the <a href=\"/wiki/Prioress\" class=\"mw-redirect\" title=\"Prioress\">prioress</a> of the monastery</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n</tr>\n<tr>\n<td>Sister Constance of St. Denis, <i>a young <a href=\"/wiki/Catholic_novitiate\" class=\"mw-redirect\" title=\"Catholic novitiate\">novice</a></i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Mother Marie of the Incarnation, <i>sub-prioress</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>M. Javelinot, <i>a doctor</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Madame Lidoine/Mother Marie of St. Augustine, <i>the new prioress</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Mother Jeanne of the Holy Child Jesus, <i>the oldest nun</i>\n</td>\n<td>contralto\n</td>\n\n</tr>\n<tr>\n<td>Sister Mathilde\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Chaplain of the monastery\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>First commissioner\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Second commissioner\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Officer\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Jailer\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Carmelites, officers, prisoners, townspeople</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Marquis de la Force",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chevalier de la Force, his son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Blanche de la Force/Sister Blanche of the Agony of Christ, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Thierry, a footman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Madame de Croissy, the prioress of the monastery",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Sister Constance of St. Denis, a young novice",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mother Marie of the Incarnation, sub-prioress",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "M. Javelinot, a doctor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Madame Lidoine/Mother Marie of St. Augustine, the new prioress",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mother Jeanne of the Holy Child Jesus, the oldest nun",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Sister Mathilde",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Chaplain of the monastery",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "First commissioner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second commissioner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Officer",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Jailer",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Carmelites, officers, prisoners, townspeople",
+      "voiceType": ""
+    }
+  ]
+}

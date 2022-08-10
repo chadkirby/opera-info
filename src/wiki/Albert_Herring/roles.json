@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 20 June 1947<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup><br>(Conductor: Benjamin Britten)\n</th></tr>\n<tr>\n<td>Lady Billows, <i>an elderly aristocrat</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Florence Pike, <i>her housekeeper</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Miss Wordsworth, <i>a schoolteacher</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mr. Gedge, <i>the vicar</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Mr. Upfold, <i>the mayor</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Superintendent Budd\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Sid, <i>a butcher's assistant</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Albert Herring, <i>from the greengrocer's</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Nancy, <i>from the bakery</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mrs. Herring, <i>Albert's mother</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Emmie\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Cis\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Harry\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">treble</a>\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Lady Billows, an elderly aristocrat",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Florence Pike, her housekeeper",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Miss Wordsworth, a schoolteacher",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mr. Gedge, the vicar",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mr. Upfold, the mayor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Superintendent Budd",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sid, a butcher's assistant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Albert Herring, from the greengrocer's",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nancy, from the bakery",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Mrs. Herring, Albert's mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Emmie",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Cis",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Harry",
+      "voiceType": "treble"
+    }
+  ]
+}

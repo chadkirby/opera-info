@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 14 December 1918<br>Conductor: <a href=\"/wiki/Roberto_Moranzoni\" title=\"Roberto Moranzoni\">Roberto Moranzoni</a>\n</th></tr>\n<tr>\n<td>Sister Angelica\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>The Princess, <i>her aunt</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>The Abbess\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>The Monitress\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>The Mistress of the novices\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Sister Genovieffa\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Sister Osmina\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Sister Dolcina\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>The nursing sister\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>The alms sisters\n</td>\n<td>sopranos\n</td>\n</tr>\n<tr>\n<td>A novice\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>The lay sisters\n</td>\n<td>soprano and mezzo-soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Offstage chorus of women, children, and men</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Sister Angelica",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Princess, her aunt",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "The Abbess",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The Monitress",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The Mistress of the novices",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Sister Genovieffa",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sister Osmina",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sister Dolcina",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The nursing sister",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The alms sisters",
+      "voiceType": "sopranos"
+    },
+    {
+      "role": "A novice",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The lay sisters",
+      "voiceType": "soprano and mezzo-soprano"
+    },
+    {
+      "role": "Offstage chorus of women, children, and men",
+      "voiceType": ""
+    }
+  ]
+}

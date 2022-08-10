@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Francesco Cavalli",
+  "displaytitle": "Francesco Cavalli",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q108062",
+  "titles": {
+    "canonical": "Francesco_Cavalli",
+    "normalized": "Francesco Cavalli",
+    "display": "Francesco Cavalli"
+  },
+  "pageid": 103251,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francesco_Cavalli.png/258px-Francesco_Cavalli.png",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Francesco_Cavalli.png",
+    "width": 285,
+    "height": 354
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083073094",
+  "tid": "dc744b20-119d-11ed-a5d7-ef4f0f01a555",
+  "timestamp": "2022-04-16T21:30:03Z",
+  "description": "Italian composer (1602–1676)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Francesco_Cavalli",
+      "revisions": "https://en.wikipedia.org/wiki/Francesco_Cavalli?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Francesco_Cavalli?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Francesco_Cavalli"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Francesco_Cavalli",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Francesco_Cavalli",
+      "edit": "https://en.m.wikipedia.org/wiki/Francesco_Cavalli?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Francesco_Cavalli"
+    }
+  },
+  "extract": "Francesco Cavalli was an Italian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-century. A central figure of Venetian musical life, Cavalli wrote more than forty operas, almost all of which premiered in Viennese theaters. His best known works include Ormindo (1644), Giasone (1649) and La Calisto (1651).",
+  "extract_html": "<p><b>Francesco Cavalli</b> was an Italian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-century. A central figure of Venetian musical life, Cavalli wrote more than forty operas, almost all of which premiered in Viennese theaters. His best known works include <i>Ormindo</i> (1644), <i>Giasone</i> (1649) and <i>La Calisto</i> (1651).</p>"
+}

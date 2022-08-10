@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mitridate, re di Ponto",
+  "displaytitle": "<i>Mitridate, re di Ponto</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q62338",
+  "titles": {
+    "canonical": "Mitridate,_re_di_Ponto",
+    "normalized": "Mitridate, re di Ponto",
+    "display": "<i>Mitridate, re di Ponto</i>"
+  },
+  "pageid": 4435955,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Martini_bologna_mozart_1777.jpg/272px-Martini_bologna_mozart_1777.jpg",
+    "width": 272,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martini_bologna_mozart_1777.jpg",
+    "width": 510,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085106496",
+  "tid": "ccdd3db0-f9de-11ec-b30a-a5ed547ab1e3",
+  "timestamp": "2022-04-28T12:59:23Z",
+  "description": "Early opera seria in three acts by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mitridate%2C_re_di_Ponto",
+      "revisions": "https://en.wikipedia.org/wiki/Mitridate%2C_re_di_Ponto?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mitridate%2C_re_di_Ponto?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mitridate%2C_re_di_Ponto"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Mitridate%2C_re_di_Ponto",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mitridate%2C_re_di_Ponto",
+      "edit": "https://en.m.wikipedia.org/wiki/Mitridate%2C_re_di_Ponto?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Mitridate%2C_re_di_Ponto"
+    }
+  },
+  "extract": "Mitridate, re di Ponto, K. 87 (74a), is an opera seria in three acts by the young Wolfgang Amadeus Mozart. The libretto is by Vittorio Amedeo Cigna-Santi, after Giuseppe Parini's Italian translation of Jean Racine's play Mithridate.",
+  "extract_html": "<p><i><b>Mitridate, re di Ponto</b></i>, K. 87 (74a), is an opera seria in three acts by the young Wolfgang Amadeus Mozart. The libretto is by Vittorio Amedeo Cigna-Santi, after Giuseppe Parini's Italian translation of Jean Racine's play <i>Mithridate</i>.</p>"
+}

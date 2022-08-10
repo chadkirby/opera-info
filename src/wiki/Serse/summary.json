@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Serse",
+  "displaytitle": "<i>Serse</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1069133",
+  "titles": {
+    "canonical": "Serse",
+    "normalized": "Serse",
+    "display": "<i>Serse</i>"
+  },
+  "pageid": 354595,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Georg_Friedrich_H%C3%A4ndel_-_Serse_-_title_page_of_the_libretto_-_London_1738.png/185px-Georg_Friedrich_H%C3%A4ndel_-_Serse_-_title_page_of_the_libretto_-_London_1738.png",
+    "width": 185,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Georg_Friedrich_H%C3%A4ndel_-_Serse_-_title_page_of_the_libretto_-_London_1738.png",
+    "width": 357,
+    "height": 617
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095826860",
+  "tid": "8f7a0530-1247-11ed-87be-83642e1c2ee4",
+  "timestamp": "2022-06-30T16:36:30Z",
+  "description": "1738 opera seria by Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Serse",
+      "revisions": "https://en.wikipedia.org/wiki/Serse?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Serse?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Serse"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Serse",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Serse",
+      "edit": "https://en.m.wikipedia.org/wiki/Serse?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Serse"
+    }
+  },
+  "extract": "Serse is an opera seria in three acts by George Frideric Handel. It was first performed in London on 15 April 1738. The Italian libretto was adapted by an unknown hand from that by Silvio Stampiglia (1664–1725) for an earlier opera of the same name by Giovanni Bononcini in 1694. Stampiglia's libretto was itself based on one by Nicolò Minato (ca.1627–1698) that was set by Francesco Cavalli in 1654. The opera is set in Persia about 470 BC and is very loosely based upon Xerxes I of Persia. Serse, originally sung by a mezzo-soprano castrato, is now usually performed by a female mezzo-soprano or countertenor.",
+  "extract_html": "<p><i><b>Serse</b></i> is an opera seria in three acts by George Frideric Handel. It was first performed in London on 15 April 1738. The Italian libretto was adapted by an unknown hand from that by Silvio Stampiglia (1664–1725) for an earlier opera of the same name by Giovanni Bononcini in 1694. Stampiglia's libretto was itself based on one by Nicolò Minato (ca.1627–1698) that was set by Francesco Cavalli in 1654. The opera is set in Persia about 470 BC and is very loosely based upon Xerxes I of Persia. Serse, originally sung by a mezzo-soprano castrato, is now usually performed by a female mezzo-soprano or countertenor.</p>"
+}

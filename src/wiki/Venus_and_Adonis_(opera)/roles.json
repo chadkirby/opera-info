@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Cupid\" title=\"Cupid\">Cupid</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Venus_(god)\" class=\"mw-redirect\" title=\"Venus (god)\">Venus</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Adonis\" title=\"Adonis\">Adonis</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Shepherd\" title=\"Shepherd\">Shepherd</a>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> or <a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a>\n</td>\n</tr>\n<tr>\n<td>Shepherdess\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Huntsman\n</td>\n<td>contralto or countertenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Cupids, shepherds and shepherdesses, huntsmen, and courtiers</i> (chorus)\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Cupid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Venus",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Adonis",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Shepherd",
+      "voiceType": "contralto or countertenor"
+    },
+    {
+      "role": "Shepherdess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Huntsman",
+      "voiceType": "contralto or countertenor"
+    },
+    {
+      "role": "Cupids, shepherds and shepherdesses, huntsmen, and courtiers (chorus)",
+      "voiceType": ""
+    }
+  ]
+}

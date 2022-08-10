@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lakmé",
+  "displaytitle": "<i>Lakmé</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q776107",
+  "titles": {
+    "canonical": "Lakmé",
+    "normalized": "Lakmé",
+    "display": "<i>Lakmé</i>"
+  },
+  "pageid": 311664,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Poster_for_the_premi%C3%A8re_of_L%C3%A9o_Delibes%27_Lakm%C3%A9_-_Original.jpg/234px-Poster_for_the_premi%C3%A8re_of_L%C3%A9o_Delibes%27_Lakm%C3%A9_-_Original.jpg",
+    "width": 234,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Poster_for_the_premi%C3%A8re_of_L%C3%A9o_Delibes%27_Lakm%C3%A9_-_Original.jpg",
+    "width": 7148,
+    "height": 9760
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1089305707",
+  "tid": "2be4dbd0-0f81-11ed-aa2a-5718e0454c8e",
+  "timestamp": "2022-05-23T01:51:37Z",
+  "description": "Opera by Léo Delibes",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lakm%C3%A9",
+      "revisions": "https://en.wikipedia.org/wiki/Lakm%C3%A9?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lakm%C3%A9?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lakm%C3%A9"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Lakm%C3%A9",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lakm%C3%A9",
+      "edit": "https://en.m.wikipedia.org/wiki/Lakm%C3%A9?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Lakm%C3%A9"
+    }
+  },
+  "extract": "Lakmé is an opera in three acts by Léo Delibes to a French libretto by Edmond Gondinet and Philippe Gille.",
+  "extract_html": "<p><i><b>Lakmé</b></i> is an opera in three acts by Léo Delibes to a French libretto by Edmond Gondinet and Philippe Gille.</p>"
+}

@@ -1,0 +1,29 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-Institute_11-0\" class=\"reference\"><a href=\"#cite_note-Institute-11\">[11]</a></sup>\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 31 October 1724\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Timur\" title=\"Timur\">Tamerlano</a>, <i>Emperor of the Tartars</i>\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Bayezid_I\" title=\"Bayezid I\">Bajazet</a>, <i>Sultan of the Turks</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Asteria, <i>Bajazet's daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Andronico, <i>Greek prince</i>\n</td>\n<td>alto castrato\n</td>\n</tr>\n<tr>\n<td>Irene, <i>Princess of <a href=\"/wiki/Empire_of_Trebizond\" title=\"Empire of Trebizond\">Trebizond</a>, betrothed to Tamerlano</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Leone, <i>friend of Andronico and Tamerlano</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Tamerlano, Emperor of the Tartars",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Bajazet, Sultan of the Turks",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Asteria, Bajazet's daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Andronico, Greek prince",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Irene, Princess of Trebizond, betrothed to Tamerlano",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Leone, friend of Andronico and Tamerlano",
+      "voiceType": "bass"
+    }
+  ]
+}

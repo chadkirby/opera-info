@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gustav Holst",
+  "displaytitle": "Gustav Holst",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q200867",
+  "titles": {
+    "canonical": "Gustav_Holst",
+    "normalized": "Gustav Holst",
+    "display": "Gustav Holst"
+  },
+  "pageid": 49241,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Gustav-Holst-1921.jpg/234px-Gustav-Holst-1921.jpg",
+    "width": 234,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/f6/Gustav-Holst-1921.jpg",
+    "width": 790,
+    "height": 1079
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096990512",
+  "tid": "11008da0-119d-11ed-9f6c-078de1918203",
+  "timestamp": "2022-07-08T00:23:25Z",
+  "description": "English composer (1874–1934)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gustav_Holst",
+      "revisions": "https://en.wikipedia.org/wiki/Gustav_Holst?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gustav_Holst?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gustav_Holst"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gustav_Holst",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gustav_Holst",
+      "edit": "https://en.m.wikipedia.org/wiki/Gustav_Holst?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gustav_Holst"
+    }
+  },
+  "extract": "Gustav Theodore Holst was an English composer, arranger and teacher. Best known for his orchestral suite The Planets, he composed many other works across a range of genres, although none achieved comparable success. His distinctive compositional style was the product of many influences, Richard Wagner and Richard Strauss being most crucial early in his development. The subsequent inspiration of the English folksong revival of the early 20th century, and the example of such rising modern composers as Maurice Ravel, led Holst to develop and refine an individual style.",
+  "extract_html": "<p><b>Gustav Theodore Holst</b> was an English composer, arranger and teacher. Best known for his orchestral suite <i>The Planets</i>, he composed many other works across a range of genres, although none achieved comparable success. His distinctive compositional style was the product of many influences, Richard Wagner and Richard Strauss being most crucial early in his development. The subsequent inspiration of the English folksong revival of the early 20th century, and the example of such rising modern composers as Maurice Ravel, led Holst to develop and refine an individual style.</p>"
+}

@@ -1,0 +1,60 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Alaide<br>(<i>La straniera</i>),<br>Il signore di Montolino,<br>Isoletta, Arturo, Valdeburgo\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[20]</a></sup>\n</th></tr>\n<tr>\n<td>1968\n</td>\n<td><a href=\"/wiki/Renata_Scotto\" title=\"Renata Scotto\">Renata Scotto</a>,<br>Enrico Campi,<br>Elena Zilio,<br>Renato Cioni,<br>Domenico Trimarchi\n</td>\n\n<td>CD: Melodram,<br>Cat: 27039;<br>Myto,<br>Cat: 3MCD-971-151 (highlights +Zaira),<br>Myto,<br>Cat: 2 MCD-023-265\n</td></tr>\n<tr>\n<td>1970\n</td>\n<td>Renata Scotto,<br>Francesco Signor,<br>Elena Zilio,<br>Beniamino Prior,<br>Domenico Trimarchi\n</td>\n\n<td>CD: Opera d'Oro<br>Cat# OPD 1261\n</td></tr>\n<tr>\n<td>1993\n</td>\n<td><a href=\"/wiki/Ren%C3%A9e_Fleming\" title=\"Renée Fleming\">Renée Fleming</a>,<br>Rafael Le Bron,<br>Ning Liang,<br><a href=\"/wiki/Gregory_Kunde\" title=\"Gregory Kunde\">Gregory Kunde</a>,<br>Gaétan Laperrière\n</td>\n\n<td>CD: Celestial Audio,<br>Cat: CA 607\n</td></tr>\n<tr>\n<td>2007\n</td>\n<td><a href=\"/wiki/Patrizia_Ciofi\" title=\"Patrizia Ciofi\">Patrizia Ciofi</a>,<br>Roland Wood,<br><span class=\"nowrap\">Enkelejda Shokas</span>,<br>Dario Schmunck,<br>Mark Stone\n</td>\n\n<td>CD: <a href=\"/wiki/Opera_Rara\" title=\"Opera Rara\">Opera Rara</a>,<br>ORC 38\n</td></tr>\n<tr>\n<td>2015\n</td>\n<td><a href=\"/wiki/Edita_Gruberov%C3%A1\" title=\"Edita Gruberová\">Edita Gruberová</a>,<br> Kay Stiefermann,<br> <a href=\"/wiki/Laura_Polverelli\" title=\"Laura Polverelli\">Laura Polverelli</a>,<br>  José Bros,<br> Luca Grassi\n</td>\n\n<td>CD: Nightingale,<br>NC 0715603<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\">[21]</a></sup>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1968,
+      "cast": [
+        "Renata Scotto",
+        "Enrico Campi",
+        "Elena Zilio",
+        "Renato Cioni",
+        "Domenico Trimarchi"
+      ],
+      "conductor": "Nino Sanzogno"
+    },
+    {
+      "year": 1970,
+      "cast": [
+        "Renata Scotto",
+        "Francesco Signor",
+        "Elena Zilio",
+        "Beniamino Prior",
+        "Domenico Trimarchi"
+      ],
+      "conductor": "Ettore Gracis"
+    },
+    {
+      "year": 1993,
+      "cast": [
+        "Renée Fleming",
+        "Rafael Le Bron",
+        "Ning Liang",
+        "Gregory Kunde",
+        "Gaétan Laperrière"
+      ],
+      "conductor": "Eve Queler"
+    },
+    {
+      "year": 2007,
+      "cast": [
+        "Patrizia Ciofi",
+        "Roland Wood",
+        "Enkelejda Shokas",
+        "Dario Schmunck",
+        "Mark Stone"
+      ],
+      "conductor": "David Parry"
+    },
+    {
+      "year": 2015,
+      "cast": [
+        "Edita Gruberová",
+        " Kay Stiefermann",
+        " Laura Polverelli",
+        " José Bros",
+        " Luca Grassi"
+      ],
+      "conductor": "Pietro Rizzo"
+    }
+  ]
+}

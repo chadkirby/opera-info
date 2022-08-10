@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Iolanta",
+  "displaytitle": "<i>Iolanta</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1043372",
+  "titles": {
+    "canonical": "Iolanta",
+    "normalized": "Iolanta",
+    "display": "<i>Iolanta</i>"
+  },
+  "pageid": 2015141,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Iolanta_spb1.JPG/320px-Iolanta_spb1.JPG",
+    "width": 320,
+    "height": 240
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Iolanta_spb1.JPG",
+    "width": 2592,
+    "height": 1944
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093034142",
+  "tid": "1c654450-11a8-11ed-ac98-bd92903f0ca5",
+  "timestamp": "2022-06-14T04:32:00Z",
+  "description": "Opera by Pyotr Ilyich Tchaikovsky",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Iolanta",
+      "revisions": "https://en.wikipedia.org/wiki/Iolanta?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Iolanta?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Iolanta"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Iolanta",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Iolanta",
+      "edit": "https://en.m.wikipedia.org/wiki/Iolanta?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Iolanta"
+    }
+  },
+  "extract": "Iolanta, Op. 69, is a lyric opera in one act by Pyotr Tchaikovsky. It was the last opera he composed. The libretto was written by the composer's brother Modest Tchaikovsky, and is based on the Danish play Kong Renés Datter by Henrik Hertz, a romanticised account of the life of Yolande de Bar. In the original Danish play, the spelling of the princess's name was \"Iolanthe\", later adopted for the otherwise unrelated Gilbert and Sullivan operetta of that name. The play was translated by Fyodor Miller and adapted by Vladimir Zotov. The opera received its premiere on 18 December 1892 in Saint Petersburg.",
+  "extract_html": "<p><i><b>Iolanta</b></i>, Op. 69, is a lyric opera in one act by Pyotr Tchaikovsky. It was the last opera he composed. The libretto was written by the composer's brother Modest Tchaikovsky, and is based on the Danish play <i><span><i lang=\"da\">Kong Renés Datter</i></span></i> by Henrik Hertz, a romanticised account of the life of Yolande de Bar. In the original Danish play, the spelling of the princess's name was \"Iolanthe\", later adopted for the otherwise unrelated Gilbert and Sullivan operetta of that name. The play was translated by Fyodor Miller and adapted by Vladimir Zotov. The opera received its premiere on 18 December 1892 in Saint Petersburg.</p>"
+}

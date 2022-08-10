@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Giovanni Battista Pergolesi",
+  "displaytitle": "Giovanni Battista Pergolesi",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q185312",
+  "titles": {
+    "canonical": "Giovanni_Battista_Pergolesi",
+    "normalized": "Giovanni Battista Pergolesi",
+    "display": "Giovanni Battista Pergolesi"
+  },
+  "pageid": 38099,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Giovanni_Battista_Pergolesi.jpg/249px-Giovanni_Battista_Pergolesi.jpg",
+    "width": 249,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Giovanni_Battista_Pergolesi.jpg",
+    "width": 1106,
+    "height": 1420
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094393814",
+  "tid": "e1aa2cf0-119c-11ed-98c9-210f724fa899",
+  "timestamp": "2022-06-22T10:18:55Z",
+  "description": "Italian composer, violinist and organist (1710–1736)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Giovanni_Battista_Pergolesi",
+      "revisions": "https://en.wikipedia.org/wiki/Giovanni_Battista_Pergolesi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Giovanni_Battista_Pergolesi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Giovanni_Battista_Pergolesi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Giovanni_Battista_Pergolesi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Giovanni_Battista_Pergolesi",
+      "edit": "https://en.m.wikipedia.org/wiki/Giovanni_Battista_Pergolesi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Giovanni_Battista_Pergolesi"
+    }
+  },
+  "extract": "Giovanni Battista Draghi, often referred to as Giovanni Battista Pergolesi, was an Italian Baroque composer, violinist, and organist. His best-known works include his Stabat Mater and the opera La serva padrona. His compositions include operas and sacred music. He died of tuberculosis at the age of 26.",
+  "extract_html": "<p><b>Giovanni Battista Draghi</b>, often referred to as <b>Giovanni Battista Pergolesi</b>, was an Italian Baroque composer, violinist, and organist. His best-known works include his Stabat Mater and the opera <i>La serva padrona</i>. His compositions include operas and sacred music. He died of tuberculosis at the age of 26.</p>"
+}

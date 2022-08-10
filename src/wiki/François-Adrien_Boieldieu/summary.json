@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "François-Adrien Boieldieu",
+  "displaytitle": "François-Adrien Boieldieu",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q109875",
+  "titles": {
+    "canonical": "François-Adrien_Boieldieu",
+    "normalized": "François-Adrien Boieldieu",
+    "display": "François-Adrien Boieldieu"
+  },
+  "pageid": 1550296,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/L%C3%A9on_Riesener_-_Portrait_de_Fran%C3%A7ois-Adrien_Boieldieu.jpg/270px-L%C3%A9on_Riesener_-_Portrait_de_Fran%C3%A7ois-Adrien_Boieldieu.jpg",
+    "width": 270,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/L%C3%A9on_Riesener_-_Portrait_de_Fran%C3%A7ois-Adrien_Boieldieu.jpg",
+    "width": 1306,
+    "height": 1547
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088812188",
+  "tid": "273de2d0-f9a5-11ec-ac9c-1fbf0573501f",
+  "timestamp": "2022-05-20T07:13:16Z",
+  "description": "French composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu",
+      "revisions": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Fran%C3%A7ois-Adrien_Boieldieu"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Fran%C3%A7ois-Adrien_Boieldieu",
+      "edit": "https://en.m.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Fran%C3%A7ois-Adrien_Boieldieu"
+    }
+  },
+  "extract": "François-Adrien Boieldieu was a French composer, mainly of operas, often called \"the French Mozart\". His date of birth was also cited as December 15th by his biographer and writer Lucien Augé de Lassus and as September 15th by some local press releases.",
+  "extract_html": "<p><b>François-Adrien Boieldieu</b> was a French composer, mainly of operas, often called \"the French Mozart\". His date of birth was also cited as December 15th by his biographer and writer Lucien Augé de Lassus and as September 15th by some local press releases.</p>"
+}

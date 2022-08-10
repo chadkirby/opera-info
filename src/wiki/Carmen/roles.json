@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable plainrowheaders\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th scope=\"col\">Role\n</th>\n<th scope=\"col\"><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-OMO2_14-0\" class=\"reference\"><a href=\"#cite_note-OMO2-14\">[13]</a></sup>\n</th>\n<th scope=\"col\">Premiere cast, 3 March 1875<br>Conductor: <a href=\"/wiki/Adolphe_Deloffre\" title=\"Adolphe Deloffre\">Adolphe Deloffre</a><sup id=\"cite_ref-D112_15-0\" class=\"reference\"><a href=\"#cite_note-D112-15\">[14]</a></sup>\n</th></tr>\n<tr>\n<th scope=\"row\">Carmen, <i>A Gypsy Girl</i>\n</th>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Don José, <i>Corporal of Dragoons</i>\n</th>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Escamillo, <i>Toreador</i>\n</th>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a><sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\">[n 2]</a></sup>\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Micaëla, <i>A Village Maiden</i>\n</th>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Zuniga, <i>Lieutenant of Dragoons</i>\n</th>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Moralès, <i>Corporal of Dragoons</i>\n</th>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Frasquita, <i>Companion of Carmen</i>\n</th>\n<td>soprano\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Mercédès, <i>Companion of Carmen</i>\n</th>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Lillas Pastia, <i>an innkeeper</i>\n</th>\n<td>spoken\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Le Dancaïre, <i>smuggler</i>\n</th>\n<td>baritone\n</td>\n</tr>\n<tr>\n<th scope=\"row\">Le Remendado, <i>smuggler</i>\n</th>\n<td>tenor\n</td>\n</tr>\n<tr>\n<th scope=\"row\">A guide\n</th>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Soldiers, young men, cigarette factory girls, Escamillo's supporters, Gypsies, merchants and orange sellers, police, bullfighters, people, urchins.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Carmen, A Gypsy Girl",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Don José, Corporal of Dragoons",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Escamillo, Toreador",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Micaëla, A Village Maiden",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Zuniga, Lieutenant of Dragoons",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Moralès, Corporal of Dragoons",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Frasquita, Companion of Carmen",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mercédès, Companion of Carmen",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Lillas Pastia, an innkeeper",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Le Dancaïre, smuggler",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Le Remendado, smuggler",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A guide",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Chorus: Soldiers, young men, cigarette factory girls, Escamillo's supporters, Gypsies, merchants and orange sellers, police, bullfighters, people, urchins.",
+      "voiceType": ""
+    }
+  ]
+}

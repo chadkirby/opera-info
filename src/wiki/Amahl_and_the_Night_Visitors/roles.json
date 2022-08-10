@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, December 24, 1951<br>(Conductor: <a href=\"/wiki/Thomas_Schippers\" title=\"Thomas Schippers\">Thomas Schippers</a>)\n</th></tr>\n<tr>\n<td>Amahl\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">boy soprano</a>\n</td>\n</tr>\n<tr>\n<td>The Mother\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>King <a href=\"/wiki/Saint_Caspar\" class=\"mw-redirect\" title=\"Saint Caspar\">Kaspar</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>King <a href=\"/wiki/Melchior\" title=\"Melchior\">Melchior</a>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>King <a href=\"/wiki/Biblical_Magi#Names\" title=\"Biblical Magi\">Balthazar</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The Page\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Dancing Shepherds\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Shepherds and Villagers</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Amahl",
+      "voiceType": "boy soprano"
+    },
+    {
+      "role": "The Mother",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "King Kaspar",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "King Melchior",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "King Balthazar",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Page",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Dancing Shepherds",
+      "voiceType": ""
+    },
+    {
+      "role": "Shepherds and Villagers",
+      "voiceType": ""
+    }
+  ]
+}

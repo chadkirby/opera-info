@@ -1,0 +1,109 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 21 May 1925<sup id=\"cite_ref-Beaumont_(1985)_3-1\" class=\"reference\"><a href=\"#cite_note-Beaumont_(1985)-3\">[3]</a></sup><br>(Conductor: <a href=\"/wiki/Fritz_Busch\" title=\"Fritz Busch\">Fritz Busch</a>)\n</th></tr>\n<tr>\n<td>The Poet\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Faust\" title=\"Faust\">Doktor Faust</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Wagner, <i>his <a href=\"https://en.wiktionary.org/wiki/famulus\" class=\"extiw\" title=\"wiktionary:famulus\">famulus</a></i>,<br><i>later <a href=\"/wiki/Rector_(academia)\" title=\"Rector (academia)\">Rector magnificus</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Mephistopheles\" title=\"Mephistopheles\">Mephistopheles</a>, <i>sixth voice</i>,<br><i>a man dressed in black</i>, <br><i>a monk</i>, <i>a herald</i>, <i>court chaplain</i>,<br><i>courier</i>, <i>night-watchman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/List_of_Dukes_of_Parma\" class=\"mw-redirect\" title=\"List of Dukes of Parma\">The Duke of Parma</a>\n</td>\n<td>tenor or baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/List_of_Dukes_of_Parma\" class=\"mw-redirect\" title=\"List of Dukes of Parma\">The Duchess of Parma</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Master_of_Ceremonies\" class=\"mw-redirect\" title=\"Master of Ceremonies\">Master of Ceremonies</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The girl's brother, <i>a soldier</i>\n</td>\n<td>tenor or baritone\n</td>\n</tr>\n<tr>\n<td>A lieutenant\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>First student from <a href=\"/wiki/Krak%C3%B3w\" title=\"Kraków\">Cracow</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second student from Cracow\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Third student from Cracow\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Theologian\" class=\"mw-redirect\" title=\"Theologian\">Theologian</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Law student\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Natural_science\" title=\"Natural science\">Natural scientist</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>First student from <a href=\"/wiki/Wittenberg\" title=\"Wittenberg\">Wittenberg</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second student from Wittenberg\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Third student from Wittenberg\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Fourth student from Wittenberg\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Gravis,<sup id=\"cite_ref-Gravis/Levis_20-0\" class=\"reference\"><a href=\"#cite_note-Gravis/Levis-20\">[nb 6]</a></sup> <i>first spirit voice</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Levis,<sup id=\"cite_ref-Gravis/Levis_20-1\" class=\"reference\"><a href=\"#cite_note-Gravis/Levis-20\">[nb 6]</a></sup> <i>second spirit voice</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Asmodai\" class=\"mw-redirect\" title=\"Asmodai\">Asmodus</a>, <i>third spirit voice</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Beelzebub\" title=\"Beelzebub\">Beelzebuth</a>, <i>fourth spirit voice</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Megäros,<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\">[nb 7]</a></sup> <i>fifth spirit voice</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Voices from on high\n</td>\n<td>soprano<br>soprano<br>alto<br>alto<br>tenor<br>tenor<br>bass<br>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>churchgoers, spirit voices, soldiers, courtiers, Catholic and Lutheran <br>students, huntsmen, peasants;</i> Dancers: <i>fencing pages</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "The Poet",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Doktor Faust",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Wagner, his famulus,\nlater Rector magnificus",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mephistopheles, sixth voice,\na man dressed in black, \na monk, a herald, court chaplain,\ncourier, night-watchman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Duke of Parma",
+      "voiceType": "tenor or baritone"
+    },
+    {
+      "role": "The Duchess of Parma",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Master of Ceremonies",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The girl's brother, a soldier",
+      "voiceType": "tenor or baritone"
+    },
+    {
+      "role": "A lieutenant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "First student from Cracow",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second student from Cracow",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Third student from Cracow",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Theologian",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Law student",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Natural scientist",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "First student from Wittenberg",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second student from Wittenberg",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Third student from Wittenberg",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fourth student from Wittenberg",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Gravis, first spirit voice",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Levis, second spirit voice",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Asmodus, third spirit voice",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Beelzebuth, fourth spirit voice",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Megäros, fifth spirit voice",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Voices from on high",
+      "voiceType": "soprano\nsoprano\nalto\nalto\ntenor\ntenor\nbass\nbass"
+    },
+    {
+      "role": "Chorus: churchgoers, spirit voices, soldiers, courtiers, Catholic and Lutheran \nstudents, huntsmen, peasants; Dancers: fencing pages",
+      "voiceType": ""
+    }
+  ]
+}

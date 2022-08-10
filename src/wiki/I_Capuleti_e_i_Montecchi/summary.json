@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "I Capuleti e i Montecchi",
+  "displaytitle": "<i>I Capuleti e i Montecchi</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1071307",
+  "titles": {
+    "canonical": "I_Capuleti_e_i_Montecchi",
+    "normalized": "I Capuleti e i Montecchi",
+    "display": "<i>I Capuleti e i Montecchi</i>"
+  },
+  "pageid": 3065626,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Giuditta_Grisi_and_Amalia_Schutz-Bellini%27s_I_Capuleti-La_Scala_1830.jpg/194px-Giuditta_Grisi_and_Amalia_Schutz-Bellini%27s_I_Capuleti-La_Scala_1830.jpg",
+    "width": 194,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Giuditta_Grisi_and_Amalia_Schutz-Bellini%27s_I_Capuleti-La_Scala_1830.jpg",
+    "width": 600,
+    "height": 988
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086132607",
+  "tid": "94b7cf20-11aa-11ed-bc28-25b7a25c73db",
+  "timestamp": "2022-05-04T10:21:27Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi",
+      "revisions": "https://en.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:I_Capuleti_e_i_Montecchi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/I_Capuleti_e_i_Montecchi",
+      "edit": "https://en.m.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:I_Capuleti_e_i_Montecchi"
+    }
+  },
+  "extract": "I Capuleti e i Montecchi is an Italian opera in two acts by Vincenzo Bellini. The libretto by Felice Romani was a reworking of the story of Romeo and Juliet for an opera by Nicola Vaccai called Giulietta e Romeo and based on the play of the same name by Luigi Scevola written in 1818, thus an Italian source rather than taken directly from William Shakespeare.",
+  "extract_html": "<p><i><b>I Capuleti e i Montecchi</b></i> is an Italian opera in two acts by Vincenzo Bellini. The libretto by Felice Romani was a reworking of the story of <i>Romeo and Juliet</i> for an opera by Nicola Vaccai called <i>Giulietta e Romeo</i> and based on the play of the same name by Luigi Scevola written in 1818, thus an Italian source rather than taken directly from William Shakespeare.</p>"
+}

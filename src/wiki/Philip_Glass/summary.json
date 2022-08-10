@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Philip Glass",
+  "displaytitle": "Philip Glass",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q189729",
+  "titles": {
+    "canonical": "Philip_Glass",
+    "normalized": "Philip Glass",
+    "display": "Philip Glass"
+  },
+  "pageid": 24540,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Philip_Glass_in_Florence%2C_Italy_-_1993.jpg/199px-Philip_Glass_in_Florence%2C_Italy_-_1993.jpg",
+    "width": 199,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Philip_Glass_in_Florence%2C_Italy_-_1993.jpg",
+    "width": 2071,
+    "height": 3328
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103107912",
+  "tid": "db6e9b40-178d-11ed-98eb-75e7564b6b0d",
+  "timestamp": "2022-08-08T10:23:15Z",
+  "description": "American composer (born 1937)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Philip_Glass",
+      "revisions": "https://en.wikipedia.org/wiki/Philip_Glass?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Philip_Glass?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Philip_Glass"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Philip_Glass",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Philip_Glass",
+      "edit": "https://en.m.wikipedia.org/wiki/Philip_Glass?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Philip_Glass"
+    }
+  },
+  "extract": "Philip Morris Glass is an American composer and pianist. He is widely regarded as one of the most influential composers of the late 20th century. Glass's work has been associated with minimalism, being built up from repetitive phrases and shifting layers. Glass describes himself as a composer of \"music with repetitive structures\", which he has helped evolve stylistically.",
+  "extract_html": "<p><b>Philip Morris Glass</b> is an American composer and pianist. He is widely regarded as one of the most influential composers of the late 20th century. Glass's work has been associated with minimalism, being built up from repetitive phrases and shifting layers. Glass describes himself as a composer of \"music with repetitive structures\", which he has helped evolve stylistically.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gottfried von Einem",
+  "displaytitle": "Gottfried von Einem",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q434389",
+  "titles": {
+    "canonical": "Gottfried_von_Einem",
+    "normalized": "Gottfried von Einem",
+    "display": "Gottfried von Einem"
+  },
+  "pageid": 1482940,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Komponist_Gottfried_von_Einem_%28Kiel_38.098%29.jpg/212px-Komponist_Gottfried_von_Einem_%28Kiel_38.098%29.jpg",
+    "width": 212,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Komponist_Gottfried_von_Einem_%28Kiel_38.098%29.jpg",
+    "width": 986,
+    "height": 1489
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100318957",
+  "tid": "3578b6f0-12a9-11ed-8359-bb57a5435a22",
+  "timestamp": "2022-07-25T08:52:32Z",
+  "description": "Austrian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gottfried_von_Einem",
+      "revisions": "https://en.wikipedia.org/wiki/Gottfried_von_Einem?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gottfried_von_Einem?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gottfried_von_Einem"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gottfried_von_Einem",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gottfried_von_Einem",
+      "edit": "https://en.m.wikipedia.org/wiki/Gottfried_von_Einem?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gottfried_von_Einem"
+    }
+  },
+  "extract": "Gottfried von Einem was an Austrian composer. He is known chiefly for his operas influenced by the music of Stravinsky and Prokofiev, as well as by jazz. He also composed pieces for piano, violin and organ.",
+  "extract_html": "<p><b>Gottfried von Einem</b> was an Austrian composer. He is known chiefly for his operas influenced by the music of Stravinsky and Prokofiev, as well as by jazz. He also composed pieces for piano, violin and organ.</p>"
+}

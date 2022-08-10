@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Falstaff (opera)",
+  "displaytitle": "<i>Falstaff</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q318455",
+  "titles": {
+    "canonical": "Falstaff_(opera)",
+    "normalized": "Falstaff (opera)",
+    "display": "<i>Falstaff</i> (opera)"
+  },
+  "pageid": 37885,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Lucien-Fug%C3%A8re-as-Falstaff.jpg/160px-Lucien-Fug%C3%A8re-as-Falstaff.jpg",
+    "width": 160,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/1/1b/Lucien-Fug%C3%A8re-as-Falstaff.jpg",
+    "width": 240,
+    "height": 480
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102953798",
+  "tid": "cbabb510-1686-11ed-bcd3-adab42260e49",
+  "timestamp": "2022-08-07T19:26:08Z",
+  "description": "1893 opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Falstaff_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Falstaff_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Falstaff_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Falstaff_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Falstaff_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Falstaff_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Falstaff_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Falstaff_(opera)"
+    }
+  },
+  "extract": "Falstaff is a comic opera in three acts by the Italian composer Giuseppe Verdi. The Italian-language libretto was adapted by Arrigo Boito from the play The Merry Wives of Windsor and scenes from Henry IV, Part 1 and Part 2, by William Shakespeare. The work premiered on 9 February 1893 at La Scala, Milan.",
+  "extract_html": "<p><i><b>Falstaff</b></i> is a comic opera in three acts by the Italian composer Giuseppe Verdi. The Italian-language libretto was adapted by Arrigo Boito from the play <i>The Merry Wives of Windsor</i> and scenes from <i>Henry IV, Part 1</i> and <i>Part 2</i>, by William Shakespeare. The work premiered on 9 February 1893 at La Scala, Milan.</p>"
+}

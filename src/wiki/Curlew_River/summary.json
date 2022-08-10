@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Curlew River",
+  "displaytitle": "<i>Curlew River</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q615696",
+  "titles": {
+    "canonical": "Curlew_River",
+    "normalized": "Curlew River",
+    "display": "<i>Curlew River</i>"
+  },
+  "pageid": 1149240,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1064016933",
+  "tid": "81764240-fe07-11ec-8f33-917b38a5d116",
+  "timestamp": "2022-01-06T04:20:31Z",
+  "description": "1964 English music drama by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Curlew_River",
+      "revisions": "https://en.wikipedia.org/wiki/Curlew_River?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Curlew_River?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Curlew_River"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Curlew_River",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Curlew_River",
+      "edit": "https://en.m.wikipedia.org/wiki/Curlew_River?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Curlew_River"
+    }
+  },
+  "extract": "Curlew River – A Parable for Church Performance is an English music drama, with music by Benjamin Britten to a libretto by William Plomer. The first of Britten's three 'Parables for Church Performance', the work is based on the Japanese noh play Sumidagawa of Juro Motomasa] (1395–1431), which Britten saw during a visit to Japan and the Far East in early 1956. Beyond the noh source dramatic material, Britten incorporated elements of noh treatment of theatrical time into this composition. Curlew River marked a departure in style for the remainder of the composer's creative life, paving the way for such works as Owen Wingrave, Death in Venice and the Third String Quartet.",
+  "extract_html": "<p><i><b>Curlew River – A Parable for Church Performance</b></i> is an English music drama, with music by Benjamin Britten to a libretto by William Plomer. The first of Britten's three 'Parables for Church Performance', the work is based on the Japanese <i>noh</i> play <i>Sumidagawa</i> of Juro Motomasa] (1395–1431), which Britten saw during a visit to Japan and the Far East in early 1956. Beyond the <i>noh</i> source dramatic material, Britten incorporated elements of <i>noh</i> treatment of theatrical time into this composition. <i>Curlew River</i> marked a departure in style for the remainder of the composer's creative life, paving the way for such works as <i>Owen Wingrave</i>, <i>Death in Venice</i> and the Third String Quartet.</p>"
+}

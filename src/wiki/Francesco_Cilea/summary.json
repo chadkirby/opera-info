@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Francesco Cilea",
+  "displaytitle": "Francesco Cilea",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q250952",
+  "titles": {
+    "canonical": "Francesco_Cilea",
+    "normalized": "Francesco Cilea",
+    "display": "Francesco Cilea"
+  },
+  "pageid": 37939,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guigoni_%26_Bossi._Francesco_Cilea._1910.jpg/320px-Guigoni_%26_Bossi._Francesco_Cilea._1910.jpg",
+    "width": 320,
+    "height": 257
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Guigoni_%26_Bossi._Francesco_Cilea._1910.jpg",
+    "width": 617,
+    "height": 496
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095112726",
+  "tid": "e18036c0-119c-11ed-ae7d-cb87b2df51e8",
+  "timestamp": "2022-06-26T12:31:23Z",
+  "description": "Italian composer (1866–1950)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Francesco_Cilea",
+      "revisions": "https://en.wikipedia.org/wiki/Francesco_Cilea?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Francesco_Cilea?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Francesco_Cilea"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Francesco_Cilea",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Francesco_Cilea",
+      "edit": "https://en.m.wikipedia.org/wiki/Francesco_Cilea?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Francesco_Cilea"
+    }
+  },
+  "extract": "Francesco Cilea was an Italian composer. Today he is particularly known for his operas L'arlesiana and Adriana Lecouvreur.",
+  "extract_html": "<p><b>Francesco Cilea</b> was an Italian composer. Today he is particularly known for his operas <i>L'arlesiana</i> and <i>Adriana Lecouvreur</i>.</p>"
+}

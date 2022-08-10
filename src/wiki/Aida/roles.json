@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premier cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<br>24 December 1871<sup id=\"cite_ref-FOOTNOTEBudden1984160_31-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEBudden1984160-31\">[31]</a></sup><br>Cairo<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Giovanni_Bottesini\" title=\"Giovanni Bottesini\">Giovanni Bottesini</a>\n</th>\n<th>European premiere<br>8 February 1872<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\">[32]</a></sup><br>La Scala, Milan<br>Conductor: <a href=\"/wiki/Franco_Faccio\" title=\"Franco Faccio\">Franco Faccio</a>\n</th></tr>\n<tr>\n<td>Aida, <i>an Ethiopian princess</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>The King of Egypt\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td><span class=\"anchor\" id=\"Amneris\"></span>Amneris, <i>daughter of the King</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Radamès, <i>Captain of the Guard</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Amonasro, <i>King of Ethiopia</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Ramfis, <i>High Priest</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>A messenger\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Voice of the High Priestess<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\">[33]</a></sup>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Priests, priestesses, ministers, captains, soldiers, officials, Ethiopians, slaves and prisoners, Egyptians, animals and chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Aida, an Ethiopian princess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The King of Egypt",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Amneris, daughter of the King",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Radamès, Captain of the Guard",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Amonasro, King of Ethiopia",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Ramfis, High Priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A messenger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Voice of the High Priestess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Priests, priestesses, ministers, captains, soldiers, officials, Ethiopians, slaves and prisoners, Egyptians, animals and chorus",
+      "voiceType": ""
+    }
+  ]
+}

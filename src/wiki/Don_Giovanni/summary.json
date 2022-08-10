@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Don Giovanni",
+  "displaytitle": "<i>Don Giovanni</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q192039",
+  "titles": {
+    "canonical": "Don_Giovanni",
+    "normalized": "Don Giovanni",
+    "display": "<i>Don Giovanni</i>"
+  },
+  "pageid": 38092,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Max_Slevogt_-_Der_S%C3%A4nger_Francisco_d%27Andrade_als_Don_Giovanni_in_Mozarts_Oper_-_Google_Art_Project.jpg/256px-Max_Slevogt_-_Der_S%C3%A4nger_Francisco_d%27Andrade_als_Don_Giovanni_in_Mozarts_Oper_-_Google_Art_Project.jpg",
+    "width": 256,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Max_Slevogt_-_Der_S%C3%A4nger_Francisco_d%27Andrade_als_Don_Giovanni_in_Mozarts_Oper_-_Google_Art_Project.jpg",
+    "width": 3204,
+    "height": 4000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101121137",
+  "tid": "def80ee0-1837-11ed-95c3-37a505ac967c",
+  "timestamp": "2022-07-29T11:55:40Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Don_Giovanni",
+      "revisions": "https://en.wikipedia.org/wiki/Don_Giovanni?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Don_Giovanni?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_Giovanni"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Don_Giovanni",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Don_Giovanni",
+      "edit": "https://en.m.wikipedia.org/wiki/Don_Giovanni?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Don_Giovanni"
+    }
+  },
+  "extract": "Don Giovanni is an opera in two acts with music by Wolfgang Amadeus Mozart to an Italian libretto by Lorenzo Da Ponte. Its subject is a centuries-old Spanish legend about a libertine as told by playwright Tirso de Molina in his 1630 play El burlador de Sevilla y convidado de piedra. It is a dramma giocoso blending comedy, melodrama and supernatural elements. It was premiered by the Prague Italian opera at the National Theater, now called the Estates Theatre, on 29 October 1787. Don Giovanni is regarded as one of the greatest operas of all time and has proved a fruitful subject for commentary in its own right; critic Fiona Maddocks has described it as one of Mozart's \"trio of masterpieces with librettos by Da Ponte\".",
+  "extract_html": "<p><i><b>Don Giovanni</b></i> is an opera in two acts with music by Wolfgang Amadeus Mozart to an Italian libretto by Lorenzo Da Ponte. Its subject is a centuries-old Spanish legend about a libertine as told by playwright Tirso de Molina in his 1630 play <i>El burlador de Sevilla y convidado de piedra</i>. It is a <i>dramma giocoso</i> blending comedy, melodrama and supernatural elements. It was premiered by the Prague Italian opera at the National Theater, now called the Estates Theatre, on 29 October 1787. <i>Don Giovanni</i> is regarded as one of the greatest operas of all time and has proved a fruitful subject for commentary in its own right; critic Fiona Maddocks has described it as one of Mozart's \"trio of masterpieces with librettos by Da Ponte\".</p>"
+}

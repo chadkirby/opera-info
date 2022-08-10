@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 28 January 1830<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup><br>(Conductor: - )\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Fra_Diavolo\" title=\"Fra Diavolo\">Fra Diavolo</a>, <i>a bandit </i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Zerline, <i>daughter of Mathéo</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Lord Cockburn, <i>an English traveller </i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Lady Pamela, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Lorenzo, <i>an officer of the guards</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Giacomo, <i>Fra Diavolo's accomplice</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Beppo, <i>Fra Diavolo's accomplice</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Mathéo, <i>an innkeeper</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A Peasant\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A Soldier\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Francesco, <i>the richest man in five miles</i>\n</td>\n<td>mute\n</td>\n</tr>\n<tr>\n<td>Jean-Jacques, <i>Lord Cockburn's servant</i>\n</td>\n<td>mute or chorus\n</td>\n</tr>\n<tr>\n<td>John, <i>Matheo's servant</i>\n</td>\n<td>mute or chorus\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Fra Diavolo, a bandit",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Zerline, daughter of Mathéo",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Lord Cockburn, an English traveller",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Lady Pamela, his wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Lorenzo, an officer of the guards",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Giacomo, Fra Diavolo's accomplice",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Beppo, Fra Diavolo's accomplice",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mathéo, an innkeeper",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Peasant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A Soldier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Francesco, the richest man in five miles",
+      "voiceType": "mute"
+    },
+    {
+      "role": "Jean-Jacques, Lord Cockburn's servant",
+      "voiceType": "mute or chorus"
+    },
+    {
+      "role": "John, Matheo's servant",
+      "voiceType": "mute or chorus"
+    }
+  ]
+}

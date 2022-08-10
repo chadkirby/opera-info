@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Alceste (Gluck)",
+  "displaytitle": "<i>Alceste</i> (Gluck)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1046495",
+  "titles": {
+    "canonical": "Alceste_(Gluck)",
+    "normalized": "Alceste (Gluck)",
+    "display": "<i>Alceste</i> (Gluck)"
+  },
+  "pageid": 354442,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fran%C3%A7ois-Joseph_B%C3%A9langer_-_Set_design_for_Gluck%27s_Alceste.jpg/320px-Fran%C3%A7ois-Joseph_B%C3%A9langer_-_Set_design_for_Gluck%27s_Alceste.jpg",
+    "width": 320,
+    "height": 259
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fran%C3%A7ois-Joseph_B%C3%A9langer_-_Set_design_for_Gluck%27s_Alceste.jpg",
+    "width": 6552,
+    "height": 5298
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094524270",
+  "tid": "32a783b0-f97d-11ec-b881-51a9ade99350",
+  "timestamp": "2022-06-23T04:30:47Z",
+  "description": "Opera by Christoph Willibald Gluck",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alceste_(Gluck)",
+      "revisions": "https://en.wikipedia.org/wiki/Alceste_(Gluck)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alceste_(Gluck)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alceste_(Gluck)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Alceste_(Gluck)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Alceste_(Gluck)",
+      "edit": "https://en.m.wikipedia.org/wiki/Alceste_(Gluck)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Alceste_(Gluck)"
+    }
+  },
+  "extract": "Alceste, Wq. 37, is an opera by Christoph Willibald Gluck from 1767. The libretto was written by Ranieri de' Calzabigi and based on the play Alcestis by Euripides. The premiere took place on 26 December 1767 at the Burgtheater in Vienna.",
+  "extract_html": "<p><i><b>Alceste</b></i>, Wq. 37, is an opera by Christoph Willibald Gluck from 1767. The libretto was written by Ranieri de' Calzabigi and based on the play <i>Alcestis</i> by Euripides. The premiere took place on 26 December 1767 at the Burgtheater in Vienna.</p>"
+}

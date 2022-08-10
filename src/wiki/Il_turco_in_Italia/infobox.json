@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Il turco in Italia</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera_buffa\" title=\"Opera buffa\">Opera buffa</a> by <a href=\"/wiki/Gioachino_Rossini\" title=\"Gioachino Rossini\">Gioachino Rossini</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Rossini-portrait-0.jpg\" class=\"image\"><img alt=\"Rossini-portrait-0.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/220px-Rossini-portrait-0.jpg\" decoding=\"async\" width=\"220\" height=\"268\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/330px-Rossini-portrait-0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/440px-Rossini-portrait-0.jpg 2x\" data-file-width=\"840\" data-file-height=\"1024\"></a><div class=\"infobox-caption\">Portrait of the composer</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\">The Turk in Italy</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Felice_Romani\" title=\"Felice Romani\">Felice Romani</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">14&nbsp;August&nbsp;1814<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1814-08-14</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/La_Scala\" title=\"La Scala\">La Scala</a>, Milan</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Il turco in Italia"
+  ],
+  "Translation": "The Turk in Italy",
+  "Librettist": "Felice Romani",
+  "Language": "Italian",
+  "Premiere": "14 August 1814\nLa Scala, Milan"
+}

@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<br>27 January 1955<sup id=\"cite_ref-28\" class=\"reference\"><a href=\"#cite_note-28\">[28]</a></sup><br>Conductor: <a href=\"/wiki/John_Pritchard_(conductor)\" title=\"John Pritchard (conductor)\">John Pritchard</a>\n</th>\n<th>First studio recording (1970)<br>Conductor: <a href=\"/wiki/Colin_Davis\" title=\"Colin Davis\">Sir Colin Davis</a>\n</th>\n<th><a href=\"/wiki/Welsh_National_Opera\" title=\"Welsh National Opera\">Welsh National Opera</a> (1976)<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\">[29]</a></sup><br>Conductor: <a href=\"/wiki/Richard_Armstrong_(conductor)\" title=\"Richard Armstrong (conductor)\">Richard Armstrong</a>\n</th></tr>\n<tr>\n<td>Mark, <i>a young man of unknown parentage</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n\n<td>John Treleaven\n</td></tr>\n<tr>\n<td>Jenifer, <i>his betrothed</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n\n<td><a href=\"/wiki/Jill_Gomez\" title=\"Jill Gomez\">Jill Gomez</a>\n</td></tr>\n<tr>\n<td>King Fisher, <i>Jenifer's father, a businessman</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n\n<td>Raimund Herincx\n</td></tr>\n<tr>\n<td>Bella, <i>King Fisher's secretary</i>\n</td>\n<td>soprano\n</td>\n\n\n<td>Mary Davies\n</td></tr>\n<tr>\n<td>Jack, <i>Bella's boyfriend, a mechanic</i>\n</td>\n<td>tenor\n</td>\n\n\n<td><a href=\"/wiki/Arthur_Davies_(tenor)\" title=\"Arthur Davies (tenor)\">Arthur Davies</a>\n</td></tr>\n<tr>\n<td>Sosostris, <i>a clairvoyante</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n\n<td>Helen Watts\n</td></tr>\n<tr>\n<td>The She-Ancient, <i>priestess of the temple</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n\n<td><a href=\"/wiki/Maureen_Guy\" title=\"Maureen Guy\">Maureen Guy</a>\n</td></tr>\n<tr>\n<td>The He-Ancient, <i>priest of the temple</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n\n<td>Paul Hudson\n</td></tr>\n<tr>\n<td>Strephon, <i>a dancer</i>\n</td>\n<td>silent\n</td>\n\n\n<td>Hugh Spight\n</td></tr>\n<tr>\n<td>A voice\n</td>\n<td>contralto\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td>Dancing man\n</td>\n<td>tenor\n</td>\n\n\n<td>John Harris\n</td></tr>\n<tr>\n<td>Drunken man\n</td>\n<td>bass\n</td>\n\n\n<td>Gareth Rhys-Davies\n</td></tr>\n<tr>\n<td>An Ancient\n</td>\n<td>bass\n</td>\n\n\n<td>\n</td></tr>\n<tr>\n<td colspan=\"3\"><i>Mark and Jennifer's friends, dancers attendant on the Ancients</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Mark, a young man of unknown parentage",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jenifer, his betrothed",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "King Fisher, Jenifer's father, a businessman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Bella, King Fisher's secretary",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jack, Bella's boyfriend, a mechanic",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sosostris, a clairvoyante",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "The She-Ancient, priestess of the temple",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The He-Ancient, priest of the temple",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Strephon, a dancer",
+      "voiceType": "silent"
+    },
+    {
+      "role": "A voice",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Dancing man",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Drunken man",
+      "voiceType": "bass"
+    },
+    {
+      "role": "An Ancient",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mark and Jennifer's friends, dancers attendant on the Ancients",
+      "voiceType": ""
+    }
+  ]
+}

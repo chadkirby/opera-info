@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<br> 16 November 1850<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\">[30]</a></sup><br>(Conductor: -)\n</th></tr>\n<tr>\n<td>Stiffelio, <i>a Protestant minister</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Lina, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Count Stankar, <i>her father, an elderly retired military officer</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Raffaele di Leuthold, <i>a friend of the family, supposedly a count, Lina's lover</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Jorg, <i>an elderly minister, Stiffelio's spiritual mentor</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Dorotea, <i>Lina's cousin</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Federico di Frengel, <i>Lina's cousin</i>\n</td>\n<td>tenor\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Stiffelio, a Protestant minister",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lina, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Count Stankar, her father, an elderly retired military officer",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Raffaele di Leuthold, a friend of the family, supposedly a count, Lina's lover",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jorg, an elderly minister, Stiffelio's spiritual mentor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Dorotea, Lina's cousin",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Federico di Frengel, Lina's cousin",
+      "voiceType": "tenor"
+    }
+  ]
+}

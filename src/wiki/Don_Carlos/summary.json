@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Don Carlos",
+  "displaytitle": "<i>Don Carlos</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q179110",
+  "titles": {
+    "canonical": "Don_Carlos",
+    "normalized": "Don Carlos",
+    "display": "<i>Don Carlos</i>"
+  },
+  "pageid": 37909,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Giuseppe_Barberis_-_Carlo_Cornaglia_-_Giuseppe_Verdi%27s_Don_Carlo_at_La_Scala.jpg/257px-Giuseppe_Barberis_-_Carlo_Cornaglia_-_Giuseppe_Verdi%27s_Don_Carlo_at_La_Scala.jpg",
+    "width": 257,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Giuseppe_Barberis_-_Carlo_Cornaglia_-_Giuseppe_Verdi%27s_Don_Carlo_at_La_Scala.jpg",
+    "width": 3646,
+    "height": 4546
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094896748",
+  "tid": "d26cc5d0-15f8-11ed-a518-bdb529dbc007",
+  "timestamp": "2022-06-25T06:55:33Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Don_Carlos",
+      "revisions": "https://en.wikipedia.org/wiki/Don_Carlos?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Don_Carlos?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_Carlos"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Don_Carlos",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Don_Carlos",
+      "edit": "https://en.m.wikipedia.org/wiki/Don_Carlos?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Don_Carlos"
+    }
+  },
+  "extract": "Don Carlos is a five-act grand opera composed by Giuseppe Verdi to a French-language libretto by Joseph Méry and Camille du Locle, based on the dramatic play Don Carlos, Infant von Spanien by Friedrich Schiller. In addition, several incidents, of which the Forest of Fontainebleau scene and auto-da-fé were the most substantial, were borrowed from Eugène Cormon's 1846 play Philippe II, Roi d'Espagne. The opera is most often performed in Italian translation, usually under the title Don Carlo.",
+  "extract_html": "<p><i><b>Don Carlos</b></i> is a five-act grand opera composed by Giuseppe Verdi to a French-language libretto by Joseph Méry and Camille du Locle, based on the dramatic play <i>Don Carlos, Infant von Spanien</i> by Friedrich Schiller. In addition, several incidents, of which the Forest of Fontainebleau scene and <i>auto-da-fé</i> were the most substantial, were borrowed from Eugène Cormon's 1846 play <i>Philippe II, Roi d'Espagne</i>. The opera is most often performed in Italian translation, usually under the title <i><b>Don Carlo</b></i>.</p>"
+}

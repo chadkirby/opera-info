@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "L'incoronazione di Poppea",
+  "displaytitle": "<i>L'incoronazione di Poppea</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q615522",
+  "titles": {
+    "canonical": "L'incoronazione_di_Poppea",
+    "normalized": "L'incoronazione di Poppea",
+    "display": "<i>L'incoronazione di Poppea</i>"
+  },
+  "pageid": 1988236,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Title_page_of_the_1656_libretto_of_L%27incoronazione_di_Poppea.jpg/196px-Title_page_of_the_1656_libretto_of_L%27incoronazione_di_Poppea.jpg",
+    "width": 196,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Title_page_of_the_1656_libretto_of_L%27incoronazione_di_Poppea.jpg",
+    "width": 438,
+    "height": 714
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100076459",
+  "tid": "0b118970-11a8-11ed-ba2e-3f812ec634e4",
+  "timestamp": "2022-07-24T03:23:11Z",
+  "description": "Opera by Claudio Monteverdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'incoronazione_di_Poppea",
+      "revisions": "https://en.wikipedia.org/wiki/L'incoronazione_di_Poppea?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'incoronazione_di_Poppea?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'incoronazione_di_Poppea"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'incoronazione_di_Poppea",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'incoronazione_di_Poppea",
+      "edit": "https://en.m.wikipedia.org/wiki/L'incoronazione_di_Poppea?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'incoronazione_di_Poppea"
+    }
+  },
+  "extract": "L'incoronazione di Poppea is an Italian opera by Claudio Monteverdi. It was Monteverdi's last opera, with a libretto by Giovanni Francesco Busenello, and was first performed at the Teatro Santi Giovanni e Paolo in Venice during the 1643 carnival season. One of the first operas to use historical events and people, it describes how Poppaea, mistress of the Roman emperor Nero, is able to achieve her ambition and be crowned empress. The opera was revived in Naples in 1651, but was then neglected until the rediscovery of the score in 1888, after which it became the subject of scholarly attention in the late 19th and early 20th centuries. Since the 1960s, the opera has been performed and recorded many times.",
+  "extract_html": "<p><i><b>L'incoronazione di Poppea</b></i> is an Italian opera by Claudio Monteverdi. It was Monteverdi's last opera, with a libretto by Giovanni Francesco Busenello, and was first performed at the Teatro Santi Giovanni e Paolo in Venice during the 1643 carnival season. One of the first operas to use historical events and people, it describes how Poppaea, mistress of the Roman emperor Nero, is able to achieve her ambition and be crowned empress. The opera was revived in Naples in 1651, but was then neglected until the rediscovery of the score in 1888, after which it became the subject of scholarly attention in the late 19th and early 20th centuries. Since the 1960s, the opera has been performed and recorded many times.</p>"
+}

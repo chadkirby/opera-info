@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "A Streetcar Named Desire (opera)",
+  "displaytitle": "<i>A Streetcar Named Desire</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4659869",
+  "titles": {
+    "canonical": "A_Streetcar_Named_Desire_(opera)",
+    "normalized": "A Streetcar Named Desire (opera)",
+    "display": "<i>A Streetcar Named Desire</i> (opera)"
+  },
+  "pageid": 4052128,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/1/19/A_Streetcar_Named_Desire_cover.jpg",
+    "width": 206,
+    "height": 300
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/1/19/A_Streetcar_Named_Desire_cover.jpg",
+    "width": 206,
+    "height": 300
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088602950",
+  "tid": "1bfe3720-f9d8-11ec-b2ec-7ff8b030ec0a",
+  "timestamp": "2022-05-19T01:59:30Z",
+  "description": "Opera by André Previn",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/A_Streetcar_Named_Desire_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/A_Streetcar_Named_Desire_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/A_Streetcar_Named_Desire_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:A_Streetcar_Named_Desire_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/A_Streetcar_Named_Desire_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/A_Streetcar_Named_Desire_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/A_Streetcar_Named_Desire_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:A_Streetcar_Named_Desire_(opera)"
+    }
+  },
+  "extract": "A Streetcar Named Desire is an opera composed by André Previn in 1995 with a libretto by Philip Littell. It is based on the play of the same name by Tennessee Williams.",
+  "extract_html": "<p><i><b>A Streetcar Named Desire</b></i> is an opera composed by André Previn in 1995 with a libretto by Philip Littell. It is based on the play of the same name by Tennessee Williams.</p>"
+}

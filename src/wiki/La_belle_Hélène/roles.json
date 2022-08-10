@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast,<br>17 December 1864,<br>(Conductor: <a href=\"/wiki/Jacques_Offenbach\" title=\"Jacques Offenbach\">Jacques Offenbach</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Agamemnon\" title=\"Agamemnon\">Agamemnon</a>, <i><a href=\"/wiki/King_of_Kings\" title=\"King of Kings\">King of Kings</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Ménélas, <i>King of Sparta</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Pâris, <i>son of King Priam of Troy</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Calchas, <i>high priest of Jupiter</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Achille, <i>King of Phthiotis</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Oreste, <i>son of Agamemnon</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> or tenor\n</td>\n</tr>\n<tr>\n<td>Ajax I, <i>King of Salamis</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second Ajax, <i>King of the Locrians</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Philocome, <i>Calchas's attendant</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Euthyclès, <i>a blacksmith</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Hélène, <i>Queen of Sparta</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Parthénis, <i>a courtesan</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Lœna, <i>a courtesan</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Bacchis, <i>Helen's attendant</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Ladies and Gentlemen, Princes, Guards, People, Slaves, Helen’s servants, Mourners of Adonis </i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Agamemnon, King of Kings",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Ménélas, King of Sparta",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pâris, son of King Priam of Troy",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Calchas, high priest of Jupiter",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Achille, King of Phthiotis",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Oreste, son of Agamemnon",
+      "voiceType": "soprano or tenor"
+    },
+    {
+      "role": "Ajax I, King of Salamis",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second Ajax, King of the Locrians",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Philocome, Calchas's attendant",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Euthyclès, a blacksmith",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Hélène, Queen of Sparta",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Parthénis, a courtesan",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Lœna, a courtesan",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Bacchis, Helen's attendant",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ladies and Gentlemen, Princes, Guards, People, Slaves, Helen’s servants, Mourners of Adonis",
+      "voiceType": ""
+    }
+  ]
+}

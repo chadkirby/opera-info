@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hans Pfitzner",
+  "displaytitle": "Hans Pfitzner",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q57358",
+  "titles": {
+    "canonical": "Hans_Pfitzner",
+    "normalized": "Hans Pfitzner",
+    "display": "Hans Pfitzner"
+  },
+  "pageid": 224266,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hans_Pfitzner_by_Wanda_von_Debschitz-Kunowski%2C_ca_1910.jpg/250px-Hans_Pfitzner_by_Wanda_von_Debschitz-Kunowski%2C_ca_1910.jpg",
+    "width": 250,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hans_Pfitzner_by_Wanda_von_Debschitz-Kunowski%2C_ca_1910.jpg",
+    "width": 599,
+    "height": 765
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103226570",
+  "tid": "bd0fc0f0-1767-11ed-a279-af6413fd2da9",
+  "timestamp": "2022-08-08T22:16:21Z",
+  "description": "German composer and conductor (1869–1949)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hans_Pfitzner",
+      "revisions": "https://en.wikipedia.org/wiki/Hans_Pfitzner?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hans_Pfitzner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hans_Pfitzner"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hans_Pfitzner",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hans_Pfitzner",
+      "edit": "https://en.m.wikipedia.org/wiki/Hans_Pfitzner?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hans_Pfitzner"
+    }
+  },
+  "extract": "Hans Erich Pfitzner was a German composer, conductor and polemicist who was a self-described anti-modernist. His best known work is the post-Romantic opera Palestrina (1917), loosely based on the life of the sixteenth-century composer Giovanni Pierluigi da Palestrina and his Missa Papae Marcelli.",
+  "extract_html": "<p><b>Hans Erich Pfitzner</b> was a German composer, conductor and polemicist who was a self-described anti-modernist. His best known work is the post-Romantic opera <i>Palestrina</i> (1917), loosely based on the life of the sixteenth-century composer Giovanni Pierluigi da Palestrina and his <i>Missa Papae Marcelli</i>.</p>"
+}

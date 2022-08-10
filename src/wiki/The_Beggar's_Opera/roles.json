@@ -1,0 +1,121 @@
+{
+  "html": "<table style=\"border-collapse: collapse\">\n<tbody><tr>\n<td colspan=\"2\">Mr Peachum – powerful leader of criminals who betrays or discards his thieves, highwaymen, and prostitutes when they are no longer useful to him\n</td></tr>\n<tr>\n<td style=\"width: 250pt;\">Lockit – jail keeper</td>\n<td style=\"width: 350pt;\">&nbsp;\n</td></tr>\n<tr>\n<td colspan=\"2\"><a href=\"/wiki/Captain_Macheath\" title=\"Captain Macheath\">Macheath</a> – captain of gang of robbers; a womanizer who professes to love both Polly and Lucy\n</td></tr>\n<tr>\n<td>Filch – the Peachums' loyal but squeamish servant\n</td></tr>\n<tr>\n<td>Jemmy Twitcher</td>\n<td rowspan=\"8\" style=\"padding-left: 0.5em; border-left: thin solid black;\">Macheath's Gang\n</td></tr>\n<tr>\n<td>Crook-Finger'd Jack\n</td></tr>\n<tr>\n<td>Wat Dreary\n</td></tr>\n<tr>\n<td>Robin of Bagshot\n</td></tr>\n<tr>\n<td>Nimming Ned – (<a href=\"https://en.wiktionary.org/wiki/nim\" class=\"extiw\" title=\"wikt:nim\">\"Nimming\" meaning thieving</a>)\n</td></tr>\n<tr>\n<td>Harry Padington\n</td></tr>\n<tr>\n<td>Finger Dan\n</td></tr>\n<tr>\n<td>Matt of the Mint\n</td></tr>\n<tr>\n<td>Ben Budge\n</td></tr>\n<tr>\n<td>Beggar (serves as Narrator)\n</td></tr>\n<tr>\n<td>Player\n</td></tr>\n<tr>\n<td>Mrs Peachum\n</td></tr>\n<tr>\n<td>Polly Peachum\n</td></tr>\n<tr>\n<td>Lucy Lockit\n</td></tr>\n<tr>\n<td>Mrs Diana Trapes\n</td></tr>\n<tr>\n<td>Mrs Coaxer</td>\n<td rowspan=\"8\" style=\"padding-left: 0.5em; border-left: thin solid black;\">Women of the Town\n</td></tr>\n<tr>\n<td>Dolly Trull – (<a href=\"https://en.wiktionary.org/wiki/trull\" class=\"extiw\" title=\"wikt:trull\">\"Trull\" meaning prostitute</a>)\n</td></tr>\n<tr>\n<td>Mrs Vixen\n</td></tr>\n<tr>\n<td>Betty Doxy – (<a href=\"https://en.wiktionary.org/wiki/doxy\" class=\"extiw\" title=\"wikt:doxy\">\"Doxy\" meaning slut</a>)\n</td></tr>\n<tr>\n<td><a href=\"/wiki/Jenny_Diver\" title=\"Jenny Diver\">Jenny Diver</a>\n</td></tr>\n<tr>\n<td>Mrs Slammekin – (<a href=\"https://en.wiktionary.org/wiki/slamkin\" class=\"extiw\" title=\"wikt:slamkin\">\"Slammerkin\" meaning slut</a>)\n</td></tr>\n<tr>\n<td>Suky Tawdry\n</td></tr>\n<tr>\n<td>Molly Brazen\n</td></tr>\n<tr>\n<td>Jailor\n</td></tr>\n<tr>\n<td>Drawer\n</td></tr>\n<tr>\n<td>Constables\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Lockit – jail keeper",
+      "voiceType": ""
+    },
+    {
+      "role": "Macheath – captain of gang of robbers; a womanizer who professes to love both Polly and Lucy",
+      "voiceType": ""
+    },
+    {
+      "role": "Filch – the Peachums' loyal but squeamish servant",
+      "voiceType": ""
+    },
+    {
+      "role": "Jemmy Twitcher",
+      "voiceType": "Macheath's Gang"
+    },
+    {
+      "role": "Crook-Finger'd Jack",
+      "voiceType": ""
+    },
+    {
+      "role": "Wat Dreary",
+      "voiceType": ""
+    },
+    {
+      "role": "Robin of Bagshot",
+      "voiceType": ""
+    },
+    {
+      "role": "Nimming Ned – (\"Nimming\" meaning thieving)",
+      "voiceType": ""
+    },
+    {
+      "role": "Harry Padington",
+      "voiceType": ""
+    },
+    {
+      "role": "Finger Dan",
+      "voiceType": ""
+    },
+    {
+      "role": "Matt of the Mint",
+      "voiceType": ""
+    },
+    {
+      "role": "Ben Budge",
+      "voiceType": ""
+    },
+    {
+      "role": "Beggar (serves as Narrator)",
+      "voiceType": ""
+    },
+    {
+      "role": "Player",
+      "voiceType": ""
+    },
+    {
+      "role": "Mrs Peachum",
+      "voiceType": ""
+    },
+    {
+      "role": "Polly Peachum",
+      "voiceType": ""
+    },
+    {
+      "role": "Lucy Lockit",
+      "voiceType": ""
+    },
+    {
+      "role": "Mrs Diana Trapes",
+      "voiceType": ""
+    },
+    {
+      "role": "Mrs Coaxer",
+      "voiceType": "Women of the Town"
+    },
+    {
+      "role": "Dolly Trull – (\"Trull\" meaning prostitute)",
+      "voiceType": ""
+    },
+    {
+      "role": "Mrs Vixen",
+      "voiceType": ""
+    },
+    {
+      "role": "Betty Doxy – (\"Doxy\" meaning slut)",
+      "voiceType": ""
+    },
+    {
+      "role": "Jenny Diver",
+      "voiceType": ""
+    },
+    {
+      "role": "Mrs Slammekin – (\"Slammerkin\" meaning slut)",
+      "voiceType": ""
+    },
+    {
+      "role": "Suky Tawdry",
+      "voiceType": ""
+    },
+    {
+      "role": "Molly Brazen",
+      "voiceType": ""
+    },
+    {
+      "role": "Jailor",
+      "voiceType": ""
+    },
+    {
+      "role": "Drawer",
+      "voiceType": ""
+    },
+    {
+      "role": "Constables",
+      "voiceType": ""
+    }
+  ]
+}

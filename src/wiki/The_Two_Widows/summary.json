@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Two Widows",
+  "displaytitle": "<i>The Two Widows</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q232134",
+  "titles": {
+    "canonical": "The_Two_Widows",
+    "normalized": "The Two Widows",
+    "display": "<i>The Two Widows</i>"
+  },
+  "pageid": 9016939,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Smetana1854portrait.jpg/265px-Smetana1854portrait.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Smetana1854portrait.jpg",
+    "width": 284,
+    "height": 343
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1025171995",
+  "tid": "4e0e6370-0f8b-11ed-88c9-db22e4d5023e",
+  "timestamp": "2021-05-26T04:11:04Z",
+  "description": "Opera by Bedřich Smetana",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Two_Widows",
+      "revisions": "https://en.wikipedia.org/wiki/The_Two_Widows?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Two_Widows?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Two_Widows"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Two_Widows",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Two_Widows",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Two_Widows?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Two_Widows"
+    }
+  },
+  "extract": "The Two Widows is a two-act Czech opera by Bedřich Smetana based on the libretto of Emanuel Züngel. The libretto is based on Jean Pierre Felicien Mallefille's one-act play Les deux veuves. The opera was composed between June 1873 and January 1874, and its premiere took place on 27 March 1874 at the Prague Czech Theatre under the direction of Smetana. However, this premiere was not successful and the opera was rewritten in 1874. The spoken dialogue was replaced by through-composed recitatives and some of the music and characters were reworked. The second premiere on 20 October 1874 was very successful. A further revised version was premiered on 17 March 1878, under Adolf Čech.",
+  "extract_html": "<p><i><b>The Two Widows</b></i> is a two-act Czech opera by Bedřich Smetana based on the libretto of Emanuel Züngel. The libretto is based on Jean Pierre Felicien Mallefille's one-act play <i>Les deux veuves</i>. The opera was composed between June 1873 and January 1874, and its premiere took place on 27 March 1874 at the Prague Czech Theatre under the direction of Smetana. However, this premiere was not successful and the opera was rewritten in 1874. The spoken dialogue was replaced by through-composed recitatives and some of the music and characters were reworked. The second premiere on 20 October 1874 was very successful. A further revised version was premiered on 17 March 1878, under Adolf Čech.</p>"
+}

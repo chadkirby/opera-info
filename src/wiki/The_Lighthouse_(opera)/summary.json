@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Lighthouse (opera)",
+  "displaytitle": "<i>The Lighthouse</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3521580",
+  "titles": {
+    "canonical": "The_Lighthouse_(opera)",
+    "normalized": "The Lighthouse (opera)",
+    "display": "<i>The Lighthouse</i> (opera)"
+  },
+  "pageid": 9017645,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peter_Maxwell_Davies.jpg/320px-Peter_Maxwell_Davies.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Peter_Maxwell_Davies.jpg",
+    "width": 2829,
+    "height": 2832
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083528630",
+  "tid": "4e090c40-0f8b-11ed-bb76-7dc9c031c101",
+  "timestamp": "2022-04-19T08:26:21Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Lighthouse_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Lighthouse_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Lighthouse_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Lighthouse_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Lighthouse_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Lighthouse_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Lighthouse_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Lighthouse_(opera)"
+    }
+  },
+  "extract": "The Lighthouse is a chamber opera with words and music by Peter Maxwell Davies.",
+  "extract_html": "<p><i><b>The Lighthouse</b></i> is a chamber opera with words and music by Peter Maxwell Davies.</p>"
+}

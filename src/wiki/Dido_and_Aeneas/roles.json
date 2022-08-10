@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th></tr>\n<tr>\n<td>Dido (also known as Elissa), <i>Queen of Carthage</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a><sup id=\"cite_ref-24\" class=\"reference\"><a href=\"#cite_note-24\">[24]</a></sup>\n</td></tr>\n<tr>\n<td>Belinda, <i>Dido's sister and <a href=\"/wiki/Handmaiden\" title=\"Handmaiden\">handmaid</a></i>\n</td>\n<td>light <a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td></tr>\n<tr>\n<td>Second Woman, <i>Another Handmaiden</i>\n</td>\n<td>soprano or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td></tr>\n<tr>\n<td>Aeneas, <i>Trojan Prince</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a> or high <a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a><sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\">[25]</a></sup>\n</td></tr>\n<tr>\n<td>Sorceress/Sorcerer\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>, <a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>, <a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a> or <a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a><sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\">[26]</a></sup>\n</td></tr>\n<tr>\n<td>First Witch/Enchantress\n</td>\n<td>mezzo-soprano\n</td></tr>\n<tr>\n<td>Second Witch/Enchantress\n</td>\n<td>mezzo-soprano\n</td></tr>\n<tr>\n<td>Spirit, <i>in form of <a href=\"/wiki/Mercury_(mythology)\" title=\"Mercury (mythology)\">Mercury</a></i>\n</td>\n<td>soprano or countertenor\n</td></tr>\n<tr>\n<td>First Sailor\n</td>\n<td>tenor<sup id=\"cite_ref-27\" class=\"reference\"><a href=\"#cite_note-27\">[27]</a></sup>\n</td></tr>\n<tr>\n<td colspan=\"3\">Chorus, <a href=\"/wiki/SATB\" title=\"SATB\">SATB</a>: all members at one point or another represent <i>courtiers, witches, cupids, and sailors.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Dido (also known as Elissa), Queen of Carthage",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Belinda, Dido's sister and handmaid",
+      "voiceType": "light soprano"
+    },
+    {
+      "role": "Second Woman, Another Handmaiden",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Aeneas, Trojan Prince",
+      "voiceType": "tenor or high baritone"
+    },
+    {
+      "role": "Sorceress/Sorcerer",
+      "voiceType": "mezzo-soprano, contralto, countertenor or bass"
+    },
+    {
+      "role": "First Witch/Enchantress",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Second Witch/Enchantress",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Spirit, in form of Mercury",
+      "voiceType": "soprano or countertenor"
+    },
+    {
+      "role": "First Sailor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Chorus, SATB: all members at one point or another represent courtiers, witches, cupids, and sailors.",
+      "voiceType": ""
+    }
+  ]
+}

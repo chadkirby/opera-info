@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Samson and Delilah (opera)",
+  "displaytitle": "<i>Samson and Delilah</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q753152",
+  "titles": {
+    "canonical": "Samson_and_Delilah_(opera)",
+    "normalized": "Samson and Delilah (opera)",
+    "display": "<i>Samson and Delilah</i> (opera)"
+  },
+  "pageid": 128031,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Samson_and_Delilah_Gustav_Dore_ca._1860.jpg/250px-Samson_and_Delilah_Gustav_Dore_ca._1860.jpg",
+    "width": 250,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Samson_and_Delilah_Gustav_Dore_ca._1860.jpg",
+    "width": 753,
+    "height": 963
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101392966",
+  "tid": "d0ae7400-15f8-11ed-89b1-d580f91adfd9",
+  "timestamp": "2022-07-30T20:05:41Z",
+  "description": "Opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Samson_and_Delilah_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Samson_and_Delilah_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Samson_and_Delilah_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Samson_and_Delilah_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Samson_and_Delilah_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Samson_and_Delilah_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Samson_and_Delilah_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Samson_and_Delilah_(opera)"
+    }
+  },
+  "extract": "Samson and Delilah, Op. 47, is a grand opera in three acts and four scenes by Camille Saint-Saëns to a French libretto by Ferdinand Lemaire. It was first performed in Weimar at the Grossherzogliches Theater on 2 December 1877 in a German translation.",
+  "extract_html": "<p><i><b>Samson and Delilah</b></i>, Op. 47, is a grand opera in three acts and four scenes by Camille Saint-Saëns to a French libretto by Ferdinand Lemaire. It was first performed in Weimar at the <span><i lang=\"de\">Grossherzogliches</i></span> Theater on 2 December 1877 in a German translation.</p>"
+}

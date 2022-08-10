@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Idomeneo",
+  "displaytitle": "<i>Idomeneo</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q723559",
+  "titles": {
+    "canonical": "Idomeneo",
+    "normalized": "Idomeneo",
+    "display": "<i>Idomeneo</i>"
+  },
+  "pageid": 612664,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Livret_d%27Idom%C3%A9n%C3%A9o_de_Mozart.jpg",
+    "width": 264,
+    "height": 235
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Livret_d%27Idom%C3%A9n%C3%A9o_de_Mozart.jpg",
+    "width": 264,
+    "height": 235
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098025722",
+  "tid": "d0f34530-15f8-11ed-bb7f-99e20380b625",
+  "timestamp": "2022-07-13T21:16:52Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Idomeneo",
+      "revisions": "https://en.wikipedia.org/wiki/Idomeneo?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Idomeneo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Idomeneo"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Idomeneo",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Idomeneo",
+      "edit": "https://en.m.wikipedia.org/wiki/Idomeneo?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Idomeneo"
+    }
+  },
+  "extract": "Idomeneo, re di Creta ossia Ilia e Idamante is an Italian language opera seria by Wolfgang Amadeus Mozart. The libretto was adapted by Giambattista Varesco from a French text by Antoine Danchet, based on a 1705 play by Crébillion père, which had been set to music by André Campra as Idoménée in 1712. Mozart and Varesco were commissioned in 1780 by Karl Theodor, Elector of Bavaria for a court carnival. He probably chose the subject, though it may have been Mozart. The work premiered on 29 January 1781 at the Cuvilliés Theatre in Munich, Germany.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">Idomeneo, re di Creta ossia Ilia e Idamante</i></span></b></i> is an Italian language opera seria by Wolfgang Amadeus Mozart. The libretto was adapted by Giambattista Varesco from a French text by Antoine Danchet, based on a 1705 play by Crébillion père, which had been set to music by André Campra as <i>Idoménée</i> in 1712. Mozart and Varesco were commissioned in 1780 by Karl Theodor, Elector of Bavaria for a court carnival. He probably chose the subject, though it may have been Mozart. The work premiered on 29 January 1781 at the Cuvilliés Theatre in Munich, Germany.</p>"
+}

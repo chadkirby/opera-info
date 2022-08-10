@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 17 February 1904<br>Conductor: <a href=\"/wiki/Cleofonte_Campanini\" title=\"Cleofonte Campanini\">Cleofonte Campanini</a><sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\">[17]</a></sup>\n</th>\n<th>Brescia cast, 28 May 1904<br>Conductor: Cleofonte Campanini<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\">[18]</a></sup>\n</th></tr>\n<tr>\n<td>Cio-Cio-San (Madama Butterfly)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Suzuki, her maid\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>B.F. Pinkerton,<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\">[19]</a></sup> Lieutenant in the United States Navy\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Sharpless, United States consul at Nagasaki\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Goro, a matchmaker\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Prince Yamadori\n</td>\n<td>tenor<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[20]</a></sup>\n</td>\n\n</tr>\n<tr>\n<td>The <a href=\"/wiki/Bhikkhu\" title=\"Bhikkhu\">Bonze</a>, Cio-Cio-san's uncle\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Yakusidé, Cio-Cio-san's uncle\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>The Imperial Commissioner\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>The Official Registrar\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Cio-Cio-san's mother\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>The aunt\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>The cousin\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Kate Pinkerton\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Dolore (\"Sorrow\"), Cio-Cio-san's child\n</td>\n<td>silent\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Cio-Cio-san's relatives and friends and servants\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Cio-Cio-San (Madama Butterfly)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Suzuki, her maid",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "B.F. Pinkerton, Lieutenant in the United States Navy",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sharpless, United States consul at Nagasaki",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Goro, a matchmaker",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Prince Yamadori",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Bonze, Cio-Cio-san's uncle",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Yakusidé, Cio-Cio-san's uncle",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Imperial Commissioner",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Official Registrar",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Cio-Cio-san's mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The aunt",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The cousin",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Kate Pinkerton",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Dolore (\"Sorrow\"), Cio-Cio-san's child",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Cio-Cio-san's relatives and friends and servants",
+      "voiceType": ""
+    }
+  ]
+}

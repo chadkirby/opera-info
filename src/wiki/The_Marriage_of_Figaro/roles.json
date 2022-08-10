@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 1 May 1786<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: W. A. Mozart<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\">[29]</a></sup>\n</th></tr>\n<tr>\n<td>Count Almaviva</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n</tr>\n<tr>\n<td>Countess Rosina Almaviva</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td>Susanna, <i>the countess's maid</i></td>\n<td>soprano</td>\n</tr>\n<tr>\n<td>Figaro, <i>personal <a href=\"/wiki/Valet\" title=\"Valet\">valet</a> to the count</i></td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a></td>\n</tr>\n<tr>\n<td>Cherubino, <i>the Count's <a href=\"/wiki/Page_(servant)\" title=\"Page (servant)\">page</a></i></td>\n<td>soprano (<a href=\"/wiki/Breeches_role\" title=\"Breeches role\">breeches role</a>)</td>\n</tr>\n<tr>\n<td>Marcellina, <i>Doctor Bartolo's housekeeper</i></td>\n<td>soprano</td>\n</tr>\n<tr>\n<td>Bartolo, <i>doctor from Seville, also a practicing lawyer</i></td>\n<td>bass</td>\n</tr>\n<tr>\n<td>Basilio, <i>music teacher</i></td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a></td>\n</tr>\n<tr>\n<td>Don Curzio, <i>judge</i></td>\n<td>tenor</td>\n</tr>\n<tr>\n<td>Barbarina, <i>Antonio's daughter, Susanna's cousin</i></td>\n<td>soprano</td>\n</tr>\n<tr>\n<td>Antonio, <i>the Count's gardener, Susanna's uncle</i></td>\n<td>bass</td>\n</tr>\n<tr>\n<td colspan=\"3\"><a href=\"/wiki/Choir\" title=\"Choir\">Chorus</a> of peasants, villagers, and servants\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Count Almaviva",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Countess Rosina Almaviva",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Susanna, the countess's maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Figaro, personal valet to the count",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Cherubino, the Count's page",
+      "voiceType": "soprano (breeches role)"
+    },
+    {
+      "role": "Marcellina, Doctor Bartolo's housekeeper",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Bartolo, doctor from Seville, also a practicing lawyer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Basilio, music teacher",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Curzio, judge",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Barbarina, Antonio's daughter, Susanna's cousin",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Antonio, the Count's gardener, Susanna's uncle",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus of peasants, villagers, and servants",
+      "voiceType": ""
+    }
+  ]
+}

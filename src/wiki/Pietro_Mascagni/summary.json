@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pietro Mascagni",
+  "displaytitle": "Pietro Mascagni",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q181894",
+  "titles": {
+    "canonical": "Pietro_Mascagni",
+    "normalized": "Pietro Mascagni",
+    "display": "Pietro Mascagni"
+  },
+  "pageid": 37931,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pietro_Mascagni_2.jpg/228px-Pietro_Mascagni_2.jpg",
+    "width": 228,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pietro_Mascagni_2.jpg",
+    "width": 990,
+    "height": 1389
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100556542",
+  "tid": "e2248d10-119c-11ed-9c8a-51fc3e5ff1ba",
+  "timestamp": "2022-07-26T14:41:45Z",
+  "description": "Italian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pietro_Mascagni",
+      "revisions": "https://en.wikipedia.org/wiki/Pietro_Mascagni?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pietro_Mascagni?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pietro_Mascagni"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Pietro_Mascagni",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Pietro_Mascagni",
+      "edit": "https://en.m.wikipedia.org/wiki/Pietro_Mascagni?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Pietro_Mascagni"
+    }
+  },
+  "extract": "Pietro Mascagni was an Italian composer primarily known for his operas. His 1890 masterpiece Cavalleria rusticana caused one of the greatest sensations in opera history and single-handedly ushered in the Verismo movement in Italian dramatic music. While it was often held that Mascagni, like Ruggero Leoncavallo, was a \"one-opera man\" who could never repeat his first success, L'amico Fritz and Iris have remained in the repertoire in Europe since their premieres.",
+  "extract_html": "<p><b>Pietro Mascagni</b> was an Italian composer primarily known for his operas. His 1890 masterpiece <i>Cavalleria rusticana</i> caused one of the greatest sensations in opera history and single-handedly ushered in the <i>Verismo</i> movement in Italian dramatic music. While it was often held that Mascagni, like Ruggero Leoncavallo, was a \"one-opera man\" who could never repeat his first success, <i>L'amico Fritz</i> and <i>Iris</i> have remained in the repertoire in Europe since their premieres.</p>"
+}

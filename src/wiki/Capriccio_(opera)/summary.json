@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Capriccio (opera)",
+  "displaytitle": "<i>Capriccio</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1034949",
+  "titles": {
+    "canonical": "Capriccio_(opera)",
+    "normalized": "Capriccio (opera)",
+    "display": "<i>Capriccio</i> (opera)"
+  },
+  "pageid": 2724782,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg/226px-Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 226,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ferdinand_Schmutzer_-_Richard_Strauss%2C_1922.jpg",
+    "width": 535,
+    "height": 756
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1021247450",
+  "tid": "84bd8520-f9c1-11ec-a4ef-a9f9974f698f",
+  "timestamp": "2021-05-03T17:59:25Z",
+  "description": "Opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Capriccio_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Capriccio_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Capriccio_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Capriccio_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Capriccio_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Capriccio_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Capriccio_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Capriccio_(opera)"
+    }
+  },
+  "extract": "Capriccio, Op. 85, is the final opera by German composer Richard Strauss, subtitled \"A Conversation Piece for Music\". It received its premiere performance at the Nationaltheater München on 28 October 1942. Strauss and Clemens Krauss wrote the German libretto, but its genesis came from Stefan Zweig in the 1930s, and Joseph Gregor further developed the idea several years later. Strauss then took it on, but finally recruited Krauss as his collaborator. Most of the final libretto is by Krauss.",
+  "extract_html": "<p><i><b>Capriccio</b></i>, Op. 85, is the final opera by German composer Richard Strauss, subtitled \"A Conversation Piece for Music\". It received its premiere performance at the Nationaltheater München on 28 October 1942. Strauss and Clemens Krauss wrote the German libretto, but its genesis came from Stefan Zweig in the 1930s, and Joseph Gregor further developed the idea several years later. Strauss then took it on, but finally recruited Krauss as his collaborator. Most of the final libretto is by Krauss.</p>"
+}

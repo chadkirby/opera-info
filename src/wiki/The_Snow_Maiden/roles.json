@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>St. Petersburg premiere,<br>10 February 1882<br>(Conductor: <a href=\"/wiki/Eduard_N%C3%A1pravn%C3%ADk\" title=\"Eduard Nápravník\">Eduard Nápravník</a>)\n</th>\n<th>Bolshoi theatre premiere, Moscow<br>1893<br>(Conductor: Enrico Bevignani)\n</th></tr>\n<tr>\n<td>Tsar Berendey\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Bermyata, <i>a <a href=\"/wiki/Boyar\" title=\"Boyar\">boyar</a>, confidant of the tsar</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Spring Beauty\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Grandfather Frost\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>The Snow Maiden\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Bobyl Bakula\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Bobylikha\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Lel\n</td>\n<td>contralto\n</td>\n\n</tr>\n<tr>\n<td>Kupava, <i>a young maiden, daughter of a wealthy settler</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Mizgir, <i>a merchant guest from the Berendeyans' trading quarter</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>First Herald\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Second Herald\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Tsar's page\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Wood-Sprite\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Maslenitsa\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Chorus, silent roles: <i>Boyars, their wives and the tsar's retinue, gusli-players, blind men, skomorokhi, gudok-players, bag-pipers, shepherds, lads and lasses, male and female Berendeyans of every age and calling, forest sprites, Spring's retinue – birds, flowers chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Tsar Berendey",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bermyata, a boyar, confidant of the tsar",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Spring Beauty",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Grandfather Frost",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Snow Maiden",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Bobyl Bakula",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bobylikha",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Lel",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Kupava, a young maiden, daughter of a wealthy settler",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mizgir, a merchant guest from the Berendeyans' trading quarter",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "First Herald",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second Herald",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Tsar's page",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Wood-Sprite",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Maslenitsa",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus, silent roles: Boyars, their wives and the tsar's retinue, gusli-players, blind men, skomorokhi, gudok-players, bag-pipers, shepherds, lads and lasses, male and female Berendeyans of every age and calling, forest sprites, Spring's retinue – birds, flowers chorus",
+      "voiceType": ""
+    }
+  ]
+}

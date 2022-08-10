@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gian Carlo Menotti",
+  "displaytitle": "Gian Carlo Menotti",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q270662",
+  "titles": {
+    "canonical": "Gian_Carlo_Menotti",
+    "normalized": "Gian Carlo Menotti",
+    "display": "Gian Carlo Menotti"
+  },
+  "pageid": 49446160,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gian_Carlo_Menotti_%2846197651081%29.jpg/210px-Gian_Carlo_Menotti_%2846197651081%29.jpg",
+    "width": 210,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gian_Carlo_Menotti_%2846197651081%29.jpg",
+    "width": 671,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097160452",
+  "tid": "5d7b7440-0f9c-11ed-abda-395764848daa",
+  "timestamp": "2022-07-09T02:13:27Z",
+  "description": "Italian-American composer and librettist (1911–2007)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gian_Carlo_Menotti",
+      "revisions": "https://en.wikipedia.org/wiki/Gian_Carlo_Menotti?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gian_Carlo_Menotti?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gian_Carlo_Menotti"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gian_Carlo_Menotti",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gian_Carlo_Menotti",
+      "edit": "https://en.m.wikipedia.org/wiki/Gian_Carlo_Menotti?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gian_Carlo_Menotti"
+    }
+  },
+  "extract": "Gian Carlo Menotti was an Italian-American composer, librettist, director, and playwright who is primarily known for his output of 25 operas. Although he often referred to himself as an American composer, he kept his Italian citizenship. One of the most frequently performed opera composers of the 20th century, his most successful works were written in the 1940s and 1950s. Highly influenced by Giacomo Puccini and Modest Mussorgsky, Menotti further developed the verismo tradition of opera in the post-World War II era. Rejecting atonality and the aesthetic of the Second Viennese School, Menotti's music is characterized by expressive lyricism which carefully sets language to natural rhythms in ways that highlight textual meaning and underscore dramatic intent.",
+  "extract_html": "<p><b>Gian Carlo Menotti</b> was an Italian-American composer, librettist, director, and playwright who is primarily known for his output of 25 operas. Although he often referred to himself as an American composer, he kept his Italian citizenship. One of the most frequently performed opera composers of the 20th century, his most successful works were written in the 1940s and 1950s. Highly influenced by Giacomo Puccini and Modest Mussorgsky, Menotti further developed the verismo tradition of opera in the post-World War II era. Rejecting atonality and the aesthetic of the Second Viennese School, Menotti's music is characterized by expressive lyricism which carefully sets language to natural rhythms in ways that highlight textual meaning and underscore dramatic intent.</p>"
+}

@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, August 14, 1814<br>(Conductor: <a href=\"/wiki/Alessandro_Rolla\" title=\"Alessandro Rolla\">Alessandro Rolla</a>)\n</th></tr>\n<tr>\n<td>Don Geronio, <i>a Neapolitan gentleman</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Fiorilla, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Selim, <i>the Turk</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Narciso, <i>in love with Fiorilla</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Prosdocimo, <i>a poet</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Zaida, <i>a Turk</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Albazar, <i>a Turk</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Gypsies, Turks, people - Chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Don Geronio, a Neapolitan gentleman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Fiorilla, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Selim, the Turk",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Narciso, in love with Fiorilla",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Prosdocimo, a poet",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Zaida, a Turk",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Albazar, a Turk",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Gypsies, Turks, people - Chorus",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 12 March 1954 <br>(Conductor: <a href=\"/wiki/Hans_Rosbaud\" title=\"Hans Rosbaud\">Hans Rosbaud</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Moses\" title=\"Moses\">Moses</a>\n</td>\n<td>speaker\n</td>\n</tr>\n<tr>\n<td>Aron\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Young girl\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Youth\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Ephraimite\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Sick woman\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a>\n</td>\n</tr>\n<tr>\n<td>Man\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Naked youth\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Priest\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>First naked virgin\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Second naked virgin\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Third naked virgin\n</td>\n<td>alto\n</td>\n</tr>\n<tr>\n<td>Fourth naked virgin\n</td>\n<td>alto\n</td>\n</tr>\n<tr>\n<td>Man\n</td>\n<td>speaker\n</td>\n</tr>\n<tr>\n<td>Six solo voices in the orchestra\n</td>\n<td>soprano, mezzo-soprano, altos,<br> tenor, baritone, bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Voice from the burning bush, 70 elders, beggars, several elderly persons, 12 tribal leaders, other naked persons, dancers and supernumeraries of all kinds</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Moses",
+      "voiceType": "speaker"
+    },
+    {
+      "role": "Aron",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Young girl",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Youth",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ephraimite",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sick woman",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Man",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Naked youth",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "First naked virgin",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Second naked virgin",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Third naked virgin",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Fourth naked virgin",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Man",
+      "voiceType": "speaker"
+    },
+    {
+      "role": "Six solo voices in the orchestra",
+      "voiceType": "soprano, mezzo-soprano, altos,\n tenor, baritone, bass"
+    },
+    {
+      "role": "Voice from the burning bush, 70 elders, beggars, several elderly persons, 12 tribal leaders, other naked persons, dancers and supernumeraries of all kinds",
+      "voiceType": ""
+    }
+  ]
+}

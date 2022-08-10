@@ -1,0 +1,85 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"165\">Cast<br>(Tom, Anne, Nick, Baba)\n</th>\n<th>Conductor,<br>opera house and/or orchestra\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1953\n</td>\n<td><a href=\"/wiki/Eugene_Conley\" title=\"Eugene Conley\">Eugene Conley</a>,<br><a href=\"/wiki/Hilde_Gueden\" class=\"mw-redirect\" title=\"Hilde Gueden\">Hilde Gueden</a>,<br><a href=\"/wiki/Mack_Harrell\" title=\"Mack Harrell\">Mack Harrell</a>,<br><a href=\"/wiki/Blanche_Thebom\" title=\"Blanche Thebom\">Blanche Thebom</a>\n</td>\n\n<td>CD: Naxos, <br>Catalogue No: 8.111266-67 <br>(Original recording issued by Columbia)\n</td></tr>\n<tr>\n<td>1964\n</td>\n<td><a href=\"/wiki/Alexander_Young_(tenor)\" title=\"Alexander Young (tenor)\">Alexander Young</a>,<br><a href=\"/wiki/Judith_Raskin\" title=\"Judith Raskin\">Judith Raskin</a>,<br><a href=\"/wiki/John_Reardon_(baritone)\" title=\"John Reardon (baritone)\">John Reardon</a>,<br><a href=\"/wiki/Regina_Sarfaty\" title=\"Regina Sarfaty\">Regina Sarfaty</a>\n</td>\n\n<td>CD: Sony (Original recording issued by Columbia)\n</td></tr>\n<tr>\n<td>1983\n</td>\n<td><a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a>,<br><a href=\"/w/index.php?title=Cathryn_Pope&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cathryn Pope (page does not exist)\">Cathryn Pope</a>,<br><a href=\"/wiki/Samuel_Ramey\" title=\"Samuel Ramey\">Samuel Ramey</a>,<br><a href=\"/wiki/Sarah_Walker_(mezzo-soprano)\" title=\"Sarah Walker (mezzo-soprano)\">Sarah Walker</a>\n</td>\n\n<td>CD: DECCA\n</td></tr>\n<tr>\n<td>1993\n</td>\n<td><a href=\"/wiki/Jon_Garrison\" title=\"Jon Garrison\">Jon Garrison</a>,<br><a href=\"/wiki/Jayne_West\" title=\"Jayne West\">Jayne West</a>,<br>John Cheek,<br><a href=\"/wiki/Wendy_White_(mezzo-soprano)\" title=\"Wendy White (mezzo-soprano)\">Wendy White</a>\n</td>\n\n<td>CD: Naxos,<br>Catalogue No: 8.660272-73, <br>(original recording issued by Musicmasters Classics)\n</td></tr>\n<tr>\n<td>1995\n</td>\n<td><a href=\"/wiki/Jerry_Hadley\" title=\"Jerry Hadley\">Jerry Hadley</a>,<br><a href=\"/wiki/Dawn_Upshaw\" title=\"Dawn Upshaw\">Dawn Upshaw</a>,<br><a href=\"/wiki/Samuel_Ramey\" title=\"Samuel Ramey\">Samuel Ramey</a>,<br><a href=\"/wiki/Grace_Bumbry\" title=\"Grace Bumbry\">Grace Bumbry</a>\n</td>\n\n<td>CD: Erato<br>Cat. No. 0630 12715-2\n</td></tr>\n<tr>\n<td>1997\n</td>\n<td><a href=\"/wiki/Anthony_Rolfe-Johnson\" class=\"mw-redirect\" title=\"Anthony Rolfe-Johnson\">Anthony Rolfe-Johnson</a>,<br><a href=\"/wiki/Sylvia_McNair\" title=\"Sylvia McNair\">Sylvia McNair</a>,<br><a href=\"/wiki/Paul_Plishka\" title=\"Paul Plishka\">Paul Plishka</a>,<br><a href=\"/wiki/Jane_Henschel\" title=\"Jane Henschel\">Jane Henschel</a>\n</td>\n\n<td>CD: Philips\n</td></tr>\n<tr>\n<td>1999\n</td>\n<td><a href=\"/wiki/Ian_Bostridge\" title=\"Ian Bostridge\">Ian Bostridge</a>,<br><a href=\"/wiki/Deborah_York\" title=\"Deborah York\">Deborah York</a>,<br><a href=\"/wiki/Bryn_Terfel\" title=\"Bryn Terfel\">Bryn Terfel</a>,<br><a href=\"/wiki/Anne-Sofie_von_Otter\" class=\"mw-redirect\" title=\"Anne-Sofie von Otter\">Anne-Sofie von Otter</a>\n</td>\n\n<td>CD: Deutsche Grammophon\n</td></tr>\n<tr>\n<td>2010\n</td>\n<td><a href=\"/wiki/Paul_Groves_(tenor)\" title=\"Paul Groves (tenor)\">Paul Groves</a>,<br><a href=\"/wiki/Dawn_Upshaw\" title=\"Dawn Upshaw\">Dawn Upshaw</a>,<br><a href=\"/wiki/Samuel_Ramey\" title=\"Samuel Ramey\">Samuel Ramey</a>,<br><a href=\"/wiki/Stephanie_Blythe\" title=\"Stephanie Blythe\">Stephanie Blythe</a>\n</td>\n\n<td>CD: Metropolitan Opera\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1953,
+      "cast": [
+        "Eugene Conley",
+        "Hilde Gueden",
+        "Mack Harrell",
+        "Blanche Thebom"
+      ],
+      "conductor": "Igor Stravinsky"
+    },
+    {
+      "year": 1964,
+      "cast": [
+        "Alexander Young",
+        "Judith Raskin",
+        "John Reardon",
+        "Regina Sarfaty"
+      ],
+      "conductor": "Igor Stravinsky"
+    },
+    {
+      "year": 1983,
+      "cast": [
+        "Philip Langridge",
+        "Cathryn Pope",
+        "Samuel Ramey",
+        "Sarah Walker"
+      ],
+      "conductor": "Riccardo Chailly"
+    },
+    {
+      "year": 1993,
+      "cast": [
+        "Jon Garrison",
+        "Jayne West",
+        "John Cheek",
+        "Wendy White"
+      ],
+      "conductor": "Robert Craft"
+    },
+    {
+      "year": 1995,
+      "cast": [
+        "Jerry Hadley",
+        "Dawn Upshaw",
+        "Samuel Ramey",
+        "Grace Bumbry"
+      ],
+      "conductor": "Kent Nagano"
+    },
+    {
+      "year": 1997,
+      "cast": [
+        "Anthony Rolfe-Johnson",
+        "Sylvia McNair",
+        "Paul Plishka",
+        "Jane Henschel"
+      ],
+      "conductor": "Seiji Ozawa"
+    },
+    {
+      "year": 1999,
+      "cast": [
+        "Ian Bostridge",
+        "Deborah York",
+        "Bryn Terfel",
+        "Anne-Sofie von Otter"
+      ],
+      "conductor": "John Eliot Gardiner"
+    },
+    {
+      "year": 2010,
+      "cast": [
+        "Paul Groves",
+        "Dawn Upshaw",
+        "Samuel Ramey",
+        "Stephanie Blythe"
+      ],
+      "conductor": "James Levine"
+    }
+  ]
+}

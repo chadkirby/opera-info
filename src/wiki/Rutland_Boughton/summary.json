@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rutland Boughton",
+  "displaytitle": "Rutland Boughton",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q673401",
+  "titles": {
+    "canonical": "Rutland_Boughton",
+    "normalized": "Rutland Boughton",
+    "display": "Rutland Boughton"
+  },
+  "pageid": 2086073,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rb3.jpg/237px-Rb3.jpg",
+    "width": 237,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Rb3.jpg",
+    "width": 264,
+    "height": 356
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1080456615",
+  "tid": "5e62be70-0f85-11ed-8e84-a7deae6cdbcb",
+  "timestamp": "2022-04-01T11:49:00Z",
+  "description": "English composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rutland_Boughton",
+      "revisions": "https://en.wikipedia.org/wiki/Rutland_Boughton?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rutland_Boughton?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rutland_Boughton"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rutland_Boughton",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rutland_Boughton",
+      "edit": "https://en.m.wikipedia.org/wiki/Rutland_Boughton?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rutland_Boughton"
+    }
+  },
+  "extract": " Rutland Boughton  was an English composer who became well known in the early 20th century as a composer of opera and choral music. He was also an influential communist activist within the Communist Party of Great Britain (CPGB).",
+  "extract_html": "<p><b> Rutland Boughton </b> was an English composer who became well known in the early 20th century as a composer of opera and choral music. He was also an influential communist activist within the Communist Party of Great Britain (CPGB).</p>"
+}

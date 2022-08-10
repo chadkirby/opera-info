@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Saul og David",
+  "displaytitle": "<i>Saul og David</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3133269",
+  "titles": {
+    "canonical": "Saul_og_David",
+    "normalized": "Saul og David",
+    "display": "<i>Saul og David</i>"
+  },
+  "pageid": 8969011,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Saul_og_David_%28Carl_Nielsen%29%2C%2C_Stockholm_1931.jpg/320px-Saul_og_David_%28Carl_Nielsen%29%2C%2C_Stockholm_1931.jpg",
+    "width": 320,
+    "height": 274
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Saul_og_David_%28Carl_Nielsen%29%2C%2C_Stockholm_1931.jpg",
+    "width": 848,
+    "height": 726
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1003450140",
+  "tid": "d27c7d40-15f8-11ed-b028-053553cf103b",
+  "timestamp": "2021-01-29T01:27:01Z",
+  "description": "Danish opera by Carl Nielsen",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Saul_og_David",
+      "revisions": "https://en.wikipedia.org/wiki/Saul_og_David?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Saul_og_David?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Saul_og_David"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Saul_og_David",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Saul_og_David",
+      "edit": "https://en.m.wikipedia.org/wiki/Saul_og_David?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Saul_og_David"
+    }
+  },
+  "extract": "Saul og David is the first of the two operas by the Danish composer Carl Nielsen. The four-act libretto, by Einar Christiansen, tells the Biblical story of Saul's jealousy of the young David, taken from the Book of Samuel. The first performance was at the Royal Danish Theatre, Copenhagen, on 28 November 1902.",
+  "extract_html": "<p><i><b>Saul og David</b></i> is the first of the two operas by the Danish composer Carl Nielsen. The four-act libretto, by Einar Christiansen, tells the Biblical story of Saul's jealousy of the young David, taken from the Book of Samuel. The first performance was at the Royal Danish Theatre, Copenhagen, on 28 November 1902.</p>"
+}

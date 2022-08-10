@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lulu (opera)",
+  "displaytitle": "<i>Lulu</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q837545",
+  "titles": {
+    "canonical": "Lulu_(opera)",
+    "normalized": "Lulu (opera)",
+    "display": "<i>Lulu</i> (opera)"
+  },
+  "pageid": 113319,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/WP_Alban_Berg.jpg",
+    "width": 229,
+    "height": 310
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/WP_Alban_Berg.jpg",
+    "width": 229,
+    "height": 310
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096436305",
+  "tid": "2238b4c0-119e-11ed-9882-e3a2d15444f0",
+  "timestamp": "2022-07-04T13:16:55Z",
+  "description": "Unfinished opera by Alban Berg",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lulu_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Lulu_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lulu_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lulu_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Lulu_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lulu_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Lulu_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Lulu_(opera)"
+    }
+  },
+  "extract": "Lulu is an opera in three acts by Alban Berg. Berg adapted the libretto from Frank Wedekind's two Lulu plays, Erdgeist and Die Büchse der Pandora.",
+  "extract_html": "<p><i><b>Lulu</b></i> is an opera in three acts by Alban Berg. Berg adapted the libretto from Frank Wedekind's two <i>Lulu</i> plays, <i>Erdgeist</i> and <i>Die Büchse der Pandora</i>.</p>"
+}

@@ -1,0 +1,81 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 21 June 1868<br>Conductor: <a href=\"/wiki/Hans_von_B%C3%BClow\" title=\"Hans von Bülow\">Hans von Bülow</a>\n</th></tr>\n<tr>\n<td>Eva, <i>Pogner's daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>David, <i>Sachs's apprentice</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Walther von Stolzing, <i>young knight from <a href=\"/wiki/Franconia\" title=\"Franconia\">Franconia</a></i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Sixtus Beckmesser, <i>town clerk, mastersinger</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Hans_Sachs\" title=\"Hans Sachs\">Hans Sachs</a>, <i>cobbler, mastersinger</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Veit Pogner, <i>goldsmith, mastersinger</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><span style=\"visibility:hidden;color:transparent;\">—</span><i>Supporting roles:</i>\n</td></tr>\n<tr>\n<td>Magdalena, <i>Eva's nurse</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Kunz Vogelgesang, <i>furrier, mastersinger</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Balthasar Zorn, <i>pewterer, mastersinger</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Augustin Moser, <i>tailor, mastersinger</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Ulrich Eisslinger, <i>grocer, mastersinger</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Fritz Kothner, <i>baker, mastersinger</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Nachtwächter, or Nightwatchman\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Konrad Nachtigall, <i>tinsmith, mastersinger</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Hermann Ortel, <i>soapmaker, mastersinger</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Hans Foltz, <i>coppersmith, mastersinger</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Hans Schwarz, <i>stocking weaver, mastersinger</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Citizens of all guilds and their wives, journeymen, apprentices, young women, people of Nuremberg</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Eva, Pogner's daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "David, Sachs's apprentice",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Walther von Stolzing, young knight from Franconia",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sixtus Beckmesser, town clerk, mastersinger",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Hans Sachs, cobbler, mastersinger",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Veit Pogner, goldsmith, mastersinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "—Supporting roles:",
+      "voiceType": ""
+    },
+    {
+      "role": "Magdalena, Eva's nurse",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Kunz Vogelgesang, furrier, mastersinger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Balthasar Zorn, pewterer, mastersinger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Augustin Moser, tailor, mastersinger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ulrich Eisslinger, grocer, mastersinger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fritz Kothner, baker, mastersinger",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nachtwächter, or Nightwatchman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Konrad Nachtigall, tinsmith, mastersinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Hermann Ortel, soapmaker, mastersinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Hans Foltz, coppersmith, mastersinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Hans Schwarz, stocking weaver, mastersinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Citizens of all guilds and their wives, journeymen, apprentices, young women, people of Nuremberg",
+      "voiceType": ""
+    }
+  ]
+}

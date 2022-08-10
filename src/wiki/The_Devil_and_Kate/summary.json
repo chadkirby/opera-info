@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Devil and Kate",
+  "displaytitle": "<i>The Devil and Kate</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1216733",
+  "titles": {
+    "canonical": "The_Devil_and_Kate",
+    "normalized": "The Devil and Kate",
+    "display": "<i>The Devil and Kate</i>"
+  },
+  "pageid": 2018713,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Antonin_Dvorak_1904_by_Jan_Langhans.jpg/244px-Antonin_Dvorak_1904_by_Jan_Langhans.jpg",
+    "width": 244,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Antonin_Dvorak_1904_by_Jan_Langhans.jpg",
+    "width": 387,
+    "height": 508
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097339568",
+  "tid": "d1acf840-15f8-11ed-adb9-bba148edf5e3",
+  "timestamp": "2022-07-10T05:21:43Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Devil_and_Kate",
+      "revisions": "https://en.wikipedia.org/wiki/The_Devil_and_Kate?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Devil_and_Kate?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Devil_and_Kate"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Devil_and_Kate",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Devil_and_Kate",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Devil_and_Kate?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Devil_and_Kate"
+    }
+  },
+  "extract": "The Devil and Kate, Op. 112, B.201, is an opera in three acts by Antonín Dvořák to a Czech libretto by Adolf Wenig. It is based on a farce by Josef Kajetán Tyl, and the story also had been treated in the Fairy Tales of Božena Němcová. The first performance of the opera was at the National Theatre, Prague, on 23 November 1899, under Adolf Čech.",
+  "extract_html": "<p><i><b>The Devil and Kate</b></i>, Op. 112, B.201, is an opera in three acts by Antonín Dvořák to a Czech libretto by Adolf Wenig. It is based on a farce by Josef Kajetán Tyl, and the story also had been treated in the <i>Fairy Tales</i> of Božena Němcová. The first performance of the opera was at the National Theatre, Prague, on 23 November 1899, under Adolf Čech.</p>"
+}

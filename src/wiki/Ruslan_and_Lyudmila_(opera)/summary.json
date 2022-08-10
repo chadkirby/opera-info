@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ruslan and Lyudmila (opera)",
+  "displaytitle": "<i>Ruslan and Lyudmila</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q522408",
+  "titles": {
+    "canonical": "Ruslan_and_Lyudmila_(opera)",
+    "normalized": "Ruslan and Lyudmila (opera)",
+    "display": "<i>Ruslan and Lyudmila</i> (opera)"
+  },
+  "pageid": 1253317,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ruslan_i_Lyudmila_%28Gutheil%29.jpg/218px-Ruslan_i_Lyudmila_%28Gutheil%29.jpg",
+    "width": 218,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ruslan_i_Lyudmila_%28Gutheil%29.jpg",
+    "width": 409,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096811553",
+  "tid": "ea4cdb40-167a-11ed-90ef-c7e7e6cf7877",
+  "timestamp": "2022-07-06T19:47:58Z",
+  "description": "Opera by Mikhail Glinka",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ruslan_and_Lyudmila_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ruslan_and_Lyudmila_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ruslan_and_Lyudmila_(opera)"
+    }
+  },
+  "extract": "Ruslan and Lyudmila is an opera in five acts composed by Mikhail Glinka between 1837 and 1842. The opera is based on the 1820 poem of the same name by Alexander Pushkin. The Russian libretto was written by Valerian Shirkov, Nestor Kukolnik and N. A. Markevich, among others. Pushkin's death in the famous duel prevented him from writing the libretto himself as planned.",
+  "extract_html": "<p><i><b>Ruslan and Lyudmila</b></i> is an opera in five acts composed by Mikhail Glinka between 1837 and 1842. The opera is based on the 1820 poem of the same name by Alexander Pushkin. The Russian libretto was written by Valerian Shirkov, Nestor Kukolnik and N. A. Markevich, among others. Pushkin's death in the famous duel prevented him from writing the libretto himself as planned.</p>"
+}

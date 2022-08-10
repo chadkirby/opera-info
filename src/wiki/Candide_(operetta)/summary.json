@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Candide (operetta)",
+  "displaytitle": "<i>Candide</i> (operetta)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1033015",
+  "titles": {
+    "canonical": "Candide_(operetta)",
+    "normalized": "Candide (operetta)",
+    "display": "<i>Candide</i> (operetta)"
+  },
+  "pageid": 1423416,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Candide_playbill.jpg/198px-Candide_playbill.jpg",
+    "width": 198,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/5/5b/Candide_playbill.jpg",
+    "width": 248,
+    "height": 400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101719514",
+  "tid": "f51ecc00-119c-11ed-b3e5-55b1823d9b70",
+  "timestamp": "2022-08-01T13:22:10Z",
+  "description": "Operetta with music by Leonard Bernstein",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Candide_(operetta)",
+      "revisions": "https://en.wikipedia.org/wiki/Candide_(operetta)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Candide_(operetta)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Candide_(operetta)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Candide_(operetta)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Candide_(operetta)",
+      "edit": "https://en.m.wikipedia.org/wiki/Candide_(operetta)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Candide_(operetta)"
+    }
+  },
+  "extract": "Candide is an operetta with music composed by Leonard Bernstein, based on the 1759 novella of the same name by Voltaire. The operetta was first performed in 1956 with a libretto by Lillian Hellman; but since 1974 it has been generally performed with a book by Hugh Wheeler which is more faithful to Voltaire's novel. The primary lyricist was the poet Richard Wilbur. Other contributors to the text were John Latouche, Dorothy Parker, Lillian Hellman, Stephen Sondheim, John Mauceri, John Wells, and Bernstein himself. Maurice Peress and Hershy Kay contributed orchestrations. Although unsuccessful at its premiere, Candide has now overcome the unenthusiastic reaction of early audiences and critics and achieved more popularity.",
+  "extract_html": "<p><i><b>Candide</b></i> is an operetta with music composed by Leonard Bernstein, based on the 1759 novella of the same name by Voltaire. The operetta was first performed in 1956 with a libretto by Lillian Hellman; but since 1974 it has been generally performed with a book by Hugh Wheeler which is more faithful to Voltaire's novel. The primary lyricist was the poet Richard Wilbur. Other contributors to the text were John Latouche, Dorothy Parker, Lillian Hellman, Stephen Sondheim, John Mauceri, John Wells, and Bernstein himself. Maurice Peress and Hershy Kay contributed orchestrations. Although unsuccessful at its premiere, <i>Candide</i> has now overcome the unenthusiastic reaction of early audiences and critics and achieved more popularity.</p>"
+}

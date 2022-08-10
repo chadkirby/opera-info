@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">King Priam</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Michael_Tippett\" title=\"Michael Tippett\">Michael Tippett</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Tippett</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\">Homer's <i><a href=\"/wiki/Iliad\" title=\"Iliad\">Iliad</a></i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">29&nbsp;May&nbsp;1962<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1962-05-29</span>)</span><br><div style=\"display:inline;\" class=\"summary\">Arts festival in <a href=\"/wiki/Coventry\" title=\"Coventry\">Coventry</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "King Priam"
+  ],
+  "Librettist": "Tippett",
+  "Language": "English",
+  "Based on": "Homer's Iliad",
+  "Premiere": "29 May 1962\nArts festival in Coventry"
+}

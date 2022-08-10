@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gaspare Spontini",
+  "displaytitle": "Gaspare Spontini",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q168485",
+  "titles": {
+    "canonical": "Gaspare_Spontini",
+    "normalized": "Gaspare Spontini",
+    "display": "Gaspare Spontini"
+  },
+  "pageid": 261539,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gaspare_Spontini.jpg/224px-Gaspare_Spontini.jpg",
+    "width": 224,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gaspare_Spontini.jpg",
+    "width": 280,
+    "height": 400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1077962864",
+  "tid": "08358cc0-1544-11ed-aa4b-d3404ca3d8a5",
+  "timestamp": "2022-03-19T04:28:04Z",
+  "description": "Italian composer and conductor",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gaspare_Spontini",
+      "revisions": "https://en.wikipedia.org/wiki/Gaspare_Spontini?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gaspare_Spontini?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gaspare_Spontini"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gaspare_Spontini",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gaspare_Spontini",
+      "edit": "https://en.m.wikipedia.org/wiki/Gaspare_Spontini?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gaspare_Spontini"
+    }
+  },
+  "extract": "Gaspare Luigi Pacifico Spontini was an Italian opera composer and conductor.",
+  "extract_html": "<p><b>Gaspare Luigi Pacifico Spontini</b> was an Italian opera composer and conductor.</p>"
+}

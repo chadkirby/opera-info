@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La bohème",
+  "displaytitle": "<i>La bohème</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q188621",
+  "titles": {
+    "canonical": "La_bohème",
+    "normalized": "La bohème",
+    "display": "<i>La bohème</i>"
+  },
+  "pageid": 37929,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/La_Boheme_poster_by_Hohenstein.PNG/213px-La_Boheme_poster_by_Hohenstein.PNG",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/La_Boheme_poster_by_Hohenstein.PNG",
+    "width": 562,
+    "height": 843
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094908476",
+  "tid": "d2a4ecd0-15f8-11ed-95d5-499f8e92d80d",
+  "timestamp": "2022-06-25T08:25:32Z",
+  "description": "Opera by Giacomo Puccini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_boh%C3%A8me",
+      "revisions": "https://en.wikipedia.org/wiki/La_boh%C3%A8me?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_boh%C3%A8me?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_boh%C3%A8me"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_boh%C3%A8me",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_boh%C3%A8me",
+      "edit": "https://en.m.wikipedia.org/wiki/La_boh%C3%A8me?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_boh%C3%A8me"
+    }
+  },
+  "extract": "La bohème is an opera in four acts, composed by Giacomo Puccini between 1893 and 1895 to an Italian libretto by Luigi Illica and Giuseppe Giacosa, based on Scènes de la vie de bohème (1851) by Henri Murger. The story is set in Paris around 1830 and shows the Bohemian lifestyle of a poor seamstress and her artist friends.",
+  "extract_html": "<p><i><b>La bohème</b></i> is an opera in four acts, composed by Giacomo Puccini between 1893 and 1895 to an Italian libretto by Luigi Illica and Giuseppe Giacosa, based on <i>Scènes de la vie de bohème</i> (1851) by Henri Murger. The story is set in Paris around 1830 and shows the Bohemian lifestyle of a poor seamstress and her artist friends.</p>"
+}

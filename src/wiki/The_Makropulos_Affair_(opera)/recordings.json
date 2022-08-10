@@ -1,0 +1,47 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Emilia, Gregor, Kolenatý, Vítek, Kristina, Jaroslav Prus, Janek\n</th>\n<th>Conductor, chorus &amp; orchestra, stage director (for videos)\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1966</td>\n<td>Libuse Prylova, <a href=\"/wiki/Ivo_%C5%BD%C3%ADdek\" title=\"Ivo Žídek\">Ivo Žídek</a>, <a href=\"/wiki/Karel_Berman\" title=\"Karel Berman\">Karel Berman</a>, Rudolf Vonasek, <a href=\"/wiki/Helena_Tattermuschov%C3%A1\" title=\"Helena Tattermuschová\">Helena Tattermuschová</a>, <a href=\"/wiki/P%C5%99emysl_Ko%C4%8D%C3%AD\" title=\"Přemysl Kočí\">Přemysl Kočí</a>, Viktor Koci</td>\n\n<td>LP and Audio CD: Supraphon\n</td></tr>\n<tr>\n<td>1978</td>\n<td><a href=\"/wiki/Elisabeth_S%C3%B6derstr%C3%B6m\" title=\"Elisabeth Söderström\">Elisabeth Söderström</a>, <a href=\"/wiki/Peter_Dvorsk%C3%BD\" title=\"Peter Dvorský\">Peter Dvorský</a>, Dalibor Jedlička, Vladimír Krejčík, Anna Czaková, <a href=\"/wiki/V%C3%A1clav_Z%C3%ADtek\" title=\"Václav Zítek\">Václav Zítek</a>, Zdeněk Švehla</td>\n\n<td>LP and Audio CD: Decca\n</td></tr>\n<tr>\n<td>1989</td>\n<td>Stephanie Sundine, <a href=\"/wiki/Graham_Clark_(tenor)\" title=\"Graham Clark (tenor)\">Graham Clark</a>, Robert Orth, <a href=\"/wiki/Richard_Margison\" title=\"Richard Margison\">Richard Margison</a>, Kathleen Brett, Cornelius Opthof, Benoit Boutet</td>\n\n<td>VHS Video: Pickwick Video\n</td></tr>\n<tr>\n<td>1995</td>\n<td><a href=\"/wiki/Anja_Silja\" title=\"Anja Silja\">Anja Silja</a>, Kim Begley, <a href=\"/wiki/Andrew_Shore\" title=\"Andrew Shore\">Andrew Shore</a>, Anthony Roden, Manuela Kriscak, <a href=\"/wiki/Victor_Braun\" title=\"Victor Braun\">Victor Braun</a>, <a href=\"/wiki/Christopher_Ventris\" title=\"Christopher Ventris\">Christopher Ventris</a></td>\n\n<td>VHS &amp; DVD: Warner Music Vision\n</td></tr>\n<tr>\n<td>2007</td>\n<td><a href=\"/wiki/Cheryl_Barker\" title=\"Cheryl Barker\">Cheryl Barker</a>, Robert Brubaker, Neal Davies, John Graham-Hall, Elena Xanthoudakis, John Wegner, Thomas Walker</td>\n\n<td>CD: Chandos (sung in English)<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup>\n</td></tr>\n<tr>\n<td>2012</td>\n<td><a href=\"/wiki/Angela_Denoke\" title=\"Angela Denoke\">Angela Denoke</a>, Raymond Very, <a href=\"/w/index.php?title=Jochen_Schmeckenbecher&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Jochen Schmeckenbecher (page does not exist)\">Jochen Schmeckenbecher</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://de.wikipedia.org/wiki/Jochen_Schmeckenbecher\" class=\"extiw\" title=\"de:Jochen Schmeckenbecher\">de</a>]</span>, Peter Hoare, Jurgita Adamonyte, Johan Reuter, Ales Briscein</td>\n\n<td>DVD: C-Major Entertainment<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1966,
+      "cast": [
+        "Libuse Prylova, Ivo Žídek, Karel Berman, Rudolf Vonasek, Helena Tattermuschová, Přemysl Kočí, Viktor Koci"
+      ],
+      "conductor": "Bohumil Gregor, Prague National Theatre Chorus and Orchestra"
+    },
+    {
+      "year": 1978,
+      "cast": [
+        "Elisabeth Söderström, Peter Dvorský, Dalibor Jedlička, Vladimír Krejčík, Anna Czaková, Václav Zítek, Zdeněk Švehla"
+      ],
+      "conductor": "Sir Charles Mackerras, Wiener Staatsopernchor (chorus master: Helmuth Froschauer), Wiener Philharmoniker"
+    },
+    {
+      "year": 1989,
+      "cast": [
+        "Stephanie Sundine, Graham Clark, Robert Orth, Richard Margison, Kathleen Brett, Cornelius Opthof, Benoit Boutet"
+      ],
+      "conductor": "Berislav Klobučar, conductor, Canadian Opera Company, Lotfi Mansouri (stage director)"
+    },
+    {
+      "year": 1995,
+      "cast": [
+        "Anja Silja, Kim Begley, Andrew Shore, Anthony Roden, Manuela Kriscak, Victor Braun, Christopher Ventris"
+      ],
+      "conductor": "London Philharmonic Orchestra, Sir Andrew Davis, Glyndebourne Festival, Nikolaus Lehnhoff (stage director)"
+    },
+    {
+      "year": 2007,
+      "cast": [
+        "Cheryl Barker, Robert Brubaker, Neal Davies, John Graham-Hall, Elena Xanthoudakis, John Wegner, Thomas Walker"
+      ],
+      "conductor": "Sir Charles Mackerras, English National Opera Orchestra and Chorus"
+    },
+    {
+      "year": 2012,
+      "cast": [
+        "Angela Denoke, Raymond Very, Jochen Schmeckenbecher[de], Peter Hoare, Jurgita Adamonyte, Johan Reuter, Ales Briscein"
+      ],
+      "conductor": "Esa-Pekka Salonen, Vienna Philharmonic, Christoph Marthaler (stage director)"
+    }
+  ]
+}

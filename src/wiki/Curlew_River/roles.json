@@ -1,0 +1,29 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 13 June 1964<br>(Conductor: Benjamin Britten)\n</th></tr>\n<tr>\n<td>Madwoman\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Ferryman\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Traveller\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Spirit of the boy\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">treble</a>\n</td>\n</tr>\n<tr>\n<td>Abbot\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Three assistants (acolytes); Chorus of eight Pilgrims (three tenors, three baritones and two basses).\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Madwoman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ferryman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Traveller",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Spirit of the boy",
+      "voiceType": "treble"
+    },
+    {
+      "role": "Abbot",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Three assistants (acolytes); Chorus of eight Pilgrims (three tenors, three baritones and two basses).",
+      "voiceType": ""
+    }
+  ]
+}

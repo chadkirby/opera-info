@@ -1,0 +1,29 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premier cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Cast at 1762 premiere<sup id=\"cite_ref-FOOTNOTECasaglia2005_6-1\" class=\"reference\"><a href=\"#cite_note-FOOTNOTECasaglia2005-6\">[6]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Artaxerxes_I\" title=\"Artaxerxes I\">Artaxerxes</a>, <a href=\"/wiki/Xerxes_I\" title=\"Xerxes I\">Xerxes</a>' younger son; Arbaces' friend\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Mandane, Xerxes' daughter; lover of Arbaces\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Artabanus_of_Persia\" title=\"Artabanus of Persia\">Artabanes</a>, general of Xerxes' army\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Arbaces, son of Artabanes\n</td>\n<td>soprano castrato\n</td>\n</tr>\n<tr>\n<td>Semira, Artabanes' daughter; lover of Artaxerxes\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Rimenes, Artabanes' captain\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Artaxerxes, Xerxes' younger son; Arbaces' friend",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Mandane, Xerxes' daughter; lover of Arbaces",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Artabanes, general of Xerxes' army",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Arbaces, son of Artabanes",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Semira, Artabanes' daughter; lover of Artaxerxes",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Rimenes, Artabanes' captain",
+      "voiceType": "tenor"
+    }
+  ]
+}

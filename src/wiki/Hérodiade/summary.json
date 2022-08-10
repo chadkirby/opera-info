@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hérodiade",
+  "displaytitle": "<i>Hérodiade</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1989023",
+  "titles": {
+    "canonical": "Hérodiade",
+    "normalized": "Hérodiade",
+    "display": "<i>Hérodiade</i>"
+  },
+  "pageid": 3404737,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jules_Massenet_by_Eug%C3%A8ne_Pirou.jpg/219px-Jules_Massenet_by_Eug%C3%A8ne_Pirou.jpg",
+    "width": 219,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jules_Massenet_by_Eug%C3%A8ne_Pirou.jpg",
+    "width": 2728,
+    "height": 3992
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087002972",
+  "tid": "298cfbc0-f9cd-11ec-a365-af504c044df7",
+  "timestamp": "2022-05-09T18:33:29Z",
+  "description": "Opera by Jules Massenet",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/H%C3%A9rodiade",
+      "revisions": "https://en.wikipedia.org/wiki/H%C3%A9rodiade?action=history",
+      "edit": "https://en.wikipedia.org/wiki/H%C3%A9rodiade?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:H%C3%A9rodiade"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/H%C3%A9rodiade",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/H%C3%A9rodiade",
+      "edit": "https://en.m.wikipedia.org/wiki/H%C3%A9rodiade?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:H%C3%A9rodiade"
+    }
+  },
+  "extract": "Hérodiade is an opera in four acts by Jules Massenet to a French libretto by Paul Milliet and Henri Grémont, based on the novella Hérodias (1877) by Gustave Flaubert. It was first performed at the Théâtre de la Monnaie in Brussels on 19 December 1881.",
+  "extract_html": "<p><i><b>Hérodiade</b></i> is an opera in four acts by Jules Massenet to a French libretto by Paul Milliet and Henri Grémont, based on the novella <i>Hérodias</i> (1877) by Gustave Flaubert. It was first performed at the Théâtre de la Monnaie in Brussels on 19 December 1881.</p>"
+}

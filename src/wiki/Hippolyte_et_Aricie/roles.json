@@ -1,0 +1,81 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, October 1, 1733<br>(conductor: <a href=\"/wiki/Fran%C3%A7ois_Franc%C5%93ur\" class=\"mw-redirect\" title=\"François Francœur\">François Francœur</a>)\n</th></tr>\n<tr>\n<td>Hippolyte (<a href=\"/wiki/Hippolytus_(mythology)\" class=\"mw-redirect\" title=\"Hippolytus (mythology)\">Hippolytus</a>)\n</td>\n<td><i><a href=\"/wiki/Haute-contre\" title=\"Haute-contre\">haute-contre</a></i>\n</td>\n</tr>\n<tr>\n<td>Aricie (<a href=\"/wiki/Aricia_(mythology)\" title=\"Aricia (mythology)\">Aricia</a>)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Phèdre (<a href=\"/wiki/Phaedra_(mythology)\" title=\"Phaedra (mythology)\">Phaedra</a>)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Thésée (<a href=\"/wiki/Theseus\" title=\"Theseus\">Theseus</a>)\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Jupiter_(mythology)\" title=\"Jupiter (mythology)\">Jupiter</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Pluton (<a href=\"/wiki/Pluto_(mythology)\" title=\"Pluto (mythology)\">Pluto</a>)\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Diane (<a href=\"/wiki/Diana_(mythology)\" title=\"Diana (mythology)\">Diana</a>)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Œnone, <i>Phèdre's confidante</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Arcas, <i>friend to Thésée</i>\n</td>\n<td><i><a href=\"/wiki/Baritenor\" title=\"Baritenor\">taille</a></i>\n</td>\n</tr>\n<tr>\n<td>Mercure (<a href=\"/wiki/Mercury_(mythology)\" title=\"Mercury (mythology)\">Mercury</a>)\n</td>\n<td><i>taille</i>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Tisiphone\" title=\"Tisiphone\">Tisiphone</a>\n</td>\n<td><i>taille</i>\n</td>\n</tr>\n<tr>\n<td>L'Amour, <i><a href=\"/wiki/Cupid\" title=\"Cupid\">Cupid</a></i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>La Grande-Prêtresse de Diane, <i>High Priestess of <a href=\"/wiki/Diana_(mythology)\" title=\"Diana (mythology)\">Diana</a></i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Parques, <i>three Fates</i>\n</td>\n<td>bass, <i>taille</i>, <i>haute-contre</i>\n</td>\n</tr>\n<tr>\n<td>Un suivant de l'Amour, <i>follower of <a href=\"/wiki/Cupid\" title=\"Cupid\">Cupid</a></i>\n</td>\n<td><i>haute-contre</i>\n</td>\n</tr>\n<tr>\n<td>Une bergère, <i>a shepherdess</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Une matelote, <i>a female sailor</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Une chasseresse, <i>a huntress</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Spirits of the underworld, people of <a href=\"/wiki/Troezen\" title=\"Troezen\">Troezen</a>, sailors, huntsmen, <a href=\"/wiki/Nymph\" title=\"Nymph\">nymphs</a> of <a href=\"/wiki/Diana_(mythology)\" title=\"Diana (mythology)\">Diana</a>,<br> shepherds and shepherdesses, people of the forest (chorus)</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Hippolyte (Hippolytus)",
+      "voiceType": "haute-contre"
+    },
+    {
+      "role": "Aricie (Aricia)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Phèdre (Phaedra)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Thésée (Theseus)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Jupiter",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Pluton (Pluto)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Diane (Diana)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Œnone, Phèdre's confidante",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Arcas, friend to Thésée",
+      "voiceType": "taille"
+    },
+    {
+      "role": "Mercure (Mercury)",
+      "voiceType": "taille"
+    },
+    {
+      "role": "Tisiphone",
+      "voiceType": "taille"
+    },
+    {
+      "role": "L'Amour, Cupid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "La Grande-Prêtresse de Diane, High Priestess of Diana",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Parques, three Fates",
+      "voiceType": "bass, taille, haute-contre"
+    },
+    {
+      "role": "Un suivant de l'Amour, follower of Cupid",
+      "voiceType": "haute-contre"
+    },
+    {
+      "role": "Une bergère, a shepherdess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Une matelote, a female sailor",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Une chasseresse, a huntress",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Spirits of the underworld, people of Troezen, sailors, huntsmen, nymphs of Diana,\n shepherds and shepherdesses, people of the forest (chorus)",
+      "voiceType": ""
+    }
+  ]
+}

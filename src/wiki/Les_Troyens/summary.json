@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Les Troyens",
+  "displaytitle": "<i>Les Troyens</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q472325",
+  "titles": {
+    "canonical": "Les_Troyens",
+    "normalized": "Les Troyens",
+    "display": "<i>Les Troyens</i>"
+  },
+  "pageid": 428953,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hector_Berlioz%2C_Les_Troyens_vocal_score_cover_-_Restoration.jpg/243px-Hector_Berlioz%2C_Les_Troyens_vocal_score_cover_-_Restoration.jpg",
+    "width": 243,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hector_Berlioz%2C_Les_Troyens_vocal_score_cover_-_Restoration.jpg",
+    "width": 2200,
+    "height": 2896
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096338011",
+  "tid": "be550bb0-1676-11ed-972b-cfe0a1988954",
+  "timestamp": "2022-07-03T20:54:26Z",
+  "description": "Opera by Hector Berlioz",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Les_Troyens",
+      "revisions": "https://en.wikipedia.org/wiki/Les_Troyens?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Les_Troyens?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Les_Troyens"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Les_Troyens",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Les_Troyens",
+      "edit": "https://en.m.wikipedia.org/wiki/Les_Troyens?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Les_Troyens"
+    }
+  },
+  "extract": "Les Troyens is a French grand opera in five acts by Hector Berlioz. The libretto was written by Berlioz himself from Virgil's epic poem the Aeneid; the score was composed between 1856 and 1858. Les Troyens is Berlioz's most ambitious work, the summation of his entire artistic career, but he did not live to see it performed in its entirety. Under the title Les Troyens à Carthage, the last three acts were premièred with many cuts by Léon Carvalho's company, the Théâtre Lyrique, at their theatre on the Place du Châtelet in Paris on 4 November 1863, with 21 repeat performances. After decades of neglect, today the opera is considered by some music critics as one of the finest ever written.",
+  "extract_html": "<p><i><b>Les Troyens</b></i> is a French grand opera in five acts by Hector Berlioz. The libretto was written by Berlioz himself from Virgil's epic poem the <i>Aeneid</i>; the score was composed between 1856 and 1858. <i>Les Troyens</i> is Berlioz's most ambitious work, the summation of his entire artistic career, but he did not live to see it performed in its entirety. Under the title <i>Les Troyens à Carthage</i>, the last three acts were premièred with many cuts by Léon Carvalho's company, the Théâtre Lyrique, at their theatre on the Place du Châtelet in Paris on 4 November 1863, with 21 repeat performances. After decades of neglect, today the opera is considered by some music critics as one of the finest ever written.</p>"
+}

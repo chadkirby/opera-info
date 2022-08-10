@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pagliacci",
+  "displaytitle": "<i>Pagliacci</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q248644",
+  "titles": {
+    "canonical": "Pagliacci",
+    "normalized": "Pagliacci",
+    "display": "<i>Pagliacci</i>"
+  },
+  "pageid": 377819,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pagliacci_Original_Score_Cover.jpg/239px-Pagliacci_Original_Score_Cover.jpg",
+    "width": 239,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pagliacci_Original_Score_Cover.jpg",
+    "width": 247,
+    "height": 330
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100468259",
+  "tid": "682ff660-0c89-11ed-93d9-f5e85b1a66c2",
+  "timestamp": "2022-07-26T02:19:35Z",
+  "description": "Opera by Ruggero Leoncavallo",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pagliacci",
+      "revisions": "https://en.wikipedia.org/wiki/Pagliacci?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pagliacci?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pagliacci"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Pagliacci",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Pagliacci",
+      "edit": "https://en.m.wikipedia.org/wiki/Pagliacci?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Pagliacci"
+    }
+  },
+  "extract": "Pagliacci is an Italian opera in a prologue and two acts, with music and libretto by Ruggero Leoncavallo. The opera tells the tale of Canio, actor and leader of a commedia dell'arte theatrical company, who murders his wife Nedda and her lover Silvio on stage during a performance. Pagliacci premiered at the Teatro Dal Verme in Milan on 21 May 1892, conducted by Arturo Toscanini, with Adelina Stehle as Nedda, Fiorello Giraud as Canio, Victor Maurel as Tonio, and Mario Ancona as Silvio. Soon after its Italian premiere, the opera played in London and in New York. Pagliacci is the composer's only opera that is still widely performed.",
+  "extract_html": "<p><i><b>Pagliacci</b></i> is an Italian opera in a prologue and two acts, with music and libretto by Ruggero Leoncavallo. The opera tells the tale of Canio, actor and leader of a commedia dell'arte theatrical company, who murders his wife Nedda and her lover Silvio on stage during a performance. <i>Pagliacci</i> premiered at the Teatro Dal Verme in Milan on 21 May 1892, conducted by Arturo Toscanini, with Adelina Stehle as Nedda, Fiorello Giraud as Canio, Victor Maurel as Tonio, and Mario Ancona as Silvio. Soon after its Italian premiere, the opera played in London and in New York. <i>Pagliacci</i> is the composer's only opera that is still widely performed.</p>"
+}

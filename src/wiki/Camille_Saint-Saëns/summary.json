@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Camille Saint-Saëns",
+  "displaytitle": "Camille Saint-Saëns",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q150445",
+  "titles": {
+    "canonical": "Camille_Saint-Saëns",
+    "normalized": "Camille Saint-Saëns",
+    "display": "Camille Saint-Saëns"
+  },
+  "pageid": 48927,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Saint-Sa%C3%ABns-circa-1880.jpg/190px-Saint-Sa%C3%ABns-circa-1880.jpg",
+    "width": 190,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Saint-Sa%C3%ABns-circa-1880.jpg",
+    "width": 500,
+    "height": 842
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098049206",
+  "tid": "092f2f00-1544-11ed-9a5e-07b747737ee8",
+  "timestamp": "2022-07-14T00:06:35Z",
+  "description": "French composer, organist, conductor and pianist (1835–1921)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns",
+      "revisions": "https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Camille_Saint-Sa%C3%ABns"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Camille_Saint-Sa%C3%ABns",
+      "edit": "https://en.m.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Camille_Saint-Sa%C3%ABns"
+    }
+  },
+  "extract": "Charles-Camille Saint-Saëns was a French composer, organist, conductor and pianist of the Romantic era. His best-known works include Introduction and Rondo Capriccioso (1863), the Second Piano Concerto (1868), the First Cello Concerto (1872), Danse macabre (1874), the opera Samson and Delilah (1877), the Third Violin Concerto (1880), the Third (\"Organ\") Symphony (1886) and The Carnival of the Animals (1886).",
+  "extract_html": "<p><b>Charles-Camille Saint-Saëns</b> was a French composer, organist, conductor and pianist of the Romantic era. His best-known works include Introduction and Rondo Capriccioso (1863), the Second Piano Concerto (1868), the First Cello Concerto (1872), <i>Danse macabre</i> (1874), the opera <i>Samson and Delilah</i> (1877), the Third Violin Concerto (1880), the Third (\"Organ\") Symphony (1886) and <i>The Carnival of the Animals</i> (1886).</p>"
+}

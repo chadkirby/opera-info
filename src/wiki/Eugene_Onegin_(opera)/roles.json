@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Moscow premiere,<br>29 March 1879<br>(Conductor: <a href=\"/wiki/Nikolai_Rubinstein\" title=\"Nikolai Rubinstein\">Nikolai Rubinstein</a>)\n</th>\n<th>Bolshoi Theatre premiere,<br>23 January 1881<br>(Conductor: <a href=\"/wiki/Eduard_N%C3%A1pravn%C3%ADk\" title=\"Eduard Nápravník\">Eduard Nápravník</a>)\n</th></tr>\n<tr>\n<td>Larina, <i>lady of the manor</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Tatyana, <i>her daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Olga, <i>Tatyana's sister</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n</tr>\n<tr>\n<td>Filippyevna, <i>a nanny</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Vladimir Lensky\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Eugene Onegin\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Prince Gremin\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Company Commander\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Zaretsky\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Triquet, <i>a Frenchman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Guillot, <i>Onegin's valet</i>\n</td>\n<td>silent\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Chorus, silent roles: <i>Peasants, peasant women, ballroom guests, landowners and ladies of the manor, officers.</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Larina, lady of the manor",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Tatyana, her daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Olga, Tatyana's sister",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Filippyevna, a nanny",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Vladimir Lensky",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Eugene Onegin",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Prince Gremin",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Company Commander",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Zaretsky",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Triquet, a Frenchman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Guillot, Onegin's valet",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Chorus, silent roles: Peasants, peasant women, ballroom guests, landowners and ladies of the manor, officers.",
+      "voiceType": ""
+    }
+  ]
+}

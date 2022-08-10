@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Joseph Haydn",
+  "displaytitle": "Joseph Haydn",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7349",
+  "titles": {
+    "canonical": "Joseph_Haydn",
+    "normalized": "Joseph Haydn",
+    "display": "Joseph Haydn"
+  },
+  "pageid": 16094,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/253px-Joseph_Haydn.jpg",
+    "width": 253,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg",
+    "width": 1000,
+    "height": 1264
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096961747",
+  "tid": "5d0c1ea0-13e4-11ed-b821-9d296e4c7948",
+  "timestamp": "2022-07-07T19:57:21Z",
+  "description": "Austrian composer (1732–1809)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+      "revisions": "https://en.wikipedia.org/wiki/Joseph_Haydn?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Joseph_Haydn?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Joseph_Haydn"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Joseph_Haydn",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Joseph_Haydn",
+      "edit": "https://en.m.wikipedia.org/wiki/Joseph_Haydn?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Joseph_Haydn"
+    }
+  },
+  "extract": "Franz Joseph Haydn was an Austrian composer of the Classical period. He was instrumental in the development of chamber music such as the string quartet and piano trio. His contributions to musical form have led him to be called \"Father of the Symphony\" and \"Father of the String Quartet\".",
+  "extract_html": "<p><b>Franz Joseph Haydn</b> was an Austrian composer of the Classical period. He was instrumental in the development of chamber music such as the string quartet and piano trio. His contributions to musical form have led him to be called \"Father of the Symphony\" and \"Father of the String Quartet\".</p>"
+}

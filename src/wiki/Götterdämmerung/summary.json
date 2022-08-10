@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Götterdämmerung",
+  "displaytitle": "<i>Götterdämmerung</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q272029",
+  "titles": {
+    "canonical": "Götterdämmerung",
+    "normalized": "Götterdämmerung",
+    "display": "<i>Götterdämmerung</i>"
+  },
+  "pageid": 13019,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Max_Br%C3%BCckner_-_Otto_Henning_-_Richard_Wagner_-_Final_scene_of_G%C3%B6tterd%C3%A4mmerung_-_crop.jpg/320px-Max_Br%C3%BCckner_-_Otto_Henning_-_Richard_Wagner_-_Final_scene_of_G%C3%B6tterd%C3%A4mmerung_-_crop.jpg",
+    "width": 320,
+    "height": 240
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Max_Br%C3%BCckner_-_Otto_Henning_-_Richard_Wagner_-_Final_scene_of_G%C3%B6tterd%C3%A4mmerung_-_crop.jpg",
+    "width": 2783,
+    "height": 2086
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102337160",
+  "tid": "0b9dbe80-1406-11ed-ab82-d7432b7b2375",
+  "timestamp": "2022-08-04T14:59:27Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung",
+      "revisions": "https://en.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung?action=history",
+      "edit": "https://en.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:G%C3%B6tterd%C3%A4mmerung"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/G%C3%B6tterd%C3%A4mmerung",
+      "edit": "https://en.m.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:G%C3%B6tterd%C3%A4mmerung"
+    }
+  },
+  "extract": "Götterdämmerung, WWV 86D, is the last in Richard Wagner's cycle of four music dramas titled Der Ring des Nibelungen. It received its premiere at the Bayreuth Festspielhaus on 17 August 1876, as part of the first complete performance of the Ring.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Götterdämmerung</i></span></b></i>, WWV 86D, is the last in Richard Wagner's cycle of four music dramas titled <span><i lang=\"de\">Der Ring des Nibelungen</i></span>. It received its premiere at the <span><span style=\"font-style:normal\">Bayreuth Festspielhaus</span></span> on 17 August 1876, as part of the first complete performance of the <i>Ring</i>.</p>"
+}

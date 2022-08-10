@@ -1,0 +1,89 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 20 June 1969 <br>(Conductor: Henryk Czyż)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\">[38]</a></sup>\n</th></tr>\n<tr>\n<td>Jeanne, <i>the prioress of St. Ursula's Convent</i>\n</td>\n<td>dramatic <a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Claire, <i>Ursuline sister</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Gabrielle, <i>Ursuline sister</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Louise, <i>Ursuline sister</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Philippe, <i>a young girl</i>\n</td>\n<td>high lyric soprano\n</td>\n</tr>\n<tr>\n<td>Ninon, <i>a young widow</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Urbain_Grandier\" title=\"Urbain Grandier\">Grandier</a>, <i>the vicar of St. Peter's Church</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Father Barré, <i>the vicar of Chinon</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Baron de Laubardemont, <i>the King's special commissioner</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Father Rangier\n</td>\n<td><a href=\"/wiki/Basso_profundo\" class=\"mw-redirect\" title=\"Basso profundo\">basso profundo</a>\n</td>\n</tr>\n<tr>\n<td>Father Mignon, <i>the Ursulines' father confessor</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Adam, <i>a chemist</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Mannoury, <i>a surgeon</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Henri,_Prince_of_Cond%C3%A9_(1588%E2%80%931646)\" title=\"Henri, Prince of Condé (1588–1646)\">Prince Henri de Condé</a>, <i>the King's special ambassador</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Father Ambrose, <i>an old priest</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Asmodeus\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Bontemps, <i>a gaoler</i>\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>Jean d'Armagnac, <i>the Mayor of Loudun</i>\n</td>\n<td>speaking part\n</td>\n</tr>\n<tr>\n<td>Guillaume de Cerisay, <i>town judge</i>\n</td>\n<td>speaking part\n</td>\n</tr>\n<tr>\n<td>Clerk of the Count\n</td>\n<td>speaking part\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Ursuline nuns, Carmelites, people, children, guards, and soldiers</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Jeanne, the prioress of St. Ursula's Convent",
+      "voiceType": "dramatic soprano"
+    },
+    {
+      "role": "Claire, Ursuline sister",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Gabrielle, Ursuline sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Louise, Ursuline sister",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Philippe, a young girl",
+      "voiceType": "high lyric soprano"
+    },
+    {
+      "role": "Ninon, a young widow",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Grandier, the vicar of St. Peter's Church",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Father Barré, the vicar of Chinon",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Baron de Laubardemont, the King's special commissioner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Father Rangier",
+      "voiceType": "basso profundo"
+    },
+    {
+      "role": "Father Mignon, the Ursulines' father confessor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Adam, a chemist",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mannoury, a surgeon",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Prince Henri de Condé, the King's special ambassador",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Father Ambrose, an old priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Asmodeus",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Bontemps, a gaoler",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Jean d'Armagnac, the Mayor of Loudun",
+      "voiceType": "speaking part"
+    },
+    {
+      "role": "Guillaume de Cerisay, town judge",
+      "voiceType": "speaking part"
+    },
+    {
+      "role": "Clerk of the Count",
+      "voiceType": "speaking part"
+    },
+    {
+      "role": "Ursuline nuns, Carmelites, people, children, guards, and soldiers",
+      "voiceType": ""
+    }
+  ]
+}

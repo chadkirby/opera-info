@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Bartered Bride",
+  "displaytitle": "<i>The Bartered Bride</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q907745",
+  "titles": {
+    "canonical": "The_Bartered_Bride",
+    "normalized": "The Bartered Bride",
+    "display": "<i>The Bartered Bride</i>"
+  },
+  "pageid": 695302,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Prodana_Nevesta_Cover_1919.JPG/238px-Prodana_Nevesta_Cover_1919.JPG",
+    "width": 238,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/4e/Prodana_Nevesta_Cover_1919.JPG",
+    "width": 919,
+    "height": 1233
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1048942814",
+  "tid": "70ec7460-fe86-11ec-96c3-735cd2fe8ba7",
+  "timestamp": "2021-10-08T22:01:12Z",
+  "description": "Comic opera in three acts by the Czech composer Bedřich Smetana",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Bartered_Bride",
+      "revisions": "https://en.wikipedia.org/wiki/The_Bartered_Bride?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Bartered_Bride?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Bartered_Bride"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Bartered_Bride",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Bartered_Bride",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Bartered_Bride?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Bartered_Bride"
+    }
+  },
+  "extract": "The Bartered Bride is a comic opera in three acts by the Czech composer Bedřich Smetana, to a libretto by Karel Sabina. The work is generally regarded as a major contribution towards the development of Czech music. It was composed during the period 1863 to 1866, and first performed at the Provisional Theatre, Prague, on 30 May 1866 in a two-act format with spoken dialogue. Set in a country village and with realistic characters, it tells the story of how, after a late surprise revelation, true love prevails over the combined efforts of ambitious parents and a scheming marriage broker.",
+  "extract_html": "<p><i><b>The Bartered Bride</b></i> is a comic opera in three acts by the Czech composer Bedřich Smetana, to a libretto by Karel Sabina. The work is generally regarded as a major contribution towards the development of Czech music. It was composed during the period 1863 to 1866, and first performed at the Provisional Theatre, Prague, on 30 May 1866 in a two-act format with spoken dialogue. Set in a country village and with realistic characters, it tells the story of how, after a late surprise revelation, true love prevails over the combined efforts of ambitious parents and a scheming marriage broker.</p>"
+}

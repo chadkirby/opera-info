@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pyotr Ilyich Tchaikovsky",
+  "displaytitle": "Pyotr Ilyich Tchaikovsky",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7315",
+  "titles": {
+    "canonical": "Pyotr_Ilyich_Tchaikovsky",
+    "normalized": "Pyotr Ilyich Tchaikovsky",
+    "display": "Pyotr Ilyich Tchaikovsky"
+  },
+  "pageid": 24503,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tchaikovsky_by_Reutlinger.jpg/221px-Tchaikovsky_by_Reutlinger.jpg",
+    "width": 221,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tchaikovsky_by_Reutlinger.jpg",
+    "width": 1000,
+    "height": 1450
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096271964",
+  "tid": "070e23c0-1544-11ed-a279-af6413fd2da9",
+  "timestamp": "2022-07-03T11:40:09Z",
+  "description": "Russian composer (1840–1893)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+      "revisions": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pyotr_Ilyich_Tchaikovsky"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Pyotr_Ilyich_Tchaikovsky",
+      "edit": "https://en.m.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Pyotr_Ilyich_Tchaikovsky"
+    }
+  },
+  "extract": "Pyotr Ilyich Tchaikovsky was a Russian composer of the Romantic period. He was the first Russian composer whose music would make a lasting impression internationally. He wrote some of the most popular concert and theatrical music in the current classical repertoire, including the ballets Swan Lake and The Nutcracker, the 1812 Overture, his First Piano Concerto, Violin Concerto, the Romeo and Juliet Overture-Fantasy, several symphonies, and the opera Eugene Onegin.",
+  "extract_html": "<p><b>Pyotr Ilyich Tchaikovsky</b> was a Russian composer of the Romantic period. He was the first Russian composer whose music would make a lasting impression internationally. He wrote some of the most popular concert and theatrical music in the current classical repertoire, including the ballets <i>Swan Lake</i> and <i>The Nutcracker</i>, the <i>1812 Overture</i>, his First Piano Concerto, Violin Concerto, the <i>Romeo and Juliet</i> Overture-Fantasy, several symphonies, and the opera <i>Eugene Onegin</i>.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Der Schauspieldirektor",
+  "displaytitle": "<i>Der Schauspieldirektor</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q471810",
+  "titles": {
+    "canonical": "Der_Schauspieldirektor",
+    "normalized": "Der Schauspieldirektor",
+    "display": "<i>Der Schauspieldirektor</i>"
+  },
+  "pageid": 430635,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mozart_drawing_Doris_Stock_1789.jpg/286px-Mozart_drawing_Doris_Stock_1789.jpg",
+    "width": 286,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mozart_drawing_Doris_Stock_1789.jpg",
+    "width": 499,
+    "height": 558
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1053030419",
+  "tid": "69bb41c0-11a1-11ed-8864-fdf90d370faf",
+  "timestamp": "2021-11-01T14:01:36Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Schauspieldirektor",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Schauspieldirektor?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Schauspieldirektor?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Schauspieldirektor"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Schauspieldirektor",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Schauspieldirektor",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Schauspieldirektor?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Schauspieldirektor"
+    }
+  },
+  "extract": "Der Schauspieldirektor, K. 486, is a comic singspiel by Wolfgang Amadeus Mozart, set to a German libretto by Gottlieb Stephanie, an Austrian Schauspieldirektor. Originally, it was written because of \"the imperial command\" of the Holy Roman Emperor Joseph II who had invited 80 guests to a private luncheon.\nIt is regarded as \"a parody on the vanity of singers\", who argue over status and pay.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Der Schauspieldirektor</i></span></b></i>, K. 486, is a comic <i>singspiel</i> by Wolfgang Amadeus Mozart, set to a German libretto by Gottlieb Stephanie, an Austrian <i>Schauspieldirektor</i>. Originally, it was written because of \"the imperial command\" of the Holy Roman Emperor Joseph II who had invited 80 guests to a private luncheon.\nIt is regarded as \"a parody on the vanity of singers\", who argue over status and pay.</p>"
+}

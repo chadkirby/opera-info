@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Bluebeard's Castle",
+  "displaytitle": "<i>Bluebeard's Castle</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q249749",
+  "titles": {
+    "canonical": "Bluebeard's_Castle",
+    "normalized": "Bluebeard's Castle",
+    "display": "<i>Bluebeard's Castle</i>"
+  },
+  "pageid": 775937,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Barbebleue.jpg/256px-Barbebleue.jpg",
+    "width": 256,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Barbebleue.jpg",
+    "width": 3150,
+    "height": 3939
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096365158",
+  "tid": "ea961940-167a-11ed-80e6-815f2407e0e2",
+  "timestamp": "2022-07-04T01:12:16Z",
+  "description": "1918 opera by Béla Bartók",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Bluebeard's_Castle",
+      "revisions": "https://en.wikipedia.org/wiki/Bluebeard's_Castle?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Bluebeard's_Castle?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Bluebeard's_Castle"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Bluebeard's_Castle",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Bluebeard's_Castle",
+      "edit": "https://en.m.wikipedia.org/wiki/Bluebeard's_Castle?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Bluebeard's_Castle"
+    }
+  },
+  "extract": "Bluebeard's Castle is a one-act expressionist opera by Hungarian composer Béla Bartók. The libretto was written by Béla Balázs, a poet and friend of the composer, and is written in Hungarian, based on the French literary tale La Barbe bleue by Charles Perrault. The opera lasts only a little over an hour and there are just two singing characters onstage: Bluebeard, and his new wife Judith ; the two have just eloped and Judith is coming home to Bluebeard's castle for the first time.",
+  "extract_html": "<p><i><b>Bluebeard's Castle</b></i> is a one-act expressionist opera by Hungarian composer Béla Bartók. The libretto was written by Béla Balázs, a poet and friend of the composer, and is written in Hungarian, based on the French literary tale <i>La Barbe bleue</i> by Charles Perrault. The opera lasts only a little over an hour and there are just two singing characters onstage: Bluebeard, and his new wife Judith ; the two have just eloped and Judith is coming home to Bluebeard's castle for the first time.</p>"
+}

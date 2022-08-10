@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Sāvitri (opera)",
+  "displaytitle": "<i>Sāvitri</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3474583",
+  "titles": {
+    "canonical": "Sāvitri_(opera)",
+    "normalized": "Sāvitri (opera)",
+    "display": "<i>Sāvitri</i> (opera)"
+  },
+  "pageid": 9017068,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gustav_Holst.jpg/228px-Gustav_Holst.jpg",
+    "width": 228,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gustav_Holst.jpg",
+    "width": 731,
+    "height": 1025
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095863701",
+  "tid": "a85659c0-174f-11ed-9914-353f9bdb0b6c",
+  "timestamp": "2022-06-30T21:25:43Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/S%C4%81vitri_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/S%C4%81vitri_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/S%C4%81vitri_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:S%C4%81vitri_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/S%C4%81vitri_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/S%C4%81vitri_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/S%C4%81vitri_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:S%C4%81vitri_(opera)"
+    }
+  },
+  "extract": "Sāvitri is a chamber opera in one act with music composed by Gustav Holst, his Opus 25, to his own libretto. The story is based on the episode of Savitri and Satyavan from the Mahābhārata, which was also included in Specimens of Old Indian Poetry and Idylls from the Sanskrit. The opera features three solo singers, a wordless female chorus, and a chamber orchestra of 12 musicians. Holst had made at least six earlier attempts at composing opera before arriving at Sāvitri.",
+  "extract_html": "<p><i><b>Sāvitri</b></i> is a chamber opera in one act with music composed by Gustav Holst, his Opus 25, to his own libretto. The story is based on the episode of Savitri and Satyavan from the <i>Mahābhārata</i>, which was also included in <i>Specimens of Old Indian Poetry</i> and <i>Idylls from the Sanskrit</i>. The opera features three solo singers, a wordless female chorus, and a chamber orchestra of 12 musicians. Holst had made at least six earlier attempts at composing opera before arriving at <i>Sāvitri</i>.</p>"
+}

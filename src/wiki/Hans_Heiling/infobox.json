@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Hans Heiling</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/List_of_operas_by_Heinrich_Marschner\" title=\"List of operas by Heinrich Marschner\">Opera</a> by <a href=\"/wiki/Heinrich_Marschner\" title=\"Heinrich Marschner\">Heinrich Marschner</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Marschner_Hans_Heiling_Score.png\" class=\"image\"><img alt=\"Marschner Hans Heiling Score.png\" src=\"//upload.wikimedia.org/wikipedia/commons/d/d2/Marschner_Hans_Heiling_Score.png\" decoding=\"async\" width=\"175\" height=\"271\" data-file-width=\"175\" data-file-height=\"271\"></a><div class=\"infobox-caption\">Score</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Eduard_Devrient\" title=\"Eduard Devrient\">Eduard Devrient</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">German</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\">folk legend</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">24&nbsp;May&nbsp;1833<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1833-05-24</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Berlin_State_Opera\" title=\"Berlin State Opera\">Königliche Hofoper</a>, Berlin</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Hans Heiling"
+  ],
+  "Librettist": "Eduard Devrient",
+  "Language": "German",
+  "Based on": "folk legend",
+  "Premiere": "24 May 1833\nKönigliche Hofoper, Berlin"
+}

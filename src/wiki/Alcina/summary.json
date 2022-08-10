@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Alcina",
+  "displaytitle": "<i>Alcina</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q275627",
+  "titles": {
+    "canonical": "Alcina",
+    "normalized": "Alcina",
+    "display": "<i>Alcina</i>"
+  },
+  "pageid": 321526,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/265px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 2400,
+    "height": 2901
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083526533",
+  "tid": "d20fb1b0-15f8-11ed-9504-a7f818e101ad",
+  "timestamp": "2022-04-19T08:06:48Z",
+  "description": "1735 opera seria by German-British Baroque composer George Frideric Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alcina",
+      "revisions": "https://en.wikipedia.org/wiki/Alcina?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alcina?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alcina"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Alcina",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Alcina",
+      "edit": "https://en.m.wikipedia.org/wiki/Alcina?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Alcina"
+    }
+  },
+  "extract": "Alcina is a 1735 opera seria by George Frideric Handel. Handel used the libretto of L'isola di Alcina, an opera that was set in 1728 in Rome by Riccardo Broschi, which he acquired the year after during his travels in Italy. Partly altered for better conformity, the story was originally taken from Ludovico Ariosto's Orlando furioso, an epic poem. The opera contains several musical sequences with opportunity for dance: these were composed for dancer Marie Sallé.",
+  "extract_html": "<p><i><b>Alcina</b></i> is a 1735 opera seria by George Frideric Handel. Handel used the libretto of <i>L'isola di Alcina</i>, an opera that was set in 1728 in Rome by Riccardo Broschi, which he acquired the year after during his travels in Italy. Partly altered for better conformity, the story was originally taken from Ludovico Ariosto's <i>Orlando furioso</i>, an epic poem. The opera contains several musical sequences with opportunity for dance: these were composed for dancer Marie Sallé.</p>"
+}

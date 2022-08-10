@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Fedora (opera)",
+  "displaytitle": "<i>Fedora</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1400824",
+  "titles": {
+    "canonical": "Fedora_(opera)",
+    "normalized": "Fedora (opera)",
+    "display": "<i>Fedora</i> (opera)"
+  },
+  "pageid": 2037936,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Fedora%2C_opera_by_Umberto_Giordano%2C_poster%2C_1899.jpg/220px-Fedora%2C_opera_by_Umberto_Giordano%2C_poster%2C_1899.jpg",
+    "width": 220,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/9/92/Fedora%2C_opera_by_Umberto_Giordano%2C_poster%2C_1899.jpg",
+    "width": 296,
+    "height": 431
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095742235",
+  "tid": "4e859e00-0f85-11ed-bb1e-cf249b418a40",
+  "timestamp": "2022-06-30T02:41:02Z",
+  "description": "Opera in three acts by Umberto Giordano",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Fedora_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Fedora_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Fedora_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Fedora_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Fedora_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Fedora_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Fedora_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Fedora_(opera)"
+    }
+  },
+  "extract": "Fedora is an opera in three acts by Umberto Giordano to an Italian libretto by Arturo Colautti, based on the 1882 play Fédora by Victorien Sardou. Along with Andrea Chénier and Siberia, it is one of the most notable works of Giordano.",
+  "extract_html": "<p><i><b>Fedora</b></i> is an opera in three acts by Umberto Giordano to an Italian libretto by Arturo Colautti, based on the 1882 play <i>Fédora</i> by Victorien Sardou. Along with <i>Andrea Chénier</i> and <i>Siberia</i>, it is one of the most notable works of Giordano.</p>"
+}

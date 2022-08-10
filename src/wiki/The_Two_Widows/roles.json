@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast,<br>27 March 1874<br>(Conductor: - )\n</th></tr>\n<tr>\n<td>Caroline, <i>a young widow</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Agnes, <i>her sister, also a young widow </i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Ladislaus, <i>a landowner</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Mumlal, <i>gameskeeper to Caroline, father of Lidka</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Toník,<i> a gardener </i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Lidka, <i>his fiancée, a chamber girl, daughter of Mumlal</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Peasants, choir</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Caroline, a young widow",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Agnes, her sister, also a young widow",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ladislaus, a landowner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mumlal, gameskeeper to Caroline, father of Lidka",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Toník,a gardener",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lidka, his fiancée, a chamber girl, daughter of Mumlal",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Peasants, choir",
+      "voiceType": ""
+    }
+  ]
+}

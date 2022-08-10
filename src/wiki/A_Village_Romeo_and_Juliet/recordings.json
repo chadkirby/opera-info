@@ -1,0 +1,59 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast\n</th>\n<th>Conductor,<br>Opera house and orchestra\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1948</td>\n<td>Rene Soames,<br>Vera Terry,<br>Gordon Clinton,<br><a href=\"/wiki/Denis_Dowling\" title=\"Denis Dowling\">Denis Dowling</a>,<br>Frederick Sharp</td>\n\n<td>Audio CD: <a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a>,<br>Cat:&nbsp;??<br>Audio CD: <a href=\"/wiki/Naxos_(company)\" title=\"Naxos (company)\">Naxos</a>,<br>Cat: 8.110982-83\n</td></tr>\n<tr>\n<td>1971</td>\n<td><a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a>,<br><a href=\"/wiki/Elizabeth_Harwood\" title=\"Elizabeth Harwood\">Elizabeth Harwood</a>,<br><a href=\"/wiki/John_Shirley-Quirk\" title=\"John Shirley-Quirk\">John Shirley-Quirk</a>,<br><a href=\"/wiki/Benjamin_Luxon\" title=\"Benjamin Luxon\">Benjamin Luxon</a></td>\n\n<td>Audio CD: <a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a>,<br>Cat:&nbsp;?<sup id=\"cite_ref-FOOTNOTEAnderson1973_9-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEAnderson1973-9\">[9]</a></sup><sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup>\n</td></tr>\n<tr>\n<td>1989</td>\n<td><a href=\"/wiki/Arthur_Davies_(tenor)\" title=\"Arthur Davies (tenor)\">Arthur Davies</a>,<br>Helen Field,<br><a href=\"/wiki/Thomas_Hampson_(baritone)\" class=\"mw-redirect\" title=\"Thomas Hampson (baritone)\">Thomas Hampson</a>,<br><a href=\"/wiki/Stafford_Dean\" title=\"Stafford Dean\">Stafford Dean</a>,<br><a href=\"/wiki/Barry_Mora\" title=\"Barry Mora\">Barry Mora</a></td>\n\n<td>Audio CD: <a href=\"/wiki/Decca_Records\" title=\"Decca Records\">Decca</a>,<br> Cat: 430 275-2\n</td></tr>\n<tr>\n<td>1991<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup><br>1992</td>\n<td>Dana Moravkova,<br>Michel Dlouhy,<br><a href=\"/wiki/Thomas_Hampson_(baritone)\" class=\"mw-redirect\" title=\"Thomas Hampson (baritone)\">Thomas Hampson</a>,<br>Katerina Svobodova,<br>Jan Kalous</td>\n\n<td>DVD Video: <a href=\"/wiki/Decca_Records\" title=\"Decca Records\">Decca</a>,<br>Cat: B-0000-838-09\n</td></tr>\n<tr>\n<td>1995</td>\n<td>Eva-Christine Reimer,<br> Karsten Russ,<br> Klaus Wallprecht,<br> David Midboe,<br>Attila Kovacs</td>\n\n<td>Audio CD: company??<br>Cat: CPO 999 328-2\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1948,
+      "cast": [
+        "Rene Soames",
+        "Vera Terry",
+        "Gordon Clinton",
+        "Denis Dowling",
+        "Frederick Sharp"
+      ],
+      "conductor": "Sir Thomas Beecham"
+    },
+    {
+      "year": 1971,
+      "cast": [
+        "Robert Tear",
+        "Elizabeth Harwood",
+        "John Shirley-Quirk",
+        "Benjamin Luxon"
+      ],
+      "conductor": "Meredith Davies"
+    },
+    {
+      "year": 1989,
+      "cast": [
+        "Arthur Davies",
+        "Helen Field",
+        "Thomas Hampson",
+        "Stafford Dean",
+        "Barry Mora"
+      ],
+      "conductor": "Sir Charles Mackerras"
+    },
+    {
+      "year": 1991,
+      "cast": [
+        "Dana Moravkova",
+        "Michel Dlouhy",
+        "Thomas Hampson",
+        "Katerina Svobodova",
+        "Jan Kalous"
+      ],
+      "conductor": "Petr Weigl movie"
+    },
+    {
+      "year": 1995,
+      "cast": [
+        "Eva-Christine Reimer",
+        " Karsten Russ",
+        " Klaus Wallprecht",
+        " David Midboe",
+        "Attila Kovacs"
+      ],
+      "conductor": "Klauspeter Seibel"
+    }
+  ]
+}

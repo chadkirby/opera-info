@@ -1,0 +1,11 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Jenůfa</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek\" title=\"Leoš Janáček\">Leoš Janáček</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Jenufa.jpg\" class=\"image\"><img alt=\"Jenufa.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/a/aa/Jenufa.jpg\" decoding=\"async\" width=\"200\" height=\"293\" data-file-width=\"200\" data-file-height=\"293\"></a><div class=\"infobox-caption\">Poster for the premiere, 1904</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Native title</th><td class=\"infobox-data nickname\"><div class=\"nickname\" lang=\"cz\">Její pastorkyňa <span class=\"nowrap\">(Her Stepdaughter)</span></div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Janáček</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Czech</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i>Její pastorkyňa</i><br>by <a href=\"/wiki/Gabriela_Preissov%C3%A1\" title=\"Gabriela Preissová\">Gabriela Preissová</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">21&nbsp;January&nbsp;1904<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1904-01-21</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><span class=\"nowrap\"><a href=\"/wiki/Mahen_Theatre\" title=\"Mahen Theatre\">National Theatre</a>, <a href=\"/wiki/Brno\" title=\"Brno\">Brno</a></span></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Jenůfa"
+  ],
+  "Native title": "Její pastorkyňa (Her Stepdaughter)",
+  "Librettist": "Janáček",
+  "Language": "Czech",
+  "Based on": "Její pastorkyňa\nby Gabriela Preissová",
+  "Premiere": "21 January 1904\nNational Theatre, Brno"
+}

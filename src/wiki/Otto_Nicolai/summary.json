@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Otto Nicolai",
+  "displaytitle": "Otto Nicolai",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q154602",
+  "titles": {
+    "canonical": "Otto_Nicolai",
+    "normalized": "Otto Nicolai",
+    "display": "Otto Nicolai"
+  },
+  "pageid": 579863,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Otto_Nicolai.jpg/279px-Otto_Nicolai.jpg",
+    "width": 279,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Otto_Nicolai.jpg",
+    "width": 829,
+    "height": 949
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101223227",
+  "tid": "e0152c10-0f8e-11ed-b192-71b39b95f453",
+  "timestamp": "2022-07-29T22:36:20Z",
+  "description": "19th-century German composer and conductor",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Otto_Nicolai",
+      "revisions": "https://en.wikipedia.org/wiki/Otto_Nicolai?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Otto_Nicolai?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Otto_Nicolai"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Otto_Nicolai",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Otto_Nicolai",
+      "edit": "https://en.m.wikipedia.org/wiki/Otto_Nicolai?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Otto_Nicolai"
+    }
+  },
+  "extract": "Carl Otto Ehrenfried Nicolai was a German composer, conductor, and one of the founders of the Vienna Philharmonic. Nicolai is best known for his operatic version of Shakespeare's comedy The Merry Wives of Windsor as Die lustigen Weiber von Windsor. In addition to five operas, Nicolai composed lieder, works for orchestra, chorus, ensemble, and solo instruments.",
+  "extract_html": "<p><b>Carl Otto Ehrenfried Nicolai</b> was a German composer, conductor, and one of the founders of the Vienna Philharmonic. Nicolai is best known for his operatic version of Shakespeare's comedy <i>The Merry Wives of Windsor</i> as <i><span><i lang=\"de\">Die lustigen Weiber von Windsor</i></span></i>. In addition to five operas, Nicolai composed lieder, works for orchestra, chorus, ensemble, and solo instruments.</p>"
+}

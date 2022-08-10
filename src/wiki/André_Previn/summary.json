@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "André Previn",
+  "displaytitle": "André Previn",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q155712",
+  "titles": {
+    "canonical": "André_Previn",
+    "normalized": "André Previn",
+    "display": "André Previn"
+  },
+  "pageid": 202107,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Andr%C3%A9_Previn.jpg/240px-Andr%C3%A9_Previn.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Andr%C3%A9_Previn.jpg",
+    "width": 1385,
+    "height": 1847
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095946372",
+  "tid": "bc5e4a80-0f80-11ed-906d-0b2c29dfb2b5",
+  "timestamp": "2022-07-01T10:40:59Z",
+  "description": "German-American pianist, conductor and composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Andr%C3%A9_Previn",
+      "revisions": "https://en.wikipedia.org/wiki/Andr%C3%A9_Previn?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Andr%C3%A9_Previn?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andr%C3%A9_Previn"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Andr%C3%A9_Previn",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Andr%C3%A9_Previn",
+      "edit": "https://en.m.wikipedia.org/wiki/Andr%C3%A9_Previn?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Andr%C3%A9_Previn"
+    }
+  },
+  "extract": "André George Previn was a German-American pianist, composer, and conductor. His career had three major genres: Hollywood, jazz, and classical music. On each he achieved success, and the latter two were part of his life until the end. In movies, he arranged and composed music. In jazz, he was a celebrated trio pianist, a piano-accompanist to singers of standards, and pianist-interpreter of songs from the \"Great American Songbook\". In classical music, he also worked as a pianist but gained television fame as a conductor, and during his last thirty years created his legacy as a composer of art music.",
+  "extract_html": "<p><b>André George Previn</b> was a German-American pianist, composer, and conductor. His career had three major genres: Hollywood, jazz, and classical music. On each he achieved success, and the latter two were part of his life until the end. In movies, he arranged and composed music. In jazz, he was a celebrated trio pianist, a piano-accompanist to singers of standards, and pianist-interpreter of songs from the \"Great American Songbook\". In classical music, he also worked as a pianist but gained television fame as a conductor, and during his last thirty years created his legacy as a composer of art music.</p>"
+}

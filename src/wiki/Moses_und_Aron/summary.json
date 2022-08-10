@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Moses und Aron",
+  "displaytitle": "<i>Moses und Aron</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1661920",
+  "titles": {
+    "canonical": "Moses_und_Aron",
+    "normalized": "Moses und Aron",
+    "display": "<i>Moses und Aron</i>"
+  },
+  "pageid": 5750882,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Arnold_sch%C3%B6nberg_man_ray.jpg/242px-Arnold_sch%C3%B6nberg_man_ray.jpg",
+    "width": 242,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Arnold_sch%C3%B6nberg_man_ray.jpg",
+    "width": 1163,
+    "height": 1540
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102617503",
+  "tid": "d0f233c0-15f8-11ed-b7bf-f102c839e38b",
+  "timestamp": "2022-08-06T00:41:36Z",
+  "description": "Unfinished German opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Moses_und_Aron",
+      "revisions": "https://en.wikipedia.org/wiki/Moses_und_Aron?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Moses_und_Aron?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Moses_und_Aron"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Moses_und_Aron",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Moses_und_Aron",
+      "edit": "https://en.m.wikipedia.org/wiki/Moses_und_Aron?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Moses_und_Aron"
+    }
+  },
+  "extract": "Moses und Aron is a three-act opera by Arnold Schoenberg with the third act unfinished. The German libretto is by the composer after the Book of Exodus. Hungarian composer Zoltán Kocsis completed the last act with Schoenberg's heirs' permission in 2010, but as of 2014 Moses und Aron was almost always performed as Schoenberg left it in 1932, with only two of the planned three acts completed.",
+  "extract_html": "<p><i><b>Moses und Aron</b></i> is a three-act opera by Arnold Schoenberg with the third act unfinished. The German libretto is by the composer after the Book of Exodus. Hungarian composer Zoltán Kocsis completed the last act with Schoenberg's heirs' permission in 2010, but as of 2014 <i>Moses und Aron</i> was almost always performed as Schoenberg left it in 1932, with only two of the planned three acts completed.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jacopo Peri",
+  "displaytitle": "Jacopo Peri",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q205519",
+  "titles": {
+    "canonical": "Jacopo_Peri",
+    "normalized": "Jacopo Peri",
+    "display": "Jacopo Peri"
+  },
+  "pageid": 161918,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jacopo_Peri_1.jpg/267px-Jacopo_Peri_1.jpg",
+    "width": 267,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jacopo_Peri_1.jpg",
+    "width": 2134,
+    "height": 2557
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092468785",
+  "tid": "caba8420-0668-11ed-892c-ad5619ffe593",
+  "timestamp": "2022-06-10T13:44:08Z",
+  "description": "Italian opera singer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jacopo_Peri",
+      "revisions": "https://en.wikipedia.org/wiki/Jacopo_Peri?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jacopo_Peri?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jacopo_Peri"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Jacopo_Peri",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jacopo_Peri",
+      "edit": "https://en.m.wikipedia.org/wiki/Jacopo_Peri?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Jacopo_Peri"
+    }
+  },
+  "extract": "Jacopo Peri, known under the pseudonym Il Zazzerino, was an Italian composer and singer of the transitional period between the Renaissance and Baroque styles, and is often called the inventor of opera. He wrote the first work to be called an opera today, Dafne, and also the first opera to have survived to the present day, Euridice (1600).",
+  "extract_html": "<p><b>Jacopo Peri</b>, known under the pseudonym <b>Il Zazzerino</b>, was an Italian composer and singer of the transitional period between the Renaissance and Baroque styles, and is often called the inventor of opera. He wrote the first work to be called an opera today, <i>Dafne</i>, and also the first opera to have survived to the present day, <i>Euridice</i> (1600).</p>"
+}

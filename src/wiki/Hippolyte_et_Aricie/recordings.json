@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast<br>(in the following order:<br>Thésée, Phèdre, Hippolyte, Aricie)\n</th>\n<th>Conductor,<br>Chorus, <br>Orchestra\n</th>\n<th>Label, Notes\n</th></tr>\n<tr>\n<td>1966</td>\n<td><br><a href=\"/wiki/John_Shirley_Quirk\" class=\"mw-redirect\" title=\"John Shirley Quirk\">John Shirley Quirk</a>,<br><a href=\"/wiki/Janet_Baker\" title=\"Janet Baker\">Janet Baker</a>,<br><a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a>,<br>Angela Hickey</td>\n\n<td><a href=\"/wiki/Decca_Records\" title=\"Decca Records\">Decca</a>: L'Oiseau-Lyre, 3 LPs (reissued on 2 CDs in 1995)\n</td></tr>\n<tr>\n<td>1978</td>\n<td><br><a href=\"/wiki/Ulrik_Cold\" title=\"Ulrik Cold\">Ulrik Cold</a>, <br><a href=\"/wiki/Carolyn_Watkinson\" title=\"Carolyn Watkinson\">Carolyn Watkinson</a>,<br>Ian Caley,<br><a href=\"/wiki/Arleen_Auger\" title=\"Arleen Auger\">Arleen Auger</a></td>\n\n<td><a href=\"/wiki/CBS\" title=\"CBS\">CBS</a>, 3 LPs<br>(a fusion of the 1733, 1742 and 1757 versions)<sup id=\"cite_ref-58\" class=\"reference\"><a href=\"#cite_note-58\">[58]</a></sup>\n</td></tr>\n<tr>\n<td>1994</td>\n<td><br>Russell Smythe,<br><a href=\"/wiki/Bernarda_Fink\" title=\"Bernarda Fink\">Bernarda Fink</a>,<br><a href=\"/wiki/Jean-Paul_Fouch%C3%A9court\" title=\"Jean-Paul Fouchécourt\">Jean-Paul Fouchécourt</a>,<br><a href=\"/wiki/V%C3%A9ronique_Gens\" title=\"Véronique Gens\">Véronique Gens</a></td>\n\n<td><a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a> Archiv, 3 CDs\n</td></tr>\n<tr>\n<td>1997</td>\n<td><br><a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a>,<br><a href=\"/wiki/Lorraine_Hunt_Lieberson\" title=\"Lorraine Hunt Lieberson\">Lorraine Hunt</a>,<br><a href=\"/wiki/Mark_Padmore\" title=\"Mark Padmore\">Mark Padmore</a>,<br>Anna Maria Panzarella</td>\n\n<td><a href=\"/wiki/Erato_Records\" title=\"Erato Records\">Erato</a>, 3 CDs\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1966,
+      "cast": [
+        "John Shirley Quirk",
+        "Janet Baker",
+        "Robert Tear",
+        "Angela Hickey"
+      ],
+      "conductor": "Anthony Lewis "
+    },
+    {
+      "year": 1978,
+      "cast": [
+        "Ulrik Cold, ",
+        "Carolyn Watkinson",
+        "Ian Caley",
+        "Arleen Auger"
+      ],
+      "conductor": "Jean-Claude Malgoire "
+    },
+    {
+      "year": 1994,
+      "cast": [
+        "Russell Smythe",
+        "Bernarda Fink",
+        "Jean-Paul Fouchécourt",
+        "Véronique Gens"
+      ],
+      "conductor": "Marc Minkowski"
+    },
+    {
+      "year": 1997,
+      "cast": [
+        "Laurent Naouri",
+        "Lorraine Hunt",
+        "Mark Padmore",
+        "Anna Maria Panzarella"
+      ],
+      "conductor": "William Christie"
+    }
+  ]
+}

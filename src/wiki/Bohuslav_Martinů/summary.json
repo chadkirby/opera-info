@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Bohuslav Martinů",
+  "displaytitle": "Bohuslav Martinů",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q223258",
+  "titles": {
+    "canonical": "Bohuslav_Martinů",
+    "normalized": "Bohuslav Martinů",
+    "display": "Bohuslav Martinů"
+  },
+  "pageid": 174005,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Martinu_1945.jpg/252px-Martinu_1945.jpg",
+    "width": 252,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Martinu_1945.jpg",
+    "width": 386,
+    "height": 490
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098339841",
+  "tid": "e17210d0-178d-11ed-8d14-177a112ccd67",
+  "timestamp": "2022-07-15T10:16:50Z",
+  "description": "Czech composer (1890–1959)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Bohuslav_Martin%C5%AF",
+      "revisions": "https://en.wikipedia.org/wiki/Bohuslav_Martin%C5%AF?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Bohuslav_Martin%C5%AF?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Bohuslav_Martin%C5%AF"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Bohuslav_Martin%C5%AF",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Bohuslav_Martin%C5%AF",
+      "edit": "https://en.m.wikipedia.org/wiki/Bohuslav_Martin%C5%AF?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Bohuslav_Martin%C5%AF"
+    }
+  },
+  "extract": "Bohuslav Jan Martinů was a Czech composer of modern classical music. He wrote 6 symphonies, 15 operas, 14 ballet scores and a large body of orchestral, chamber, vocal and instrumental works. He became a violinist in the Czech Philharmonic Orchestra, and briefly studied under Czech composer and violinist Josef Suk. After leaving Czechoslovakia in 1923 for Paris, Martinů deliberately withdrew from the Romantic style in which he had been trained. During the 1920s he experimented with modern French stylistic developments, exemplified by his orchestral works Half-time and La Bagarre. He also adopted jazz idioms, for instance in his Kitchen Revue.",
+  "extract_html": "<p><b>Bohuslav Jan Martinů</b> was a Czech composer of modern classical music. He wrote 6 symphonies, 15 operas, 14 ballet scores and a large body of orchestral, chamber, vocal and instrumental works. He became a violinist in the Czech Philharmonic Orchestra, and briefly studied under Czech composer and violinist Josef Suk. After leaving Czechoslovakia in 1923 for Paris, Martinů deliberately withdrew from the Romantic style in which he had been trained. During the 1920s he experimented with modern French stylistic developments, exemplified by his orchestral works <i>Half-time</i> and <i>La Bagarre</i>. He also adopted jazz idioms, for instance in his <i>Kitchen Revue</i>.</p>"
+}

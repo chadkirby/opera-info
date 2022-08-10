@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<br>27 October 1827<br>(Conductor: – )\n</th></tr>\n<tr>\n<td>Ernesto, <i>Duke of Caldora</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Imogene, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Gualtiero, <i>former Count of Montalto</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Itulbo, <i>Gualtiero's lieutenant</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Goffredo, <i>a hermit, once tutor to Gualtiero</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Adele, <i>Imogene's companion</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A little boy, <i>son to Imogene and Ernesto</i>\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Fishermen and women, pirates, knights, ladies</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Ernesto, Duke of Caldora",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Imogene, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gualtiero, former Count of Montalto",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Itulbo, Gualtiero's lieutenant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Goffredo, a hermit, once tutor to Gualtiero",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Adele, Imogene's companion",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A little boy, son to Imogene and Ernesto",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Fishermen and women, pirates, knights, ladies",
+      "voiceType": ""
+    }
+  ]
+}

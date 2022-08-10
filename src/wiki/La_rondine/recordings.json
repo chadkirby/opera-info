@@ -1,0 +1,82 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"135\">Cast <br>(Ruggero, Magda, Rambaldo, Lisette, Prunier)\n</th>\n<th>Conductor,<br> Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup>\n</th></tr>\n<tr>\n<td>1966</td>\n<td><a href=\"/wiki/Daniele_Barioni\" title=\"Daniele Barioni\">Daniele Barioni</a>,<br><a href=\"/wiki/Anna_Moffo\" title=\"Anna Moffo\">Anna Moffo</a>,<br><a href=\"/wiki/Mario_Sereni\" title=\"Mario Sereni\">Mario Sereni</a>,<br><a href=\"/wiki/Graziella_Sciutti\" title=\"Graziella Sciutti\">Graziella Sciutti</a>,<br><a href=\"/wiki/Piero_de_Palma\" title=\"Piero de Palma\">Piero de Palma</a></td>\n\n<td>CD:<a href=\"/wiki/RCA_Victor\" class=\"mw-redirect\" title=\"RCA Victor\">RCA Victor</a> <br>Cat: GD60459(2)\n</td></tr>\n<tr>\n<td>1981</td>\n<td><a href=\"/wiki/Pl%C3%A1cido_Domingo\" title=\"Plácido Domingo\">Plácido Domingo</a>,<br><a href=\"/wiki/Kiri_Te_Kanawa\" title=\"Kiri Te Kanawa\">Kiri Te Kanawa</a>,<br> <a href=\"/wiki/Leo_Nucci\" title=\"Leo Nucci\">Leo Nucci</a>,<br><a href=\"/wiki/Mariana_Nicolesco\" title=\"Mariana Nicolesco\">Mariana Nicolesco</a><br><a href=\"/wiki/David_Rendall_(opera_singer)\" class=\"mw-redirect\" title=\"David Rendall (opera singer)\">David Rendall</a></td>\n\n<td>CD:<a href=\"/wiki/CBS\" title=\"CBS\">CBS</a> <br>Cat: M2K-37852\n</td></tr>\n<tr>\n<td>1997</td>\n<td><a href=\"/wiki/Roberto_Alagna\" title=\"Roberto Alagna\">Roberto Alagna</a>,<br><a href=\"/wiki/Angela_Gheorghiu\" title=\"Angela Gheorghiu\">Angela Gheorghiu</a>,<br>Alberto Rinaldi,<br><a href=\"/wiki/Inva_Mula-Tchako\" class=\"mw-redirect\" title=\"Inva Mula-Tchako\">Inva Mula-Tchako</a>,<br><a href=\"/wiki/William_Matteuzzi\" title=\"William Matteuzzi\">William Matteuzzi</a></td>\n\n<td>CD:<a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a> <br>Cat: 56338\n</td></tr>\n<tr>\n<td>1998</td>\n<td><a href=\"/wiki/Marcus_Haddock\" title=\"Marcus Haddock\">Marcus Haddock</a>,<br><a href=\"/wiki/Ainhoa_Arteta\" title=\"Ainhoa Arteta\">Ainhoa Arteta</a>,<br>William Parcher,<br><a href=\"/wiki/Inva_Mula-Tchako\" class=\"mw-redirect\" title=\"Inva Mula-Tchako\">Inva Mula-Tchako</a>,<br><a href=\"/wiki/Richard_Troxell\" title=\"Richard Troxell\">Richard Troxell</a></td>\n\n<td>DVD: Decca<br>Cat: 074 3335\n</td></tr>\n<tr>\n<td>2007</td>\n<td><a href=\"/wiki/Fabio_Sartori\" title=\"Fabio Sartori\">Fabio Sartori</a>,<br><a href=\"/wiki/Svetla_Vassileva_(soprano)\" title=\"Svetla Vassileva (soprano)\">Svetla Vassileva</a>,<br>Marzio Giossi,<br>Maya Dashuk,<br>Emanuele Giannino</td>\n\n<td>DVD:<a href=\"/wiki/Naxos_Records\" class=\"mw-redirect\" title=\"Naxos Records\">Naxos</a> <br>Cat: 2.110266\n</td></tr>\n<tr>\n<td>2008</td>\n<td>Fernando Portari,<br><a href=\"/wiki/Fiorenza_Cedolins\" title=\"Fiorenza Cedolins\">Fiorenza Cedolins</a>,<br>Stefano Antonucci,<br>Sandra Pastrana,<br>Emanuele Giannino</td>\n\n<td>DVD: ArtHaus Musik<br>Cat: 101 329\n</td></tr>\n<tr>\n<td>2009</td>\n<td><a href=\"/wiki/Roberto_Alagna\" title=\"Roberto Alagna\">Roberto Alagna</a>,<br><a href=\"/wiki/Angela_Gheorghiu\" title=\"Angela Gheorghiu\">Angela Gheorghiu</a>,<br><a href=\"/wiki/Samuel_Ramey\" title=\"Samuel Ramey\">Samuel Ramey</a>,<br><a href=\"/wiki/Lisette_Oropesa\" title=\"Lisette Oropesa\">Lisette Oropesa</a>,<br>Marius Brenciu</td>\n\n<td>DVD:<a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a> <br>Cat: 50999 631618-9 2<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1966,
+      "cast": [
+        "Daniele Barioni",
+        "Anna Moffo",
+        "Mario Sereni",
+        "Graziella Sciutti",
+        "Piero de Palma"
+      ],
+      "conductor": "Francesco Molinari-Pradelli"
+    },
+    {
+      "year": 1981,
+      "cast": [
+        "Plácido Domingo",
+        "Kiri Te Kanawa",
+        " Leo Nucci",
+        "Mariana Nicolesco",
+        "David Rendall"
+      ],
+      "conductor": "Lorin Maazel"
+    },
+    {
+      "year": 1997,
+      "cast": [
+        "Roberto Alagna",
+        "Angela Gheorghiu",
+        "Alberto Rinaldi",
+        "Inva Mula-Tchako",
+        "William Matteuzzi"
+      ],
+      "conductor": "Antonio Pappano"
+    },
+    {
+      "year": 1998,
+      "cast": [
+        "Marcus Haddock",
+        "Ainhoa Arteta",
+        "William Parcher",
+        "Inva Mula-Tchako",
+        "Richard Troxell"
+      ],
+      "conductor": "Emmanuel Villaume"
+    },
+    {
+      "year": 2007,
+      "cast": [
+        "Fabio Sartori",
+        "Svetla Vassileva",
+        "Marzio Giossi",
+        "Maya Dashuk",
+        "Emanuele Giannino"
+      ],
+      "conductor": "Alberto Veronesi"
+    },
+    {
+      "year": 2008,
+      "cast": [
+        "Fernando Portari",
+        "Fiorenza Cedolins",
+        "Stefano Antonucci",
+        "Sandra Pastrana",
+        "Emanuele Giannino"
+      ],
+      "conductor": "Carlo Rizzi"
+    },
+    {
+      "year": 2009,
+      "cast": [
+        "Roberto Alagna",
+        "Angela Gheorghiu",
+        "Samuel Ramey",
+        "Lisette Oropesa",
+        "Marius Brenciu"
+      ],
+      "conductor": "Marco Armiliato"
+    }
+  ]
+}

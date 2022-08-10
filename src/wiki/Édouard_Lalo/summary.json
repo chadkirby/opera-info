@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Édouard Lalo",
+  "displaytitle": "Édouard Lalo",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q224002",
+  "titles": {
+    "canonical": "Édouard_Lalo",
+    "normalized": "Édouard Lalo",
+    "display": "Édouard Lalo"
+  },
+  "pageid": 318744,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%C3%89douard_Lalo.jpg/232px-%C3%89douard_Lalo.jpg",
+    "width": 232,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/%C3%89douard_Lalo.jpg",
+    "width": 2450,
+    "height": 3380
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088482754",
+  "tid": "331363e0-0f81-11ed-9655-ff20257b34fd",
+  "timestamp": "2022-05-18T08:00:42Z",
+  "description": "French composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/%C3%89douard_Lalo",
+      "revisions": "https://en.wikipedia.org/wiki/%C3%89douard_Lalo?action=history",
+      "edit": "https://en.wikipedia.org/wiki/%C3%89douard_Lalo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:%C3%89douard_Lalo"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/%C3%89douard_Lalo",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/%C3%89douard_Lalo",
+      "edit": "https://en.m.wikipedia.org/wiki/%C3%89douard_Lalo?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:%C3%89douard_Lalo"
+    }
+  },
+  "extract": "Édouard-Victoire-Antoine Lalo was a French composer. His most celebrated piece is the Symphonie espagnole, a five-movement concerto for violin and orchestra, which remains a popular work in the standard repertoire.",
+  "extract_html": "<p><b>Édouard-Victoire-Antoine Lalo</b> was a French composer. His most celebrated piece is the <i>Symphonie espagnole</i>, a five-movement concerto for violin and orchestra, which remains a popular work in the standard repertoire.</p>"
+}

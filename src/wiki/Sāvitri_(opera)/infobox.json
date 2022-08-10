@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Sāvitri</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Chamber_opera\" title=\"Chamber opera\">Chamber opera</a> by <a href=\"/wiki/Gustav_Holst\" title=\"Gustav Holst\">Gustav Holst</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Gustav_Holst.jpg\" class=\"image\"><img alt=\"Gustav Holst.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gustav_Holst.jpg/220px-Gustav_Holst.jpg\" decoding=\"async\" width=\"220\" height=\"308\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gustav_Holst.jpg/330px-Gustav_Holst.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gustav_Holst.jpg/440px-Gustav_Holst.jpg 2x\" data-file-width=\"731\" data-file-height=\"1025\"></a><div class=\"infobox-caption\">Holst, circa 1921</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Holst</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><a href=\"/wiki/Savitri_and_Satyavan\" title=\"Savitri and Satyavan\">Savitri and Satyavan</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">5&nbsp;December&nbsp;1916<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1916-12-05</span>)</span><br><div style=\"display:inline;\" class=\"summary\">Wellington Hall, London</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Sāvitri"
+  ],
+  "Librettist": "Holst",
+  "Based on": "Savitri and Satyavan",
+  "Premiere": "5 December 1916\nWellington Hall, London"
+}

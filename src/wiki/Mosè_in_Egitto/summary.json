@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mosè in Egitto",
+  "displaytitle": "<i>Mosè in Egitto</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q583156",
+  "titles": {
+    "canonical": "Mosè_in_Egitto",
+    "normalized": "Mosè in Egitto",
+    "display": "<i>Mosè in Egitto</i>"
+  },
+  "pageid": 1981066,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/262px-Rossini-portrait-0.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rossini-portrait-0.jpg",
+    "width": 840,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731524",
+  "tid": "00b08620-11a8-11ed-a88a-1dfa166fc6d5",
+  "timestamp": "2022-05-02T04:12:32Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mos%C3%A8_in_Egitto",
+      "revisions": "https://en.wikipedia.org/wiki/Mos%C3%A8_in_Egitto?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mos%C3%A8_in_Egitto?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mos%C3%A8_in_Egitto"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Mos%C3%A8_in_Egitto",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mos%C3%A8_in_Egitto",
+      "edit": "https://en.m.wikipedia.org/wiki/Mos%C3%A8_in_Egitto?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Mos%C3%A8_in_Egitto"
+    }
+  },
+  "extract": "Mosè in Egitto is a three-act opera written by Gioachino Rossini to an Italian libretto by Andrea Leone Tottola, which was based on a 1760 play by Francesco Ringhieri, L'Osiride. It premièred on 5 March 1818 at the recently reconstructed Teatro San Carlo in Naples, Italy.",
+  "extract_html": "<p><i><b>Mosè in Egitto</b></i> is a three-act opera written by Gioachino Rossini to an Italian libretto by Andrea Leone Tottola, which was based on a 1760 play by Francesco Ringhieri, <i>L'Osiride</i>. It premièred on 5 March 1818 at the recently reconstructed Teatro San Carlo in Naples, Italy.</p>"
+}

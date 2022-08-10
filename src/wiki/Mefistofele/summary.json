@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Mefistofele",
+  "displaytitle": "<i>Mefistofele</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q935669",
+  "titles": {
+    "canonical": "Mefistofele",
+    "normalized": "Mefistofele",
+    "display": "<i>Mefistofele</i>"
+  },
+  "pageid": 84887,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1077202049",
+  "tid": "67a8ffd0-1881-11ed-aba1-55a2c0546079",
+  "timestamp": "2022-03-15T01:50:30Z",
+  "description": "Opera by Arrigo Boito",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mefistofele",
+      "revisions": "https://en.wikipedia.org/wiki/Mefistofele?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mefistofele?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mefistofele"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Mefistofele",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mefistofele",
+      "edit": "https://en.m.wikipedia.org/wiki/Mefistofele?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Mefistofele"
+    }
+  },
+  "extract": "Mefistofele is an opera in a prologue and five acts, later reduced to four acts and an epilogue, the only completed opera with music by the Italian composer-librettist Arrigo Boito. The opera was given its premiere on 5 March 1868 at La Scala, Milan, under the baton of the composer, despite his lack of experience and skill as a conductor.",
+  "extract_html": "<p><i><b>Mefistofele</b></i> is an opera in a prologue and five acts, later reduced to four acts and an epilogue, the only completed opera with music by the Italian composer-librettist Arrigo Boito. The opera was given its premiere on 5 March 1868 at La Scala, Milan, under the baton of the composer, despite his lack of experience and skill as a conductor.</p>"
+}

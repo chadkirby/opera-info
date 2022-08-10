@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 3 August 1829<br>Conductor: <a href=\"/wiki/Henri_Valentino\" title=\"Henri Valentino\">Henri&nbsp;Valentino</a><sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/William_Tell\" title=\"William Tell\">Guillaume Tell</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Hedwige, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Jemmy, <i>his son</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mathilde, <i>a <a href=\"/wiki/Habsburg\" class=\"mw-redirect\" title=\"Habsburg\">Habsburg</a> princess</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Arnold Melchtal\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Melchtal, <i>his father</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Albrecht_Gessler\" title=\"Albrecht Gessler\">Gesler</a>, <i>the Austrian Governor of the cantons of <a href=\"/wiki/Canton_of_Uri\" title=\"Canton of Uri\">Uri</a> and <a href=\"/wiki/Canton_of_Schwyz\" title=\"Canton of Schwyz\">Schwyz</a></i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Walter_F%C3%BCrst\" title=\"Walter Fürst\">Walter Furst</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Ruodi, <i>a fisherman</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Leuthold, <i>a shepherd</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Rodolphe, <i>Captain of Gesler's guard</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A hunter\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Peasants, shepherds, knights, pages, ladies, soldiers, bridal couples</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Guillaume Tell",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Hedwige, his wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Jemmy, his son",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mathilde, a Habsburg princess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Arnold Melchtal",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Melchtal, his father",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Gesler, the Austrian Governor of the cantons of Uri and Schwyz",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Walter Furst",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ruodi, a fisherman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Leuthold, a shepherd",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Rodolphe, Captain of Gesler's guard",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A hunter",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Peasants, shepherds, knights, pages, ladies, soldiers, bridal couples",
+      "voiceType": ""
+    }
+  ]
+}

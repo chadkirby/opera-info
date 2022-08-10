@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La serva padrona",
+  "displaytitle": "<i>La serva padrona</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q378237",
+  "titles": {
+    "canonical": "La_serva_padrona",
+    "normalized": "La serva padrona",
+    "display": "<i>La serva padrona</i>"
+  },
+  "pageid": 2675972,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/La_Serva_Padrona.jpg",
+    "width": 300,
+    "height": 264
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/La_Serva_Padrona.jpg",
+    "width": 300,
+    "height": 264
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1061224938",
+  "tid": "d1b16510-15f8-11ed-a851-41b151550ecc",
+  "timestamp": "2021-12-20T12:06:49Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_serva_padrona",
+      "revisions": "https://en.wikipedia.org/wiki/La_serva_padrona?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_serva_padrona?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_serva_padrona"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_serva_padrona",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_serva_padrona",
+      "edit": "https://en.m.wikipedia.org/wiki/La_serva_padrona?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_serva_padrona"
+    }
+  },
+  "extract": "La serva padrona, or The Maid Turned Mistress, is a 1733 intermezzo by Giovanni Battista Pergolesi (1710–1736) to a libretto by Gennaro Federico, after the play by Jacopo Angello Nelli. It is some 40 minutes long, in two parts without overture, and was written as light-hearted staged entertainment between the acts of Pergolesi's serious opera Il prigionier superbo. More specifically each of the two parts, set in the same dressing room, played during an intermission of the three-act opera to amuse people who remained in their seats.",
+  "extract_html": "<p><i><b>La serva padrona</b></i>, or <i>The Maid Turned Mistress</i>, is a 1733 intermezzo by Giovanni Battista Pergolesi (1710–1736) to a libretto by Gennaro Federico, after the play by Jacopo Angello Nelli. It is some 40 minutes long, in two parts without overture, and was written as light-hearted staged entertainment between the acts of Pergolesi's serious opera <i>Il prigionier superbo</i>. More specifically each of the two parts, set in the same dressing room, played during an intermission of the three-act opera to amuse people who remained in their seats.</p>"
+}

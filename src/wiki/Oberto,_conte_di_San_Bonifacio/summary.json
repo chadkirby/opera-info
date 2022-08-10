@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Oberto (opera)",
+  "displaytitle": "<i>Oberto</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q636873",
+  "titles": {
+    "canonical": "Oberto_(opera)",
+    "normalized": "Oberto (opera)",
+    "display": "<i>Oberto</i> (opera)"
+  },
+  "pageid": 1940721,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bassano-location_of_Oberto-detail.jpg/320px-Bassano-location_of_Oberto-detail.jpg",
+    "width": 320,
+    "height": 260
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bassano-location_of_Oberto-detail.jpg",
+    "width": 841,
+    "height": 683
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086031951",
+  "tid": "330855a0-f9af-11ec-ad53-b1d24720b859",
+  "timestamp": "2022-05-03T19:47:18Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Oberto_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Oberto_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Oberto_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Oberto_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Oberto_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Oberto_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Oberto_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Oberto_(opera)"
+    }
+  },
+  "extract": "Oberto, Conte di San Bonifacio is an opera in two acts by Giuseppe Verdi to an Italian libretto by Temistocle Solera, based on an existing libretto by Antonio Piazza probably called Rocester.",
+  "extract_html": "<p><i><b>Oberto, Conte di San Bonifacio</b></i> is an opera in two acts by Giuseppe Verdi to an Italian libretto by Temistocle Solera, based on an existing libretto by Antonio Piazza probably called <i>Rocester</i>.</p>"
+}

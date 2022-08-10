@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Porgy and Bess</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/George_Gershwin\" title=\"George Gershwin\">George Gershwin</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Porgyandbess.gif\" class=\"image\"><img alt=\"Porgyandbess.gif\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/8/8b/Porgyandbess.gif/310px-Porgyandbess.gif\" decoding=\"async\" width=\"310\" height=\"248\" srcset=\"//upload.wikimedia.org/wikipedia/en/8/8b/Porgyandbess.gif 1.5x\" data-file-width=\"352\" data-file-height=\"282\"></a><div class=\"infobox-caption\">Boston <a href=\"/wiki/Preview_(theatre)\" title=\"Preview (theatre)\">try-out</a> before the <a href=\"/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> opening</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/DuBose_Heyward\" title=\"DuBose Heyward\">DuBose Heyward</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\">Heyward's novel <i><a href=\"/wiki/Porgy_(novel)\" title=\"Porgy (novel)\">Porgy</a></i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">September&nbsp;30,&nbsp;1935<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1935-09-30</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Colonial_Theatre_(Boston)\" title=\"Colonial Theatre (Boston)\">Colonial Theatre (Boston)</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Porgy and Bess"
+  ],
+  "Librettist": "DuBose Heyward",
+  "Language": "English",
+  "Based on": "Heyward's novel Porgy",
+  "Premiere": "September 30, 1935\nColonial Theatre (Boston)"
+}

@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 20 August 1828<br>Conductor: <a href=\"/wiki/Fran%C3%A7ois_Habeneck\" title=\"François Habeneck\">François Habeneck</a><sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup>\n</th></tr>\n<tr>\n<td>Count Ory\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Tutor\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Isolier\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Raimbaud\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Countess Adèle\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>Ragonde\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Alice\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>1st Knight\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>2nd Knight\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>3rd Knight\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>4th Knight\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus of Ory's men, ladies, crusaders, peasants</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Count Ory",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Tutor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Isolier",
+      "voiceType": "mezzo-soprano (en travesti)"
+    },
+    {
+      "role": "Raimbaud",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Countess Adèle",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Ragonde",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Alice",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "1st Knight",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "2nd Knight",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "3rd Knight",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "4th Knight",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chorus of Ory's men, ladies, crusaders, peasants",
+      "voiceType": ""
+    }
+  ]
+}

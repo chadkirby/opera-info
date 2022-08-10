@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Carl Nielsen",
+  "displaytitle": "Carl Nielsen",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q205139",
+  "titles": {
+    "canonical": "Carl_Nielsen",
+    "normalized": "Carl Nielsen",
+    "display": "Carl Nielsen"
+  },
+  "pageid": 97817,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carl_Nielsen_c._1908_-_Restoration.jpg/217px-Carl_Nielsen_c._1908_-_Restoration.jpg",
+    "width": 217,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Carl_Nielsen_c._1908_-_Restoration.jpg",
+    "width": 2347,
+    "height": 3452
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101223237",
+  "tid": "08303590-1544-11ed-a6a8-1f411ff46c22",
+  "timestamp": "2022-07-29T22:36:22Z",
+  "description": "Danish composer (1865–1931)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Carl_Nielsen",
+      "revisions": "https://en.wikipedia.org/wiki/Carl_Nielsen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Carl_Nielsen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Carl_Nielsen"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Carl_Nielsen",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Carl_Nielsen",
+      "edit": "https://en.m.wikipedia.org/wiki/Carl_Nielsen?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Carl_Nielsen"
+    }
+  },
+  "extract": "Carl August Nielsen was a Danish composer, conductor and violinist, widely recognized as his country's most prominent composer.",
+  "extract_html": "<p><b>Carl August Nielsen</b> was a Danish composer, conductor and violinist, widely recognized as his country's most prominent composer.</p>"
+}

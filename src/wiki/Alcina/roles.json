@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 16 April 1735<br>Conductor: George Frideric Handel<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[6]</a></sup>\n</th></tr>\n<tr>\n<td>Alcina, <i>a sorceress</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Morgana, <i>her sister</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Oberto, <i>a boy searching for his father</i>\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">boy soprano</a>\n</td>\n</tr>\n<tr>\n<td>Ruggiero, <i>a knight</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Bradamante, <i>Ruggiero's betrothed, disguised as her own brother, the knight Ricciardo</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Oronte, <i>lover of Morgana</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Melisso, <i>former tutor of Ruggiero</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Alcina, a sorceress",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Morgana, her sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Oberto, a boy searching for his father",
+      "voiceType": "boy soprano"
+    },
+    {
+      "role": "Ruggiero, a knight",
+      "voiceType": "mezzo-soprano castrato"
+    },
+    {
+      "role": "Bradamante, Ruggiero's betrothed, disguised as her own brother, the knight Ricciardo",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Oronte, lover of Morgana",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Melisso, former tutor of Ruggiero",
+      "voiceType": "bass"
+    }
+  ]
+}

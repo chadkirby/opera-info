@@ -1,0 +1,11 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\"><span title=\"French-language text\"><i lang=\"fr\">La voix humaine</i></span></th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Monodrama\" title=\"Monodrama\">Monodrama</a> by <a href=\"/wiki/Francis_Poulenc\" title=\"Francis Poulenc\">Francis Poulenc</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Poulenc-1922.jpg\" class=\"image\"><img alt=\"Poulenc-1922.jpg\" src=\"//upload.wikimedia.org/wikipedia/en/b/b8/Poulenc-1922.jpg\" decoding=\"async\" width=\"220\" height=\"283\" data-file-width=\"220\" data-file-height=\"283\"></a><div class=\"infobox-caption\">The composer in 1922</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Description</th><td class=\"infobox-data\"><i>tragédie lyrique</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>The Human Voice</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">French</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i><a href=\"/wiki/The_Human_Voice\" title=\"The Human Voice\">The Human Voice</a></i><br>by <a href=\"/wiki/Jean_Cocteau\" title=\"Jean Cocteau\">Jean Cocteau</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">6&nbsp;February&nbsp;1959<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1959-02-06</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Op%C3%A9ra-Comique\" title=\"Opéra-Comique\">Opéra-Comique</a>, Paris</div></div></td></tr></tbody></table>",
+  "titles": [
+    "La voix humaine"
+  ],
+  "Description": "tragédie lyrique",
+  "Translation": "The Human Voice",
+  "Language": "French",
+  "Based on": "The Human Voice\nby Jean Cocteau",
+  "Premiere": "6 February 1959\nOpéra-Comique, Paris"
+}

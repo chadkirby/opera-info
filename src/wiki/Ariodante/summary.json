@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ariodante",
+  "displaytitle": "<i>Ariodante</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q662514",
+  "titles": {
+    "canonical": "Ariodante",
+    "normalized": "Ariodante",
+    "display": "<i>Ariodante</i>"
+  },
+  "pageid": 387873,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/265px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 2400,
+    "height": 2901
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1077547483",
+  "tid": "8f62d3b0-1247-11ed-ad44-f9905dfedf7d",
+  "timestamp": "2022-03-16T22:02:46Z",
+  "description": "1735 opera by Georg Friedrich Händel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ariodante",
+      "revisions": "https://en.wikipedia.org/wiki/Ariodante?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ariodante?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ariodante"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ariodante",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ariodante",
+      "edit": "https://en.m.wikipedia.org/wiki/Ariodante?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ariodante"
+    }
+  },
+  "extract": "Ariodante is an opera seria in three acts by George Frideric Handel. The anonymous Italian libretto was based on a work by Antonio Salvi, which in turn was adapted from Canti 4, 5 and 6 of Ludovico Ariosto's Orlando Furioso. Each act contains opportunities for dance, originally composed for dancer Marie Sallé and her company.",
+  "extract_html": "<p><i><b>Ariodante</b></i> is an opera seria in three acts by George Frideric Handel. The anonymous Italian libretto was based on a work by Antonio Salvi, which in turn was adapted from Canti 4, 5 and 6 of Ludovico Ariosto's <i>Orlando Furioso</i>. Each act contains opportunities for dance, originally composed for dancer Marie Sallé and her company.</p>"
+}

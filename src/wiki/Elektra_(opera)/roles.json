@@ -1,0 +1,73 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Roles\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere, 25 January 1909<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup><br>Conductor: <a href=\"/wiki/Ernst_von_Schuch\" title=\"Ernst von Schuch\">Ernst von Schuch</a>\n</th></tr>\n<tr>\n<td>Elektra (<a href=\"/wiki/Electra\" title=\"Electra\">Electra</a>), <i><a href=\"/wiki/Agamemnon\" title=\"Agamemnon\">Agamemnon</a>'s daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Chrysothemis\" title=\"Chrysothemis\">Chrysothemis</a>, <i>her sister</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Klytaemnestra (<a href=\"/wiki/Clytemnestra\" title=\"Clytemnestra\">Clytemnestra</a>), <i>their mother, Agamemnon's widow and killer</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Her confidante\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Her trainbearer\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A young servant\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>An old servant\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Orest (<a href=\"/wiki/Orestes\" title=\"Orestes\">Orestes</a>), <i>son of Agamemnon</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Orest's tutor\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Aegisth (<a href=\"/wiki/Aegisthus\" title=\"Aegisthus\">Aegisthus</a>), <i>Klytaemnestra's paramour</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>An overseer\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>First maid\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Second maid\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Third maid\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Fourth maid\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Fifth maid\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Men and women of the household</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Elektra (Electra), Agamemnon's daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chrysothemis, her sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Klytaemnestra (Clytemnestra), their mother, Agamemnon's widow and killer",
+      "voiceType": "contralto or mezzo-soprano"
+    },
+    {
+      "role": "Her confidante",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Her trainbearer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A young servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "An old servant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Orest (Orestes), son of Agamemnon",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Orest's tutor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Aegisth (Aegisthus), Klytaemnestra's paramour",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "An overseer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "First maid",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Second maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Third maid",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Fourth maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Fifth maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Men and women of the household",
+      "voiceType": ""
+    }
+  ]
+}

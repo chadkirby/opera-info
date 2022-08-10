@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La voix humaine",
+  "displaytitle": "<i>La voix humaine</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q36084",
+  "titles": {
+    "canonical": "La_voix_humaine",
+    "normalized": "La voix humaine",
+    "display": "<i>La voix humaine</i>"
+  },
+  "pageid": 5809701,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/b8/Poulenc-1922.jpg",
+    "width": 220,
+    "height": 283
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/b8/Poulenc-1922.jpg",
+    "width": 220,
+    "height": 283
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069192155",
+  "tid": "21597c10-fe89-11ec-81bb-89df044e5661",
+  "timestamp": "2022-02-01T02:15:57Z",
+  "description": "1958 one-act opera by Francis Poulenc",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_voix_humaine",
+      "revisions": "https://en.wikipedia.org/wiki/La_voix_humaine?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_voix_humaine?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_voix_humaine"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_voix_humaine",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_voix_humaine",
+      "edit": "https://en.m.wikipedia.org/wiki/La_voix_humaine?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_voix_humaine"
+    }
+  },
+  "extract": "La voix humaine is a forty-minute, one-act opera for soprano and orchestra composed by Francis Poulenc in 1958. The work is based on the play of the same name by Jean Cocteau, who, along with French soprano Denise Duval, worked closely with Poulenc in preparation for the opera's premiere. Poulenc's tragédie lyrique was first performed at the Théâtre National de l'Opéra-Comique in Paris on 6 February 1959, with Duval as the solo singer and Georges Prêtre conducting; the scenery, costumes and direction were by Cocteau.",
+  "extract_html": "<p><i><b><span><i lang=\"fr\">La voix humaine</i></span></b></i> is a forty-minute, one-act opera for soprano and orchestra composed by Francis Poulenc in 1958. The work is based on the play of the same name by Jean Cocteau, who, along with French soprano Denise Duval, worked closely with Poulenc in preparation for the opera's premiere. Poulenc's <i><span><i lang=\"fr\">tragédie lyrique</i></span></i> was first performed at the Théâtre National de l'Opéra-Comique in Paris on 6 February 1959, with Duval as the solo singer and Georges Prêtre conducting; the scenery, costumes and direction were by Cocteau.</p>"
+}

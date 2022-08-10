@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Riders to the Sea</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Ralph_Vaughan_Williams\" title=\"Ralph Vaughan Williams\">Ralph Vaughan Williams</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i><a href=\"/wiki/Riders_to_the_Sea\" title=\"Riders to the Sea\">Riders to the Sea</a></i><br>by <a href=\"/wiki/John_Millington_Synge\" title=\"John Millington Synge\">John Millington Synge</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">1&nbsp;December&nbsp;1937<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1937-12-01</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Royal_College_of_Music\" title=\"Royal College of Music\">Royal College of Music</a>, London</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Riders to the Sea"
+  ],
+  "Language": "English",
+  "Based on": "Riders to the Sea\nby John Millington Synge",
+  "Premiere": "1 December 1937\nRoyal College of Music, London"
+}

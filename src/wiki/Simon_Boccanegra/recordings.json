@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"190\">Cast<br>(Boccanegra, Maria, Adorno, Fiesco)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-Operadis_36-0\" class=\"reference\"><a href=\"#cite_note-Operadis-36\">[36]</a></sup>\n</th></tr>\n<tr>\n<td>1975</td>\n<td><a href=\"/wiki/Sesto_Bruscantini\" title=\"Sesto Bruscantini\">Sesto Bruscantini</a>,<br>Josella Ligi,<br><a href=\"/wiki/Andr%C3%A9_Turp\" title=\"André Turp\">André Turp</a>,<br><a href=\"/wiki/Gwynne_Howell\" title=\"Gwynne Howell\">Gwynne Howell</a></td>\n\n<td>CD: <a href=\"/wiki/Opera_Rara\" title=\"Opera Rara\">Opera Rara</a><br>Cat: ORCV 302\n</td></tr>\n<tr>\n<td>1999</td>\n<td>Vitorio Vitelli,<br>Annalisa Raspagliosi,<br>Warren Mok,<br>Francesco Ellero d'Artegna</td>\n\n<td>CD: Dynamic,<br>268/1-2\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1975,
+      "cast": [
+        "Sesto Bruscantini",
+        "Josella Ligi",
+        "André Turp",
+        "Gwynne Howell"
+      ],
+      "conductor": "John Matheson"
+    },
+    {
+      "year": 1999,
+      "cast": [
+        "Vitorio Vitelli",
+        "Annalisa Raspagliosi",
+        "Warren Mok",
+        "Francesco Ellero d'Artegna"
+      ],
+      "conductor": "Renato Palumbo"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Die tote Stadt",
+  "displaytitle": "<i>Die tote Stadt</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1219611",
+  "titles": {
+    "canonical": "Die_tote_Stadt",
+    "normalized": "Die tote Stadt",
+    "display": "<i>Die tote Stadt</i>"
+  },
+  "pageid": 2991770,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Die_Tote_Stadt_4886-Peralta.jpg/227px-Die_Tote_Stadt_4886-Peralta.jpg",
+    "width": 227,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Die_Tote_Stadt_4886-Peralta.jpg",
+    "width": 2894,
+    "height": 4070
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100893900",
+  "tid": "d1fb6660-15f8-11ed-9b99-5f1ed3aa9fe8",
+  "timestamp": "2022-07-28T06:58:21Z",
+  "description": "Opera by Erich Wolfgang Korngold",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_tote_Stadt",
+      "revisions": "https://en.wikipedia.org/wiki/Die_tote_Stadt?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_tote_Stadt?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_tote_Stadt"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_tote_Stadt",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_tote_Stadt",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_tote_Stadt?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_tote_Stadt"
+    }
+  },
+  "extract": "Die tote Stadt, Op. 12, is an opera in three acts by Erich Wolfgang Korngold set to a libretto by Paul Schott, a collective pseudonym for the composer and his father, Julius Korngold. It is based on the 1892 novel Bruges-la-Morte by Georges Rodenbach.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Die tote Stadt</i></span></b></i>, Op. 12, is an opera in three acts by Erich Wolfgang Korngold set to a libretto by Paul Schott, a collective pseudonym for the composer and his father, Julius Korngold. It is based on the 1892 novel <i>Bruges-la-Morte</i> by Georges Rodenbach.</p>"
+}

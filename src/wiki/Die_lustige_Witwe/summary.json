@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Merry Widow",
+  "displaytitle": "<i>The Merry Widow</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q478202",
+  "titles": {
+    "canonical": "The_Merry_Widow",
+    "normalized": "The Merry Widow",
+    "display": "<i>The Merry Widow</i>"
+  },
+  "pageid": 560587,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bain_News_Service_-_Franz_Leh%C3%A1r.jpg/225px-Bain_News_Service_-_Franz_Leh%C3%A1r.jpg",
+    "width": 225,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bain_News_Service_-_Franz_Leh%C3%A1r.jpg",
+    "width": 3805,
+    "height": 5397
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097752279",
+  "tid": "d2277f70-15f8-11ed-9095-3b430c91d0ae",
+  "timestamp": "2022-07-12T13:53:18Z",
+  "description": "Operetta by Franz Lehár",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Merry_Widow",
+      "revisions": "https://en.wikipedia.org/wiki/The_Merry_Widow?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Merry_Widow?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Merry_Widow"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Merry_Widow",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Merry_Widow",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Merry_Widow?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Merry_Widow"
+    }
+  },
+  "extract": "The Merry Widow is an operetta by the Austro-Hungarian composer Franz Lehár. The librettists, Viktor Léon and Leo Stein, based the story – concerning a rich widow, and her countrymen's attempt to keep her money in the principality by finding her the right husband – on an 1861 comedy play, L'attaché d'ambassade by Henri Meilhac.",
+  "extract_html": "<p><i><b>The Merry Widow</b></i> is an operetta by the Austro-Hungarian composer Franz Lehár. The librettists, Viktor Léon and Leo Stein, based the story – concerning a rich widow, and her countrymen's attempt to keep her money in the principality by finding her the right husband – on an 1861 comedy play, <span><i lang=\"fr\">L'attaché d'ambassade</i></span> by Henri Meilhac.</p>"
+}

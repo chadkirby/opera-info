@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 21 February 1907<br>(Conductor: <a href=\"/wiki/Fritz_Cassirer\" title=\"Fritz Cassirer\">Fritz Cassirer</a>)<sup id=\"cite_ref-FOOTNOTEThe_Musical_Times1907_4-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEThe_Musical_Times1907-4\">[4]</a></sup>\n</th></tr>\n<tr>\n<td>Manz\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Marti\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Sali, <i>son of Manz as a child</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Sali, <i>son of Manz as a man</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Vreli, <i>daughter of Marti </i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>The dark fiddler\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Two peasant men\n</td>\n<td>baritones\n</td>\n</tr>\n<tr>\n<td>Three peasant women\n</td>\n<td>sopranos\n</td>\n</tr>\n<tr>\n<td>Gingerbread woman\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Wheel of fortune woman\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Cheap jewellery woman\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Merry-go-round man\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Slim girl\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Wild girl\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Poor horn player\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Hunchbacked bass player\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Manz",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Marti",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sali, son of Manz as a child",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sali, son of Manz as a man",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Vreli, daughter of Marti",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The dark fiddler",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Two peasant men",
+      "voiceType": "baritones"
+    },
+    {
+      "role": "Three peasant women",
+      "voiceType": "sopranos"
+    },
+    {
+      "role": "Gingerbread woman",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Wheel of fortune woman",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Cheap jewellery woman",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Merry-go-round man",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Slim girl",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Wild girl",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Poor horn player",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Hunchbacked bass player",
+      "voiceType": "bass"
+    }
+  ]
+}

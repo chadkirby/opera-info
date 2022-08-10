@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-Institute_3-2\" class=\"reference\"><a href=\"#cite_note-Institute-3\">[3]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 13 February 1725\n</th></tr>\n<tr>\n<td>Rodelinda, <i>Queen of Lombardy</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Bertarido, <i>usurped King of Lombardy</i>\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Grimoaldo, <i>Duke of Benevento, Bertarido's usurper</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Eduige, <i>Bertarido's sister, betrothed to Grimoaldo</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Unulfo, <i>Bertarido's friend and counsellor</i>\n</td>\n<td>alto castrato\n</td>\n</tr>\n<tr>\n<td>Garibaldo, <i>Grimoaldo's counsellor, duke of Turin</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Flavio, <i>Rodelinda's son</i>\n</td>\n<td>silent\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Rodelinda, Queen of Lombardy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Bertarido, usurped King of Lombardy",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Grimoaldo, Duke of Benevento, Bertarido's usurper",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Eduige, Bertarido's sister, betrothed to Grimoaldo",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Unulfo, Bertarido's friend and counsellor",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Garibaldo, Grimoaldo's counsellor, duke of Turin",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Flavio, Rodelinda's son",
+      "voiceType": "silent"
+    }
+  ]
+}

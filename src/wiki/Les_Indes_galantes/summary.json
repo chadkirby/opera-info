@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Les Indes galantes",
+  "displaytitle": "<i>Les Indes galantes</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q583297",
+  "titles": {
+    "canonical": "Les_Indes_galantes",
+    "normalized": "Les Indes galantes",
+    "display": "<i>Les Indes galantes</i>"
+  },
+  "pageid": 4956070,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/1736_Les_Indes_Galantes.png/216px-1736_Les_Indes_Galantes.png",
+    "width": 216,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/1736_Les_Indes_Galantes.png",
+    "width": 1605,
+    "height": 2379
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1075278043",
+  "tid": "d0f89c60-15f8-11ed-aaf6-69aef6b517d2",
+  "timestamp": "2022-03-04T21:27:07Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Les_Indes_galantes",
+      "revisions": "https://en.wikipedia.org/wiki/Les_Indes_galantes?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Les_Indes_galantes?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Les_Indes_galantes"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Les_Indes_galantes",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Les_Indes_galantes",
+      "edit": "https://en.m.wikipedia.org/wiki/Les_Indes_galantes?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Les_Indes_galantes"
+    }
+  },
+  "extract": "Les Indes galantes is an opera by Jean-Philippe Rameau with a libretto by Louis Fuzelier. It takes the form of an opéra-ballet with a prologue and four entrées (acts). Following an allegorical prologue, the four entrées have distinct and separate plots, but are unified by the theme of love in exotic places. The most famous pieces from the work, Danse des Sauvages and the final Chaconne, come from the final entrée.",
+  "extract_html": "<p><b><span><i lang=\"fr\">Les Indes galantes</i></span></b> is an opera by Jean-Philippe Rameau with a libretto by Louis Fuzelier. It takes the form of an <i>opéra-ballet</i> with a prologue and four <i>entrées</i> (acts). Following an allegorical prologue, the four <i>entrées</i> have distinct and separate plots, but are unified by the theme of love in exotic places. The most famous pieces from the work, <i>Danse des Sauvages</i> and the final <i>Chaconne</i>, come from the final <i>entrée</i>.</p>"
+}

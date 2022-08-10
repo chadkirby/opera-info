@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere casts</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Original Italian version,<br>Premiere cast, <span class=\"nowrap\">19 January 1853<sup id=\"cite_ref-36\" class=\"reference\"><a href=\"#cite_note-36\">[36]</a></sup></span><br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Emilio Angelini\n</th>\n<th>Revised French version,<br>as <i><span title=\"French-language text\"><i lang=\"fr\">Le trouvère</i></span></i>, <span class=\"nowrap\">12 January 1857<sup id=\"cite_ref-37\" class=\"reference\"><a href=\"#cite_note-37\">[37]</a></sup></span><br>Conductor: <a href=\"/wiki/Narcisse_Girard\" title=\"Narcisse Girard\">Narcisse Girard</a>\n</th></tr>\n<tr>\n<td>Conte di Luna, <i>a nobleman in the service of the Prince of Aragon</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Manrico, <i>a troubadour and officer in the army of the Prince of Urgel</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Azucena, <i>a gypsy, supposedly Manrico's mother</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Leonora, <i>noble lady, in love with Manrico and courted by Di Luna</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Ferrando, <i>Luna's officer</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Ines, <i>Leonora's confidante</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Ruiz, <i>Manrico's henchman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>An old gypsy\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>A messenger\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Leonora's friends, nuns, the Count's lackeys, warriors, Gypsies</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Conte di Luna, a nobleman in the service of the Prince of Aragon",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Manrico, a troubadour and officer in the army of the Prince of Urgel",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Azucena, a gypsy, supposedly Manrico's mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Leonora, noble lady, in love with Manrico and courted by Di Luna",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ferrando, Luna's officer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ines, Leonora's confidante",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ruiz, Manrico's henchman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "An old gypsy",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A messenger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Leonora's friends, nuns, the Count's lackeys, warriors, Gypsies",
+      "voiceType": ""
+    }
+  ]
+}

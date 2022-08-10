@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Nightingale (opera)",
+  "displaytitle": "<i>The Nightingale</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2450365",
+  "titles": {
+    "canonical": "The_Nightingale_(opera)",
+    "normalized": "The Nightingale (opera)",
+    "display": "<i>The Nightingale</i> (opera)"
+  },
+  "pageid": 8008812,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Solovey_by_A._Benois_01.jpg/320px-Solovey_by_A._Benois_01.jpg",
+    "width": 320,
+    "height": 298
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Solovey_by_A._Benois_01.jpg",
+    "width": 1000,
+    "height": 931
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1039224043",
+  "tid": "d2699180-15f8-11ed-9c53-9f78ed4e8147",
+  "timestamp": "2021-08-17T12:32:43Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Nightingale_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Nightingale_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Nightingale_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Nightingale_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Nightingale_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Nightingale_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Nightingale_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Nightingale_(opera)"
+    }
+  },
+  "extract": "The Nightingale is a Russian conte lyrique in three acts by Igor Stravinsky. The libretto, based on the 1843 tale \"The Nightingale\" by Hans Christian Andersen, was written by the composer and Stepan Mitusov. It was first performed on 26 May 1914 by the Ballets Russes at the Palais Garnier in Paris.",
+  "extract_html": "<p><i><b>The Nightingale</b></i> is a Russian <i>conte lyrique</i> in three acts by Igor Stravinsky. The libretto, based on the 1843 tale \"The Nightingale\" by Hans Christian Andersen, was written by the composer and Stepan Mitusov. It was first performed on 26 May 1914 by the Ballets Russes at the Palais Garnier in Paris.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Les pêcheurs de perles",
+  "displaytitle": "<i>Les pêcheurs de perles</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q56159",
+  "titles": {
+    "canonical": "Les_pêcheurs_de_perles",
+    "normalized": "Les pêcheurs de perles",
+    "display": "<i>Les pêcheurs de perles</i>"
+  },
+  "pageid": 30875069,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Final_scene_of_Act_1_of_%27The_Pearl_Fishers%27_by_Bizet_-_Gallica_%28adjusted%29.jpg/272px-Final_scene_of_Act_1_of_%27The_Pearl_Fishers%27_by_Bizet_-_Gallica_%28adjusted%29.jpg",
+    "width": 272,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Final_scene_of_Act_1_of_%27The_Pearl_Fishers%27_by_Bizet_-_Gallica_%28adjusted%29.jpg",
+    "width": 3418,
+    "height": 4016
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094425949",
+  "tid": "d5d19bb0-15f8-11ed-8aa8-6f801d4ceabf",
+  "timestamp": "2022-06-22T15:02:35Z",
+  "description": "1863 opera by Georges Bizet",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles",
+      "revisions": "https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Les_p%C3%AAcheurs_de_perles"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Les_p%C3%AAcheurs_de_perles",
+      "edit": "https://en.m.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Les_p%C3%AAcheurs_de_perles"
+    }
+  },
+  "extract": "Les pêcheurs de perles is an opera in three acts by the French composer Georges Bizet, to a libretto by Eugène Cormon and Michel Carré. It was premiered on 30 September 1863 at the Théâtre Lyrique in Paris, and was given 18 performances in its initial run. Set in ancient times on the island of Ceylon, the opera tells the story of how two men's vow of eternal friendship is threatened by their love for the same woman, whose own dilemma is the conflict between secular love and her sacred oath as a priestess. The friendship duet \"Au fond du temple saint\", generally known as \"The Pearl Fishers Duet\", is one of the best-known in Western opera.",
+  "extract_html": "<p><i><b><span><i lang=\"fr\">Les pêcheurs de perles</i></span></b></i> is an opera in three acts by the French composer Georges Bizet, to a libretto by Eugène Cormon and Michel Carré. It was premiered on 30 September 1863 at the Théâtre Lyrique in Paris, and was given 18 performances in its initial run. Set in ancient times on the island of Ceylon, the opera tells the story of how two men's vow of eternal friendship is threatened by their love for the same woman, whose own dilemma is the conflict between secular love and her sacred oath as a priestess. The friendship duet \"<span><span style=\"font-style:normal\">Au fond du temple saint</span></span>\", generally known as \"The Pearl Fishers Duet\", is one of the best-known in Western opera.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1015390333\"><span class=\"sr-only\"><i>Orlando</i> discography, audio recordings</span>\n</caption>\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Orlando, Angelica, <br>Medoro, Dorinda<br>Zoroastro\n</th>\n<th>Conductor,<br>orchestra\n</th>\n<th>Label<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\">[21]</a></sup>\n</th></tr>\n<tr>\n<td>1990</td>\n<td><a href=\"/wiki/James_Bowman_(countertenor)\" title=\"James Bowman (countertenor)\">James Bowman</a>,<br><a href=\"/wiki/Arleen_Aug%C3%A9r\" class=\"mw-redirect\" title=\"Arleen Augér\">Arleen Augér</a>,<br><a href=\"/wiki/Catherine_Robbin\" title=\"Catherine Robbin\">Catherine Robbin</a>,<br><a href=\"/wiki/Emma_Kirkby\" title=\"Emma Kirkby\">Emma Kirkby</a>,<br><a href=\"/wiki/David_Thomas_(singer)\" class=\"mw-redirect\" title=\"David Thomas (singer)\">David Thomas</a>\n</td>\n\n<td>CD:L'Oiseau-Lyre,<br>Cat:430 845-2\n</td></tr>\n<tr>\n<td>1996</td>\n<td>Patricia Bardon,<br><a href=\"/wiki/Rosemary_Joshua\" title=\"Rosemary Joshua\">Rosemary Joshua</a>,<br><a href=\"/wiki/Hilary_Summers\" title=\"Hilary Summers\">Hilary Summers</a>,<br><a href=\"/wiki/Rosa_Mannion\" title=\"Rosa Mannion\">Rosa Mannion</a>,<br><a href=\"/wiki/Harry_van_der_Kamp\" title=\"Harry van der Kamp\">Harry van der Kamp</a>\n</td>\n\n<td>CD:Erato<br>Cat:0630-14636-2\n</td></tr>\n<tr>\n<td>2012</td>\n<td>Owen Willetts,<br><a href=\"/wiki/Karina_Gauvin\" title=\"Karina Gauvin\">Karina Gauvin</a>,<br>Allyson McHardy,<br><a href=\"/wiki/Amanda_Forsythe\" title=\"Amanda Forsythe\">Amanda Forsythe</a>,<br><a href=\"/wiki/Nathan_Berg\" title=\"Nathan Berg\">Nathan Berg</a>\n</td>\n\n<td>CD:Atma<br>Cat:ACD22678\n</td></tr>\n<tr>\n<td>2013</td>\n<td><a href=\"/wiki/Bejun_Mehta\" title=\"Bejun Mehta\">Bejun Mehta</a>,<br><a href=\"/wiki/Sophie_Karth%C3%A4user\" title=\"Sophie Karthäuser\">Sophie Karthäuser</a>,<br>Kristina Hammarström,<br><a href=\"/wiki/Sunhae_Im\" title=\"Sunhae Im\">Sunhae Im</a>,<br>Konstantin Wolff\n</td>\n\n<td>CD:DG Archiv<br>Cat:4792199\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1990,
+      "cast": [
+        "James Bowman",
+        "Arleen Augér",
+        "Catherine Robbin",
+        "Emma Kirkby",
+        "David Thomas"
+      ],
+      "conductor": "Christopher Hogwood"
+    },
+    {
+      "year": 1996,
+      "cast": [
+        "Patricia Bardon",
+        "Rosemary Joshua",
+        "Hilary Summers",
+        "Rosa Mannion",
+        "Harry van der Kamp"
+      ],
+      "conductor": "William Christie"
+    },
+    {
+      "year": 2012,
+      "cast": [
+        "Owen Willetts",
+        "Karina Gauvin",
+        "Allyson McHardy",
+        "Amanda Forsythe",
+        "Nathan Berg"
+      ],
+      "conductor": "Alexander Weimann"
+    },
+    {
+      "year": 2013,
+      "cast": [
+        "Bejun Mehta",
+        "Sophie Karthäuser",
+        "Kristina Hammarström",
+        "Sunhae Im",
+        "Konstantin Wolff"
+      ],
+      "conductor": "René Jacobs"
+    }
+  ]
+}

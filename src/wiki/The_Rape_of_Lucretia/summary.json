@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Rape of Lucretia",
+  "displaytitle": "<i>The Rape of Lucretia</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q240685",
+  "titles": {
+    "canonical": "The_Rape_of_Lucretia",
+    "normalized": "The Rape of Lucretia",
+    "display": "<i>The Rape of Lucretia</i>"
+  },
+  "pageid": 2021671,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083528711",
+  "tid": "dcc96ee0-1812-11ed-b0c3-db790472a503",
+  "timestamp": "2022-04-19T08:27:14Z",
+  "description": "1946 opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Rape_of_Lucretia",
+      "revisions": "https://en.wikipedia.org/wiki/The_Rape_of_Lucretia?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Rape_of_Lucretia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Rape_of_Lucretia"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Rape_of_Lucretia",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Rape_of_Lucretia",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Rape_of_Lucretia?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Rape_of_Lucretia"
+    }
+  },
+  "extract": "The Rape of Lucretia is an opera in two acts by Benjamin Britten, written for Kathleen Ferrier, who performed the title role. Ronald Duncan based his English libretto on André Obey's play Le Viol de Lucrèce.",
+  "extract_html": "<p><i><b>The Rape of Lucretia</b></i> is an opera in two acts by Benjamin Britten, written for Kathleen Ferrier, who performed the title role. Ronald Duncan based his English libretto on André Obey's play <i>Le Viol de Lucrèce</i>.</p>"
+}

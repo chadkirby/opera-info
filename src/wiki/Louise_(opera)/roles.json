@@ -1,0 +1,153 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup><br>2 February 1900<br>(Conductor: <a href=\"/wiki/Andr%C3%A9_Messager\" title=\"André Messager\">André Messager</a>)\n</th></tr>\n<tr>\n<td>Julien\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Louise\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mother\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Father\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>The noctambulist\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Irma\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Camille\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Gertrude\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Elise\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Gavroche\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Première\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Apprentie\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Chiffonière\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Blanche\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Suzanne\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Laitière\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Madeleine\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Balayeuse\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Plieuse\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Glaneuse\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Marguerite\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Chiffonnier\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Bricoleur\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>1st Philosophe\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>2nd Philosophe\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Chansonnier\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Sculpteur\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Étudiant\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Poète\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Peintre\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Bohème\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Chant’habits\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>1st Guard\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>2nd Guard\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Apprenti\n</td>\n<td>child soprano\n</td>\n</tr>\n<tr>\n<td>Danseuse\n</td>\n<td>–\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Workers and residents of Paris</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Julien",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Louise",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Father",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "The noctambulist",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Irma",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Camille",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gertrude",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Elise",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gavroche",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Première",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Apprentie",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chiffonière",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Blanche",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Suzanne",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Laitière",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Madeleine",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Balayeuse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Plieuse",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Glaneuse",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Marguerite",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chiffonnier",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Bricoleur",
+      "voiceType": "bass"
+    },
+    {
+      "role": "1st Philosophe",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "2nd Philosophe",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chansonnier",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sculpteur",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Étudiant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Poète",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Peintre",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Bohème",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chant’habits",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "1st Guard",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "2nd Guard",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Apprenti",
+      "voiceType": "child soprano"
+    },
+    {
+      "role": "Danseuse",
+      "voiceType": "–"
+    },
+    {
+      "role": "Workers and residents of Paris",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Tales of Hoffmann",
+  "displaytitle": "<i>The Tales of Hoffmann</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q335012",
+  "titles": {
+    "canonical": "The_Tales_of_Hoffmann",
+    "normalized": "The Tales of Hoffmann",
+    "display": "<i>The Tales of Hoffmann</i>"
+  },
+  "pageid": 377885,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Les_Contes_d%27Hoffmann.jpg/209px-Les_Contes_d%27Hoffmann.jpg",
+    "width": 209,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Les_Contes_d%27Hoffmann.jpg",
+    "width": 739,
+    "height": 1131
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099309803",
+  "tid": "d10d0ec0-15f8-11ed-a8e0-a7989b1e2edc",
+  "timestamp": "2022-07-20T02:48:16Z",
+  "description": "Opera by Jacques Offenbach",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann",
+      "revisions": "https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Tales_of_Hoffmann"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Tales_of_Hoffmann",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Tales_of_Hoffmann",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Tales_of_Hoffmann?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Tales_of_Hoffmann"
+    }
+  },
+  "extract": "The Tales of Hoffmann is an opéra fantastique by Jacques Offenbach. The French libretto was written by Jules Barbier, based on three short stories by E. T. A. Hoffmann, who is the protagonist of the story. It was Offenbach's final work; he died in October 1880, four months before the premiere.",
+  "extract_html": "<p><i><b>The Tales of Hoffmann</b></i> is an <span><i lang=\"fr\">opéra fantastique</i></span> by Jacques Offenbach. The French libretto was written by Jules Barbier, based on three short stories by E. T. A. Hoffmann, who is the protagonist of the story. It was Offenbach's final work; he died in October 1880, four months before the premiere.</p>"
+}

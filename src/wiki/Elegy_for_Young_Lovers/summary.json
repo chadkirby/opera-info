@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Elegy for Young Lovers",
+  "displaytitle": "<i>Elegy for Young Lovers</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3050642",
+  "titles": {
+    "canonical": "Elegy_for_Young_Lovers",
+    "normalized": "Elegy for Young Lovers",
+    "display": "<i>Elegy for Young Lovers</i>"
+  },
+  "pageid": 5034363,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg/229px-Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 572,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083875186",
+  "tid": "d1fc9ee0-15f8-11ed-89ba-111598f03013",
+  "timestamp": "2022-04-21T07:51:16Z",
+  "description": "Opera by Hans Werner Henze",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Elegy_for_Young_Lovers",
+      "revisions": "https://en.wikipedia.org/wiki/Elegy_for_Young_Lovers?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Elegy_for_Young_Lovers?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elegy_for_Young_Lovers"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Elegy_for_Young_Lovers",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Elegy_for_Young_Lovers",
+      "edit": "https://en.m.wikipedia.org/wiki/Elegy_for_Young_Lovers?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Elegy_for_Young_Lovers"
+    }
+  },
+  "extract": "Elegy for Young Lovers is an opera in three acts by Hans Werner Henze to an English libretto by W. H. Auden and Chester Kallman.",
+  "extract_html": "<p><i><b>Elegy for Young Lovers</b></i> is an opera in three acts by Hans Werner Henze to an English libretto by W. H. Auden and Chester Kallman.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lucrezia Borgia (opera)",
+  "displaytitle": "<i>Lucrezia Borgia</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q685501",
+  "titles": {
+    "canonical": "Lucrezia_Borgia_(opera)",
+    "normalized": "Lucrezia Borgia (opera)",
+    "display": "<i>Lucrezia Borgia</i> (opera)"
+  },
+  "pageid": 681590,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tietjens_as_Lucrezia_Borgia.jpg/223px-Tietjens_as_Lucrezia_Borgia.jpg",
+    "width": 223,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tietjens_as_Lucrezia_Borgia.jpg",
+    "width": 453,
+    "height": 649
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1066501409",
+  "tid": "7579c4b0-fe86-11ec-9444-b74cf9cd65aa",
+  "timestamp": "2022-01-18T17:28:11Z",
+  "description": "Opera by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lucrezia_Borgia_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Lucrezia_Borgia_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lucrezia_Borgia_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lucrezia_Borgia_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Lucrezia_Borgia_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lucrezia_Borgia_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Lucrezia_Borgia_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Lucrezia_Borgia_(opera)"
+    }
+  },
+  "extract": "Lucrezia Borgia is a melodramatic opera in a prologue and two acts by Gaetano Donizetti. Felice Romani wrote the Italian libretto after the play Lucrezia Borgia by Victor Hugo, in its turn after the legend of Lucrezia Borgia. Lucrezia Borgia was first performed on 26 December 1833 at La Scala, Milan.",
+  "extract_html": "<p><i><b>Lucrezia Borgia</b></i> is a melodramatic opera in a prologue and two acts by Gaetano Donizetti. Felice Romani wrote the Italian libretto after the play <i>Lucrezia Borgia</i> by Victor Hugo, in its turn after the legend of Lucrezia Borgia. <i>Lucrezia Borgia</i> was first performed on 26 December 1833 at La Scala, Milan.</p>"
+}

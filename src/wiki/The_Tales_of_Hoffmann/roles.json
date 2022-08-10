@@ -1,0 +1,105 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup>\n</th>\n<th>Premiere cast,<br>10 February 1881<br>(<a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Jules_Danb%C3%A9\" title=\"Jules Danbé\">Jules Danbé</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/E._T._A._Hoffmann\" title=\"E. T. A. Hoffmann\">Hoffmann</a>, <i>a poet</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Olympia, <i>a mechanical or an animatronical doll</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Antonia, <i>a young girl</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Giulietta, <i>a courtesan</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Stella, <i>a singer</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Lindorf\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Coppélius\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>Miracle\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>Dapertutto\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>Andrès\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Cochenille\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Frantz\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Pitichinaccio\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Crespel,<i> Antonia's father</i>\n</td>\n<td><a href=\"/wiki/Baritone_(voice_type)\" class=\"mw-redirect\" title=\"Baritone (voice type)\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Hermann, <i>a student</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Wolfram, <i>a student</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Wilhelm, <i>a student</i>\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>Luther\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Nathanaël, <i>a student</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Nicklausse\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>The muse\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Peter Schlémil, <i>in love with Giulietta</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Spalanzani, <i>an inventor</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Voice of Antonia's mother\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Students, Guests</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Hoffmann, a poet",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Olympia, a mechanical or an animatronical doll",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Antonia, a young girl",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Giulietta, a courtesan",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Stella, a singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Lindorf",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Coppélius",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Miracle",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Dapertutto",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Andrès",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Cochenille",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frantz",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pitichinaccio",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Crespel,Antonia's father",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Hermann, a student",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Wolfram, a student",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Wilhelm, a student",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Luther",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nathanaël, a student",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nicklausse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The muse",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Peter Schlémil, in love with Giulietta",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Spalanzani, an inventor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Voice of Antonia's mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Students, Guests",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dafne (Opitz-Schütz)",
+  "displaytitle": "<i>Dafne</i> (Opitz-Schütz)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5208351",
+  "titles": {
+    "canonical": "Dafne_(Opitz-Schütz)",
+    "normalized": "Dafne (Opitz-Schütz)",
+    "display": "<i>Dafne</i> (Opitz-Schütz)"
+  },
+  "pageid": 35269000,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Daphne_chased_by_Apollo.jpg/261px-Daphne_chased_by_Apollo.jpg",
+    "width": 261,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daphne_chased_by_Apollo.jpg",
+    "width": 1082,
+    "height": 1324
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1049840463",
+  "tid": "dfbc4040-fb4e-11ec-a7b4-dda0a715c279",
+  "timestamp": "2021-10-14T04:59:40Z",
+  "description": "Opera with libretto by Martin Opitz and lost music by Heinrich Schütz",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dafne_(Opitz-Sch%C3%BCtz)",
+      "revisions": "https://en.wikipedia.org/wiki/Dafne_(Opitz-Sch%C3%BCtz)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dafne_(Opitz-Sch%C3%BCtz)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dafne_(Opitz-Sch%C3%BCtz)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Dafne_(Opitz-Sch%C3%BCtz)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dafne_(Opitz-Sch%C3%BCtz)",
+      "edit": "https://en.m.wikipedia.org/wiki/Dafne_(Opitz-Sch%C3%BCtz)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Dafne_(Opitz-Sch%C3%BCtz)"
+    }
+  },
+  "extract": "Die Dafne (1627) is an opera. Its libretto was written by Martin Opitz and its music was composed by Heinrich Schütz. It has traditionally been regarded as the first German opera, though it has also been proposed more recently that it was in fact a spoken drama with inserted song and ballet numbers.",
+  "extract_html": "<p><i><b>Die Dafne</b></i> (1627) is an opera. Its libretto was written by Martin Opitz and its music was composed by Heinrich Schütz. It has traditionally been regarded as the first German opera, though it has also been proposed more recently that it was in fact a spoken drama with inserted song and ballet numbers.</p>"
+}

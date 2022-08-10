@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Káťa Kabanová",
+  "displaytitle": "<i>Káťa Kabanová</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1322339",
+  "titles": {
+    "canonical": "Káťa_Kabanová",
+    "normalized": "Káťa Kabanová",
+    "display": "<i>Káťa Kabanová</i>"
+  },
+  "pageid": 1212921,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Katia_Kabanova_premiere_poster.jpg/272px-Katia_Kabanova_premiere_poster.jpg",
+    "width": 272,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Katia_Kabanova_premiere_poster.jpg",
+    "width": 2304,
+    "height": 2707
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097220675",
+  "tid": "e53b6200-0f83-11ed-98d2-a982699db90a",
+  "timestamp": "2022-07-09T12:00:55Z",
+  "description": "Opera by Leoš Janáček",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1",
+      "revisions": "https://en.wikipedia.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1?action=history",
+      "edit": "https://en.wikipedia.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:K%C3%A1%C5%A5a_Kabanov%C3%A1"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/K%C3%A1%C5%A5a_Kabanov%C3%A1",
+      "edit": "https://en.m.wikipedia.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:K%C3%A1%C5%A5a_Kabanov%C3%A1"
+    }
+  },
+  "extract": "Káťa Kabanová is an opera in three acts, with music by Leoš Janáček to a libretto by the composer based on The Storm, a play by Alexander Ostrovsky, translated by Vincenc Červinka. The opera was also largely inspired by Janáček's love for Kamila Stösslová. Although he was 67 when it was premiered, Káťa Kabanová is a clear response to Janáček's feelings for Kamila, and the work is dedicated to her. The first performance was at the National Theatre Brno on 23 November 1921.",
+  "extract_html": "<p><i><b>Káťa Kabanová</b></i> is an opera in three acts, with music by Leoš Janáček to a libretto by the composer based on <i>The Storm</i>, a play by Alexander Ostrovsky, translated by Vincenc Červinka. The opera was also largely inspired by Janáček's love for Kamila Stösslová. Although he was 67 when it was premiered, <i>Káťa Kabanová</i> is a clear response to Janáček's feelings for Kamila, and the work is dedicated to her. The first performance was at the National Theatre Brno on 23 November 1921.</p>"
+}

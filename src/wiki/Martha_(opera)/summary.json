@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Martha (opera)",
+  "displaytitle": "<i>Martha</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q168488",
+  "titles": {
+    "canonical": "Martha_(opera)",
+    "normalized": "Martha (opera)",
+    "display": "<i>Martha</i> (opera)"
+  },
+  "pageid": 1924287,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flotow.jpg/224px-Flotow.jpg",
+    "width": 224,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flotow.jpg",
+    "width": 728,
+    "height": 1039
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091293461",
+  "tid": "d2002150-15f8-11ed-b7bf-f102c839e38b",
+  "timestamp": "2022-06-03T11:11:49Z",
+  "description": "Romantic comic opera by Friedrich von Flotow",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Martha_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Martha_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Martha_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Martha_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Martha_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Martha_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Martha_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Martha_(opera)"
+    }
+  },
+  "extract": "Martha, oder Der Markt zu Richmond is a romantic comic opera in four acts by Friedrich von Flotow set to a German libretto by Friedrich Wilhelm Riese and based on a story by Jules-Henri Vernoy de Saint-Georges.",
+  "extract_html": "<p><i><b>Martha, oder Der Markt zu Richmond</b></i> is a <i>romantic comic</i> opera in four acts by Friedrich von Flotow set to a German libretto by Friedrich Wilhelm Riese and based on a story by Jules-Henri Vernoy de Saint-Georges.</p>"
+}

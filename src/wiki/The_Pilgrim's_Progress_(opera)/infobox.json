@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">The Pilgrim's Progress</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Ralph_Vaughan_Williams\" title=\"Ralph Vaughan Williams\">Ralph Vaughan Williams</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Description</th><td class=\"infobox-data\">Morality</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Vaughan Williams</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">26&nbsp;April&nbsp;1951<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1951-04-26</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera House</a>, London</div></div></td></tr></tbody></table>",
+  "titles": [
+    "The Pilgrim's Progress"
+  ],
+  "Description": "Morality",
+  "Librettist": "Vaughan Williams",
+  "Language": "English",
+  "Premiere": "26 April 1951\nRoyal Opera House, London"
+}

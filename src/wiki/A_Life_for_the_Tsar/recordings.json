@@ -1,0 +1,75 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption>\n</caption>\n<tbody><tr>\n<th>Year\n</th>\n<th>Conductor w/chor./orch.\n</th>\n<th>Susanin\n</th>\n<th>Antonida\n</th>\n<th>Sobinin\n</th>\n<th>Vanya\n</th>\n<th>Notes\n</th></tr>\n<tr>\n<td>1947\n</td>\n<td><a href=\"/wiki/Alexander_Melik-Pashayev\" title=\"Alexander Melik-Pashayev\">Alexander Melik-Pashayev</a>, Bolshoi Theatre Chorus and Orchestra\n</td>\n\n<td><a href=\"/wiki/Natalia_Shpiller\" title=\"Natalia Shpiller\">Natalya Shpiller</a>\n</td>\n<td><a href=\"/wiki/Georgii_Nelepp\" title=\"Georgii Nelepp\">Georgi Nelepp</a>\n</td>\n<td>Elizaveta Antonova\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1950\n</td>\n<td><a href=\"/wiki/Vasily_Nebolsin\" class=\"mw-redirect\" title=\"Vasily Nebolsin\">Vasily Nebolsin</a>, Bolshoi Theatre Chorus and Orchestra\n</td>\n\n<td>Elizaveta Shumskaya\n</td>\n<td><a href=\"/wiki/Georgii_Nelepp\" title=\"Georgii Nelepp\">Georgi Nelepp</a>\n</td>\n<td>Irina Sokolova\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1954\n</td>\n<td>Alfredo Simonetto, RAI Milano Chorus and Orchestra\n</td>\n\n<td><a href=\"/wiki/Virginia_Zeani\" title=\"Virginia Zeani\">Virginia Zeani</a>\n</td>\n<td><a href=\"/wiki/Giuseppe_Campora\" title=\"Giuseppe Campora\">Giuseppe Campora</a>\n</td>\n<td>Anna Maria Rota\n</td>\n<td>Live in Italian\n</td></tr>\n<tr>\n<td>1955\n</td>\n<td><a href=\"/wiki/Oskar_Danon\" title=\"Oskar Danon\">Oskar Danon</a>, Yugoslav Army Chorus and Belgrade National Opera Orchestra\n</td>\n\n<td>Marija Glavačević\n</td>\n<td>Drago Starc\n</td>\n<td>Milica Miladinović\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1957\n</td>\n<td><a href=\"/wiki/Igor_Markevitch\" title=\"Igor Markevitch\">Igor Markevitch</a>, Belgrade Opera Chorus and Orchestre Lamoureux\n</td>\n\n<td><a href=\"/wiki/Teresa_Stich-Randall\" title=\"Teresa Stich-Randall\">Teresa Stich-Randall</a>\n</td>\n<td><a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>\n</td>\n<td>Melanija Bugarinović\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1957\n</td>\n<td><a href=\"/wiki/Boris_Khaikin\" title=\"Boris Khaikin\">Boris Khaikin</a>, Bolshoi Theatre Chorus and Orchestra\n</td>\n\n<td>Vera Firsova\n</td>\n<td>Nikolai Gres\n</td>\n<td>Valentina Klepatskaya\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1979\n</td>\n<td><a href=\"/wiki/Mark_Ermler\" title=\"Mark Ermler\">Mark Ermler</a>, USSR Bolshoi Theatre Chorus and Orchestra\n</td>\n\n<td>Bela Rudenko\n</td>\n<td>Vladimir Shcherbakov\n</td>\n<td><a href=\"/wiki/Tamara_Sinyavskaya\" title=\"Tamara Sinyavskaya\">Tamara Sinyavskaya</a>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1986\n</td>\n<td>Ivan Marinov, Sofia National Opera Chorus and Orchestra\n</td>\n\n<td>Elena Stoyanova\n</td>\n<td>Roumen Doikov\n</td>\n<td>Hristina Angelakova\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1989\n</td>\n<td><a href=\"/wiki/Emil_Tchakarov\" title=\"Emil Tchakarov\">Emil Tchakarov</a>, Sofia National Opera Chorus and Sofia Festival Orchestra\n</td>\n\n<td><a href=\"/wiki/Alexandrina_Pendatchanska\" title=\"Alexandrina Pendatchanska\">Alexandrina Pendatchanska</a>\n</td>\n<td><a href=\"/wiki/Chris_Merritt\" title=\"Chris Merritt\">Chris Merritt</a>\n</td>\n<td><a href=\"/wiki/Stefania_Toczyska\" title=\"Stefania Toczyska\">Stefania Toczyska</a>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1992\n</td>\n<td><a href=\"/wiki/Alexander_Lazarev\" title=\"Alexander Lazarev\">Alexander Lazarev</a>, Bolshoi Theatre Orchestra and Chorus\n</td>\n\n<td>Marina Mescheriakova\n</td>\n<td>Alexander Lomonosov\n</td>\n<td><a href=\"/wiki/Elena_Zaremba\" title=\"Elena Zaremba\">Elena Zaremba</a>\n</td>\n<td>Live DVD\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1947,
+      "cast": [
+        "Alexander Melik-Pashayev, Bolshoi Theatre Chorus and Orchestra"
+      ],
+      "conductor": "Maxim Mikhailov"
+    },
+    {
+      "year": 1950,
+      "cast": [
+        "Vasily Nebolsin, Bolshoi Theatre Chorus and Orchestra"
+      ],
+      "conductor": "Mark Reizen"
+    },
+    {
+      "year": 1954,
+      "cast": [
+        "Alfredo Simonetto, RAI Milano Chorus and Orchestra"
+      ],
+      "conductor": "Boris Christoff"
+    },
+    {
+      "year": 1955,
+      "cast": [
+        "Oskar Danon, Yugoslav Army Chorus and Belgrade National Opera Orchestra"
+      ],
+      "conductor": "Miroslav Čangalović"
+    },
+    {
+      "year": 1957,
+      "cast": [
+        "Igor Markevitch, Belgrade Opera Chorus and Orchestre Lamoureux"
+      ],
+      "conductor": "Boris Christoff"
+    },
+    {
+      "year": 1957,
+      "cast": [
+        "Boris Khaikin, Bolshoi Theatre Chorus and Orchestra"
+      ],
+      "conductor": "Ivan Petrov"
+    },
+    {
+      "year": 1979,
+      "cast": [
+        "Mark Ermler, USSR Bolshoi Theatre Chorus and Orchestra"
+      ],
+      "conductor": "Evgeny Nesterenko"
+    },
+    {
+      "year": 1986,
+      "cast": [
+        "Ivan Marinov, Sofia National Opera Chorus and Orchestra"
+      ],
+      "conductor": "Nicola Ghiuselev"
+    },
+    {
+      "year": 1989,
+      "cast": [
+        "Emil Tchakarov, Sofia National Opera Chorus and Sofia Festival Orchestra"
+      ],
+      "conductor": "Boris Martinovich"
+    },
+    {
+      "year": 1992,
+      "cast": [
+        "Alexander Lazarev, Bolshoi Theatre Orchestra and Chorus"
+      ],
+      "conductor": "Evgeny Nesterenko"
+    }
+  ]
+}

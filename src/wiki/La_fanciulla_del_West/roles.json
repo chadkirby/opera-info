@@ -1,0 +1,81 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 10 December 1910<br>Conductor: <a href=\"/wiki/Arturo_Toscanini\" title=\"Arturo Toscanini\">Arturo Toscanini</a>\n</th></tr>\n<tr>\n<td>Minnie\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Jack Rance, <i><a href=\"/wiki/Sheriff\" title=\"Sheriff\">sheriff</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Dick Johnson alias Ramerrez, <i><a href=\"/wiki/Banditry\" title=\"Banditry\">bandit</a></i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Nick, <i><a href=\"/wiki/Bartender\" title=\"Bartender\">bartender</a> at the Polka saloon</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Ashby, <i><a href=\"/wiki/Wells_Fargo\" title=\"Wells Fargo\">Wells Fargo</a> agent</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Sonora, <i><a href=\"/wiki/Miner\" title=\"Miner\">miner</a></i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Trin, <i>miner</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Sid, <i>miner</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Bello,<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[N 1]</a></sup> <i>miner</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Harry, <i>miner</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Joe, <i>miner</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Happy, <i>miner</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Jim Larkens, <i>miner</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Billy Jackrabbit, <i>a <a href=\"/wiki/Red_Indian\" class=\"mw-redirect\" title=\"Red Indian\">Red Indian</a></i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Wowkle, <i>his <a href=\"/wiki/Squaw\" title=\"Squaw\">squaw</a></i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Jake Wallace, <i>a traveling camp minstrel</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>José Castro, <i>a <a href=\"/wiki/Mestizo\" title=\"Mestizo\">mestizo</a> \"<a href=\"/wiki/Greaser_(derogatory)\" title=\"Greaser (derogatory)\">greaser</a>\", from Ramirez' band</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The <a href=\"/wiki/Pony_Express\" title=\"Pony Express\">Pony Express</a> rider\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Men of the camp and boys of the ridge</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Minnie",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jack Rance, sheriff",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Dick Johnson alias Ramerrez, bandit",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nick, bartender at the Polka saloon",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ashby, Wells Fargo agent",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sonora, miner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Trin, miner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sid, miner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Bello, miner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Harry, miner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Joe, miner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Happy, miner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Jim Larkens, miner",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Billy Jackrabbit, a Red Indian",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Wowkle, his squaw",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Jake Wallace, a traveling camp minstrel",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "José Castro, a mestizo \"greaser\", from Ramirez' band",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Pony Express rider",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Men of the camp and boys of the ridge",
+      "voiceType": ""
+    }
+  ]
+}

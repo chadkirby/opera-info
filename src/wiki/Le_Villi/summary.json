@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Le Villi",
+  "displaytitle": "<i>Le Villi</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q845606",
+  "titles": {
+    "canonical": "Le_Villi",
+    "normalized": "Le Villi",
+    "display": "<i>Le Villi</i>"
+  },
+  "pageid": 1940146,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Le_Villi.jpg/239px-Le_Villi.jpg",
+    "width": 239,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Villi.jpg",
+    "width": 498,
+    "height": 666
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102352630",
+  "tid": "427eefb0-1414-11ed-8b5d-1348f7b33528",
+  "timestamp": "2022-08-04T16:41:14Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Le_Villi",
+      "revisions": "https://en.wikipedia.org/wiki/Le_Villi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Le_Villi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Le_Villi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Le_Villi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Le_Villi",
+      "edit": "https://en.m.wikipedia.org/wiki/Le_Villi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Le_Villi"
+    }
+  },
+  "extract": "Le Villi is an opera–ballet in two acts composed by Giacomo Puccini to an Italian libretto by Ferdinando Fontana, based on the short story \"Les Willis\" by Jean-Baptiste Alphonse Karr. Karr's story was in turn based in the Central European legend of the Vila, also used in the ballet Giselle. The opera, in its original one-act version, was first performed at the Teatro Dal Verme, Milan, on 31 May 1884.",
+  "extract_html": "<p><i><b>Le Villi</b></i> is an opera–ballet in two acts composed by Giacomo Puccini to an Italian libretto by Ferdinando Fontana, based on the short story \"Les Willis\" by Jean-Baptiste Alphonse Karr. Karr's story was in turn based in the Central European legend of the Vila, also used in the ballet <i>Giselle</i>. The opera, in its original one-act version, was first performed at the Teatro Dal Verme, Milan, on 31 May 1884.</p>"
+}

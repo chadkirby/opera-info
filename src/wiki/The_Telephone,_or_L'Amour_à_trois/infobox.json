@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">The Telephone</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Comic_opera\" title=\"Comic opera\">Comic opera</a> by <a href=\"/wiki/Gian_Carlo_Menotti\" title=\"Gian Carlo Menotti\">Gian Carlo Menotti</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Gcmenotti.jpg\" class=\"image\"><img alt=\"Gcmenotti.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/180px-Gcmenotti.jpg\" decoding=\"async\" width=\"180\" height=\"269\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/270px-Gcmenotti.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fc/Gcmenotti.jpg 2x\" data-file-width=\"272\" data-file-height=\"406\"></a><div class=\"infobox-caption\">The composer in 1944</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Menotti</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">February&nbsp;18,&nbsp;1947<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1947-02-18</span>)</span><br><div style=\"display:inline;\" class=\"summary\">Heckscher Theater, New York City</div></div></td></tr></tbody></table>",
+  "titles": [
+    "The Telephone"
+  ],
+  "Librettist": "Menotti",
+  "Language": "English",
+  "Premiere": "February 18, 1947\nHeckscher Theater, New York City"
+}

@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, November 6, 1902<br>Conductor: <a href=\"/wiki/Cleofonte_Campanini\" title=\"Cleofonte Campanini\">Cleofonte Campanini</a>\n</th></tr>\n<tr>\n<td>Adriana Lecouvreur (<a href=\"/wiki/Adrienne_Lecouvreur\" title=\"Adrienne Lecouvreur\">Adrienne Lecouvreur</a>), <i>a famous actress</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Maurizio (<a href=\"/wiki/Maurice_de_Saxe\" title=\"Maurice de Saxe\">Maurice de Saxe</a>), <i>Count of Saxony</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Princess de Bouillon\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Prince de Bouillon\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The Abbé de Chazeuil\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Michonnet, <i>a stage manager</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Mlle Jouvenot\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mlle Dangeville\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Poisson\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Quinault\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Major-domo\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Adriana Lecouvreur (Adrienne Lecouvreur), a famous actress",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Maurizio (Maurice de Saxe), Count of Saxony",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Princess de Bouillon",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Prince de Bouillon",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Abbé de Chazeuil",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Michonnet, a stage manager",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mlle Jouvenot",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mlle Dangeville",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Poisson",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Quinault",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Major-domo",
+      "voiceType": "tenor"
+    }
+  ]
+}

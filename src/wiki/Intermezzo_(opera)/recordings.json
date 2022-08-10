@@ -1,0 +1,56 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Christine Storch,<br>Robert Storch,<br>Anna,<br>Baron Lummer\n</th>\n<th>Conductor,<br>opera house and orchestra\n</th>\n<th>Label<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup>\n</th></tr>\n<tr>\n<td>1954</td>\n<td><a href=\"/wiki/Hilde_Zadek\" title=\"Hilde Zadek\">Hilde Zadek</a>,<br><a href=\"/wiki/Alfred_Poell\" title=\"Alfred Poell\">Alfred Poell</a>,<br><a href=\"/wiki/Anny_Felbermayer\" title=\"Anny Felbermayer\">Anny Felbermayer</a>,<br><a href=\"/wiki/Rudolf_Christ\" title=\"Rudolf Christ\">Rudolf Christ</a></td>\n\n<td>Omega Opera Archive 538\n</td></tr>\n<tr>\n<td>1963</td>\n<td><a href=\"/w/index.php?title=Hanny_Steffek&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Hanny Steffek (page does not exist)\">Hanny Steffek</a>,<br><a href=\"/wiki/Hermann_Prey\" title=\"Hermann Prey\">Hermann Prey</a>,<br>Gertrud Freedman,<br><a href=\"/wiki/Ferry_Gruber\" title=\"Ferry Gruber\">Ferry Gruber</a></td>\n\n<td>VHS Video Cassette: Lyric Distribution (Legato)<br>Cat: 1818;<br>DVD: Legato Classics<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup>\n</td></tr>\n<tr>\n<td>1980</td>\n<td><a href=\"/wiki/Lucia_Popp\" title=\"Lucia Popp\">Lucia Popp</a>,<br><a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a>,<br>Gabriele Fuchs,<br><a href=\"/wiki/Adolf_Dallapozza\" title=\"Adolf Dallapozza\">Adolf Dallapozza</a></td>\n\n<td>CD: <a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a><br>Cat: 7 49337-2\n</td></tr>\n<tr>\n<td>1983</td>\n<td><a href=\"/wiki/Felicity_Lott\" title=\"Felicity Lott\">Felicity Lott</a>,<br><a href=\"/wiki/John_Pringle_(baritone)\" title=\"John Pringle (baritone)\">John Pringle</a>,<br>Elizabeth Gale,<br>Ian Caley</td>\n\n<td>VHS / DVD?: Kultur]<br>Cat: CVI 2024\n</td></tr>\n<tr>\n<td>2014</td>\n<td><a href=\"/wiki/Simone_Schneider\" title=\"Simone Schneider\">Simone Schneider</a>,<br><a href=\"/w/index.php?title=Markus_Eiche&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Markus Eiche (page does not exist)\">Markus Eiche</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://de.wikipedia.org/wiki/Markus_Eiche\" class=\"extiw\" title=\"de:Markus Eiche\">de</a>]</span>,<br>Martina Welschenbach,<br>Martin Homrich,<br><a href=\"/wiki/Brigitte_Fassbaender\" title=\"Brigitte Fassbaender\">Brigitte Fassbaender</a> (speaking roles)</td>\n\n<td>CD: <a href=\"/wiki/Classic_Produktion_Osnabr%C3%BCck\" title=\"Classic Produktion Osnabrück\">Classic Produktion Osnabrück</a>,<br>Cat: 7779012<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1954,
+      "cast": [
+        "Hilde Zadek",
+        "Alfred Poell",
+        "Anny Felbermayer",
+        "Rudolf Christ"
+      ],
+      "conductor": "Rudolf Moralt"
+    },
+    {
+      "year": 1963,
+      "cast": [
+        "Hanny Steffek",
+        "Hermann Prey",
+        "Gertrud Freedman",
+        "Ferry Gruber"
+      ],
+      "conductor": "Joseph Keilberth"
+    },
+    {
+      "year": 1980,
+      "cast": [
+        "Lucia Popp",
+        "Dietrich Fischer-Dieskau",
+        "Gabriele Fuchs",
+        "Adolf Dallapozza"
+      ],
+      "conductor": "Wolfgang Sawallisch"
+    },
+    {
+      "year": 1983,
+      "cast": [
+        "Felicity Lott",
+        "John Pringle",
+        "Elizabeth Gale",
+        "Ian Caley"
+      ],
+      "conductor": "Gustav Kuhn"
+    },
+    {
+      "year": 2014,
+      "cast": [
+        "Simone Schneider",
+        "Markus Eiche[de]",
+        "Martina Welschenbach",
+        "Martin Homrich",
+        "Brigitte Fassbaender (speaking roles)"
+      ],
+      "conductor": "Ulf Schirmer"
+    }
+  ]
+}

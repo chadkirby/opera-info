@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast<br>St Petersburg<br>20 February 1907<br>(Conductor: <a href=\"/wiki/Felix_Blumenfeld\" title=\"Felix Blumenfeld\">Feliks Blumenfeld</a>)\n</th>\n<th>Premiere cast<br>Moscow<br>15 February 1908<br>(Conductor: <a href=\"/wiki/Vyacheslav_Suk\" class=\"mw-redirect\" title=\"Vyacheslav Suk\">Vyacheslav Suk</a>)\n</th></tr>\n<tr>\n<td>Prince <a href=\"/wiki/Yuri_II_of_Vladimir\" title=\"Yuri II of Vladimir\">Yuriy Vsevolodovich</a>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Prince Vsevolod Yuryevich\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Saints_Peter_and_Fevronia_of_Murom\" class=\"mw-redirect\" title=\"Saints Peter and Fevronia of Murom\">Fevroniya</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Grishka Kuterma\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Fyodor Poyarok\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Page\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Gusli\" title=\"Gusli\">Gusli</a> player\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Bear handler\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Lead-singer\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Bedyay, <i>a mighty <a href=\"/wiki/Tatar\" class=\"mw-redirect\" title=\"Tatar\">Tatar</a> warrior</i> (might have <a href=\"/wiki/Subutai\" title=\"Subutai\">Subutai</a> as a prototype<sup id=\"cite_ref-Pochekayev_9-0\" class=\"reference\"><a href=\"#cite_note-Pochekayev-9\">[8]</a></sup> )\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Burunday, <i>a mighty Tatar warrior</i> (might have <a href=\"/wiki/Boroldai\" title=\"Boroldai\">Boroldai</a> as a prototype<sup id=\"cite_ref-Pochekayev_9-1\" class=\"reference\"><a href=\"#cite_note-Pochekayev-9\">[8]</a></sup>)\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Sirin\" title=\"Sirin\">Sirin</a>, <i>bird of paradise</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Alkonost\" title=\"Alkonost\">Alkonost</a>, <i>bird of paradise</i>\n</td>\n<td>contralto\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Chorus, Silent roles: <i>Well-off people, beggar community, people, Tatars</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Prince Yuriy Vsevolodovich",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Prince Vsevolod Yuryevich",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fevroniya",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Grishka Kuterma",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fyodor Poyarok",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Page",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Gusli player",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Bear handler",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lead-singer",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Bedyay, a mighty Tatar warrior (might have Subutai as a prototype )",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Burunday, a mighty Tatar warrior (might have Boroldai as a prototype)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sirin, bird of paradise",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Alkonost, bird of paradise",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Chorus, Silent roles: Well-off people, beggar community, people, Tatars",
+      "voiceType": ""
+    }
+  ]
+}

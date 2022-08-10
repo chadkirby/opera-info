@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Béla Bartók",
+  "displaytitle": "Béla Bartók",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q83326",
+  "titles": {
+    "canonical": "Béla_Bartók",
+    "normalized": "Béla Bartók",
+    "display": "Béla Bartók"
+  },
+  "pageid": 4527,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg/320px-Bart%C3%B3k_B%C3%A9la_1927.jpg",
+    "width": 320,
+    "height": 295
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg",
+    "width": 411,
+    "height": 379
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101371437",
+  "tid": "d63839b0-178d-11ed-8ed7-bb15eb5d1dc2",
+  "timestamp": "2022-07-30T17:37:31Z",
+  "description": "Hungarian composer (1881–1945)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k",
+      "revisions": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k?action=history",
+      "edit": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:B%C3%A9la_Bart%C3%B3k"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/B%C3%A9la_Bart%C3%B3k",
+      "edit": "https://en.m.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:B%C3%A9la_Bart%C3%B3k"
+    }
+  },
+  "extract": "Béla Viktor János Bartók was a Hungarian composer, pianist, and ethnomusicologist. He is considered one of the most important composers of the 20th century; he and Franz Liszt are regarded as Hungary's greatest composers. Through his collection and analytical study of folk music, he was one of the founders of comparative musicology, which later became ethnomusicology.",
+  "extract_html": "<p><b>Béla Viktor János Bartók</b> was a Hungarian composer, pianist, and ethnomusicologist. He is considered one of the most important composers of the 20th century; he and Franz Liszt are regarded as Hungary's greatest composers. Through his collection and analytical study of folk music, he was one of the founders of comparative musicology, which later became ethnomusicology.</p>"
+}

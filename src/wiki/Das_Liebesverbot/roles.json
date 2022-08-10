@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 29 March 1836<br>Conductor: <a href=\"/wiki/Richard_Wagner\" title=\"Richard Wagner\">Richard Wagner</a><sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup>\n</th></tr>\n<tr>\n<td>Friedrich, <i>governor of Sicily</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Luzio, <i>a young nobleman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Claudio, <i>a young nobleman</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Antonio, <i>their friend</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Angelo, <i>their friend</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Isabella, <i>Claudio's sister</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mariana, <i>novice in a monastery</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Brighella, <i>captain of the watch</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Danieli, <i>an innkeeper</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Dorella\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Ponzio Pilato, <i>Danieli's servant</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Nuns, judges, guards, townspeople, musicians</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Friedrich, governor of Sicily",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Luzio, a young nobleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Claudio, a young nobleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Antonio, their friend",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Angelo, their friend",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Isabella, Claudio's sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mariana, novice in a monastery",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Brighella, captain of the watch",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Danieli, an innkeeper",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Dorella",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ponzio Pilato, Danieli's servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nuns, judges, guards, townspeople, musicians",
+      "voiceType": ""
+    }
+  ]
+}

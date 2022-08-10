@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "Il prigioniero",
+  "displaytitle": "<i>Il prigioniero</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q670898",
+  "titles": {
+    "canonical": "Il_prigioniero",
+    "normalized": "Il prigioniero",
+    "display": "<i>Il prigioniero</i>"
+  },
+  "pageid": 8969152,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1047565744",
+  "tid": "84b625d0-1683-11ed-bb7f-99e20380b625",
+  "timestamp": "2021-10-01T13:00:00Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_prigioniero",
+      "revisions": "https://en.wikipedia.org/wiki/Il_prigioniero?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_prigioniero?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_prigioniero"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_prigioniero",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_prigioniero",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_prigioniero?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_prigioniero"
+    }
+  },
+  "extract": "Il prigioniero is an opera in a prologue and one act, with music and libretto by Luigi Dallapiccola. The opera was first broadcast by the Italian radio station RAI on 1 December 1949. The work is based on the short story La torture par l'espérance from the collection Nouveaux contes cruels by the French writer Auguste Villiers de l'Isle-Adam and from La Légende d'Ulenspiegel et de Lamme Goedzak by Charles De Coster. Some of the musical material is based on Dallapiccola's earlier choral work on a similar theme, Canti di prigionia (1938). Dallapiccola composed Il prigioniero in the period of 1944–1948. The work contains seven parts and lasts about 50 minutes. The musical idiom is serialism, and it is one of the first completed operas using that compositional method.",
+  "extract_html": "<p><i><b>Il prigioniero</b></i> is an opera in a prologue and one act, with music and libretto by Luigi Dallapiccola. The opera was first broadcast by the Italian radio station RAI on 1 December 1949. The work is based on the short story <i>La torture par l'espérance</i> from the collection <i>Nouveaux contes cruels</i> by the French writer Auguste Villiers de l'Isle-Adam and from <i>La Légende d'Ulenspiegel et de Lamme Goedzak</i> by Charles De Coster. Some of the musical material is based on Dallapiccola's earlier choral work on a similar theme, <i>Canti di prigionia</i> (1938). Dallapiccola composed <i>Il prigioniero</i> in the period of 1944–1948. The work contains seven parts and lasts about 50 minutes. The musical idiom is serialism, and it is one of the first completed operas using that compositional method.</p>"
+}

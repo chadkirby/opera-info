@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "L'Africaine",
+  "displaytitle": "<i>L'Africaine</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q784719",
+  "titles": {
+    "canonical": "L'Africaine",
+    "normalized": "L'Africaine",
+    "display": "<i>L'Africaine</i>"
+  },
+  "pageid": 4065930,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/L%27Africaine%2C_opera_by_Meyerbeer%2C_cover_of_the_piano-vocal_score_%E2%80%93_IMSLP.jpg/204px-L%27Africaine%2C_opera_by_Meyerbeer%2C_cover_of_the_piano-vocal_score_%E2%80%93_IMSLP.jpg",
+    "width": 204,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/L%27Africaine%2C_opera_by_Meyerbeer%2C_cover_of_the_piano-vocal_score_%E2%80%93_IMSLP.jpg",
+    "width": 937,
+    "height": 1472
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1057327736",
+  "tid": "5abcd660-f9d8-11ec-9bbb-5d4472e2a865",
+  "timestamp": "2021-11-26T23:23:16Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'Africaine",
+      "revisions": "https://en.wikipedia.org/wiki/L'Africaine?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'Africaine?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'Africaine"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'Africaine",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'Africaine",
+      "edit": "https://en.m.wikipedia.org/wiki/L'Africaine?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'Africaine"
+    }
+  },
+  "extract": "L'Africaine is an 1865 French grand opéra in five acts with music by Giacomo Meyerbeer and a libretto by Eugène Scribe. Meyerbeer and Scribe began working on the opera in 1837, using the title L'Africaine, but around 1852 changed the plot to portray fictitious events in the life of the Portuguese explorer Vasco da Gama and introduced the working title Vasco de Gama, the French version of his name. The copying of the full score was completed the day before Meyerbeer died in 1864.",
+  "extract_html": "<p><i><b>L'Africaine</b></i> is an 1865 French <i>grand opéra</i> in five acts with music by Giacomo Meyerbeer and a libretto by Eugène Scribe. Meyerbeer and Scribe began working on the opera in 1837, using the title <i>L'Africaine</i>, but around 1852 changed the plot to portray fictitious events in the life of the Portuguese explorer Vasco da Gama and introduced the working title <i><b>Vasco de Gama</b></i>, the French version of his name. The copying of the full score was completed the day before Meyerbeer died in 1864.</p>"
+}

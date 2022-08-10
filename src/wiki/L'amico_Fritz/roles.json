@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 31 October 1891<br>(Conductor: <a href=\"/wiki/Rodolfo_Ferrari\" title=\"Rodolfo Ferrari\">Rodolfo Ferrari</a>)\n</th></tr>\n<tr>\n<td>Fritz Kobus, <i>a wealthy landowner</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Suzel, <i>daughter of a tenant of Fritz</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Beppe, <i>Fritz's friend, a gypsy</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Federico, <i>a friend to Fritz</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Hanezò, <i>a friend to Fritz</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>David, <i>a rabbi</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Caterina, <i>a servant</i>\n</td>\n<td>soprano\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Fritz Kobus, a wealthy landowner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Suzel, daughter of a tenant of Fritz",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Beppe, Fritz's friend, a gypsy",
+      "voiceType": "mezzo-soprano (en travesti)"
+    },
+    {
+      "role": "Federico, a friend to Fritz",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Hanezò, a friend to Fritz",
+      "voiceType": "bass"
+    },
+    {
+      "role": "David, a rabbi",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Caterina, a servant",
+      "voiceType": "soprano"
+    }
+  ]
+}

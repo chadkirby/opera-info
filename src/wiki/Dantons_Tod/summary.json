@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Dantons Tod (opera)",
+  "displaytitle": "<i>Dantons Tod</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1165067",
+  "titles": {
+    "canonical": "Dantons_Tod_(opera)",
+    "normalized": "Dantons Tod (opera)",
+    "display": "<i>Dantons Tod</i> (opera)"
+  },
+  "pageid": 1531275,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_Bild_183-R72176%2C_Staatsoper_Hamburg%2C_%22Dantons_Tod%22.jpg/320px-Bundesarchiv_Bild_183-R72176%2C_Staatsoper_Hamburg%2C_%22Dantons_Tod%22.jpg",
+    "width": 320,
+    "height": 218
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bundesarchiv_Bild_183-R72176%2C_Staatsoper_Hamburg%2C_%22Dantons_Tod%22.jpg",
+    "width": 800,
+    "height": 546
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096668281",
+  "tid": "d18d8960-15f8-11ed-851f-83486b72212d",
+  "timestamp": "2022-07-05T23:02:48Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dantons_Tod_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Dantons_Tod_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dantons_Tod_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dantons_Tod_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Dantons_Tod_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dantons_Tod_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Dantons_Tod_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Dantons_Tod_(opera)"
+    }
+  },
+  "extract": "Dantons Tod is an opera by Gottfried von Einem to a libretto by Boris Blacher and Gottfried von Einem after Georg Büchner's 1835 play of the same name. Its first performance took place in Salzburg on 6 August 1947. It was revised in 1955.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Dantons Tod</i></span></b></i> is an opera by Gottfried von Einem to a libretto by Boris Blacher and Gottfried von Einem after Georg Büchner's 1835 play of the same name. Its first performance took place in Salzburg on 6 August 1947. It was revised in 1955.</p>"
+}

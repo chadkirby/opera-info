@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La finta giardiniera",
+  "displaytitle": "<i>La finta giardiniera</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q785991",
+  "titles": {
+    "canonical": "La_finta_giardiniera",
+    "normalized": "La finta giardiniera",
+    "display": "<i>La finta giardiniera</i>"
+  },
+  "pageid": 7064792,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Martini_bologna_mozart_1777.jpg/272px-Martini_bologna_mozart_1777.jpg",
+    "width": 272,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martini_bologna_mozart_1777.jpg",
+    "width": 510,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083109762",
+  "tid": "d0ce09f0-15f8-11ed-a67d-3ba54a2748f9",
+  "timestamp": "2022-04-17T02:48:14Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_finta_giardiniera",
+      "revisions": "https://en.wikipedia.org/wiki/La_finta_giardiniera?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_finta_giardiniera?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_finta_giardiniera"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_finta_giardiniera",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_finta_giardiniera",
+      "edit": "https://en.m.wikipedia.org/wiki/La_finta_giardiniera?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_finta_giardiniera"
+    }
+  },
+  "extract": "La finta giardiniera, K. 196, is an Italian-language opera by Wolfgang Amadeus Mozart. Mozart wrote it in Munich in January 1775 when he was 18 years old and it received its first performance on 13 January at the Salvatortheater in Munich. There is debate over the authorship of the libretto, written for Anfossi's opera the year before. It is often ascribed to Calzabigi, but some musicologists now attribute it to Giuseppe Petrosellini, though again it is questioned whether it is in the latter's style.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">La finta giardiniera</i></span></b></i>, K. 196, is an Italian-language opera by Wolfgang Amadeus Mozart. Mozart wrote it in Munich in January 1775 when he was 18 years old and it received its first performance on 13 January at the Salvatortheater in Munich. There is debate over the authorship of the libretto, written for Anfossi's opera the year before. It is often ascribed to Calzabigi, but some musicologists now attribute it to Giuseppe Petrosellini, though again it is questioned whether it is in the latter's style.</p>"
+}

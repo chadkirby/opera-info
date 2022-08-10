@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Faust (opera)",
+  "displaytitle": "<i>Faust</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q745951",
+  "titles": {
+    "canonical": "Faust_(opera)",
+    "normalized": "Faust (opera)",
+    "display": "<i>Faust</i> (opera)"
+  },
+  "pageid": 605135,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Faust_by_Gounod_Act3_1859_engraving_by_Lamy_NGO2p134.jpg/320px-Faust_by_Gounod_Act3_1859_engraving_by_Lamy_NGO2p134.jpg",
+    "width": 320,
+    "height": 239
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Faust_by_Gounod_Act3_1859_engraving_by_Lamy_NGO2p134.jpg",
+    "width": 1364,
+    "height": 1020
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1061740358",
+  "tid": "6786aac0-1881-11ed-bfe5-41113895336b",
+  "timestamp": "2021-12-23T17:01:59Z",
+  "description": "Grand opera in five acts by Charles Gounod",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Faust_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Faust_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Faust_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Faust_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Faust_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Faust_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Faust_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Faust_(opera)"
+    }
+  },
+  "extract": "Faust is an opera in five acts by Charles Gounod to a French libretto by Jules Barbier and Michel Carré from Carré's play Faust et Marguerite, in turn loosely based on Johann Wolfgang von Goethe's Faust, Part One. It debuted at the Théâtre Lyrique on the Boulevard du Temple in Paris on 19 March 1859, with influential sets designed by Charles-Antoine Cambon and Joseph Thierry, Jean Émile Daran, Édouard Desplechin, and Philippe Chaperon.",
+  "extract_html": "<p><i><b>Faust</b></i> is an opera in five acts by Charles Gounod to a French libretto by Jules Barbier and Michel Carré from Carré's play <i>Faust et Marguerite</i>, in turn loosely based on Johann Wolfgang von Goethe's <i>Faust, Part One</i>. It debuted at the Théâtre Lyrique on the Boulevard du Temple in Paris on 19 March 1859, with influential sets designed by Charles-Antoine Cambon and Joseph Thierry, Jean Émile Daran, Édouard Desplechin, and Philippe Chaperon.</p>"
+}

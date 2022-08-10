@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Macbeth (opera)",
+  "displaytitle": "<i>Macbeth</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q320363",
+  "titles": {
+    "canonical": "Macbeth_(opera)",
+    "normalized": "Macbeth (opera)",
+    "display": "<i>Macbeth</i> (opera)"
+  },
+  "pageid": 1752522,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fr%C3%A9d%C3%A9ric_Lix_-_Auguste_Trichon_-_Giuseppe_Verdi%27s_Macbeth_%281865_revision%29_-_Original.jpg/320px-Fr%C3%A9d%C3%A9ric_Lix_-_Auguste_Trichon_-_Giuseppe_Verdi%27s_Macbeth_%281865_revision%29_-_Original.jpg",
+    "width": 320,
+    "height": 259
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fr%C3%A9d%C3%A9ric_Lix_-_Auguste_Trichon_-_Giuseppe_Verdi%27s_Macbeth_%281865_revision%29_-_Original.jpg",
+    "width": 3996,
+    "height": 3229
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101189152",
+  "tid": "d10df920-15f8-11ed-a668-49d95c49b6c6",
+  "timestamp": "2022-07-29T19:13:02Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Macbeth_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Macbeth_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Macbeth_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Macbeth_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Macbeth_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Macbeth_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Macbeth_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Macbeth_(opera)"
+    }
+  },
+  "extract": "Macbeth is an opera in four acts by Giuseppe Verdi, with an Italian libretto by Francesco Maria Piave and additions by Andrea Maffei, based on William Shakespeare's play of the same name. \nWritten for the Teatro della Pergola in Florence, it was Verdi's tenth opera and premiered on 14 March 1847. Macbeth was the first Shakespeare play that Verdi adapted for the operatic stage.\nAlmost twenty years later, Macbeth was revised and expanded in a French version and given in Paris on 19 April 1865.",
+  "extract_html": "<p><i><b>Macbeth</b></i> is an opera in four acts by Giuseppe Verdi, with an Italian libretto by Francesco Maria Piave and additions by Andrea Maffei, based on William Shakespeare's play of the same name. \nWritten for the Teatro della Pergola in Florence, it was Verdi's tenth opera and premiered on 14 March 1847. <i>Macbeth</i> was the first Shakespeare play that Verdi adapted for the operatic stage.\nAlmost twenty years later, <i>Macbeth</i> was revised and expanded in a French version and given in Paris on 19 April 1865.</p>"
+}

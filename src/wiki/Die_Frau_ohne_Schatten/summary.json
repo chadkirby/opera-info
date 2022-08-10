@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Die Frau ohne Schatten",
+  "displaytitle": "<i>Die Frau ohne Schatten</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1143019",
+  "titles": {
+    "canonical": "Die_Frau_ohne_Schatten",
+    "normalized": "Die Frau ohne Schatten",
+    "display": "<i>Die Frau ohne Schatten</i>"
+  },
+  "pageid": 2209822,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Amme_van_Alfred_Rollerkopie.jpg/166px-Amme_van_Alfred_Rollerkopie.jpg",
+    "width": 166,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Amme_van_Alfred_Rollerkopie.jpg",
+    "width": 597,
+    "height": 1147
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096641049",
+  "tid": "d0ef4d90-15f8-11ed-bba5-dde14436fe43",
+  "timestamp": "2022-07-05T19:38:19Z",
+  "description": "Opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_Frau_ohne_Schatten",
+      "revisions": "https://en.wikipedia.org/wiki/Die_Frau_ohne_Schatten?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_Frau_ohne_Schatten?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_Frau_ohne_Schatten"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_Frau_ohne_Schatten",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_Frau_ohne_Schatten",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_Frau_ohne_Schatten?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_Frau_ohne_Schatten"
+    }
+  },
+  "extract": "Die Frau ohne Schatten, Op. 65, is an opera in three acts by Richard Strauss with a libretto by his long-time collaborator, the poet Hugo von Hofmannsthal. It was written between 1911 and either 1915 or 1917. When it premiered at the Vienna State Opera on 10 October 1919, critics and audiences were unenthusiastic. Many cited problems with Hofmannsthal's complicated and heavily symbolic libretto. However, it is now a standard part of the operatic repertoire.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Die Frau ohne Schatten</i></span></b></i>, Op. 65, is an opera in three acts by Richard Strauss with a libretto by his long-time collaborator, the poet Hugo von Hofmannsthal. It was written between 1911 and either 1915 or 1917. When it premiered at the Vienna State Opera on 10 October 1919, critics and audiences were unenthusiastic. Many cited problems with Hofmannsthal's complicated and heavily symbolic libretto. However, it is now a standard part of the operatic repertoire.</p>"
+}

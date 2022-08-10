@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 6 March 1831<br>Conductor: Nicola Zamboni Petrini<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup>\n</th></tr>\n<tr>\n<td>Count Rodolfo\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Amina\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Elvino\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Lisa\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Teresa\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Alessio\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Notary\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Villagers – Chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Count Rodolfo",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Amina",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Elvino",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lisa",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Teresa",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Alessio",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Notary",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Villagers – Chorus",
+      "voiceType": ""
+    }
+  ]
+}

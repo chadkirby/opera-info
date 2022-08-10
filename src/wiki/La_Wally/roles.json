@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 20 January 1892<br>(Conductor: <a href=\"/wiki/Edoardo_Mascheroni\" title=\"Edoardo Mascheroni\">Edoardo Mascheroni</a>)\n</th></tr>\n<tr>\n<td>Wally\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Stromminger\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Afra\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Walter\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Giuseppe Hagenbach\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Vincenzo Gellner\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: Tyroleans, shepherds, peasants, hunters, old women, village children.\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Wally",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Stromminger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Afra",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Walter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Giuseppe Hagenbach",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Vincenzo Gellner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chorus: Tyroleans, shepherds, peasants, hunters, old women, village children.",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Paul Hindemith",
+  "displaytitle": "Paul Hindemith",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q57244",
+  "titles": {
+    "canonical": "Paul_Hindemith",
+    "normalized": "Paul Hindemith",
+    "display": "Paul Hindemith"
+  },
+  "pageid": 81469,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paul_Hindemith_1923.jpg/265px-Paul_Hindemith_1923.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Paul_Hindemith_1923.jpg",
+    "width": 436,
+    "height": 527
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096585174",
+  "tid": "77a3e200-119d-11ed-ac5e-6b5f317370db",
+  "timestamp": "2022-07-05T11:46:46Z",
+  "description": "German composer (1895–1963)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Paul_Hindemith",
+      "revisions": "https://en.wikipedia.org/wiki/Paul_Hindemith?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Paul_Hindemith?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Hindemith"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Paul_Hindemith",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Paul_Hindemith",
+      "edit": "https://en.m.wikipedia.org/wiki/Paul_Hindemith?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Paul_Hindemith"
+    }
+  },
+  "extract": "Paul Hindemith was a German composer, music theorist, teacher, violist and conductor. He founded the Amar Quartet in 1921, touring extensively in Europe. As a composer, he became a major advocate of the Neue Sachlichkeit style of music in the 1920s, with compositions such as Kammermusik, including works with viola and viola d'amore as solo instruments in a neo-Bachian spirit. Other notable compositions include his song cycle Das Marienleben (1923), Der Schwanendreher for viola and orchestra (1935), the opera Mathis der Maler (1938), the Symphonic Metamorphosis of Themes by Carl Maria von Weber (1943), and the oratorio When Lilacs Last in the Dooryard Bloom'd, a requiem based on Walt Whitman's poem (1946).",
+  "extract_html": "<p><b>Paul Hindemith</b> was a German composer, music theorist, teacher, violist and conductor. He founded the Amar Quartet in 1921, touring extensively in Europe. As a composer, he became a major advocate of the <i>Neue Sachlichkeit</i> style of music in the 1920s, with compositions such as <i>Kammermusik</i>, including works with viola and viola d'amore as solo instruments in a neo-Bachian spirit. Other notable compositions include his song cycle <i>Das Marienleben</i> (1923), <i>Der Schwanendreher</i> for viola and orchestra (1935), the opera <i>Mathis der Maler</i> (1938), the <i>Symphonic Metamorphosis of Themes by Carl Maria von Weber</i> (1943), and the oratorio <i>When Lilacs Last in the Dooryard Bloom'd</i>, a requiem based on Walt Whitman's poem (1946).</p>"
+}

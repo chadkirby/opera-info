@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Engelbert Humperdinck (composer)",
+  "displaytitle": "Engelbert Humperdinck (composer)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q55010",
+  "titles": {
+    "canonical": "Engelbert_Humperdinck_(composer)",
+    "normalized": "Engelbert Humperdinck (composer)",
+    "display": "Engelbert Humperdinck (composer)"
+  },
+  "pageid": 25174930,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Humperdinck_Postcard-1910.jpg/215px-Humperdinck_Postcard-1910.jpg",
+    "width": 215,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Humperdinck_Postcard-1910.jpg",
+    "width": 558,
+    "height": 831
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101959403",
+  "tid": "a17c1900-142a-11ed-8d71-11d0cdb9e287",
+  "timestamp": "2022-08-02T17:34:28Z",
+  "description": "German composer (1854–1921)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Engelbert_Humperdinck_(composer)",
+      "revisions": "https://en.wikipedia.org/wiki/Engelbert_Humperdinck_(composer)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Engelbert_Humperdinck_(composer)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Engelbert_Humperdinck_(composer)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Engelbert_Humperdinck_(composer)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Engelbert_Humperdinck_(composer)",
+      "edit": "https://en.m.wikipedia.org/wiki/Engelbert_Humperdinck_(composer)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Engelbert_Humperdinck_(composer)"
+    }
+  },
+  "extract": "Engelbert Humperdinck was a German composer. He is known widely for his opera Hansel and Gretel (1893).",
+  "extract_html": "<p><b>Engelbert Humperdinck</b> was a German composer. He is known widely for his opera <i>Hansel and Gretel</i> (1893).</p>"
+}

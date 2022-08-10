@@ -1,0 +1,81 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast <sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup><br> 31 March 1745<br>(Conductor: - )\n</th>\n<th>2nd version cast <sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup><br> 9 February 1749<br>(Conductor: - )\n</th></tr>\n<tr>\n<th colspan=\"4\">Prologue: La Naissance de la Comédie/ <i>The birth of the Comedy</i>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Thespis\" title=\"Thespis\">Thespis</a>, <i>inventor of comedy</i>\n</td>\n<td><a href=\"/wiki/Haute-contre\" title=\"Haute-contre\">haute-contre</a> <br>(high tenor)\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Momus\" title=\"Momus\">Momus</a>\n</td>\n<td><a href=\"/wiki/Bass_baritone\" class=\"mw-redirect\" title=\"Bass baritone\">bass baritone</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Thalia_(muse)\" class=\"mw-redirect\" title=\"Thalia (muse)\">Thalie</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Cupid\" title=\"Cupid\">Amour</a>/Cupid (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">travesti</a> role)\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Un <a href=\"/wiki/Satyr\" title=\"Satyr\">satire</a>/<i>a satyr</i>\n</td>\n<td>bass baritone\n</td>\n\n</tr>\n<tr>\n<td>Vendangeuses/ <i>Vintaging girls</i>\n</td>\n<td>sopranos\n</td>\n\n</tr>\n<tr>\n<th colspan=\"4\">Ballet (<i><a href=\"/wiki/Com%C3%A9die_lyrique\" class=\"mw-redirect\" title=\"Comédie lyrique\">comédie lyrique</a></i>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Cithaeron\" title=\"Cithaeron\">Cithéron</a>/Cithaeron, <i>King of Greece</i>\n</td>\n<td>bass baritone\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Mercury_(mythology)\" title=\"Mercury (mythology)\">Mercure</a>/ Mercury\n</td>\n<td>haute-contre\n</td>\n\n</tr>\n<tr>\n<td>Platée, <i>nymph of a large marsh at the foot of Mount Cithaeron</i> (travesti role)\n</td>\n<td>haute-contre\n</td>\n\n</tr>\n<tr>\n<td>Clarine, <i>a fountain, maidservant to Platée</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Une <a href=\"/wiki/Naiad\" title=\"Naiad\">naiade</a>/ <i>a naiad, another maidservant to Platée</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Jupiter_(mythology)\" title=\"Jupiter (mythology)\">Jupiter</a>\n</td>\n<td>bass baritone\n</td>\n\n</tr>\n<tr>\n<td>La Folie/ Folly\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Juno_(mythology)\" title=\"Juno (mythology)\">Junon</a>/ Juno\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Momus\n</td>\n<td><i>taille</i> (<a href=\"/wiki/Baritenor\" title=\"Baritenor\">baritenor</a>)<br> or bass baritone\n</td>\n\n</tr>\n<tr>\n<td>Iris\n</td>\n<td><a href=\"/wiki/Mime_artist\" title=\"Mime artist\">mime</a>\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Animals, scholars, chorus, dancers\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Prologue: La Naissance de la Comédie/ The birth of the Comedy",
+      "voiceType": ""
+    },
+    {
+      "role": "Thespis, inventor of comedy",
+      "voiceType": "haute-contre \n(high tenor)"
+    },
+    {
+      "role": "Momus",
+      "voiceType": "bass baritone"
+    },
+    {
+      "role": "Thalie",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Amour/Cupid (travesti role)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Un satire/a satyr",
+      "voiceType": "bass baritone"
+    },
+    {
+      "role": "Vendangeuses/ Vintaging girls",
+      "voiceType": "sopranos"
+    },
+    {
+      "role": "Ballet (comédie lyrique)",
+      "voiceType": ""
+    },
+    {
+      "role": "Cithéron/Cithaeron, King of Greece",
+      "voiceType": "bass baritone"
+    },
+    {
+      "role": "Mercure/ Mercury",
+      "voiceType": "haute-contre"
+    },
+    {
+      "role": "Platée, nymph of a large marsh at the foot of Mount Cithaeron (travesti role)",
+      "voiceType": "haute-contre"
+    },
+    {
+      "role": "Clarine, a fountain, maidservant to Platée",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Une naiade/ a naiad, another maidservant to Platée",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jupiter",
+      "voiceType": "bass baritone"
+    },
+    {
+      "role": "La Folie/ Folly",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Junon/ Juno",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Momus",
+      "voiceType": "taille (baritenor)\n or bass baritone"
+    },
+    {
+      "role": "Iris",
+      "voiceType": "mime"
+    },
+    {
+      "role": "Animals, scholars, chorus, dancers",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 13 January 1775<br>(Conductor: Johann Nepomuk Cröner)\n</th></tr>\n<tr>\n<td>Don Anchise, <i>the Podestà (Mayor) of <br>Lagonero, in love with Sandrina</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Marchioness Violante Onesti (Sandrina), <br><i>disguised as a gardener</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Arminda, <i>niece of Don Anchise, <br>engaged to Belfiore, formerly in love with Ramiro</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Contino Belfiore, <i>engaged to Arminda</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Cavalier Ramiro, <i>Arminda's rejected suitor</i>\n</td>\n<td>soprano <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Serpetta, <i>the Podestà's servant, in love <br>with the Podestà</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Roberto (Nardo), <i>Violante's servant, <br> disguised as a gardener</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Don Anchise, the Podestà (Mayor) of \nLagonero, in love with Sandrina",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Marchioness Violante Onesti (Sandrina), \ndisguised as a gardener",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Arminda, niece of Don Anchise, \nengaged to Belfiore, formerly in love with Ramiro",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Contino Belfiore, engaged to Arminda",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Cavalier Ramiro, Arminda's rejected suitor",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Serpetta, the Podestà's servant, in love \nwith the Podestà",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Roberto (Nardo), Violante's servant, \n disguised as a gardener",
+      "voiceType": "bass"
+    }
+  ]
+}

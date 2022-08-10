@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "L'heure espagnole",
+  "displaytitle": "<i>L'heure espagnole</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q593319",
+  "titles": {
+    "canonical": "L'heure_espagnole",
+    "normalized": "L'heure espagnole",
+    "display": "<i>L'heure espagnole</i>"
+  },
+  "pageid": 1980155,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Maurice_Ravel_1912.jpg/240px-Maurice_Ravel_1912.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Maurice_Ravel_1912.jpg",
+    "width": 266,
+    "height": 354
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1028946008",
+  "tid": "3403d730-f9b0-11ec-825f-c1b9738f3859",
+  "timestamp": "2021-06-16T23:33:08Z",
+  "description": "Opera by Maurice Ravel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'heure_espagnole",
+      "revisions": "https://en.wikipedia.org/wiki/L'heure_espagnole?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'heure_espagnole?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'heure_espagnole"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'heure_espagnole",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'heure_espagnole",
+      "edit": "https://en.m.wikipedia.org/wiki/L'heure_espagnole?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'heure_espagnole"
+    }
+  },
+  "extract": "L'heure espagnole is a French one-act opera from 1911, described as a comédie musicale, with music by Maurice Ravel to a French libretto by Franc-Nohain, based on Franc-Nohain's 1904 play ('comédie-bouffe') of the same name The opera, set in Spain in the 18th century, is about a clockmaker whose unfaithful wife attempts to make love to several different men while he is away, leading to them hiding in, and eventually getting stuck in, her husband's clocks. The title can be translated literally as \"The Spanish Hour\", but the word \"heure\" more importantly means \"time\" – \"Spanish Time\", with the connotation \"How They Keep Time in Spain\".",
+  "extract_html": "<p><i><b>L'heure espagnole</b></i> is a French one-act opera from 1911, described as a <i>comédie musicale</i>, with music by Maurice Ravel to a French libretto by Franc-Nohain, based on Franc-Nohain's 1904 play ('comédie-bouffe') of the same name The opera, set in Spain in the 18th century, is about a clockmaker whose unfaithful wife attempts to make love to several different men while he is away, leading to them hiding in, and eventually getting stuck in, her husband's clocks. The title can be translated literally as \"The Spanish Hour\", but the word \"heure\" more importantly means \"time\" – \"Spanish Time\", with the connotation \"How They Keep Time in Spain\".</p>"
+}

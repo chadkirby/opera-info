@@ -1,0 +1,133 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 6 November 1924<br>(Conductor: <a href=\"/wiki/Franti%C5%A1ek_Neumann\" title=\"František Neumann\">František Neumann</a>)\n</th></tr>\n<tr>\n<td>Vixen, Sharp Ears (<i>Bystrouška</i>)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Fox, Gold-Strip (<i>Lišák</i>)\n</td>\n<td>soprano or high <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a><sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup>\n</td>\n</tr>\n<tr>\n<td>Forester (<i>Revírník</i>)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Parson\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Schoolmaster\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Harašta, <i>a poultry dealer</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<th colspan=\"3\">Supporting roles:\n</th></tr>\n<tr>\n<td>Forester's wife\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td></tr>\n<tr>\n<td>Lapák, <i>a dog</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Chocholka, <i>a hen</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Rooster\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<th colspan=\"3\">Bit roles:\n</th></tr>\n<tr>\n<td>Pepík, <i>Forester's grandson</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Frantík, <i>Pepík's friend</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Pásek, <i>an innkeeper</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Mrs. Páskova, <i>Pásek's wife</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Young Vixen Bystrouška\n</td>\n<td>child soprano\n</td>\n</tr>\n<tr>\n<td>Cricket\n</td>\n<td>child soprano\n</td>\n</tr>\n<tr>\n<td>Young Frog\n</td>\n<td>child soprano\n</td>\n</tr>\n<tr>\n<td>Grasshopper\n</td>\n<td>child soprano\n</td>\n</tr>\n<tr>\n<td>Jay\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Owl\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Woodpecker\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Mosquito\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Badger\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<th colspan=\"3\">Chorus roles:\n</th></tr>\n<tr>\n<td>Hens\n</td>\n<td>women's chorus (SA)\n</td>\n</tr>\n<tr>\n<td>Forest Creatures\n</td>\n<td>women's chorus (SA)\n</td>\n</tr>\n<tr>\n<td>Voice of the Forest\n</td>\n<td>mixed chorus (SAATTBB)\n</td>\n</tr>\n<tr>\n<td>Fox Cubs\n</td>\n<td>[children's] chorus\n</td>\n</tr>\n<tr>\n<th colspan=\"3\">Ballet roles:\n</th></tr>\n<tr>\n<td colspan=\"4\">Blue Dragonfly, Midges, Apparition of the Vixen as a girl, Hedgehog, Squirrels, a Young Vixen, Forest Creatures\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Vixen, Sharp Ears (Bystrouška)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Fox, Gold-Strip (Lišák)",
+      "voiceType": "soprano or high mezzo-soprano"
+    },
+    {
+      "role": "Forester (Revírník)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Parson",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Schoolmaster",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Harašta, a poultry dealer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Supporting roles:",
+      "voiceType": ""
+    },
+    {
+      "role": "Forester's wife",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Lapák, a dog",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Chocholka, a hen",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Rooster",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Bit roles:",
+      "voiceType": ""
+    },
+    {
+      "role": "Pepík, Forester's grandson",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Frantík, Pepík's friend",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Pásek, an innkeeper",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Mrs. Páskova, Pásek's wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Young Vixen Bystrouška",
+      "voiceType": "child soprano"
+    },
+    {
+      "role": "Cricket",
+      "voiceType": "child soprano"
+    },
+    {
+      "role": "Young Frog",
+      "voiceType": "child soprano"
+    },
+    {
+      "role": "Grasshopper",
+      "voiceType": "child soprano"
+    },
+    {
+      "role": "Jay",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Owl",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Woodpecker",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Mosquito",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Badger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus roles:",
+      "voiceType": ""
+    },
+    {
+      "role": "Hens",
+      "voiceType": "women's chorus (SA)"
+    },
+    {
+      "role": "Forest Creatures",
+      "voiceType": "women's chorus (SA)"
+    },
+    {
+      "role": "Voice of the Forest",
+      "voiceType": "mixed chorus (SAATTBB)"
+    },
+    {
+      "role": "Fox Cubs",
+      "voiceType": "[children's] chorus"
+    },
+    {
+      "role": "Ballet roles:",
+      "voiceType": ""
+    },
+    {
+      "role": "Blue Dragonfly, Midges, Apparition of the Vixen as a girl, Hedgehog, Squirrels, a Young Vixen, Forest Creatures",
+      "voiceType": ""
+    }
+  ]
+}

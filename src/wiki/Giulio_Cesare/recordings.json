@@ -1,0 +1,77 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1015390333\"><span class=\"sr-only\"><i>Giulio Cesare</i> discography,audio recordings with Cesare at original pitch</span>\n</caption>\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Cesare, Cleopatra,<br>Tolomeo, Cornelia<br>Sesto, Achilla\n</th>\n<th>Conductor,<br>orchestra\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1969\n</td>\n<td><a href=\"/wiki/Huguette_Tourangeau\" title=\"Huguette Tourangeau\">Huguette Tourangeau</a>,<br><a href=\"/wiki/Joan_Sutherland\" title=\"Joan Sutherland\">Joan Sutherland</a>,<br><a href=\"/wiki/Cvetka_Ahlin\" title=\"Cvetka Ahlin\">Cvetka Ahlin</a>, <br>Ursula Boese,<br><a href=\"/wiki/Lucia_Popp\" title=\"Lucia Popp\">Lucia Popp</a>,<br> <a href=\"/wiki/Tom_Krause\" title=\"Tom Krause\">Tom Krause</a>\n</td>\n\n<td>CD: Opera Depot<br>cat.: OD 10123-2\n</td></tr>\n<tr>\n<td>1984\n</td>\n<td><a href=\"/wiki/Janet_Baker\" title=\"Janet Baker\">Janet Baker</a>,<br><a href=\"/wiki/Valerie_Masterson\" title=\"Valerie Masterson\">Valerie Masterson</a>,<br><a href=\"/wiki/James_Bowman_(countertenor)\" title=\"James Bowman (countertenor)\">James Bowman</a>,<br><a href=\"/wiki/Sarah_Walker_(mezzo-soprano)\" title=\"Sarah Walker (mezzo-soprano)\">Sarah Walker</a>,<br><a href=\"/wiki/Della_Jones\" title=\"Della Jones\">Della Jones</a>,<br><a href=\"/wiki/John_Tomlinson_(bass)\" title=\"John Tomlinson (bass)\">John Tomlinson</a>\n</td>\n\n<td>CD: Chandos<br>cat.: CHAN 3019\n</td></tr>\n<tr>\n<td>1991\n</td>\n<td><a href=\"/wiki/Jennifer_Larmore\" title=\"Jennifer Larmore\">Jennifer Larmore</a>,<br><a href=\"/wiki/Barbara_Schlick\" title=\"Barbara Schlick\">Barbara Schlick</a>,<br><a href=\"/wiki/Derek_Lee_Ragin\" title=\"Derek Lee Ragin\">Derek Lee Ragin</a>,<br><a href=\"/wiki/Bernarda_Fink\" title=\"Bernarda Fink\">Bernarda Fink</a>,<br>Marianne Rørholm,<br>Furio Zanasi\n</td>\n\n<td>CD: <a href=\"/wiki/Harmonia_Mundi\" title=\"Harmonia Mundi\">Harmonia Mundi</a><br>cat.: HMC 901385/87\n</td></tr>\n<tr>\n<td>2002\n</td>\n<td>Marijana Mijanovic,<br><a href=\"/wiki/Magdalena_Ko%C5%BEen%C3%A1\" title=\"Magdalena Kožená\">Magdalena Kožená</a>,<br><a href=\"/wiki/Bejun_Mehta\" title=\"Bejun Mehta\">Bejun Mehta</a>,<br><a href=\"/wiki/Charlotte_Hellekant\" title=\"Charlotte Hellekant\">Charlotte Hellekant</a>,<br><a href=\"/wiki/Anne_Sofie_von_Otter\" title=\"Anne Sofie von Otter\">Anne Sofie von Otter</a>,<br>Alan Ewing\n</td>\n\n<td>CD: <a href=\"/wiki/Archiv\" class=\"mw-redirect\" title=\"Archiv\">Archiv</a><br>cat.: 474 210-2\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td>Kristina Hammarström,<br>Emanuela Galli,<br>Irini Karaianni,<br>Mary-Ellen Nesi,<br><a href=\"/wiki/Romina_Basso\" title=\"Romina Basso\">Romina Basso</a>,<br>Tassis Christoyannis\n</td>\n\n<td>CD: <a href=\"/wiki/Musikproduktion_Dabringhaus_und_Grimm\" title=\"Musikproduktion Dabringhaus und Grimm\">MDG</a><br>cat.: MDG 609 1604-2\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td><a href=\"/wiki/Marie-Nicole_Lemieux\" title=\"Marie-Nicole Lemieux\">Marie-Nicole Lemieux</a>,<br><a href=\"/wiki/Karina_Gauvin\" title=\"Karina Gauvin\">Karina Gauvin</a>,<br><a href=\"/wiki/Romina_Basso\" title=\"Romina Basso\">Romina Basso</a>,<br>Emőke Baráth,<br>Filippo Mineccia,<br>Johannes Weisser\n</td>\n\n<td>CD: <a href=\"/wiki/Na%C3%AFve_Records\" title=\"Naïve Records\">naïve</a>,<br>cat.: EAN 709861305360\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1969,
+      "cast": [
+        "Huguette Tourangeau",
+        "Joan Sutherland",
+        "Cvetka Ahlin, ",
+        "Ursula Boese",
+        "Lucia Popp",
+        " Tom Krause"
+      ],
+      "conductor": "Richard Bonynge"
+    },
+    {
+      "year": 1984,
+      "cast": [
+        "Janet Baker",
+        "Valerie Masterson",
+        "James Bowman",
+        "Sarah Walker",
+        "Della Jones",
+        "John Tomlinson"
+      ],
+      "conductor": "Charles Mackerras"
+    },
+    {
+      "year": 1991,
+      "cast": [
+        "Jennifer Larmore",
+        "Barbara Schlick",
+        "Derek Lee Ragin",
+        "Bernarda Fink",
+        "Marianne Rørholm",
+        "Furio Zanasi"
+      ],
+      "conductor": "René Jacobs"
+    },
+    {
+      "year": 2002,
+      "cast": [
+        "Marijana Mijanovic",
+        "Magdalena Kožená",
+        "Bejun Mehta",
+        "Charlotte Hellekant",
+        "Anne Sofie von Otter",
+        "Alan Ewing"
+      ],
+      "conductor": "Marc Minkowski"
+    },
+    {
+      "year": 2008,
+      "cast": [
+        "Kristina Hammarström",
+        "Emanuela Galli",
+        "Irini Karaianni",
+        "Mary-Ellen Nesi",
+        "Romina Basso",
+        "Tassis Christoyannis"
+      ],
+      "conductor": "George Petrou"
+    },
+    {
+      "year": 2011,
+      "cast": [
+        "Marie-Nicole Lemieux",
+        "Karina Gauvin",
+        "Romina Basso",
+        "Emőke Baráth",
+        "Filippo Mineccia",
+        "Johannes Weisser"
+      ],
+      "conductor": "Alan Curtis"
+    }
+  ]
+}

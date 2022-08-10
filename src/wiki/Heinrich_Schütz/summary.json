@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Heinrich Schütz",
+  "displaytitle": "Heinrich Schütz",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q153643",
+  "titles": {
+    "canonical": "Heinrich_Schütz",
+    "normalized": "Heinrich Schütz",
+    "display": "Heinrich Schütz"
+  },
+  "pageid": 155764,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schutz.jpg/215px-Schutz.jpg",
+    "width": 215,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Schutz.jpg",
+    "width": 670,
+    "height": 998
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088733884",
+  "tid": "7a5d5180-0f80-11ed-8443-e7b2aa211e3a",
+  "timestamp": "2022-05-19T20:47:27Z",
+  "description": "German composer and organist (1585–1672)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Heinrich_Sch%C3%BCtz",
+      "revisions": "https://en.wikipedia.org/wiki/Heinrich_Sch%C3%BCtz?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Heinrich_Sch%C3%BCtz?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Heinrich_Sch%C3%BCtz"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Heinrich_Sch%C3%BCtz",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Heinrich_Sch%C3%BCtz",
+      "edit": "https://en.m.wikipedia.org/wiki/Heinrich_Sch%C3%BCtz?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Heinrich_Sch%C3%BCtz"
+    }
+  },
+  "extract": "Heinrich Schütz was a German early Baroque composer and organist, generally regarded as the most important German composer before Johann Sebastian Bach, as well as one of the most important composers of the 17th century. He is credited with bringing the Italian style to Germany and continuing its evolution from the Renaissance into the Early Baroque. Most of his surviving music was written for the Lutheran church, primarily for the Electoral Chapel in Dresden. He wrote what is traditionally considered to be the first German opera, Dafne, performed at Torgau in 1627, the music of which has since been lost, along with nearly all of his ceremonial and theatrical scores. Schütz was a prolific composer, with more than 500 surviving works.",
+  "extract_html": "<p><b>Heinrich Schütz</b> was a German early Baroque composer and organist, generally regarded as the most important German composer before Johann Sebastian Bach, as well as one of the most important composers of the 17th century. He is credited with bringing the Italian style to Germany and continuing its evolution from the Renaissance into the Early Baroque. Most of his surviving music was written for the Lutheran church, primarily for the Electoral Chapel in Dresden. He wrote what is traditionally considered to be the first German opera, <i>Dafne</i>, performed at Torgau in 1627, the music of which has since been lost, along with nearly all of his ceremonial and theatrical scores. Schütz was a prolific composer, with more than 500 surviving works.</p>"
+}

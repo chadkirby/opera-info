@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup><br>28 November 1983<br>Conductor: <a href=\"/wiki/Seiji_Ozawa\" title=\"Seiji Ozawa\">Seiji Ozawa</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Saint_Francis_of_Assisi\" class=\"mw-redirect\" title=\"Saint Francis of Assisi\">Saint François</a> (Saint Francis)</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n</tr>\n<tr>\n<td>L'Ange (The Angel)</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td>Le Lépreux (The Leper)</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a></td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Brother_Leo\" title=\"Brother Leo\">Frère Léon</a> (Brother Leo)</td>\n<td>baritone</td>\n</tr>\n<tr>\n<td>Frère Massée (Brother Masseo)</td>\n<td>tenor</td>\n</tr>\n<tr>\n<td>Frère Elie (Brother Elias)</td>\n<td>tenor</td>\n</tr>\n<tr>\n<td>Frère Bernard (Brother Bernard)</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a></td>\n</tr>\n<tr>\n<td>Frère Sylvestre (Brother Sylvestro)</td>\n<td>baritone</td>\n</tr>\n<tr>\n<td>Frère Rufin (Brother Rufus)</td>\n<td>baritone</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Saint François (Saint Francis)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "L'Ange (The Angel)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Le Lépreux (The Leper)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frère Léon (Brother Leo)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Frère Massée (Brother Masseo)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frère Elie (Brother Elias)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frère Bernard (Brother Bernard)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Frère Sylvestre (Brother Sylvestro)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Frère Rufin (Brother Rufus)",
+      "voiceType": "baritone"
+    }
+  ]
+}

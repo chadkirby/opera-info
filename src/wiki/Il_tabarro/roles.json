@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup><br>14 December 1918<br>(Conductor: <a href=\"/wiki/Roberto_Moranzoni\" title=\"Roberto Moranzoni\">Roberto Moranzoni</a>)\n</th></tr>\n<tr>\n<td>Michele, <i>a barge-owner</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Giorgetta, <i>Michele's wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Luigi, <i>a <a href=\"/wiki/Stevedore\" title=\"Stevedore\">stevedore</a></i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>'Tinca' ('tench'), <i>a stevedore</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>'Talpa' ('mole'), <i>a stevedore</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>La Frugola ('the rummager'), <i>Talpa's wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Song Seller,\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Lover,\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Stevedores, </i>midinettes<i>, an organ-grinder, two lovers</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Michele, a barge-owner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Giorgetta, Michele's wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Luigi, a stevedore",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "'Tinca' ('tench'), a stevedore",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "'Talpa' ('mole'), a stevedore",
+      "voiceType": "bass"
+    },
+    {
+      "role": "La Frugola ('the rummager'), Talpa's wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Song Seller,",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lover,",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Stevedores,midinettes, an organ-grinder, two lovers",
+      "voiceType": ""
+    }
+  ]
+}

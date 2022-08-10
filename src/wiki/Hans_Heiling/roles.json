@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th bgcolor=\"ececec\">Role\n</th>\n<th bgcolor=\"ececec\">Voice type\n</th>\n<th bgcolor=\"ececec\">Premiere cast,<br>24 May 1833<br>(Conductor: H. Marschner)<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup>\n</th></tr>\n<tr>\n<td>Queen of the <a href=\"/wiki/Erdgeist\" title=\"Erdgeist\">Erdgeister</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Hans_Heiling_(mythology)\" title=\"Hans Heiling (mythology)\">Hans Heiling</a>, her son\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Anna, his bride\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Gertrud, her mother\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a>\n</td>\n</tr>\n<tr>\n<td>Konrad, a hunter and Anna’s sweetheart\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Stephan, a blacksmith\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Niklas, a tailor\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Queen of the Erdgeister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hans Heiling, her son",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Anna, his bride",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gertrud, her mother",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Konrad, a hunter and Anna’s sweetheart",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Stephan, a blacksmith",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Niklas, a tailor",
+      "voiceType": "tenor"
+    }
+  ]
+}

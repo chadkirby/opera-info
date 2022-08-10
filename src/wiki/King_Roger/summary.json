@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "King Roger",
+  "displaytitle": "<i>King Roger</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3041659",
+  "titles": {
+    "canonical": "King_Roger",
+    "normalized": "King Roger",
+    "display": "<i>King Roger</i>"
+  },
+  "pageid": 1229391,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Roger_II_Sicily.jpg/320px-Roger_II_Sicily.jpg",
+    "width": 320,
+    "height": 307
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Roger_II_Sicily.jpg",
+    "width": 736,
+    "height": 705
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1081882868",
+  "tid": "ef610400-0872-11ed-b96c-53c0a8552d9f",
+  "timestamp": "2022-04-10T07:34:31Z",
+  "description": "Opera by Karol Szymanowski",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/King_Roger",
+      "revisions": "https://en.wikipedia.org/wiki/King_Roger?action=history",
+      "edit": "https://en.wikipedia.org/wiki/King_Roger?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:King_Roger"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/King_Roger",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/King_Roger",
+      "edit": "https://en.m.wikipedia.org/wiki/King_Roger?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:King_Roger"
+    }
+  },
+  "extract": "King Roger is an opera in three acts by Karol Szymanowski to a Polish libretto by the composer himself and Jarosław Iwaszkiewicz, the composer's cousin. The score was finished in 1924. The opera received its world premiere on 19 June 1926 at the Grand Theatre, Warsaw, with the cast including the composer's sister, the soprano Stanisława Korwin-Szymanowska, as Roxana.",
+  "extract_html": "<p><b>King Roger</b> is an opera in three acts by Karol Szymanowski to a Polish libretto by the composer himself and Jarosław Iwaszkiewicz, the composer's cousin. The score was finished in 1924. The opera received its world premiere on 19 June 1926 at the Grand Theatre, Warsaw, with the cast including the composer's sister, the soprano Stanisława Korwin-Szymanowska, as Roxana.</p>"
+}

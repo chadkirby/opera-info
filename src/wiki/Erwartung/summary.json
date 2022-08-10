@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Erwartung",
+  "displaytitle": "<i>Erwartung</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1362653",
+  "titles": {
+    "canonical": "Erwartung",
+    "normalized": "Erwartung",
+    "display": "<i>Erwartung</i>"
+  },
+  "pageid": 6146116,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Arnold_sch%C3%B6nberg_man_ray.jpg/242px-Arnold_sch%C3%B6nberg_man_ray.jpg",
+    "width": 242,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Arnold_sch%C3%B6nberg_man_ray.jpg",
+    "width": 1163,
+    "height": 1540
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094506325",
+  "tid": "f41f1f90-0f89-11ed-b149-c315ab98a0bf",
+  "timestamp": "2022-06-23T01:33:33Z",
+  "description": "German opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Erwartung",
+      "revisions": "https://en.wikipedia.org/wiki/Erwartung?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Erwartung?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Erwartung"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Erwartung",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Erwartung",
+      "edit": "https://en.m.wikipedia.org/wiki/Erwartung?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Erwartung"
+    }
+  },
+  "extract": "Erwartung (Expectation), Op. 17, is a one-act monodrama in four scenes by Arnold Schoenberg to a libretto by Marie Pappenheim. Composed in 1909, it was not premiered until 6 June 1924 in Prague conducted by Alexander Zemlinsky with Marie Gutheil-Schoder as the soprano. The opera takes the unusual form of a monologue for solo soprano accompanied by a large orchestra. In performance, it lasts for about half an hour. It is sometimes paired with Béla Bartók's opera Bluebeard's Castle (1911), as the two works were roughly contemporary and share similar psychological themes. Schoenberg described Erwartung, saying \"the aim is to represent in slow motion everything that occurs during a single second of maximum spiritual excitement, stretching it out to half an hour.\"",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Erwartung</i></span></b></i> (<i>Expectation</i>), Op. 17, is a one-act monodrama in four scenes by Arnold Schoenberg to a libretto by Marie Pappenheim. Composed in 1909, it was not premiered until 6 June 1924 in Prague conducted by Alexander Zemlinsky with Marie Gutheil-Schoder as the soprano. The opera takes the unusual form of a monologue for solo soprano accompanied by a large orchestra. In performance, it lasts for about half an hour. It is sometimes paired with Béla Bartók's opera <i>Bluebeard's Castle</i> (1911), as the two works were roughly contemporary and share similar psychological themes. Schoenberg described <i>Erwartung</i>, saying \"the aim is to represent in slow motion everything that occurs during a single second of maximum spiritual excitement, stretching it out to half an hour.\"</p>"
+}

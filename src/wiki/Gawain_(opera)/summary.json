@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Gawain (opera)",
+  "displaytitle": "<i>Gawain</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3759025",
+  "titles": {
+    "canonical": "Gawain_(opera)",
+    "normalized": "Gawain (opera)",
+    "display": "<i>Gawain</i> (opera)"
+  },
+  "pageid": 4456479,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Harrison_Birtwistle_%28cropped%29.jpg/240px-Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Harrison_Birtwistle_%28cropped%29.jpg",
+    "width": 1294,
+    "height": 1728
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1079702222",
+  "tid": "8268f430-ea12-11ec-885a-bf50338928b9",
+  "timestamp": "2022-03-28T05:21:21Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gawain_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Gawain_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gawain_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gawain_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gawain_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gawain_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Gawain_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gawain_(opera)"
+    }
+  },
+  "extract": "Gawain is an opera with music by Harrison Birtwistle to a libretto by David Harsent. The story is based on the Middle English romance Sir Gawain and the Green Knight. The opera was a commission from the Royal Opera House, London, where it was first performed on 30 May 1991. Rhian Samuel has published a detailed analysis of the opera. Birtwistle revised it in 1994, and the premiere of the revised version was given at the Royal Opera House on 20 April 1994.",
+  "extract_html": "<p><i><b>Gawain</b></i> is an opera with music by Harrison Birtwistle to a libretto by David Harsent. The story is based on the Middle English romance <i>Sir Gawain and the Green Knight</i>. The opera was a commission from the Royal Opera House, London, where it was first performed on 30 May 1991. Rhian Samuel has published a detailed analysis of the opera. Birtwistle revised it in 1994, and the premiere of the revised version was given at the Royal Opera House on 20 April 1994.</p>"
+}

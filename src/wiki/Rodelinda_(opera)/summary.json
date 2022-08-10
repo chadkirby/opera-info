@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rodelinda (opera)",
+  "displaytitle": "<i>Rodelinda</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q641095",
+  "titles": {
+    "canonical": "Rodelinda_(opera)",
+    "normalized": "Rodelinda (opera)",
+    "display": "<i>Rodelinda</i> (opera)"
+  },
+  "pageid": 533064,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/265px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 2400,
+    "height": 2901
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083533714",
+  "tid": "8f81cd60-1247-11ed-9a1c-59b259b32255",
+  "timestamp": "2022-04-19T09:11:37Z",
+  "description": "1725 opera by Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rodelinda_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Rodelinda_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rodelinda_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rodelinda_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rodelinda_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rodelinda_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Rodelinda_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rodelinda_(opera)"
+    }
+  },
+  "extract": "Rodelinda, regina de' Longobardi is an opera seria in three acts composed for the first Royal Academy of Music by George Frideric Handel. The libretto is by Nicola Francesco Haym, based on an earlier libretto by Antonio Salvi. Rodelinda has long been regarded as one of Handel's greatest works.",
+  "extract_html": "<p><i><b>Rodelinda, regina de' Longobardi</b></i> is an opera seria in three acts composed for the first Royal Academy of Music by George Frideric Handel. The libretto is by Nicola Francesco Haym, based on an earlier libretto by Antonio Salvi. <i>Rodelinda</i> has long been regarded as one of Handel's greatest works.</p>"
+}

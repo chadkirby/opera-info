@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast: (King of Clubs,<br>The Prince,<br>The Princess,<br>Leandro,<br>Truffaldino,<br>Pantalone,<br>Tchelio,<br>Fata Morgana\n</th>\n<th>Conductor,<br>opera house and orchestra\n</th>\n<th>Label<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup>\n</th></tr>\n<tr>\n<td>1961\n</td>\n<td>Viktor Ribinsky,<br>Vladimir Markhov,<br>Lyutsia Rashkovets,<br>Boris Dobrin,<br>Yuri Yelnikov,<br>Ivan Budrin,<br>Gennady Troitsky,<br>Nina Polyakova\n</td>\n\n<td>CD: <a href=\"/wiki/Melodiya\" title=\"Melodiya\">Melodiya</a><br>Cat: 100194\n</td></tr>\n<tr>\n<td>1989\n</td>\n<td><a href=\"/wiki/Gabriel_Bacquier\" title=\"Gabriel Bacquier\">Gabriel Bacquier</a>,<br>Jean-Luc Viala,<br>Hélène Perraguin,<br>Vincent Le Texier,<br>Georges Gautier,<br>Didier Henry,<br>Gregory Reinhart,<br><a href=\"/wiki/Mich%C3%A8le_Lagrange\" title=\"Michèle Lagrange\">Michèle Lagrange</a>\n</td>\n\n<td>CD: EMI<br>Cat: 358694-2; Virgin Classics,<br>Cat: 58694<br>DVD: Arthaus Musik<br>Cat: 100404\n</td></tr>\n<tr>\n<td>1997/98\n</td>\n<td>Mikail Kit,<br>Yevgeny Akimov,<br>Larissa Diadkova,<br>Alexander Morozov,<br><span class=\"nowrap\">Konstantin Pluzhnikov</span>,<br>Vassily Gerelo,<br>Vladimir Vaneyev,<br>Larissa Shevchenko\n</td>\n\n<td>CD: <a href=\"/wiki/Philips\" title=\"Philips\">Philips</a>,<br>Cat: 462 913-2\n</td></tr>\n<tr>\n<td>2005\n</td>\n<td>Bruce Martin,<br>John MacMaster,<br>Deborah Humble,<br><a href=\"/wiki/Teddy_Tahu_Rhodes\" title=\"Teddy Tahu Rhodes\">Teddy Tahu Rhodes</a>,<br>William Ferguson,<br>Warwick Fyfe,<br>Jud Arthur,<br>Elizabeth Whitehouse\n</td>\n\n<td>CD: <a href=\"/wiki/Chandos_Records\" title=\"Chandos Records\">Chandos Records</a><br>Cat: CHAN 10347\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1961,
+      "cast": [
+        "Viktor Ribinsky",
+        "Vladimir Markhov",
+        "Lyutsia Rashkovets",
+        "Boris Dobrin",
+        "Yuri Yelnikov",
+        "Ivan Budrin",
+        "Gennady Troitsky",
+        "Nina Polyakova"
+      ],
+      "conductor": "Dzemal Dalgat"
+    },
+    {
+      "year": 1989,
+      "cast": [
+        "Gabriel Bacquier",
+        "Jean-Luc Viala",
+        "Hélène Perraguin",
+        "Vincent Le Texier",
+        "Georges Gautier",
+        "Didier Henry",
+        "Gregory Reinhart",
+        "Michèle Lagrange"
+      ],
+      "conductor": "Kent Nagano"
+    },
+    {
+      "year": 1997,
+      "cast": [
+        "Mikail Kit",
+        "Yevgeny Akimov",
+        "Larissa Diadkova",
+        "Alexander Morozov",
+        "Konstantin Pluzhnikov",
+        "Vassily Gerelo",
+        "Vladimir Vaneyev",
+        "Larissa Shevchenko"
+      ],
+      "conductor": "Valery Gergiev"
+    },
+    {
+      "year": 2005,
+      "cast": [
+        "Bruce Martin",
+        "John MacMaster",
+        "Deborah Humble",
+        "Teddy Tahu Rhodes",
+        "William Ferguson",
+        "Warwick Fyfe",
+        "Jud Arthur",
+        "Elizabeth Whitehouse"
+      ],
+      "conductor": "Richard Hickox"
+    }
+  ]
+}

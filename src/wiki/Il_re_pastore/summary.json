@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Il re pastore",
+  "displaytitle": "<i>Il re pastore</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q470899",
+  "titles": {
+    "canonical": "Il_re_pastore",
+    "normalized": "Il re pastore",
+    "display": "<i>Il re pastore</i>"
+  },
+  "pageid": 661080,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Martini_bologna_mozart_1777.jpg/272px-Martini_bologna_mozart_1777.jpg",
+    "width": 272,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martini_bologna_mozart_1777.jpg",
+    "width": 510,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093639365",
+  "tid": "d1d73c90-15f8-11ed-9238-fd24aa6d1877",
+  "timestamp": "2022-06-17T22:26:19Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_re_pastore",
+      "revisions": "https://en.wikipedia.org/wiki/Il_re_pastore?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_re_pastore?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_re_pastore"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_re_pastore",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_re_pastore",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_re_pastore?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_re_pastore"
+    }
+  },
+  "extract": "Il re pastore is an opera, K. 208, written by Wolfgang Amadeus Mozart to an Italian libretto by Metastasio, edited by Giambattista Varesco. It is an opera seria. The opera was first performed on 23 April 1775 in Salzburg in the Rittersaal of the Residenz-Theater in the palace of the Archbishop Count Hieronymus von Colloredo.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">Il re pastore</i></span></b></i> is an opera, K. 208, written by Wolfgang Amadeus Mozart to an Italian libretto by Metastasio, edited by Giambattista Varesco. It is an opera seria. The opera was first performed on 23 April 1775 in Salzburg in the Rittersaal of the Residenz-Theater in the palace of the Archbishop Count Hieronymus von Colloredo.</p>"
+}

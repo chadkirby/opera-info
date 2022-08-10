@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 24 October 1819<br>(Conductor: Gioachino Rossini)\n</th></tr>\n<tr>\n<td>Elena (Ellen),<br> <i>Lady of the Lake</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Malcom (Malcolm) Groeme (Graeme),<br> <i>Rebel chieftain, Elena's lover (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Uberto di Snowdon, <i>alias of</i> Giacomo V, Re di Scozia (King <a href=\"/wiki/James_V_of_Scotland\" title=\"James V of Scotland\">James V of Scotland</a>)<br>\n<p><i>Enamoured of Elena</i>\n</p>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Duglas (Douglas) d'Angus,<br> <i>Elena's father, rebel and former tutor to King James</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Rodrigo (Roderick) di Dhu,<br> <i>Rebel chief of the Highlanders, betrothed to Elena</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Serano,<br> <i>Douglas's <a href=\"/wiki/Retainer_(medieval)\" class=\"mw-redirect\" title=\"Retainer (medieval)\">retainer</a></i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Albina,<br> <i>Elena's <a href=\"/wiki/Confidant\" title=\"Confidant\">confidante</a></i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Bertram,<br> <i>Servant to the King</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: Pastori, Pastorelle scozzesi, Bardi, Grandi di Scozia, Dame scozzesi, Guerrieri del Clan Alpino, Cacciatori, Guardie reali<br><i>Scottish shepherds and shepherdesses, bards, Scottish nobles and their ladies, Highland warriors, hunters, royal guards</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Elena (Ellen),\n Lady of the Lake",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Malcom (Malcolm) Groeme (Graeme),\n Rebel chieftain, Elena's lover (en travesti)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Uberto di Snowdon, alias of Giacomo V, Re di Scozia (King James V of Scotland)\n Enamoured of Elena",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Duglas (Douglas) d'Angus,\n Elena's father, rebel and former tutor to King James",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Rodrigo (Roderick) di Dhu,\n Rebel chief of the Highlanders, betrothed to Elena",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Serano,\n Douglas's retainer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Albina,\n Elena's confidante",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Bertram,\n Servant to the King",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Pastori, Pastorelle scozzesi, Bardi, Grandi di Scozia, Dame scozzesi, Guerrieri del Clan Alpino, Cacciatori, Guardie reali\nScottish shepherds and shepherdesses, bards, Scottish nobles and their ladies, Highland warriors, hunters, royal guards",
+      "voiceType": ""
+    }
+  ]
+}

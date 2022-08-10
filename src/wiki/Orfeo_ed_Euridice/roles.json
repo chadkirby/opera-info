@@ -1,0 +1,21 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th><span class=\"nowrap\">Vienna premiere cast</span><br>5 October 1762\n</th>\n<th>Revised Italian version<br><span class=\"nowrap\">Parma premiere cast</span><br>24 August 1769<br>Conductor: Gluck\n</th>\n<th>Revised French version<br><span class=\"nowrap\">Paris premiere cast</span><br>2 August 1774\n</th></tr>\n<tr>\n<td>Orfeo\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a> (Vienna premiere),<br><span class=\"nowrap\"><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> castrato (Parma premiere),</span><br> <a href=\"/wiki/Haute-contre\" title=\"Haute-contre\">haute-contre</a> (high tenor, French premiere)\n</td>\n\n\n<td>&nbsp;<br>&nbsp;<br><a href=\"/wiki/Joseph_Legros\" title=\"Joseph Legros\">Joseph Legros</a><br>&nbsp;\n</td></tr>\n<tr>\n<td>Amore\n</td>\n<td>soprano (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n\n\n<td><a href=\"/wiki/Sophie_Arnould\" title=\"Sophie Arnould\">Sophie Arnould</a>\n</td></tr>\n<tr>\n<td>Euridice\n</td>\n<td>soprano\n</td>\n\n\n<td><a href=\"/wiki/Rosalie_Levasseur\" title=\"Rosalie Levasseur\">Rosalie Levasseur</a>\n</td></tr>\n<tr>\n<td colspan=\"5\">Chorus and dancers: <i>shepherds, shepherdesses, nymphs, demons, <a href=\"/wiki/Furies\" class=\"mw-redirect\" title=\"Furies\">Furies</a>, happy spirits, heroes and heroines</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Orfeo",
+      "voiceType": "alto castrato (Vienna premiere),\nsoprano castrato (Parma premiere),\n haute-contre (high tenor, French premiere)"
+    },
+    {
+      "role": "Amore",
+      "voiceType": "soprano (en travesti)"
+    },
+    {
+      "role": "Euridice",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus and dancers: shepherds, shepherdesses, nymphs, demons, Furies, happy spirits, heroes and heroines",
+      "voiceType": ""
+    }
+  ]
+}

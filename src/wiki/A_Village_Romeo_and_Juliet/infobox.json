@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">A Village Romeo and Juliet</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Frederick_Delius\" title=\"Frederick Delius\">Frederick Delius</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Rosen_-_Frederick_Delius.jpg\" class=\"image\"><img alt=\"Rosen - Frederick Delius.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rosen_-_Frederick_Delius.jpg/220px-Rosen_-_Frederick_Delius.jpg\" decoding=\"async\" width=\"220\" height=\"259\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rosen_-_Frederick_Delius.jpg/330px-Rosen_-_Frederick_Delius.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/21/Rosen_-_Frederick_Delius.jpg 2x\" data-file-width=\"408\" data-file-height=\"480\"></a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Jelka_Rosen\" title=\"Jelka Rosen\">Jelka</a> and Frederick Delius</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">21&nbsp;February&nbsp;1907<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1907-02-21</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera House</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "A Village Romeo and Juliet"
+  ],
+  "Librettist": "Jelka and Frederick Delius",
+  "Language": "English",
+  "Premiere": "21 February 1907\nRoyal Opera House"
+}

@@ -1,0 +1,129 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premier cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 18 August 1912<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup><br>(Conductor: <a href=\"/wiki/Ludwig_Rottenberg\" title=\"Ludwig Rottenberg\">Ludwig Rottenberg</a>)\n</th></tr>\n<tr>\n<td colspan=\"3\"><b>Act 1</b>\n</td></tr>\n<tr>\n<td>Old Graumann, <i>a retired civil servant</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Old Graumann's Wife\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Grete, <i>their daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Fritz, <i>a young artist</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Landlord of the inn \"Zum Schwan\"\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>A bad actor\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Dr. Vigelius, a pettifogger\n</td>\n<td>high bass\n</td>\n</tr>\n<tr>\n<td>An old woman\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><b>Act 2</b>\n</td></tr>\n<tr>\n<td>Greta, <i>a dancer</i> (alias Grete Graumann)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mizi, <i>a dancer</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Milli, <i>a dancer</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mary, <i>a dancer</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A Spanish girl, <i>a dancer</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>The count, <i>24 years old</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>The baron, <i>50 years old</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The chevalier, <i>30–35 years old</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Fritz\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><b>Act 3</b>\n</td></tr>\n<tr>\n<td>Fritz\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Tini (alias Grete Graumann)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Rudolf, a doctor, Fritz's friend\n</td>\n<td>high bass or baritone\n</td>\n</tr>\n<tr>\n<td>Dr. Vigelius\n</td>\n<td>high bass\n</td>\n</tr>\n<tr>\n<td>An actor\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>First chorus member\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second chorus member\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Waitress\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>A dubious individual\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A policeman\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A servant\n</td>\n<td>speaking role\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Act 1",
+      "voiceType": ""
+    },
+    {
+      "role": "Old Graumann, a retired civil servant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Old Graumann's Wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Grete, their daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Fritz, a young artist",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Landlord of the inn \"Zum Schwan\"",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A bad actor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Dr. Vigelius, a pettifogger",
+      "voiceType": "high bass"
+    },
+    {
+      "role": "An old woman",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Act 2",
+      "voiceType": ""
+    },
+    {
+      "role": "Greta, a dancer (alias Grete Graumann)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mizi, a dancer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Milli, a dancer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mary, a dancer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A Spanish girl, a dancer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The count, 24 years old",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "The baron, 50 years old",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The chevalier, 30–35 years old",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fritz",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Act 3",
+      "voiceType": ""
+    },
+    {
+      "role": "Fritz",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Tini (alias Grete Graumann)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Rudolf, a doctor, Fritz's friend",
+      "voiceType": "high bass or baritone"
+    },
+    {
+      "role": "Dr. Vigelius",
+      "voiceType": "high bass"
+    },
+    {
+      "role": "An actor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "First chorus member",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second chorus member",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Waitress",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "A dubious individual",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A policeman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A servant",
+      "voiceType": "speaking role"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Leoš Janáček",
+  "displaytitle": "Leoš Janáček",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q184933",
+  "titles": {
+    "canonical": "Leoš_Janáček",
+    "normalized": "Leoš Janáček",
+    "display": "Leoš Janáček"
+  },
+  "pageid": 132809,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Leos_Janacek_signature.svg/320px-Leos_Janacek_signature.svg.png",
+    "width": 320,
+    "height": 155
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Leos_Janacek_signature.svg/450px-Leos_Janacek_signature.svg.png",
+    "width": 450,
+    "height": 218
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100769169",
+  "tid": "d5d224e0-178d-11ed-b99a-b593b0076027",
+  "timestamp": "2022-07-27T15:55:26Z",
+  "description": "Czech composer (1854–1928)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek",
+      "revisions": "https://en.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Leo%C5%A1_Jan%C3%A1%C4%8Dek"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Leo%C5%A1_Jan%C3%A1%C4%8Dek",
+      "edit": "https://en.m.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Leo%C5%A1_Jan%C3%A1%C4%8Dek"
+    }
+  },
+  "extract": "Leoš Janáček was a Czech composer, musical theorist, folklorist, publicist, and teacher. He was inspired by Moravian and other Slavic musics, including Eastern European folk music, to create an original, modern musical style.",
+  "extract_html": "<p><b>Leoš Janáček</b> was a Czech composer, musical theorist, folklorist, publicist, and teacher. He was inspired by Moravian and other Slavic musics, including Eastern European folk music, to create an original, modern musical style.</p>"
+}

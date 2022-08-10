@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Iphigénie en Aulide",
+  "displaytitle": "<i>Iphigénie en Aulide</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q248892",
+  "titles": {
+    "canonical": "Iphigénie_en_Aulide",
+    "normalized": "Iphigénie en Aulide",
+    "display": "<i>Iphigénie en Aulide</i>"
+  },
+  "pageid": 6169448,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Frontespizio_Ifigenia_in_Aulide.JPG/203px-Frontespizio_Ifigenia_in_Aulide.JPG",
+    "width": 203,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Frontespizio_Ifigenia_in_Aulide.JPG",
+    "width": 1778,
+    "height": 2799
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731960",
+  "tid": "31d8f700-fe89-11ec-a274-df28fe9368b6",
+  "timestamp": "2022-05-02T04:16:09Z",
+  "description": "Opera by Christoph Willibald Gluck",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Aulide",
+      "revisions": "https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Aulide?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Aulide?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Iphig%C3%A9nie_en_Aulide"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Iphig%C3%A9nie_en_Aulide",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Iphig%C3%A9nie_en_Aulide",
+      "edit": "https://en.m.wikipedia.org/wiki/Iphig%C3%A9nie_en_Aulide?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Iphig%C3%A9nie_en_Aulide"
+    }
+  },
+  "extract": "Iphigénie en Aulide is an opera in three acts by Christoph Willibald Gluck, the first work he wrote for the Paris stage. The libretto was written by François-Louis Gand Le Bland Du Roullet and was based on Jean Racine's tragedy Iphigénie, itself based on the play Iphigenia in Aulis by Euripides. It was premiered on 19 April 1774 by the Paris Opéra in the second Salle du Palais-Royal and revived in a slightly revised version the following year.",
+  "extract_html": "<p><i><b>Iphigénie en Aulide</b></i> is an opera in three acts by Christoph Willibald Gluck, the first work he wrote for the Paris stage. The libretto was written by François-Louis Gand Le Bland Du Roullet and was based on Jean Racine's tragedy <i>Iphigénie</i>, itself based on the play <i>Iphigenia in Aulis</i> by Euripides. It was premiered on 19 April 1774 by the Paris Opéra in the second Salle du Palais-Royal and revived in a slightly revised version the following year.</p>"
+}

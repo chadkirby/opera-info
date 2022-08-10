@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "The Merry Wives of Windsor (opera)",
+  "displaytitle": "<i>The Merry Wives of Windsor</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q615663",
+  "titles": {
+    "canonical": "The_Merry_Wives_of_Windsor_(opera)",
+    "normalized": "The Merry Wives of Windsor (opera)",
+    "display": "<i>The Merry Wives of Windsor</i> (opera)"
+  },
+  "pageid": 1924302,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Otto_Nicolai.jpg/279px-Otto_Nicolai.jpg",
+    "width": 279,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Otto_Nicolai.jpg",
+    "width": 829,
+    "height": 949
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086323197",
+  "tid": "d1b0c8d0-15f8-11ed-9131-9def0c1c5726",
+  "timestamp": "2022-05-05T14:05:40Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Merry_Wives_of_Windsor_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Merry_Wives_of_Windsor_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Merry_Wives_of_Windsor_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Merry_Wives_of_Windsor_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Merry_Wives_of_Windsor_(opera)"
+    }
+  },
+  "extract": "The Merry Wives of Windsor is an opera in three acts by Otto Nicolai to a German libretto by Salomon Hermann Mosenthal based on the play The Merry Wives of Windsor by William Shakespeare.",
+  "extract_html": "<p><i><b>The Merry Wives of Windsor</b></i> is an opera in three acts by Otto Nicolai to a German libretto by Salomon Hermann Mosenthal based on the play <i>The Merry Wives of Windsor</i> by William Shakespeare.</p>"
+}

@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<br>25 November 1847<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup>\n</th></tr>\n<tr>\n<td>Lady Harriet Durham, <i>maid of honor to Queen Anne ('Martha')</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Nancy, <i>her servant ('Julia')</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Plunkett, <i>a young farmer</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Lyonel, <i>his foster brother</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Sir Tristan Mickleford, <i>Lady Harriet's cousin (Farmer Bob)</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Sheriff\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>Courtiers, pages, ladies, hunters, farmers</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Lady Harriet Durham, maid of honor to Queen Anne ('Martha')",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Nancy, her servant ('Julia')",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Plunkett, a young farmer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lyonel, his foster brother",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sir Tristan Mickleford, Lady Harriet's cousin (Farmer Bob)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sheriff",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Courtiers, pages, ladies, hunters, farmers",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 19 April 1774<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup> Conductor: <a href=\"/wiki/Louis-Joseph_Franc%C5%93ur\" title=\"Louis-Joseph Francœur\">Louis-Joseph Francœur</a>) <br>(Choreograph: <a href=\"/wiki/Ga%C3%A9tan_Vestris\" title=\"Gaétan Vestris\">Gaétan Vestris</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Agamemnon\" title=\"Agamemnon\">Agamemnon</a>, <i>King of <a href=\"/wiki/Mycenae\" title=\"Mycenae\">Mycenae</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Clitemnestre (<a href=\"/wiki/Clytemnestra\" title=\"Clytemnestra\">Clytemnestra</a>), <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Iphigénie (<a href=\"/wiki/Iphigenia\" title=\"Iphigenia\">Iphigenia</a>), <i>their daughter</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Achille (<a href=\"/wiki/Achilles\" title=\"Achilles\">Achilles</a>), <i>a <a href=\"/wiki/Ancient_Greece\" title=\"Ancient Greece\">Greek</a> hero</i>\n</td>\n<td><a href=\"/wiki/Haute-contre\" title=\"Haute-contre\">haute-contre</a>\n</td>\n</tr>\n<tr>\n<td>Patrocle (<a href=\"/wiki/Patroclus\" title=\"Patroclus\">Patroclus</a>)\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Calchas\" title=\"Calchas\">Calchas</a>, <i>the High Priest</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Arcas\" title=\"Arcas\">Arcas</a>\n</td>\n<td>bass\n</td>\n</tr>\n\n<tr>\n<td>Three Greek women\n</td>\n<td>sopranos\n</td>\n</tr>\n<tr>\n<td>A Lesbian slave woman\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Greek soldiers and people; Thessalian warriors; women from Argos; women from Aulis; men, women and slaves from Lesbos; priestesses of <a href=\"/wiki/Diana_(mythology)\" title=\"Diana (mythology)\">Diana</a></i>:<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup> choir\n</td></tr>\n<tr>\n<td colspan=\"3\"><center><i><b>Ballet</b></i> <sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup><br><i>ballerinas</i>: <a href=\"/wiki/Marie-Madeleine_Guimard\" title=\"Marie-Madeleine Guimard\">Marie-Madeleine Guimard</a>, <a href=\"/wiki/Marie_Allard\" title=\"Marie Allard\">Marie Allard</a>, <a href=\"/wiki/Anna_Heinel\" title=\"Anna Heinel\">Anna Heinel</a>, Peslin; <i>male dancers</i>: <a href=\"/wiki/Ga%C3%A9tan_Vestris\" title=\"Gaétan Vestris\">Gaétan Vestris</a>, <a href=\"/wiki/Maximilien_Gardel\" title=\"Maximilien Gardel\">Maximilien Gardel</a></center>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Agamemnon, King of Mycenae",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Clitemnestre (Clytemnestra), his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Iphigénie (Iphigenia), their daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Achille (Achilles), a Greek hero",
+      "voiceType": "haute-contre"
+    },
+    {
+      "role": "Patrocle (Patroclus)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Calchas, the High Priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Arcas",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Three Greek women",
+      "voiceType": "sopranos"
+    },
+    {
+      "role": "A Lesbian slave woman",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Greek soldiers and people; Thessalian warriors; women from Argos; women from Aulis; men, women and slaves from Lesbos; priestesses of Diana: choir",
+      "voiceType": ""
+    },
+    {
+      "role": "Ballet \nballerinas: Marie-Madeleine Guimard, Marie Allard, Anna Heinel, Peslin; male dancers: Gaétan Vestris, Maximilien Gardel",
+      "voiceType": ""
+    }
+  ]
+}

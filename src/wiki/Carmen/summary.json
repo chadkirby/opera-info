@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Carmen",
+  "displaytitle": "<i>Carmen</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q185968",
+  "titles": {
+    "canonical": "Carmen",
+    "normalized": "Carmen",
+    "display": "<i>Carmen</i>"
+  },
+  "pageid": 37914,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg/234px-Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg",
+    "width": 234,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg",
+    "width": 6536,
+    "height": 8944
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100399728",
+  "tid": "60674d60-142d-11ed-a18a-e7c90856f258",
+  "timestamp": "2022-07-25T18:38:33Z",
+  "description": "Opera by Georges Bizet",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Carmen",
+      "revisions": "https://en.wikipedia.org/wiki/Carmen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Carmen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Carmen"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Carmen",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Carmen",
+      "edit": "https://en.m.wikipedia.org/wiki/Carmen?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Carmen"
+    }
+  },
+  "extract": "Carmen is an opera in four acts by the French composer Georges Bizet. The libretto was written by Henri Meilhac and Ludovic Halévy, based on the novella of the same title by Prosper Mérimée. The opera was first performed by the Opéra-Comique in Paris on 3 March 1875, where its breaking of conventions shocked and scandalised its first audiences.",
+  "extract_html": "<p><i><b>Carmen</b></i> is an opera in four acts by the French composer Georges Bizet. The libretto was written by Henri Meilhac and Ludovic Halévy, based on the novella of the same title by Prosper Mérimée. The opera was first performed by the Opéra-Comique in Paris on 3 March 1875, where its breaking of conventions shocked and scandalised its first audiences.</p>"
+}

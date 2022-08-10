@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-Institute_4-0\" class=\"reference\"><a href=\"#cite_note-Institute-4\">[4]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>First performance, 20 February 1724<br>\n</th></tr>\n<tr>\n<td>Giulio Cesare (<a href=\"/wiki/Julius_Caesar\" title=\"Julius Caesar\">Julius Caesar</a>)\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Cleopatra\" title=\"Cleopatra\">Cleopatra</a>, <i>Queen of Egypt</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Ptolemy_XIII_Theos_Philopator\" title=\"Ptolemy XIII Theos Philopator\">Tolomeo</a>, <i>her brother, King of Egypt</i>\n</td>\n<td>alto castrato\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Cornelia_Metella\" title=\"Cornelia Metella\">Cornelia</a>, <i>widow of <a href=\"/wiki/Pompey\" title=\"Pompey\">Pompey</a></i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Sextus_Pompey\" title=\"Sextus Pompey\">Sesto</a>, <i>her <a href=\"/wiki/Stepson\" class=\"mw-redirect\" title=\"Stepson\">stepson</a></i>\n</td>\n<td>soprano (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Achillas\" title=\"Achillas\">Achilla</a>, <i>Tolomeo's <a href=\"/wiki/General_officer\" title=\"General officer\">General</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Gaius_Scribonius_Curio_(praetor_49_BC)\" class=\"mw-redirect\" title=\"Gaius Scribonius Curio (praetor 49 BC)\">Curio</a>, <i>a <a href=\"/wiki/Praetor\" title=\"Praetor\">praetor</a>, Caesar's General</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Nireno, <i>Cleopatra's and Tolomeo's servant</i>\n</td>\n<td>alto castrato\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Giulio Cesare (Julius Caesar)",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Cleopatra, Queen of Egypt",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Tolomeo, her brother, King of Egypt",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Cornelia, widow of Pompey",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Sesto, her stepson",
+      "voiceType": "soprano (en travesti)"
+    },
+    {
+      "role": "Achilla, Tolomeo's General",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Curio, a praetor, Caesar's General",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Nireno, Cleopatra's and Tolomeo's servant",
+      "voiceType": "alto castrato"
+    }
+  ]
+}

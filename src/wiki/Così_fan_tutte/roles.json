@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[10]</a></sup>\n</th>\n<th>Premiere cast, 26 January 1790<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: W. A. Mozart\n</th></tr>\n<tr>\n<td>Fiordiligi, <i>lady from Ferrara and sister to Dorabella, living in Naples</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Dorabella, <i>lady from Ferrara and sister to Fiordiligi, living in Naples</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Guglielmo (spelled \"Guilelmo\" by the librettist), <i>lover of Fiordiligi, a soldier</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Ferrando, <i>lover of Dorabella, a soldier</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Despina, <i>a maid</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Don Alfonso, <i>an old philosopher</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: soldiers, servants, sailors</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Fiordiligi, lady from Ferrara and sister to Dorabella, living in Naples",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Dorabella, lady from Ferrara and sister to Fiordiligi, living in Naples",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Guglielmo (spelled \"Guilelmo\" by the librettist), lover of Fiordiligi, a soldier",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ferrando, lover of Dorabella, a soldier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Despina, a maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Don Alfonso, an old philosopher",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: soldiers, servants, sailors",
+      "voiceType": ""
+    }
+  ]
+}

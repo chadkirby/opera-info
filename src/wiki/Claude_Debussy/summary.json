@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Claude Debussy",
+  "displaytitle": "Claude Debussy",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4700",
+  "titles": {
+    "canonical": "Claude_Debussy",
+    "normalized": "Claude Debussy",
+    "display": "Claude Debussy"
+  },
+  "pageid": 6260,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Claude_Debussy_atelier_Nadar.jpg/262px-Claude_Debussy_atelier_Nadar.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/b4/Claude_Debussy_atelier_Nadar.jpg",
+    "width": 932,
+    "height": 1140
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102209105",
+  "tid": "9d974800-173b-11ed-a2ff-b330190653be",
+  "timestamp": "2022-08-03T22:53:33Z",
+  "description": "French classical composer (1862–1918)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Claude_Debussy",
+      "revisions": "https://en.wikipedia.org/wiki/Claude_Debussy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Claude_Debussy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Claude_Debussy"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Claude_Debussy",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Claude_Debussy",
+      "edit": "https://en.m.wikipedia.org/wiki/Claude_Debussy?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Claude_Debussy"
+    }
+  },
+  "extract": "(Achille) Claude Debussy was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.",
+  "extract_html": "<p>(<b>Achille</b>) <b>Claude Debussy</b> was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.</p>"
+}

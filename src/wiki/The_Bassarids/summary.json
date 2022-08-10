@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Bassarids",
+  "displaytitle": "<i>The Bassarids</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q844406",
+  "titles": {
+    "canonical": "The_Bassarids",
+    "normalized": "The Bassarids",
+    "display": "<i>The Bassarids</i>"
+  },
+  "pageid": 5034740,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg/229px-Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 572,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087133463",
+  "tid": "d296e310-15f8-11ed-a79e-ff24deacbce2",
+  "timestamp": "2022-05-10T15:28:53Z",
+  "description": "Opera by Hans Werner Henze",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Bassarids",
+      "revisions": "https://en.wikipedia.org/wiki/The_Bassarids?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Bassarids?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Bassarids"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Bassarids",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Bassarids",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Bassarids?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Bassarids"
+    }
+  },
+  "extract": "The Bassarids is an opera in one act and an intermezzo, with music by Hans Werner Henze to an English libretto by W. H. Auden and Chester Kallman, after Euripides's The Bacchae.",
+  "extract_html": "<p><i><b>The Bassarids</b></i> is an opera in one act and an intermezzo, with music by Hans Werner Henze to an English libretto by W. H. Auden and Chester Kallman, after Euripides's <i>The Bacchae</i>.</p>"
+}

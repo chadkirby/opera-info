@@ -1,0 +1,12 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">La serva padrona</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera_buffa\" title=\"Opera buffa\">Opera buffa</a> by <a href=\"/wiki/Giovanni_Battista_Pergolesi\" title=\"Giovanni Battista Pergolesi\">G. B. Pergolesi</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:La_Serva_Padrona.jpg\" class=\"image\"><img alt=\"La Serva Padrona.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/La_Serva_Padrona.jpg/260px-La_Serva_Padrona.jpg\" decoding=\"async\" width=\"260\" height=\"229\" srcset=\"//upload.wikimedia.org/wikipedia/commons/a/a9/La_Serva_Padrona.jpg 1.5x\" data-file-width=\"300\" data-file-height=\"264\"></a><div class=\"infobox-caption\">Title page of a vintage opera program</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Description</th><td class=\"infobox-data\"><a href=\"/wiki/Intermezzo\" title=\"Intermezzo\">Intermezzo</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>The Maid Turned Mistress</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><a href=\"/wiki/Gennaro_Federico\" title=\"Gennaro Federico\">Gennaro Federico</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i>La serva padrona</i><br>by Jacopo Angello Nelli</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">5&nbsp;September&nbsp;1733<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1733-09-05</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Teatro_San_Bartolomeo\" class=\"mw-redirect\" title=\"Teatro San Bartolomeo\">Teatro San Bartolomeo</a>, <a href=\"/wiki/Naples\" title=\"Naples\">Naples</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "La serva padrona"
+  ],
+  "Description": "Intermezzo",
+  "Translation": "The Maid Turned Mistress",
+  "Librettist": "Gennaro Federico",
+  "Language": "Italian",
+  "Based on": "La serva padrona\nby Jacopo Angello Nelli",
+  "Premiere": "5 September 1733\nTeatro San Bartolomeo, Naples"
+}

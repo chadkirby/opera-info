@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Igor Stravinsky",
+  "displaytitle": "Igor Stravinsky",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7314",
+  "titles": {
+    "canonical": "Igor_Stravinsky",
+    "normalized": "Igor Stravinsky",
+    "display": "Igor Stravinsky"
+  },
+  "pageid": 38172,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Igor_Stravinsky_LOC_32392u.jpg/265px-Igor_Stravinsky_LOC_32392u.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg",
+    "width": 4477,
+    "height": 5410
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102795125",
+  "tid": "e6d5e9c0-1837-11ed-9dd7-cbfba3dc30f3",
+  "timestamp": "2022-08-06T23:16:22Z",
+  "description": "Russian composer and pianist (1882–1971)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+      "revisions": "https://en.wikipedia.org/wiki/Igor_Stravinsky?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Igor_Stravinsky?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Igor_Stravinsky"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Igor_Stravinsky",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Igor_Stravinsky",
+      "edit": "https://en.m.wikipedia.org/wiki/Igor_Stravinsky?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Igor_Stravinsky"
+    }
+  },
+  "extract": "Igor Fyodorovich Stravinsky was a Russian composer, pianist and conductor, later of French and American citizenship. He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
+  "extract_html": "<p><b>Igor Fyodorovich Stravinsky</b> was a Russian composer, pianist and conductor, later of French and American citizenship. He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.</p>"
+}

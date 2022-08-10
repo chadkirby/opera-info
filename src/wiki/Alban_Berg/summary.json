@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Alban Berg",
+  "displaytitle": "Alban Berg",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q78475",
+  "titles": {
+    "canonical": "Alban_Berg",
+    "normalized": "Alban Berg",
+    "display": "Alban Berg"
+  },
+  "pageid": 2406,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg/211px-Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg",
+    "width": 211,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg",
+    "width": 1035,
+    "height": 1567
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098274368",
+  "tid": "e18a05a0-178d-11ed-8357-6dd992624b7f",
+  "timestamp": "2022-07-15T02:15:14Z",
+  "description": "Austrian composer (1885–1935)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alban_Berg",
+      "revisions": "https://en.wikipedia.org/wiki/Alban_Berg?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alban_Berg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alban_Berg"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Alban_Berg",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Alban_Berg",
+      "edit": "https://en.m.wikipedia.org/wiki/Alban_Berg?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Alban_Berg"
+    }
+  },
+  "extract": "Alban Maria Johannes Berg was an Austrian composer of the Second Viennese School. His compositional style combined Romantic lyricism with the twelve-tone technique. Although he left a relatively small oeuvre, he is remembered as one of the most important composers of the 20th century for his expressive style encompassing \"entire worlds of emotion and structure\".",
+  "extract_html": "<p><b>Alban Maria Johannes Berg</b> was an Austrian composer of the Second Viennese School. His compositional style combined Romantic lyricism with the twelve-tone technique. Although he left a relatively <span>small <i>oeuvre</i></span>, he is remembered as one of the most important composers of the 20th century for his expressive style encompassing \"entire worlds of emotion and structure\".</p>"
+}

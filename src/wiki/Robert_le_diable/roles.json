@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 21 November 1831<br>(Conductor: <a href=\"/wiki/Fran%C3%A7ois_Habeneck\" title=\"François Habeneck\">François Habeneck</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Robert_I,_Duke_of_Normandy\" title=\"Robert I, Duke of Normandy\">Robert</a>, <i>Duke of Normandy</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Isabelle, <i>Princess of Sicily Palmide</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Bertram, <i>Robert's friend</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Alice, <i>Robert's half-sister and Raimbaut's <a href=\"/wiki/Fianc%C3%A9e\" class=\"mw-redirect\" title=\"Fiancée\">fiancée</a></i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Raimbaut, <i>a <a href=\"/wiki/Minstrel\" title=\"Minstrel\">minstrel</a></i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Alberti, <i>a knight</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Herald\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Lady-in-waiting to Isabelle\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Priest\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Prince of Granada\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td>Hėléna, <i>Abbess</i>\n</td>\n<td><a href=\"/wiki/Ballerina\" class=\"mw-redirect\" title=\"Ballerina\">ballerina</a>\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Robert, Duke of Normandy",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Isabelle, Princess of Sicily Palmide",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Bertram, Robert's friend",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Alice, Robert's half-sister and Raimbaut's fiancée",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Raimbaut, a minstrel",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Alberti, a knight",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Herald",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lady-in-waiting to Isabelle",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Prince of Granada",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Hėléna, Abbess",
+      "voiceType": "ballerina"
+    }
+  ]
+}

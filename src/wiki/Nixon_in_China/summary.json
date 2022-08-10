@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Nixon in China",
+  "displaytitle": "<i>Nixon in China</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1146706",
+  "titles": {
+    "canonical": "Nixon_in_China",
+    "normalized": "Nixon in China",
+    "display": "<i>Nixon in China</i>"
+  },
+  "pageid": 262613,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Nixon_In_China_San_Diego_Opera_Poster_2015.png/210px-Nixon_In_China_San_Diego_Opera_Poster_2015.png",
+    "width": 210,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/e2/Nixon_In_China_San_Diego_Opera_Poster_2015.png",
+    "width": 256,
+    "height": 389
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1073334868",
+  "tid": "a935c720-1869-11ed-be06-3b3dabaf06ad",
+  "timestamp": "2022-02-22T06:01:56Z",
+  "description": "1987 opera by John Adams",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Nixon_in_China",
+      "revisions": "https://en.wikipedia.org/wiki/Nixon_in_China?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Nixon_in_China?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nixon_in_China"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Nixon_in_China",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Nixon_in_China",
+      "edit": "https://en.m.wikipedia.org/wiki/Nixon_in_China?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Nixon_in_China"
+    }
+  },
+  "extract": "Nixon in China is an opera in three acts by John Adams with a libretto by Alice Goodman. Adams's first opera, it was inspired by U.S. president Richard Nixon's 1972 visit to the People's Republic of China. The work premiered at the Houston Grand Opera on October 22, 1987, in a production by Peter Sellars with choreography by Mark Morris. When Sellars approached Adams with the idea for the opera in 1983, Adams was initially reluctant, but eventually decided that the work could be a study in how myths come to be, and accepted the project. Goodman's libretto was the result of considerable research into Nixon's visit, though she disregarded most sources published after the 1972 trip.",
+  "extract_html": "<p><i><b>Nixon in China</b></i> is an opera in three acts by John Adams with a libretto by Alice Goodman. Adams's first opera, it was inspired by U.S. president Richard Nixon's 1972 visit to the People's Republic of China. The work premiered at the Houston Grand Opera on October 22, 1987, in a production by Peter Sellars with choreography by Mark Morris. When Sellars approached Adams with the idea for the opera in 1983, Adams was initially reluctant, but eventually decided that the work could be a study in how myths come to be, and accepted the project. Goodman's libretto was the result of considerable research into Nixon's visit, though she disregarded most sources published after the 1972 trip.</p>"
+}

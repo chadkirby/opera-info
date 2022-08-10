@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Samuel Barber",
+  "displaytitle": "Samuel Barber",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q216870",
+  "titles": {
+    "canonical": "Samuel_Barber",
+    "normalized": "Samuel Barber",
+    "display": "Samuel Barber"
+  },
+  "pageid": 78910,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Samuel_Barber.jpg/229px-Samuel_Barber.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Samuel_Barber.jpg",
+    "width": 262,
+    "height": 366
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098646466",
+  "tid": "6fe045e0-119d-11ed-b3c0-41fcbd93cc7d",
+  "timestamp": "2022-07-16T20:50:09Z",
+  "description": "American composer (1910–1981)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Samuel_Barber",
+      "revisions": "https://en.wikipedia.org/wiki/Samuel_Barber?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Samuel_Barber?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Samuel_Barber"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Samuel_Barber",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Samuel_Barber",
+      "edit": "https://en.m.wikipedia.org/wiki/Samuel_Barber?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Samuel_Barber"
+    }
+  },
+  "extract": "Samuel Osmond Barber II was an American composer, pianist, conductor, baritone, and music educator, and one of the most celebrated composers of the 20th century. The music critic Donal Henahan said, \"Probably no other American composer has ever enjoyed such early, such persistent and such long-lasting acclaim.\" Principally influenced by nine years' composition studies with Rosario Scalero at the Curtis Institute and more than 25 years' study with his uncle, the composer Sidney Homer, Barber's music usually eschewed the experimental trends of musical modernism in favor of traditional 19th-century harmonic language and formal structure embracing lyricism and emotional expression. However, he adopted elements of modernism after 1940 in some of his compositions, such as an increased use of dissonance and chromaticism in the Cello Concerto (1945) and Medea's Dance of Vengeance (1955); and the use of tonal ambiguity and a narrow use of serialism in his Piano Sonata (1949), Prayers of Kierkegaard (1954), and Nocturne (1959).",
+  "extract_html": "<p><b>Samuel Osmond Barber II</b> was an American composer, pianist, conductor, baritone, and music educator, and one of the most celebrated composers of the 20th century. The music critic Donal Henahan said, \"Probably no other American composer has ever enjoyed such early, such persistent and such long-lasting acclaim.\" Principally influenced by nine years' composition studies with Rosario Scalero at the Curtis Institute and more than 25 years' study with his uncle, the composer Sidney Homer, Barber's music usually eschewed the experimental trends of musical modernism in favor of traditional 19th-century harmonic language and formal structure embracing lyricism and emotional expression. However, he adopted elements of modernism after 1940 in some of his compositions, such as an increased use of dissonance and chromaticism in the <i>Cello Concerto</i> (1945) and <i>Medea's Dance of Vengeance</i> (1955); and the use of tonal ambiguity and a narrow use of serialism in his <i>Piano Sonata</i> (1949), <i>Prayers of Kierkegaard</i> (1954), and <i>Nocturne</i> (1959).</p>"
+}

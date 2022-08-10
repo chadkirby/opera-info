@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La sonnambula",
+  "displaytitle": "<i>La sonnambula</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q753123",
+  "titles": {
+    "canonical": "La_sonnambula",
+    "normalized": "La sonnambula",
+    "display": "<i>La sonnambula</i>"
+  },
+  "pageid": 354425,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sonnambula_atto_3.jpg/239px-Sonnambula_atto_3.jpg",
+    "width": 239,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sonnambula_atto_3.jpg",
+    "width": 299,
+    "height": 400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100999848",
+  "tid": "a35ca6d0-0eae-11ed-a33f-e3f4e59d6974",
+  "timestamp": "2022-07-28T19:51:10Z",
+  "description": "Opera by Vincenzo Bellini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_sonnambula",
+      "revisions": "https://en.wikipedia.org/wiki/La_sonnambula?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_sonnambula?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_sonnambula"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_sonnambula",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_sonnambula",
+      "edit": "https://en.m.wikipedia.org/wiki/La_sonnambula?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_sonnambula"
+    }
+  },
+  "extract": "La sonnambula is an opera semiseria in two acts, with music in the bel canto tradition by Vincenzo Bellini set to an Italian libretto by Felice Romani, based on a scenario for a ballet-pantomime written by Eugène Scribe and choreographed by Jean-Pierre Aumer called La somnambule, ou L'arrivée d'un nouveau seigneur. The ballet had premiered in Paris in September 1827 at the height of a fashion for stage works incorporating somnambulism.",
+  "extract_html": "<p><i><b>La sonnambula</b></i> is an opera semiseria in two acts, with music in the <i>bel canto</i> tradition by Vincenzo Bellini set to an Italian libretto by Felice Romani, based on a scenario for a <i>ballet-pantomime</i> written by Eugène Scribe and choreographed by Jean-Pierre Aumer called <i>La somnambule, ou L'arrivée d'un nouveau seigneur</i>. The ballet had premiered in Paris in September 1827 at the height of a fashion for stage works incorporating somnambulism.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Stiffelio",
+  "displaytitle": "<i>Stiffelio</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q371584",
+  "titles": {
+    "canonical": "Stiffelio",
+    "normalized": "Stiffelio",
+    "display": "<i>Stiffelio</i>"
+  },
+  "pageid": 2677569,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lars_Cleveman_and_Lena_Nordin_in_Stiffelio_2011.jpg/320px-Lars_Cleveman_and_Lena_Nordin_in_Stiffelio_2011.jpg",
+    "width": 320,
+    "height": 213
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lars_Cleveman_and_Lena_Nordin_in_Stiffelio_2011.jpg",
+    "width": 2600,
+    "height": 1730
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102729470",
+  "tid": "ab910f20-159e-11ed-99b9-c9ca608b2c31",
+  "timestamp": "2022-08-06T15:44:32Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Stiffelio",
+      "revisions": "https://en.wikipedia.org/wiki/Stiffelio?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Stiffelio?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Stiffelio"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Stiffelio",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Stiffelio",
+      "edit": "https://en.m.wikipedia.org/wiki/Stiffelio?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Stiffelio"
+    }
+  },
+  "extract": "Stiffelio is an opera in three acts by Giuseppe Verdi, from an Italian libretto by Francesco Maria Piave. The origin of this was the novel Le pasteur d’hommes, by Émile Souvestre, which was published in 1838. This was adapted into the French play Le pasteur, ou L'évangile et le foyer by Souvestre together with Eugène Bourgeois. That play was in turn translated into Italian by Gaetano Vestri as Stifellius; this formed the basis of Piave's libretto.",
+  "extract_html": "<p><i><b>Stiffelio</b></i> is an opera in three acts by Giuseppe Verdi, from an Italian libretto by Francesco Maria Piave. The origin of this was the novel <i>Le pasteur d’hommes</i>, by Émile Souvestre, which was published in 1838. This was adapted into the French play <i>Le pasteur, ou L'évangile et le foyer</i> by Souvestre together with Eugène Bourgeois. That play was in turn translated into Italian by Gaetano Vestri as <i>Stifellius</i>; this formed the basis of Piave's libretto.</p>"
+}

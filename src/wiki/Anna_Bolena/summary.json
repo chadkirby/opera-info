@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Anna Bolena",
+  "displaytitle": "<i>Anna Bolena</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q559848",
+  "titles": {
+    "canonical": "Anna_Bolena",
+    "normalized": "Anna Bolena",
+    "display": "<i>Anna Bolena</i>"
+  },
+  "pageid": 552269,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Karl_Brullov_-_Giuditta_Pasta_in_the_role_of_Anne_Boleyn.jpg/217px-Karl_Brullov_-_Giuditta_Pasta_in_the_role_of_Anne_Boleyn.jpg",
+    "width": 217,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Karl_Brullov_-_Giuditta_Pasta_in_the_role_of_Anne_Boleyn.jpg",
+    "width": 695,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1066501316",
+  "tid": "c676ca00-fb72-11ec-b9bd-1d03d9f0992f",
+  "timestamp": "2022-01-18T17:27:33Z",
+  "description": "Opera by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Anna_Bolena",
+      "revisions": "https://en.wikipedia.org/wiki/Anna_Bolena?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Anna_Bolena?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Anna_Bolena"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Anna_Bolena",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Anna_Bolena",
+      "edit": "https://en.m.wikipedia.org/wiki/Anna_Bolena?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Anna_Bolena"
+    }
+  },
+  "extract": "Anna Bolena is a tragic opera in two acts composed by Gaetano Donizetti. Felice Romani wrote the Italian libretto after Ippolito Pindemonte's Enrico VIII ossia Anna Bolena and Alessandro Pepoli's Anna Bolena, both recounting the life of Anne Boleyn, the second wife of England's King Henry VIII.",
+  "extract_html": "<p><i><b>Anna Bolena</b></i> is a tragic opera in two acts composed by Gaetano Donizetti. Felice Romani wrote the Italian libretto after Ippolito Pindemonte's <i>Enrico VIII ossia Anna Bolena</i> and Alessandro Pepoli's <i>Anna Bolena</i>, both recounting the life of Anne Boleyn, the second wife of England's King Henry VIII.</p>"
+}

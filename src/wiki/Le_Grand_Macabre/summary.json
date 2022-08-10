@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Le Grand Macabre",
+  "displaytitle": "<i>Le Grand Macabre</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1062427",
+  "titles": {
+    "canonical": "Le_Grand_Macabre",
+    "normalized": "Le Grand Macabre",
+    "display": "<i>Le Grand Macabre</i>"
+  },
+  "pageid": 1535354,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087725907",
+  "tid": "e7b2cbd0-f9a4-11ec-9c79-e92f92916c57",
+  "timestamp": "2022-05-14T04:30:39Z",
+  "description": "Opera by György Ligeti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Le_Grand_Macabre",
+      "revisions": "https://en.wikipedia.org/wiki/Le_Grand_Macabre?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Le_Grand_Macabre?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Le_Grand_Macabre"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Le_Grand_Macabre",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Le_Grand_Macabre",
+      "edit": "https://en.m.wikipedia.org/wiki/Le_Grand_Macabre?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Le_Grand_Macabre"
+    }
+  },
+  "extract": "Le Grand Macabre is the only opera by Hungarian composer György Ligeti. The opera has two acts, and its libretto—based on the 1934 play La balade du grand macabre by Michel de Ghelderode—was written by Ligeti in collaboration with Michael Meschke, director of the Stockholm puppet theatre. The original libretto was written in German as Der grosse Makaber but for the first production was translated into Swedish by Meschke under its current title. The opera has been performed also in English, French, Italian, Hungarian and Danish. Only a few notes need be changed to perform the opera in any of these languages.",
+  "extract_html": "<p><i><b>Le Grand Macabre</b></i> is the only opera by Hungarian composer György Ligeti. The opera has two acts, and its libretto—based on the 1934 play <i>La balade du grand macabre</i> by Michel de Ghelderode—was written by Ligeti in collaboration with Michael Meschke, director of the Stockholm puppet theatre. The original libretto was written in German as <i>Der grosse Makaber</i> but for the first production was translated into Swedish by Meschke under its current title. The opera has been performed also in English, French, Italian, Hungarian and Danish. Only a few notes need be changed to perform the opera in any of these languages.</p>"
+}

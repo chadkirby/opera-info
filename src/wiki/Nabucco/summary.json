@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Nabucco",
+  "displaytitle": "<i>Nabucco</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q202230",
+  "titles": {
+    "canonical": "Nabucco",
+    "normalized": "Nabucco",
+    "display": "<i>Nabucco</i>"
+  },
+  "pageid": 1192212,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Verdi-Nabucco-1842-original_costume_sketch.jpg",
+    "width": 147,
+    "height": 215
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Verdi-Nabucco-1842-original_costume_sketch.jpg",
+    "width": 147,
+    "height": 215
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085157075",
+  "tid": "6b25c3f0-1854-11ed-852f-95fa309f3698",
+  "timestamp": "2022-04-28T19:33:14Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Nabucco",
+      "revisions": "https://en.wikipedia.org/wiki/Nabucco?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Nabucco?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nabucco"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Nabucco",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Nabucco",
+      "edit": "https://en.m.wikipedia.org/wiki/Nabucco?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Nabucco"
+    }
+  },
+  "extract": "Nabucco is an Italian-language opera in four acts composed in 1841 by Giuseppe Verdi to an Italian libretto by Temistocle Solera. The libretto is based on the biblical books of 2 Kings, Jeremiah, Lamentations and Daniel and the 1836 play by Auguste Anicet-Bourgeois and Francis Cornu. However, Antonio Cortese's ballet adaptation of the play, given at La Scala in 1836, was a more important source for Solera than the play itself. Under its original name of Nabucodonosor, the opera was first performed at La Scala in Milan on 9 March 1842.",
+  "extract_html": "<p><i><b>Nabucco</b></i> is an Italian-language opera in four acts composed in 1841 by Giuseppe Verdi to an Italian libretto by Temistocle Solera. The libretto is based on the biblical books of 2 Kings, Jeremiah, Lamentations and Daniel and the 1836 play by Auguste Anicet-Bourgeois and Francis Cornu. However, Antonio Cortese's ballet adaptation of the play, given at La Scala in 1836, was a more important source for Solera than the play itself. Under its original name of <i>Nabucodonosor</i>, the opera was first performed at La Scala in Milan on 9 March 1842.</p>"
+}

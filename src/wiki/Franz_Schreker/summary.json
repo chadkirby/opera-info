@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Franz Schreker",
+  "displaytitle": "Franz Schreker",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q78528",
+  "titles": {
+    "canonical": "Franz_Schreker",
+    "normalized": "Franz Schreker",
+    "display": "Franz Schreker"
+  },
+  "pageid": 974990,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schreker_1912.jpg/246px-Schreker_1912.jpg",
+    "width": 246,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Schreker_1912.jpg",
+    "width": 474,
+    "height": 617
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097507163",
+  "tid": "11e24a30-00ca-11ed-812d-ef5a2e11ded1",
+  "timestamp": "2022-07-11T03:32:17Z",
+  "description": "Austrian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Franz_Schreker",
+      "revisions": "https://en.wikipedia.org/wiki/Franz_Schreker?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Franz_Schreker?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Franz_Schreker"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Franz_Schreker",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Franz_Schreker",
+      "edit": "https://en.m.wikipedia.org/wiki/Franz_Schreker?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Franz_Schreker"
+    }
+  },
+  "extract": "Franz Schreker was an Austrian composer, conductor, teacher and administrator. Primarily a composer of operas, Schreker developed a style characterized by aesthetic plurality, timbral experimentation, strategies of extended tonality and conception of total music theatre into the narrative of 20th-century music.",
+  "extract_html": "<p><b>Franz Schreker</b> was an Austrian composer, conductor, teacher and administrator. Primarily a composer of operas, Schreker developed a style characterized by aesthetic plurality, timbral experimentation, strategies of extended tonality and conception of total music theatre into the narrative of 20th-century music.</p>"
+}

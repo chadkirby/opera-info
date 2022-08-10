@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 9 March 1861<sup id=\"cite_ref-AA_1-1\" class=\"reference\"><a href=\"#cite_note-AA-1\">[1]</a></sup><br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Ferenc Erkel\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Andrew_II_of_Hungary\" title=\"Andrew II of Hungary\">II. Endre</a> (Andrew II), King of Hungary\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a> or <a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Gertrude_of_Merania\" title=\"Gertrude of Merania\">Gertrude</a>, his queen\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Otto_I,_Duke_of_Merania\" title=\"Otto I, Duke of Merania\">Otto</a>, Gertrude's brother, [son of Berthold IV]\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/B%C3%A1nk_B%C3%A1r-Kal%C3%A1n\" title=\"Bánk Bár-Kalán\">Bánk bán</a>, the viceroy\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Melinda, his wife\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Peter,_son_of_T%C3%B6re\" title=\"Peter, son of Töre\">Patúr-Petur bán</a>, leader of the nobles\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Tiborc, a peasant\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Biberach, <a href=\"/wiki/Knight-errant\" title=\"Knight-errant\">knight-errant</a>\n</td>\n<td>baritone or bass-baritone\n</td>\n</tr>\n<tr>\n<td>A royal officer\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Flag bearer\n</td>\n<td>baritone\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "II. Endre (Andrew II), King of Hungary",
+      "voiceType": "baritone or bass-baritone"
+    },
+    {
+      "role": "Gertrude, his queen",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Otto, Gertrude's brother, [son of Berthold IV]",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bánk bán, the viceroy",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Melinda, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Patúr-Petur bán, leader of the nobles",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Tiborc, a peasant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Biberach, knight-errant",
+      "voiceType": "baritone or bass-baritone"
+    },
+    {
+      "role": "A royal officer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Flag bearer",
+      "voiceType": "baritone"
+    }
+  ]
+}

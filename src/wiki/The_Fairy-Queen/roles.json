@@ -1,0 +1,89 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast,<br>2 May 1692<br>(Conductor: )\n</th></tr>\n<tr>\n<td>Drunken Poet\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>First Fairy\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Second Fairy\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Night\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mystery\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Secrecy\n</td>\n<td><a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a>\n</td>\n</tr>\n<tr>\n<td>Sleep\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Corydon_(character)\" title=\"Corydon (character)\">Corydon</a>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Mopsa\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>/countertenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Nymph\" title=\"Nymph\">Nymph</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>3 Attendants to Oberon\n</td>\n<td>1 soprano, 2 countertenors\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Phoebus\" class=\"mw-redirect\" title=\"Phoebus\">Phoebus</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Spring\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Summer\n</td>\n<td>countertenor\n</td>\n</tr>\n<tr>\n<td>Autumn\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Winter\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Juno_(mythology)\" title=\"Juno (mythology)\">Juno</a>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Chinese Man\n</td>\n<td>countertenor\n</td>\n</tr>\n<tr>\n<td>Chinese Woman, <i><a href=\"/wiki/Daphne\" title=\"Daphne\">Daphne</a></i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Hymen\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>Fairies and Attendants</i>.<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Drunken Poet",
+      "voiceType": "bass"
+    },
+    {
+      "role": "First Fairy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Second Fairy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Night",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mystery",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Secrecy",
+      "voiceType": "countertenor"
+    },
+    {
+      "role": "Sleep",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Corydon",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mopsa",
+      "voiceType": "soprano/countertenor"
+    },
+    {
+      "role": "Nymph",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "3 Attendants to Oberon",
+      "voiceType": "1 soprano, 2 countertenors"
+    },
+    {
+      "role": "Phoebus",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Spring",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Summer",
+      "voiceType": "countertenor"
+    },
+    {
+      "role": "Autumn",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Winter",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Juno",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chinese Man",
+      "voiceType": "countertenor"
+    },
+    {
+      "role": "Chinese Woman, Daphne",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hymen",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Fairies and Attendants.",
+      "voiceType": ""
+    }
+  ]
+}

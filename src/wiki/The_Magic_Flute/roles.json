@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types as originally written and contemporary classification, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\">[26]</a></sup>\n</th>\n<th>Contemporary<br>classification<sup id=\"cite_ref-31\" class=\"reference\"><a href=\"#cite_note-31\">[27]</a></sup>\n</th>\n<th>Premiere cast, 30 September 1791<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Wolfgang Amadeus Mozart\n</th></tr>\n<tr>\n<td>Tamino\n</td>\n<td colspan=\"2\"><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Papageno\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Pamina\n</td>\n<td colspan=\"2\"><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>The Queen of the Night<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\">[e]</a></sup>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Sarastro\n</td>\n<td colspan=\"2\">bass\n</td>\n</tr>\n<tr>\n<td>Three ladies\n</td>\n<td>3 sopranos\n</td>\n\n</tr>\n<tr>\n<td>Monostatos\n</td>\n<td colspan=\"2\">tenor\n</td>\n</tr>\n<tr>\n<td>Three child-spirits\n</td>\n<td>soprano<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\">[f]</a></sup>\n</td>\n\n</tr>\n<tr>\n<td>Speaker of the temple\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Three priests\n</td>\n<td colspan=\"2\">bass, tenor, speaking role\n</td>\n</tr>\n<tr>\n<td>Papagena\n</td>\n<td colspan=\"2\">soprano\n</td>\n</tr>\n<tr>\n<td>Two armoured men\n</td>\n<td colspan=\"2\">tenor, bass\n</td>\n</tr>\n<tr>\n<td>Three slaves\n</td>\n<td colspan=\"2\">speaking roles</td>\n</tr>\n<tr>\n<td colspan=\"4\"><i>Priests, women, people, slaves, chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Tamino",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Papageno",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Pamina",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Queen of the Night",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sarastro",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Three ladies",
+      "voiceType": "3 sopranos"
+    },
+    {
+      "role": "Monostatos",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Three child-spirits",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Speaker of the temple",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Three priests",
+      "voiceType": "bass, tenor, speaking role"
+    },
+    {
+      "role": "Papagena",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Two armoured men",
+      "voiceType": "tenor, bass"
+    },
+    {
+      "role": "Three slaves",
+      "voiceType": "speaking roles"
+    },
+    {
+      "role": "Priests, women, people, slaves, chorus",
+      "voiceType": ""
+    }
+  ]
+}

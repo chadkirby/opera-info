@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Prince Igor",
+  "displaytitle": "<i>Prince Igor</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q275354",
+  "titles": {
+    "canonical": "Prince_Igor",
+    "normalized": "Prince Igor",
+    "display": "<i>Prince Igor</i>"
+  },
+  "pageid": 39143,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Score_Prince_Igor.jpg/240px-Score_Prince_Igor.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/8/8d/Score_Prince_Igor.jpg",
+    "width": 332,
+    "height": 443
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096272259",
+  "tid": "6f2fec80-12ac-11ed-a195-1114a837faa5",
+  "timestamp": "2022-07-03T11:42:55Z",
+  "description": "Opera by Alexander Borodin",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Prince_Igor",
+      "revisions": "https://en.wikipedia.org/wiki/Prince_Igor?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Prince_Igor?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Prince_Igor"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Prince_Igor",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Prince_Igor",
+      "edit": "https://en.m.wikipedia.org/wiki/Prince_Igor?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Prince_Igor"
+    }
+  },
+  "extract": "Prince Igor is an opera in four acts with a prologue, written and composed by Alexander Borodin. The composer adapted the libretto from the Ancient Russian epic The Lay of Igor's Host, which recounts the campaign of Rus' prince Igor Svyatoslavich against the invading Cuman (\"Polovtsian\") tribes in 1185. He also incorporated material drawn from two medieval Kievan chronicles. The opera was left unfinished upon the composer's death in 1887 and was edited and completed by Nikolai Rimsky-Korsakov and Alexander Glazunov. It was first performed in St. Petersburg, Russia, in 1890. It was most recently performed at the Metropolitan Opera in New York in March of 2014.",
+  "extract_html": "<p><i><b>Prince Igor</b></i> is an opera in four acts with a prologue, written and composed by Alexander Borodin. The composer adapted the libretto from the Ancient Russian epic <i>The Lay of Igor's Host</i>, which recounts the campaign of Rus' prince Igor Svyatoslavich against the invading Cuman (\"Polovtsian\") tribes in 1185. He also incorporated material drawn from two medieval Kievan chronicles. The opera was left unfinished upon the composer's death in 1887 and was edited and completed by Nikolai Rimsky-Korsakov and Alexander Glazunov. It was first performed in St. Petersburg, Russia, in 1890. It was most recently performed at the Metropolitan Opera in New York in March of 2014.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Karol Szymanowski",
+  "displaytitle": "Karol Szymanowski",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q295400",
+  "titles": {
+    "canonical": "Karol_Szymanowski",
+    "normalized": "Karol Szymanowski",
+    "display": "Karol Szymanowski"
+  },
+  "pageid": 297703,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Karol_Szymanowski.jpg/254px-Karol_Szymanowski.jpg",
+    "width": 254,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Karol_Szymanowski.jpg",
+    "width": 1361,
+    "height": 1717
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103376790",
+  "tid": "d93e1c80-17d6-11ed-b33f-c9018f4962a5",
+  "timestamp": "2022-08-09T11:31:40Z",
+  "description": "Polish composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Karol_Szymanowski",
+      "revisions": "https://en.wikipedia.org/wiki/Karol_Szymanowski?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Karol_Szymanowski?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Karol_Szymanowski"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Karol_Szymanowski",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Karol_Szymanowski",
+      "edit": "https://en.m.wikipedia.org/wiki/Karol_Szymanowski?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Karol_Szymanowski"
+    }
+  },
+  "extract": "Karol Maciej Szymanowski was a Polish composer and pianist. He was a member of the modernist Young Poland movement that flourished in the late 19th and early 20th century.",
+  "extract_html": "<p><b>Karol Maciej Szymanowski</b> was a Polish composer and pianist. He was a member of the modernist Young Poland movement that flourished in the late 19th and early 20th century.</p>"
+}

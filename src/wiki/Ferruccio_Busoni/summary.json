@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ferruccio Busoni",
+  "displaytitle": "Ferruccio Busoni",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q219551",
+  "titles": {
+    "canonical": "Ferruccio_Busoni",
+    "normalized": "Ferruccio Busoni",
+    "display": "Ferruccio Busoni"
+  },
+  "pageid": 202343,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FerruccioBusoni1913.jpg/242px-FerruccioBusoni1913.jpg",
+    "width": 242,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/FerruccioBusoni1913.jpg",
+    "width": 1500,
+    "height": 1980
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101222459",
+  "tid": "074d9dc0-1544-11ed-b692-25a482aa62f1",
+  "timestamp": "2022-07-29T22:31:15Z",
+  "description": "Italian composer, pianist, conductor, editor, born 1866",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ferruccio_Busoni",
+      "revisions": "https://en.wikipedia.org/wiki/Ferruccio_Busoni?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ferruccio_Busoni?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ferruccio_Busoni"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ferruccio_Busoni",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ferruccio_Busoni",
+      "edit": "https://en.m.wikipedia.org/wiki/Ferruccio_Busoni?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ferruccio_Busoni"
+    }
+  },
+  "extract": "Ferruccio Busoni was an Italian composer, pianist, conductor, editor, writer, and teacher. His international career and reputation led him to work closely with many of the leading musicians, artists and literary figures of his time, and he was a sought-after keyboard instructor and a teacher of composition.",
+  "extract_html": "<p><b>Ferruccio Busoni</b> was an Italian composer, pianist, conductor, editor, writer, and teacher. His international career and reputation led him to work closely with many of the leading musicians, artists and literary figures of his time, and he was a sought-after keyboard instructor and a teacher of composition.</p>"
+}

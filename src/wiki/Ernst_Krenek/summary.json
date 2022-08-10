@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ernst Krenek",
+  "displaytitle": "Ernst Krenek",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q158436",
+  "titles": {
+    "canonical": "Ernst_Krenek",
+    "normalized": "Ernst Krenek",
+    "display": "Ernst Krenek"
+  },
+  "pageid": 618269,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Komponist_Ernst_Krenek_1937.jpg/257px-Komponist_Ernst_Krenek_1937.jpg",
+    "width": 257,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Komponist_Ernst_Krenek_1937.jpg",
+    "width": 390,
+    "height": 485
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102972543",
+  "tid": "e1728600-178d-11ed-b40a-11b9757e47de",
+  "timestamp": "2022-08-07T20:49:37Z",
+  "description": "Austrian/American composer (1900–1991)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ernst_Krenek",
+      "revisions": "https://en.wikipedia.org/wiki/Ernst_Krenek?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ernst_Krenek?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ernst_Krenek"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ernst_Krenek",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ernst_Krenek",
+      "edit": "https://en.m.wikipedia.org/wiki/Ernst_Krenek?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ernst_Krenek"
+    }
+  },
+  "extract": "Ernst Heinrich Krenek was an Austrian, later American, composer of Czech origin. He explored atonality and other modern styles and wrote a number of books, including Music Here and Now (1939), a study of Johannes Ockeghem (1953), and Horizons Circled: Reflections on my Music (1974). Krenek wrote two pieces using the pseudonym Thornton Winsloe.",
+  "extract_html": "<p><b>Ernst Heinrich Krenek</b> was an Austrian, later American, composer of Czech origin. He explored atonality and other modern styles and wrote a number of books, including <i>Music Here and Now</i> (1939), a study of Johannes Ockeghem (1953), and <i>Horizons Circled: Reflections on my Music</i> (1974). Krenek wrote two pieces using the pseudonym Thornton Winsloe.</p>"
+}

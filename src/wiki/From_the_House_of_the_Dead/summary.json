@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "From the House of the Dead",
+  "displaytitle": "<i>From the House of the Dead</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q777727",
+  "titles": {
+    "canonical": "From_the_House_of_the_Dead",
+    "normalized": "From the House of the Dead",
+    "display": "<i>From the House of the Dead</i>"
+  },
+  "pageid": 1229145,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Leos_Janacek_relief.jpg/310px-Leos_Janacek_relief.jpg",
+    "width": 310,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Leos_Janacek_relief.jpg",
+    "width": 960,
+    "height": 992
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1072511149",
+  "tid": "805e4090-11a5-11ed-bc29-83cd6e6f4499",
+  "timestamp": "2022-02-18T02:55:43Z",
+  "description": "Opera by Leoš Janáček",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/From_the_House_of_the_Dead",
+      "revisions": "https://en.wikipedia.org/wiki/From_the_House_of_the_Dead?action=history",
+      "edit": "https://en.wikipedia.org/wiki/From_the_House_of_the_Dead?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:From_the_House_of_the_Dead"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/From_the_House_of_the_Dead",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/From_the_House_of_the_Dead",
+      "edit": "https://en.m.wikipedia.org/wiki/From_the_House_of_the_Dead?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:From_the_House_of_the_Dead"
+    }
+  },
+  "extract": "From the House of the Dead is an opera in three acts by Leoš Janáček. The libretto was translated and adapted by the composer from the 1862 novel by Fyodor Dostoevsky. It was the composer's last opera, premiered on 12 April 1930 at the National Theatre Brno, two years after his death. The United States premiere of the work took place at Lincoln Center in 1989 when the New York City Opera mounted a production led by conductor Christopher Keene with a cast starring Harlan Foss as Alexandr Petrovič Gorjančikov, John Absalom as Filka Morozov, Jon Garrison as Skuratov, and John Lankston as Šapkin.",
+  "extract_html": "<p><i><b>From the House of the Dead</b></i> is an opera in three acts by Leoš Janáček. The libretto was translated and adapted by the composer from the 1862 novel by Fyodor Dostoevsky. It was the composer's last opera, premiered on 12 April 1930 at the National Theatre Brno, two years after his death. The United States premiere of the work took place at Lincoln Center in 1989 when the New York City Opera mounted a production led by conductor Christopher Keene with a cast starring Harlan Foss as Alexandr Petrovič Gorjančikov, John Absalom as Filka Morozov, Jon Garrison as Skuratov, and John Lankston as Šapkin.</p>"
+}

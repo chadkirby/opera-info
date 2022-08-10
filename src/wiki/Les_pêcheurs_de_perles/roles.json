@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th width=\"320\">Role\n</th>\n<th width=\"160\">Voice type\n</th>\n<th width=\"230\">Premiere cast<br>30 September 1863<br>(Cond. <a href=\"/wiki/Adolphe_Deloffre\" title=\"Adolphe Deloffre\">Adolphe Deloffre</a>)<sup id=\"cite_ref-Amadeus_8-0\" class=\"reference\"><a href=\"#cite_note-Amadeus-8\">[8]</a></sup>\n</th></tr>\n<tr>\n<td>Leïla, <i>a priestess of Brahma</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Nadir, <i>a fisherman</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Zurga, <i>head fisherman</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Nourabad, <i>high priest of Brahma</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus of fishermen, virgins, priests and priestesses of Brahma</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Leïla, a priestess of Brahma",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Nadir, a fisherman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Zurga, head fisherman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nourabad, high priest of Brahma",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus of fishermen, virgins, priests and priestesses of Brahma",
+      "voiceType": ""
+    }
+  ]
+}

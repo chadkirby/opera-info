@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Manon",
+  "displaytitle": "<i>Manon</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q842063",
+  "titles": {
+    "canonical": "Manon",
+    "normalized": "Manon",
+    "display": "<i>Manon</i>"
+  },
+  "pageid": 355209,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FarrarAsManon.jpg/228px-FarrarAsManon.jpg",
+    "width": 228,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/FarrarAsManon.jpg",
+    "width": 532,
+    "height": 746
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100140853",
+  "tid": "c78f1f50-14c2-11ed-a713-d5c45a2ea4e8",
+  "timestamp": "2022-07-24T11:21:32Z",
+  "description": "Opera by Jules Massenet",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Manon",
+      "revisions": "https://en.wikipedia.org/wiki/Manon?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Manon?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Manon"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Manon",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Manon",
+      "edit": "https://en.m.wikipedia.org/wiki/Manon?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Manon"
+    }
+  },
+  "extract": "Manon is an opéra comique in five acts by Jules Massenet to a French libretto by Henri Meilhac and Philippe Gille, based on the 1731 novel L'histoire du chevalier des Grieux et de Manon Lescaut by the Abbé Prévost. It was first performed at the Opéra-Comique in Paris on 19 January 1884, with sets designed by Eugène Carpezat, Auguste Alfred Rubé and Philippe Chaperon, and Jean-Baptiste Lavastre.",
+  "extract_html": "<p><i><b>Manon</b></i> is an <i>opéra comique</i> in five acts by Jules Massenet to a French libretto by Henri Meilhac and Philippe Gille, based on the 1731 novel <i>L'histoire du chevalier des Grieux et de Manon Lescaut</i> by the Abbé Prévost. It was first performed at the Opéra-Comique in Paris on 19 January 1884, with sets designed by Eugène Carpezat, Auguste Alfred Rubé and Philippe Chaperon, and Jean-Baptiste Lavastre.</p>"
+}

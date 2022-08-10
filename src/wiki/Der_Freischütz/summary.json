@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Der Freischütz",
+  "displaytitle": "<i>Der Freischütz</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q156435",
+  "titles": {
+    "canonical": "Der_Freischütz",
+    "normalized": "Der Freischütz",
+    "display": "<i>Der Freischütz</i>"
+  },
+  "pageid": 179221,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Costume_designs_for_Samiel_and_Caspar_in_%27Der_Freisch%C3%BCtz%27_1821_-_NGO2p297.jpg/243px-Costume_designs_for_Samiel_and_Caspar_in_%27Der_Freisch%C3%BCtz%27_1821_-_NGO2p297.jpg",
+    "width": 243,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Costume_designs_for_Samiel_and_Caspar_in_%27Der_Freisch%C3%BCtz%27_1821_-_NGO2p297.jpg",
+    "width": 1138,
+    "height": 1499
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097118396",
+  "tid": "d05be730-15f8-11ed-a67f-ab28f2818218",
+  "timestamp": "2022-07-08T19:46:38Z",
+  "description": "German opera by Carl Maria von Weber",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Freisch%C3%BCtz"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Freisch%C3%BCtz",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Freisch%C3%BCtz",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Freisch%C3%BCtz?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Freisch%C3%BCtz"
+    }
+  },
+  "extract": "Der Freischütz is a German opera with spoken dialogue in three acts by Carl Maria von Weber with a libretto by Friedrich Kind, based on a story by Johann August Apel and Friedrich Laun from their 1811 collection Gespensterbuch. It premiered on 18 June 1821 at the Schauspielhaus Berlin. It is considered the first German Romantic opera.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Der Freischütz</i></span></b></i> is a German opera with spoken dialogue in three acts by Carl Maria von Weber with a libretto by Friedrich Kind, based on a story by Johann August Apel and Friedrich Laun from their 1811 collection <i>Gespensterbuch</i>. It premiered on 18 June 1821 at the Schauspielhaus Berlin. It is considered the first German Romantic opera.</p>"
+}

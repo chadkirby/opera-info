@@ -1,0 +1,29 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 7 February 1792<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Domenico Cimarosa\n</th></tr>\n<tr>\n<td>Carolina\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Elisetta\n</td>\n<td>soprano or mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Fidalma\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Paolino\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Geronimo\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Count Robinson\n</td>\n<td>bass\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Carolina",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Elisetta",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Fidalma",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Paolino",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Geronimo",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Count Robinson",
+      "voiceType": "bass"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Un re in ascolto",
+  "displaytitle": "<i>Un re in ascolto</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7882067",
+  "titles": {
+    "canonical": "Un_re_in_ascolto",
+    "normalized": "Un re in ascolto",
+    "display": "<i>Un re in ascolto</i>"
+  },
+  "pageid": 9017443,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Luciano_Berio.jpg/256px-Luciano_Berio.jpg",
+    "width": 256,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Luciano_Berio.jpg",
+    "width": 290,
+    "height": 363
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1072861396",
+  "tid": "2cc7d040-fa21-11ec-bf22-0f2676d480e9",
+  "timestamp": "2022-02-19T21:05:50Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Un_re_in_ascolto",
+      "revisions": "https://en.wikipedia.org/wiki/Un_re_in_ascolto?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Un_re_in_ascolto?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Un_re_in_ascolto"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Un_re_in_ascolto",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Un_re_in_ascolto",
+      "edit": "https://en.m.wikipedia.org/wiki/Un_re_in_ascolto?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Un_re_in_ascolto"
+    }
+  },
+  "extract": "Un re in ascolto is an opera by Luciano Berio, who also wrote the Italian libretto. It is based on a short story from the collection Under the Jaguar Sun by Italo Calvino, but incorporates excerpts from Friedrich Einsiedel's 1778 libretto for an opera based on Shakespeare's The Tempest. This became Die Geisterinsel in 1798, set to music written by Friedrich Fleischmann. In addition, W. H. Auden's The Sea and the Mirror: A Commentary on Shakespeare's The Tempest was a source.",
+  "extract_html": "<p><i><b>Un re in ascolto</b></i> is an opera by Luciano Berio, who also wrote the Italian libretto. It is based on a short story from the collection <i>Under the Jaguar Sun</i> by Italo Calvino, but incorporates excerpts from Friedrich Einsiedel's 1778 libretto for an opera based on Shakespeare's <i>The Tempest</i>. This became <i>Die Geisterinsel</i> in 1798, set to music written by Friedrich Fleischmann. In addition, W. H. Auden's <i>The Sea and the Mirror: A Commentary on Shakespeare's The Tempest</i> was a source.</p>"
+}

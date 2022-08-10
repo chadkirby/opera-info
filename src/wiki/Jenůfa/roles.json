@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<br>21 January 1904<br>(Conductor: Cyril Metoděj Hrazdira)\n</th></tr>\n<tr>\n<td>Jenůfa\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Laca Klemeň\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Števa Buryja\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Kostelnička Buryjovka\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Grandmother Buryjovka\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Stárek, <i>the Mill foreman</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Mayor\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Mayor's wife\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Karolka\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"4\">Chorus:<i>Recruits, servants, girls, villagers, musicians</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Jenůfa",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Laca Klemeň",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Števa Buryja",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Kostelnička Buryjovka",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Grandmother Buryjovka",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Stárek, the Mill foreman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mayor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mayor's wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Karolka",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Chorus:Recruits, servants, girls, villagers, musicians",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Billy Budd (opera)",
+  "displaytitle": "<i>Billy Budd</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q803767",
+  "titles": {
+    "canonical": "Billy_Budd_(opera)",
+    "normalized": "Billy Budd (opera)",
+    "display": "<i>Billy Budd</i> (opera)"
+  },
+  "pageid": 1666530,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101786545",
+  "tid": "5f1679b0-11d8-11ed-88c9-db22e4d5023e",
+  "timestamp": "2022-08-01T20:27:28Z",
+  "description": "1951 opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Billy_Budd_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Billy_Budd_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Billy_Budd_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Billy_Budd_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Billy_Budd_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Billy_Budd_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Billy_Budd_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Billy_Budd_(opera)"
+    }
+  },
+  "extract": "Billy Budd, Op. 50, is an opera by Benjamin Britten to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel Billy Budd by Herman Melville. Originally in four acts, the opera received its premiere at the Royal Opera House (ROH), London, on 1 December 1951. Britten later revised the work into a two-act opera, with a prologue and an epilogue. The revised version received its first performance at the ROH, Covent Garden, London, on 9 January 1964.",
+  "extract_html": "<p><i><b>Billy Budd</b></i>, Op. 50, is an opera by Benjamin Britten to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel <i>Billy Budd</i> by Herman Melville. Originally in four acts, the opera received its premiere at the Royal Opera House (ROH), London, on 1 December 1951. Britten later revised the work into a two-act opera, with a prologue and an epilogue. The revised version received its first performance at the ROH, Covent Garden, London, on 9 January 1964.</p>"
+}

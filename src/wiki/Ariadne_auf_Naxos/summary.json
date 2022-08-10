@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ariadne auf Naxos",
+  "displaytitle": "<i>Ariadne auf Naxos</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q654633",
+  "titles": {
+    "canonical": "Ariadne_auf_Naxos",
+    "normalized": "Ariadne auf Naxos",
+    "display": "<i>Ariadne auf Naxos</i>"
+  },
+  "pageid": 1212154,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Salzburger_Festspiele_2012_-_Ariadne_auf_Naxos.jpg/213px-Salzburger_Festspiele_2012_-_Ariadne_auf_Naxos.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Salzburger_Festspiele_2012_-_Ariadne_auf_Naxos.jpg",
+    "width": 1654,
+    "height": 2485
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093603635",
+  "tid": "d0cfb7a0-15f8-11ed-a439-192e391ca847",
+  "timestamp": "2022-06-17T17:25:53Z",
+  "description": "1912 opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ariadne_auf_Naxos",
+      "revisions": "https://en.wikipedia.org/wiki/Ariadne_auf_Naxos?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ariadne_auf_Naxos?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ariadne_auf_Naxos"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ariadne_auf_Naxos",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ariadne_auf_Naxos",
+      "edit": "https://en.m.wikipedia.org/wiki/Ariadne_auf_Naxos?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ariadne_auf_Naxos"
+    }
+  },
+  "extract": "Ariadne auf Naxos, Op. 60, is a 1912 opera by Richard Strauss with a German libretto by Hugo von Hofmannsthal. The opera's unusual combination of elements of low commedia dell'arte with those of high opera seria points up one of the work's principal themes: the competition between high and low art for the public's attention.",
+  "extract_html": "<p><b><span><i lang=\"de\">Ariadne auf Naxos</i></span></b>, Op. 60, is a 1912 opera by Richard Strauss with a German libretto by Hugo von Hofmannsthal. The opera's unusual combination of elements of low commedia dell'arte with those of high opera seria points up one of the work's principal themes: the competition between high and low art for the public's attention.</p>"
+}

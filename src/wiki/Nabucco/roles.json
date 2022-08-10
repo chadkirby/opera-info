@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th scope=\"col\">Role\n</th>\n<th scope=\"col\"><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th scope=\"col\">Premiere cast,<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\">[23]</a></sup> 9 March 1842<br>Conductor: <a href=\"/wiki/Eugenio_Cavallini\" title=\"Eugenio Cavallini\">Eugenio Cavallini</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Nebuchadnezzar_II\" title=\"Nebuchadnezzar II\">Nabucco</a>, <i>King of Babylon</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Abigaille, <i>supposedly his elder daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Fenena, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Ismaele, <i>nephew of Zedekiah, the King of Jerusalem</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Zaccaria, <i>high priest of the Jews</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Anna, <i>Zaccaria's sister</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Abdallo, <i>Babylonian soldier</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>High priest of <a href=\"/wiki/Bel_(mythology)\" title=\"Bel (mythology)\">Bel</a><sup id=\"cite_ref-24\" class=\"reference\"><a href=\"#cite_note-24\">[24]</a></sup>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>People, soldiers</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Nabucco, King of Babylon",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Abigaille, supposedly his elder daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Fenena, his daughter",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Ismaele, nephew of Zedekiah, the King of Jerusalem",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Zaccaria, high priest of the Jews",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Anna, Zaccaria's sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Abdallo, Babylonian soldier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "High priest of Bel",
+      "voiceType": "bass"
+    },
+    {
+      "role": "People, soldiers",
+      "voiceType": ""
+    }
+  ]
+}

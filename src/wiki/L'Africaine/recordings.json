@@ -1,0 +1,21 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1015390333\"><span class=\"sr-only\"><i>L'Africaine</i> discography</span>\n</caption>\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast<br>(Vasco de Gama, Inès, Sélika,<br>Nélusko, Grand Inquisitor, High Priest)\n</th>\n<th>Conductor,<br>Opera house and orchestra\n</th>\n<th>Label<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\">[33]</a></sup>\n</th></tr>\n<tr>\n<td>1971\n</td>\n<td>Veriano Lucchetti, Mietta Sighele, <a href=\"/wiki/Jessye_Norman\" title=\"Jessye Norman\">Jessye Norman</a>,<br><a href=\"/wiki/Giangiacomo_Guelfi\" title=\"Giangiacomo Guelfi\">Giangiacomo Guelfi</a>, Graziano del Vivo, Mario Rinaudo\n</td>\n\n<td>CD: Opera d'Oro,<br>Cat: OPD 1467\n</td></tr>\n<tr>\n<td>1988\n</td>\n<td><a href=\"/wiki/Pl%C3%A1cido_Domingo\" title=\"Plácido Domingo\">Plácido Domingo</a>, <a href=\"/wiki/Ruth_Ann_Swenson\" title=\"Ruth Ann Swenson\">Ruth Ann Swenson</a>, <a href=\"/wiki/Shirley_Verrett\" title=\"Shirley Verrett\">Shirley Verrett</a>,<br><a href=\"/wiki/Justino_D%C3%ADaz\" title=\"Justino Díaz\">Justino Díaz</a>, <a href=\"/wiki/Joseph_Rouleau\" title=\"Joseph Rouleau\">Joseph Rouleau</a>, <a href=\"/wiki/Mark_Delavan\" title=\"Mark Delavan\">Mark Delavan</a>, <a href=\"/wiki/Kevin_Anderson_(tenor)\" title=\"Kevin Anderson (tenor)\">Kevin Anderson</a>\n</td>\n\n<td>DVD: ArtHaus Musik<br>Cat: 100 217\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1971,
+      "cast": [
+        "Veriano Lucchetti, Mietta Sighele, Jessye Norman",
+        "Giangiacomo Guelfi, Graziano del Vivo, Mario Rinaudo"
+      ],
+      "conductor": "Riccardo Muti, "
+    },
+    {
+      "year": 1988,
+      "cast": [
+        "Plácido Domingo, Ruth Ann Swenson, Shirley Verrett",
+        "Justino Díaz, Joseph Rouleau, Mark Delavan, Kevin Anderson"
+      ],
+      "conductor": "Maurizio Arena, "
+    }
+  ]
+}

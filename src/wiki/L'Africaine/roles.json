@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, and premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\">[26]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 28 April 1865<br>(Conductor: <a href=\"/wiki/Fran%C3%A7ois_George-Hainl\" title=\"François George-Hainl\">François George-Hainl</a>)<sup id=\"cite_ref-27\" class=\"reference\"><a href=\"#cite_note-27\">[27]</a></sup>\n</th></tr>\n<tr>\n<td>Sélika\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Vasco_de_Gama\" class=\"mw-redirect\" title=\"Vasco de Gama\">Vasco de Gama</a>, <i>a naval officer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Inès, <i>daughter of Don Diégo</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Nélusko, <i>a slave</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Don Pédro, <i>president of the Royal Council</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Don Diégo, <i>an admiral</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Anna, <i>Inès's confidante</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Don Alvaro, <i>council member</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Grand Inquisitor of Lisbon\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>High Priest of Brahma\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Councillors, naval officers, bishops, Brahmins, Indians, soldiers, sailors</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Sélika",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Vasco de Gama, a naval officer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Inès, daughter of Don Diégo",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Nélusko, a slave",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Don Pédro, president of the Royal Council",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Don Diégo, an admiral",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Anna, Inès's confidante",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Don Alvaro, council member",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Grand Inquisitor of Lisbon",
+      "voiceType": "bass"
+    },
+    {
+      "role": "High Priest of Brahma",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Councillors, naval officers, bishops, Brahmins, Indians, soldiers, sailors",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rienzi",
+  "displaytitle": "<i>Rienzi</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q689441",
+  "titles": {
+    "canonical": "Rienzi",
+    "normalized": "Rienzi",
+    "display": "<i>Rienzi</i>"
+  },
+  "pageid": 560783,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Illustration_of_the_last_scene_of_Act3_of_%27Rienzi%27_by_Wagner_at_the_Th%C3%A9%C3%A2tre_Lyrique_1869_-_Bauer_1983p31.jpg/320px-Illustration_of_the_last_scene_of_Act3_of_%27Rienzi%27_by_Wagner_at_the_Th%C3%A9%C3%A2tre_Lyrique_1869_-_Bauer_1983p31.jpg",
+    "width": 320,
+    "height": 215
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Illustration_of_the_last_scene_of_Act3_of_%27Rienzi%27_by_Wagner_at_the_Th%C3%A9%C3%A2tre_Lyrique_1869_-_Bauer_1983p31.jpg",
+    "width": 3198,
+    "height": 2146
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085550613",
+  "tid": "c726abd0-ff11-11ec-8c10-7f67572b37f6",
+  "timestamp": "2022-05-01T03:58:34Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rienzi",
+      "revisions": "https://en.wikipedia.org/wiki/Rienzi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rienzi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rienzi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Rienzi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Rienzi",
+      "edit": "https://en.m.wikipedia.org/wiki/Rienzi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Rienzi"
+    }
+  },
+  "extract": "Rienzi, der letzte der Tribunen is an early opera by Richard Wagner in five acts, with the libretto written by the composer after Edward Bulwer-Lytton's novel of the same name (1835). The title is commonly shortened to Rienzi. Written between July 1838 and November 1840, it was first performed at the Königliches Hoftheater Dresden, on 20 October 1842, and was the composer's first success.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Rienzi, der letzte der Tribunen</i></span></b></i> is an early opera by Richard Wagner in five acts, with the libretto written by the composer after Edward Bulwer-Lytton's novel of the same name (1835). The title is commonly shortened to <i><b>Rienzi</b></i>. Written between July 1838 and November 1840, it was first performed at the Königliches Hoftheater Dresden, on 20 October 1842, and was the composer's first success.</p>"
+}

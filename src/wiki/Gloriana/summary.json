@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Gloriana",
+  "displaytitle": "<i>Gloriana</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q901838",
+  "titles": {
+    "canonical": "Gloriana",
+    "normalized": "Gloriana",
+    "display": "<i>Gloriana</i>"
+  },
+  "pageid": 1583447,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101787703",
+  "tid": "71d567e0-11d9-11ed-8028-797fd3ff0c56",
+  "timestamp": "2022-08-01T20:35:10Z",
+  "description": "1953 opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Gloriana",
+      "revisions": "https://en.wikipedia.org/wiki/Gloriana?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Gloriana?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Gloriana"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Gloriana",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gloriana",
+      "edit": "https://en.m.wikipedia.org/wiki/Gloriana?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Gloriana"
+    }
+  },
+  "extract": "Gloriana, Op. 53, is an opera in three acts by Benjamin Britten to an English libretto by William Plomer, based on Lytton Strachey's 1928 Elizabeth and Essex: A Tragic History.\nThe first performance was presented at the Royal Opera House, London, in 1953 during the celebrations of the coronation of Queen Elizabeth II. Gloriana was the name given by the 16th-century poet Edmund Spenser to his character representing Queen Elizabeth I in his poem The Faerie Queene. It became the popular name given to Elizabeth I. It is recorded that the troops at Tilbury hailed her with cries of \"Gloriana, Gloriana, Gloriana\", after the defeat of the Spanish Armada in 1588.",
+  "extract_html": "<p><i><b>Gloriana</b></i>, Op. 53, is an opera in three acts by Benjamin Britten to an English libretto by William Plomer, based on Lytton Strachey's 1928 <i>Elizabeth and Essex: A Tragic History</i>.\nThe first performance was presented at the Royal Opera House, London, in 1953 during the celebrations of the coronation of Queen Elizabeth II. <i>Gloriana</i> was the name given by the 16th-century poet Edmund Spenser to his character representing Queen Elizabeth I in his poem <i>The Faerie Queene</i>. It became the popular name given to Elizabeth I. It is recorded that the troops at Tilbury hailed her with cries of \"Gloriana, Gloriana, Gloriana\", after the defeat of the Spanish Armada in 1588.</p>"
+}

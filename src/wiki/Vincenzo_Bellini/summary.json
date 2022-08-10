@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Vincenzo Bellini",
+  "displaytitle": "Vincenzo Bellini",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q170209",
+  "titles": {
+    "canonical": "Vincenzo_Bellini",
+    "normalized": "Vincenzo Bellini",
+    "display": "Vincenzo Bellini"
+  },
+  "pageid": 32668,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vincenzo_bellini.jpg/240px-Vincenzo_bellini.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vincenzo_bellini.jpg",
+    "width": 366,
+    "height": 488
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096277778",
+  "tid": "0861a5d0-1544-11ed-9dc6-7d6a93179645",
+  "timestamp": "2022-07-03T12:33:15Z",
+  "description": "Italian opera composer (1801–1835)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Vincenzo_Bellini",
+      "revisions": "https://en.wikipedia.org/wiki/Vincenzo_Bellini?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Vincenzo_Bellini?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Vincenzo_Bellini"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Vincenzo_Bellini",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Vincenzo_Bellini",
+      "edit": "https://en.m.wikipedia.org/wiki/Vincenzo_Bellini?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Vincenzo_Bellini"
+    }
+  },
+  "extract": "Vincenzo Salvatore Carmelo Francesco Bellini was an Italian opera composer, who was known for his long-flowing melodic lines for which he was named \"the Swan of Catania\".\nMany years later, in 1898, Giuseppe Verdi \"praised the broad curves of Bellini's melody: 'there are extremely long melodies as no-one else had ever made before'.\"",
+  "extract_html": "<p><b>Vincenzo Salvatore Carmelo Francesco Bellini</b> was an Italian opera composer, who was known for his long-flowing melodic lines for which he was named \"the Swan of Catania\".\nMany years later, in 1898, Giuseppe Verdi \"praised the broad curves of Bellini's melody: 'there are extremely long melodies as no-one else had ever made before'.\"</p>"
+}

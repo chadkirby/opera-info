@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Il pirata",
+  "displaytitle": "<i>Il pirata</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q467292",
+  "titles": {
+    "canonical": "Il_pirata",
+    "normalized": "Il pirata",
+    "display": "<i>Il pirata</i>"
+  },
+  "pageid": 5669538,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rubini_as_Gualtiero-IL_PIRATA_-Oct_1827.jpg/212px-Rubini_as_Gualtiero-IL_PIRATA_-Oct_1827.jpg",
+    "width": 212,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Rubini_as_Gualtiero-IL_PIRATA_-Oct_1827.jpg",
+    "width": 776,
+    "height": 1172
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100143060",
+  "tid": "6eb6bfa0-15f3-11ed-93ce-35c37fadd1e3",
+  "timestamp": "2022-07-24T11:39:06Z",
+  "description": "Opera by Vincenzo Bellini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_pirata",
+      "revisions": "https://en.wikipedia.org/wiki/Il_pirata?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_pirata?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_pirata"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_pirata",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_pirata",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_pirata?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_pirata"
+    }
+  },
+  "extract": "Il pirata is an opera in two acts by Vincenzo Bellini with an Italian libretto by Felice Romani which was based on a three-act mélodrame from 1826: Bertram, ou le Pirate by Charles Nodier and Isidore Justin Séverin Taylor). This play was itself based upon a French translation of the five-act verse tragedy Bertram, or The Castle of St. Aldobrand by Charles Maturin which appeared in London in 1816.",
+  "extract_html": "<p><i><b>Il pirata</b></i> is an opera in two acts by Vincenzo Bellini with an Italian libretto by Felice Romani which was based on a three-act <i>mélodrame </i>from 1826: <i>Bertram, ou le Pirate</i> by Charles Nodier and Isidore Justin Séverin Taylor). This play was itself based upon a French translation of the five-act verse tragedy <i>Bertram, or The Castle of St. Aldobrand</i> by Charles Maturin which appeared in London in 1816.</p>"
+}

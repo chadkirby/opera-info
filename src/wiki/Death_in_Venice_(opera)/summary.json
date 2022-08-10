@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Death in Venice (opera)",
+  "displaytitle": "<i>Death in Venice</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q630476",
+  "titles": {
+    "canonical": "Death_in_Venice_(opera)",
+    "normalized": "Death in Venice (opera)",
+    "display": "<i>Death in Venice</i> (opera)"
+  },
+  "pageid": 1546466,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100113329",
+  "tid": "2a05f650-0b26-11ed-8528-ebe47c1952b4",
+  "timestamp": "2022-07-24T07:56:43Z",
+  "description": "Opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Death_in_Venice_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Death_in_Venice_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Death_in_Venice_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Death_in_Venice_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Death_in_Venice_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Death_in_Venice_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Death_in_Venice_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Death_in_Venice_(opera)"
+    }
+  },
+  "extract": "Death in Venice is an opera in two acts by Benjamin Britten, his last. The opera is based on the novella Death in Venice by Thomas Mann. Myfanwy Piper wrote the English libretto. It was first performed at Snape Maltings, near Aldeburgh, England, on 16 June 1973.",
+  "extract_html": "<p><i><b>Death in Venice</b></i> is an opera in two acts by Benjamin Britten, his last. The opera is based on the novella <i>Death in Venice</i> by Thomas Mann. Myfanwy Piper wrote the English libretto. It was first performed at Snape Maltings, near Aldeburgh, England, on 16 June 1973.</p>"
+}

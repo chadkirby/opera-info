@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Pagliacci</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Ruggero_Leoncavallo\" title=\"Ruggero Leoncavallo\">Ruggero Leoncavallo</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Pagliacci_Original_Score_Cover.jpg\" class=\"image\"><img alt=\"Pagliacci Original Score Cover.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pagliacci_Original_Score_Cover.jpg/220px-Pagliacci_Original_Score_Cover.jpg\" decoding=\"async\" width=\"220\" height=\"294\" srcset=\"//upload.wikimedia.org/wikipedia/commons/a/a9/Pagliacci_Original_Score_Cover.jpg 1.5x\" data-file-width=\"247\" data-file-height=\"330\"></a><div class=\"infobox-caption\">Cover of first <a href=\"/wiki/Piano_reduction\" class=\"mw-redirect\" title=\"Piano reduction\">piano reduction</a> of the score, published in 1892</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Ruggero Leoncavallo</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">21&nbsp;May&nbsp;1892<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1892-05-21</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Teatro_Dal_Verme\" title=\"Teatro Dal Verme\">Teatro Dal Verme</a>, Milan</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Pagliacci"
+  ],
+  "Librettist": "Ruggero Leoncavallo",
+  "Language": "Italian",
+  "Premiere": "21 May 1892\nTeatro Dal Verme, Milan"
+}

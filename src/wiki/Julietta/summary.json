@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "Julietta",
+  "displaytitle": "<i>Julietta</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2749020",
+  "titles": {
+    "canonical": "Julietta",
+    "normalized": "Julietta",
+    "display": "<i>Julietta</i>"
+  },
+  "pageid": 9017239,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1077668545",
+  "tid": "2be38ac0-fa21-11ec-a38a-614959d3d507",
+  "timestamp": "2022-03-17T15:21:06Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Julietta",
+      "revisions": "https://en.wikipedia.org/wiki/Julietta?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Julietta?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Julietta"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Julietta",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Julietta",
+      "edit": "https://en.m.wikipedia.org/wiki/Julietta?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Julietta"
+    }
+  },
+  "extract": "Juliette is an opera by Bohuslav Martinů, who also wrote the libretto, in French, based on the play Juliette, ou La clé des songes by the French author Georges Neveux. A libretto in Czech was later prepared for its premiere which took place at the Prague National Theatre on 16 March 1938. Juliette has become widely considered as Martinů's masterpiece.",
+  "extract_html": "<p><i><b>Juliette</b></i> is an opera by Bohuslav Martinů, who also wrote the libretto, in French, based on the play <i>Juliette, ou La clé des songes</i> by the French author Georges Neveux. A libretto in Czech was later prepared for its premiere which took place at the Prague National Theatre on 16 March 1938. <i>Juliette</i> has become widely considered as Martinů's masterpiece.</p>"
+}

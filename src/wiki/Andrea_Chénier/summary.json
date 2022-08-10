@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Andrea Chénier",
+  "displaytitle": "<i>Andrea Chénier</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q493656",
+  "titles": {
+    "canonical": "Andrea_Chénier",
+    "normalized": "Andrea Chénier",
+    "display": "<i>Andrea Chénier</i>"
+  },
+  "pageid": 474983,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Boilly_Andr%C3%A9_Ch%C3%A9nier.jpg/245px-Boilly_Andr%C3%A9_Ch%C3%A9nier.jpg",
+    "width": 245,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Boilly_Andr%C3%A9_Ch%C3%A9nier.jpg",
+    "width": 460,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103182774",
+  "tid": "7f19a900-173f-11ed-9176-894ca9d3f44e",
+  "timestamp": "2022-08-08T17:28:16Z",
+  "description": "Opera composed by Umberto Giordano",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Andrea_Ch%C3%A9nier",
+      "revisions": "https://en.wikipedia.org/wiki/Andrea_Ch%C3%A9nier?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Andrea_Ch%C3%A9nier?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andrea_Ch%C3%A9nier"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Andrea_Ch%C3%A9nier",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Andrea_Ch%C3%A9nier",
+      "edit": "https://en.m.wikipedia.org/wiki/Andrea_Ch%C3%A9nier?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Andrea_Ch%C3%A9nier"
+    }
+  },
+  "extract": "Andrea Chénier is a verismo opera in four acts by Umberto Giordano, set to an Italian libretto by Luigi Illica, and first performed on 28 March 1896 at La Scala, Milan. The story is based loosely on the life of the French poet André Chénier (1762–1794), who was executed during the French Revolution. The character Carlo Gérard is partly based on Jean-Lambert Tallien, a leading figure in the Revolution. It remains popular with audiences, though less frequently performed than in the first half of the 20th century. One reason for its survival in the repertoire is the lyrical-dramatic music provided by Giordano for the tenor lead, which gives a talented singer opportunities to demonstrate his skills and flaunt his voice. Giuseppe Borgatti's triumph in the title role at the first performance immediately propelled him to the front rank of Italian opera singers. He went on to become Italy's greatest Wagnerian tenor, rather than a verismo-opera specialist.",
+  "extract_html": "<p><i><b>Andrea Chénier</b></i> is a verismo opera in four acts by Umberto Giordano, set to an Italian libretto by Luigi Illica, and first performed on 28 March 1896 at La Scala, Milan. The story is based loosely on the life of the French poet André Chénier (1762–1794), who was executed during the French Revolution. The character Carlo Gérard is partly based on Jean-Lambert Tallien, a leading figure in the Revolution. It remains popular with audiences, though less frequently performed than in the first half of the 20th century. One reason for its survival in the repertoire is the lyrical-dramatic music provided by Giordano for the tenor lead, which gives a talented singer opportunities to demonstrate his skills and flaunt his voice. Giuseppe Borgatti's triumph in the title role at the first performance immediately propelled him to the front rank of Italian opera singers. He went on to become Italy's greatest Wagnerian tenor, rather than a verismo-opera specialist.</p>"
+}

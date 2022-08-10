@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dmitri Shostakovich",
+  "displaytitle": "Dmitri Shostakovich",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q80135",
+  "titles": {
+    "canonical": "Dmitri_Shostakovich",
+    "normalized": "Dmitri Shostakovich",
+    "display": "Dmitri Shostakovich"
+  },
+  "pageid": 8520,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg/229px-Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg",
+    "width": 2149,
+    "height": 3000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101324956",
+  "tid": "e4a1f400-178d-11ed-a0c2-5d5d7aa5ada5",
+  "timestamp": "2022-07-30T11:59:10Z",
+  "description": "Soviet composer and pianist (1906–1975)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+      "revisions": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dmitri_Shostakovich"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Dmitri_Shostakovich",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dmitri_Shostakovich",
+      "edit": "https://en.m.wikipedia.org/wiki/Dmitri_Shostakovich?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Dmitri_Shostakovich"
+    }
+  },
+  "extract": "Dmitri Dmitriyevich Shostakovich was a Soviet-era Russian composer and pianist. He became internationally famous upon the premiere of his First Symphony in 1926 and was regarded throughout his life as one of the major composers of the 20th century.",
+  "extract_html": "<p><b>Dmitri Dmitriyevich Shostakovich</b> was a Soviet-era Russian composer and pianist. He became internationally famous upon the premiere of his First Symphony in 1926 and was regarded throughout his life as one of the major composers of the 20th century.</p>"
+}

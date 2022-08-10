@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 24 October 1737<br>(Conductor:  - )\n</th></tr>\n<tr>\n<td>Castor\n</td>\n<td><a href=\"/wiki/Haute-contre\" title=\"Haute-contre\">haute-contre</a>\n</td>\n</tr>\n<tr>\n<td>Pollux\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Télaïre\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Phébé\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Jupiter\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Vénus\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mars\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Minerve\n</td>\n<td>soprano\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Castor",
+      "voiceType": "haute-contre"
+    },
+    {
+      "role": "Pollux",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Télaïre",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Phébé",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jupiter",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Vénus",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mars",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Minerve",
+      "voiceType": "soprano"
+    }
+  ]
+}

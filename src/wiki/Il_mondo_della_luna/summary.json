@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Il mondo della luna",
+  "displaytitle": "<i>Il mondo della luna</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1037479",
+  "titles": {
+    "canonical": "Il_mondo_della_luna",
+    "normalized": "Il mondo della luna",
+    "display": "<i>Il mondo della luna</i>"
+  },
+  "pageid": 8920753,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/253px-Joseph_Haydn.jpg",
+    "width": 253,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg",
+    "width": 1000,
+    "height": 1264
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099001645",
+  "tid": "d0adfed0-15f8-11ed-8407-03665e3c60fb",
+  "timestamp": "2022-07-18T14:18:18Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_mondo_della_luna",
+      "revisions": "https://en.wikipedia.org/wiki/Il_mondo_della_luna?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_mondo_della_luna?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_mondo_della_luna"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_mondo_della_luna",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_mondo_della_luna",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_mondo_della_luna?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_mondo_della_luna"
+    }
+  },
+  "extract": "Il mondo della luna, Hob. XXVIII:7, is an opera buffa by Joseph Haydn with a libretto written by Carlo Goldoni in 1750, first performed at Eszterháza, Hungary, on 3 August 1777. Goldoni's libretto had previously been set by six other composers, first by the composer Baldassare Galuppi and performed in Venice in the carnival of 1750. It was then adapted for Haydn's version of the opera, which would be performed during the wedding celebrations of Count Nikolaus Esterházy, the younger son of Haydn's patron, Prince Nikolaus Esterházy, and the Countess Maria Anna Wissenwolf. It is sometimes performed as a singspiel under its German title Die Welt auf dem Monde.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">Il mondo della luna</i></span></b></i>, Hob. XXVIII:7, is an opera buffa by Joseph Haydn with a libretto written by Carlo Goldoni in 1750, first performed at Eszterháza, Hungary, on 3 August 1777. Goldoni's libretto had previously been set by six other composers, first by the composer Baldassare Galuppi and performed in Venice in the carnival of 1750. It was then adapted for Haydn's version of the opera, which would be performed during the wedding celebrations of Count Nikolaus Esterházy, the younger son of Haydn's patron, Prince Nikolaus Esterházy, and the Countess Maria Anna Wissenwolf. It is sometimes performed as a singspiel under its German title <i><span><i lang=\"de\">Die Welt auf dem Monde</i></span></i>.</p>"
+}

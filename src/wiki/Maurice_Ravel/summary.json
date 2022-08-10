@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Maurice Ravel",
+  "displaytitle": "Maurice Ravel",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1178",
+  "titles": {
+    "canonical": "Maurice_Ravel",
+    "normalized": "Maurice Ravel",
+    "display": "Maurice Ravel"
+  },
+  "pageid": 48068,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Maurice_Ravel_1925.jpg/240px-Maurice_Ravel_1925.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Maurice_Ravel_1925.jpg",
+    "width": 1749,
+    "height": 2332
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096282862",
+  "tid": "0abefda0-119d-11ed-ba76-bd536ee412ae",
+  "timestamp": "2022-07-03T13:10:01Z",
+  "description": "French composer (1875–1937)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Maurice_Ravel",
+      "revisions": "https://en.wikipedia.org/wiki/Maurice_Ravel?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Maurice_Ravel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Maurice_Ravel"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Maurice_Ravel",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Maurice_Ravel",
+      "edit": "https://en.m.wikipedia.org/wiki/Maurice_Ravel?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Maurice_Ravel"
+    }
+  },
+  "extract": "Joseph Maurice Ravel was a French composer, pianist and conductor. He is often associated with Impressionism along with his elder contemporary Claude Debussy, although both composers rejected the term. In the 1920s and 1930s Ravel was internationally regarded as France's greatest living composer.",
+  "extract_html": "<p><b>Joseph Maurice Ravel</b> was a French composer, pianist and conductor. He is often associated with Impressionism along with his elder contemporary Claude Debussy, although both composers rejected the term. In the 1920s and 1930s Ravel was internationally regarded as France's greatest living composer.</p>"
+}

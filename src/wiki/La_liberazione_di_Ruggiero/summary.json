@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "La liberazione di Ruggiero",
+  "displaytitle": "<i>La liberazione di Ruggiero</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3888701",
+  "titles": {
+    "canonical": "La_liberazione_di_Ruggiero",
+    "normalized": "La liberazione di Ruggiero",
+    "display": "<i>La liberazione di Ruggiero</i>"
+  },
+  "pageid": 5513791,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103059528",
+  "tid": "082a87c0-16da-11ed-8f2b-95b58667c452",
+  "timestamp": "2022-08-08T05:21:59Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_liberazione_di_Ruggiero",
+      "revisions": "https://en.wikipedia.org/wiki/La_liberazione_di_Ruggiero?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_liberazione_di_Ruggiero?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_liberazione_di_Ruggiero"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_liberazione_di_Ruggiero",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_liberazione_di_Ruggiero",
+      "edit": "https://en.m.wikipedia.org/wiki/La_liberazione_di_Ruggiero?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_liberazione_di_Ruggiero"
+    }
+  },
+  "extract": "La liberazione di Ruggiero dall'isola d'Alcina is a comic opera in four scenes by Francesca Caccini, first performed 3 February 1625 at the Villa di Poggio Imperiale in Florence, with a libretto by Ferdinando Saracinelli based on Ludovico Ariosto's Orlando Furioso. It is the first opera written by a woman and was long considered to be the first Italian opera to be performed outside of Italy. It was performed to celebrate the visit of Prince Władysław of Poland during Carnival 1625, and it was revived in Warsaw in 1628. The work was commissioned by her employer Regent Archduchess Maria Maddalena of Austria, wife of Cosimo II de' Medici. Ruggiero was printed under the protection of Maria Magdalena in 1625, only five years after the first printed opera in Italy. It is the only opera by Francesca Caccini to survive.",
+  "extract_html": "<p><i><b>La liberazione di Ruggiero dall'isola d'Alcina</b></i> is a comic opera in four scenes by Francesca Caccini, first performed 3 February 1625 at the Villa di Poggio Imperiale in Florence, with a libretto by Ferdinando Saracinelli based on Ludovico Ariosto's <i>Orlando Furioso</i>. It is the first opera written by a woman and was long considered to be the first Italian opera to be performed outside of Italy. It was performed to celebrate the visit of Prince Władysław of Poland during Carnival 1625, and it was revived in Warsaw in 1628. The work was commissioned by her employer Regent Archduchess Maria Maddalena of Austria, wife of Cosimo II de' Medici. <i>Ruggiero</i> was printed under the protection of Maria Magdalena in 1625, only five years after the first printed opera in Italy. It is the only opera by Francesca Caccini to survive.</p>"
+}

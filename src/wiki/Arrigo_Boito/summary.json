@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Arrigo Boito",
+  "displaytitle": "Arrigo Boito",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q219491",
+  "titles": {
+    "canonical": "Arrigo_Boito",
+    "normalized": "Arrigo Boito",
+    "display": "Arrigo Boito"
+  },
+  "pageid": 84576,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Arrigo_Boito_%28before_1918%29_-_Archivio_Storico_Ricordi_FOTO002997.jpg/225px-Arrigo_Boito_%28before_1918%29_-_Archivio_Storico_Ricordi_FOTO002997.jpg",
+    "width": 225,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Arrigo_Boito_%28before_1918%29_-_Archivio_Storico_Ricordi_FOTO002997.jpg",
+    "width": 1862,
+    "height": 2647
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102588327",
+  "tid": "0e76d4a0-1502-11ed-9884-0518728efe2e",
+  "timestamp": "2022-08-05T21:03:28Z",
+  "description": "Italian librettist and composer (1842–1918)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arrigo_Boito",
+      "revisions": "https://en.wikipedia.org/wiki/Arrigo_Boito?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arrigo_Boito?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arrigo_Boito"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Arrigo_Boito",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Arrigo_Boito",
+      "edit": "https://en.m.wikipedia.org/wiki/Arrigo_Boito?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Arrigo_Boito"
+    }
+  },
+  "extract": "Arrigo Boito was an Italian poet, journalist, novelist, librettist and composer, best known today for his libretti, especially those for Giuseppe Verdi's last two monumental operas Otello and Falstaff and his own opera Mefistofele. Along with Emilio Praga and his own brother Camillo Boito, he is regarded as one of the prominent representatives of the Scapigliatura artistic movement.",
+  "extract_html": "<p><b>Arrigo Boito</b> was an Italian poet, journalist, novelist, librettist and composer, best known today for his libretti, especially those for Giuseppe Verdi's last two monumental operas <i>Otello</i> and <i>Falstaff</i> and his own opera <i>Mefistofele</i>. Along with Emilio Praga and his own brother Camillo Boito, he is regarded as one of the prominent representatives of the Scapigliatura artistic movement.</p>"
+}

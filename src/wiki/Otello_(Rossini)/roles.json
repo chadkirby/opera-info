@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 4&nbsp;December&nbsp;1816\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Othello_(character)\" title=\"Othello (character)\">Otello</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Desdemona\" title=\"Desdemona\">Desdemona</a>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Roderigo\" title=\"Roderigo\">Rodrigo</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Iago\" title=\"Iago\">Iago</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Emilia_(Othello)\" title=\"Emilia (Othello)\">Emilia</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Elmiro (<a href=\"/wiki/Brabantio\" title=\"Brabantio\">Brabantio</a>)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The <a href=\"/wiki/Doge_of_Venice\" title=\"Doge of Venice\">Doge of Venice</a>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Lucio\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A gondolier\n</td>\n<td>tenor\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Otello",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Desdemona",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Rodrigo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Iago",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Emilia",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Elmiro (Brabantio)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Doge of Venice",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lucio",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A gondolier",
+      "voiceType": "tenor"
+    }
+  ]
+}

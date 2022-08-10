@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La favorite",
+  "displaytitle": "<i>La favorite</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q467394",
+  "titles": {
+    "canonical": "La_favorite",
+    "normalized": "La favorite",
+    "display": "<i>La favorite</i>"
+  },
+  "pageid": 1752164,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gilbert_Duprez_%26_Rosine_Stoltz_in_Donizetti%27s_La_Favorite_%28cropped%29.png/258px-Gilbert_Duprez_%26_Rosine_Stoltz_in_Donizetti%27s_La_Favorite_%28cropped%29.png",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gilbert_Duprez_%26_Rosine_Stoltz_in_Donizetti%27s_La_Favorite_%28cropped%29.png",
+    "width": 2139,
+    "height": 2649
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085840410",
+  "tid": "d0801100-15f8-11ed-8b88-093b1dca1117",
+  "timestamp": "2022-05-02T19:06:53Z",
+  "description": "1840 opera by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_favorite",
+      "revisions": "https://en.wikipedia.org/wiki/La_favorite?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_favorite?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_favorite"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_favorite",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_favorite",
+      "edit": "https://en.m.wikipedia.org/wiki/La_favorite?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_favorite"
+    }
+  },
+  "extract": "La favorite is a grand opera in four acts by Gaetano Donizetti to a French-language libretto by Alphonse Royer and Gustave Vaëz, based on the play Le comte de Comminges by Baculard d'Arnaud with additions by Eugène Scribe based on the story of Leonora de Guzman. The opera concerns the romantic struggles of the King of Castile, Alfonso XI, and his mistress, the \"favourite\" Leonora, against the backdrop of the political wiles of receding Moorish Spain and the life of the Catholic Church. It premiered on 2 December 1840 at the Académie Royale de Musique in Paris.",
+  "extract_html": "<p><i><b>La favorite</b></i> is a grand opera in four acts by Gaetano Donizetti to a French-language libretto by Alphonse Royer and Gustave Vaëz, based on the play <i>Le comte de Comminges</i> by Baculard d'Arnaud with additions by Eugène Scribe based on the story of Leonora de Guzman. The opera concerns the romantic struggles of the King of Castile, Alfonso XI, and his mistress, the \"favourite\" Leonora, against the backdrop of the political wiles of receding Moorish Spain and the life of the Catholic Church. It premiered on 2 December 1840 at the Académie Royale de Musique in Paris.</p>"
+}

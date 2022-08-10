@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Fidelio",
+  "displaytitle": "<i>Fidelio</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q193778",
+  "titles": {
+    "canonical": "Fidelio",
+    "normalized": "Fidelio",
+    "display": "<i>Fidelio</i>"
+  },
+  "pageid": 38475,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fidelio18140523.jpg/193px-Fidelio18140523.jpg",
+    "width": 193,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fidelio18140523.jpg",
+    "width": 656,
+    "height": 1087
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1072515343",
+  "tid": "e4236a50-119c-11ed-9051-ef317ebb1072",
+  "timestamp": "2022-02-18T03:23:43Z",
+  "description": "Only opera by Ludwig van Beethoven",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Fidelio",
+      "revisions": "https://en.wikipedia.org/wiki/Fidelio?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Fidelio?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Fidelio"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Fidelio",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Fidelio",
+      "edit": "https://en.m.wikipedia.org/wiki/Fidelio?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Fidelio"
+    }
+  },
+  "extract": "Fidelio, originally titled Leonore, oder Der Triumph der ehelichen Liebe, Op. 72, is Ludwig van Beethoven's only opera. The German libretto was originally prepared by Joseph Sonnleithner from the French of Jean-Nicolas Bouilly, with the work premiering at Vienna's Theater an der Wien on 20 November 1805. The following year, Stephan von Breuning helped shorten the work from three acts to two. After further work on the libretto by Georg Friedrich Treitschke, a final version was performed at the Kärntnertortheater on 23 May 1814. By convention, both of the first two versions are referred to as Leonore.",
+  "extract_html": "<p><i><b>Fidelio</b></i>, originally titled <i><b><span><i lang=\"de\">Leonore, oder Der Triumph der ehelichen Liebe</i></span></b></i>, Op. 72, is Ludwig van Beethoven's only opera. The German libretto was originally prepared by Joseph Sonnleithner from the French of Jean-Nicolas Bouilly, with the work premiering at Vienna's Theater an der Wien on 20 November 1805. The following year, Stephan von Breuning helped shorten the work from three acts to two. After further work on the libretto by Georg Friedrich Treitschke, a final version was performed at the Kärntnertortheater on 23 May 1814. By convention, both of the first two versions are referred to as <i>Leonore</i>.</p>"
+}

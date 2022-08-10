@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Carl Maria von Weber",
+  "displaytitle": "Carl Maria von Weber",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q154812",
+  "titles": {
+    "canonical": "Carl_Maria_von_Weber",
+    "normalized": "Carl Maria von Weber",
+    "display": "Carl Maria von Weber"
+  },
+  "pageid": 45190,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Caroline_Bardua_-_Bildnis_des_Komponisten_Carl_Maria_von_Weber.jpg/245px-Caroline_Bardua_-_Bildnis_des_Komponisten_Carl_Maria_von_Weber.jpg",
+    "width": 245,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Caroline_Bardua_-_Bildnis_des_Komponisten_Carl_Maria_von_Weber.jpg",
+    "width": 1701,
+    "height": 2217
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093902030",
+  "tid": "08ba2610-1544-11ed-ba7b-e7621eb0a2db",
+  "timestamp": "2022-06-19T14:52:55Z",
+  "description": "German Romantic composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Carl_Maria_von_Weber",
+      "revisions": "https://en.wikipedia.org/wiki/Carl_Maria_von_Weber?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Carl_Maria_von_Weber?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Carl_Maria_von_Weber"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Carl_Maria_von_Weber",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Carl_Maria_von_Weber",
+      "edit": "https://en.m.wikipedia.org/wiki/Carl_Maria_von_Weber?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Carl_Maria_von_Weber"
+    }
+  },
+  "extract": "Carl Maria Friedrich Ernst von Weber was a German composer, conductor, virtuoso pianist, guitarist, and critic who was one of the first significant composers of the Romantic era. Best known for his operas, he was a crucial figure in the development of German Romantische Oper.",
+  "extract_html": "<p><b>Carl Maria Friedrich Ernst von Weber</b> was a German composer, conductor, virtuoso pianist, guitarist, and critic who was one of the first significant composers of the Romantic era. Best known for his operas, he was a crucial figure in the development of German <i>Romantische Oper</i>.</p>"
+}

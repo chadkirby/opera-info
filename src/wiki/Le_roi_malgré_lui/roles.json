@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<sup id=\"cite_ref-Opéra_de_Lyon_Programme_book._2004_3-1\" class=\"reference\"><a href=\"#cite_note-Opéra_de_Lyon_Programme_book._2004-3\">[3]</a></sup><br>18 May 1887<br>(Conductor: <a href=\"/wiki/Jules_Danb%C3%A9\" title=\"Jules Danbé\">Jules Danbé</a>)\n</th>\n<th>Revised Paris premiere,<br>6 November 1929<br>(Conductor: Louis Masson)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Henry_III_of_France\" title=\"Henry III of France\">Henri de Valois</a>, ‘'King of Poland'’\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Comte de Nangis, <i>a friend of Henri</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Minka, <i>slave girl of Laski</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Alexina, <i>Duchess of Fritelli<br> and niece of Laski</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Laski, <i>a Polish noble, Minka's master</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Duc de Fritelli, <i>an Italian noble,<br> husband of Alexina, chamberlain<br> to the King</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Basile, <i>innkeeper</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Liancourt, <i>a French noble</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>d'Elboeuf, <i>a French noble</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Maugiron, <i>a French noble</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Comte de Caylus, <i>a French noble</i>\n</td>\n<td>baritone\n</td>\n\n</tr>\n<tr>\n<td>Marquis de Villequier, <i>a French noble</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>A soldier\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Six servant girls\n</td>\n<td>soprano, mezzo\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Pages, French nobles, Polish nobles, Soldiers, Serfs and Servants, People</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Henri de Valois, ‘'King of Poland'’",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Comte de Nangis, a friend of Henri",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Minka, slave girl of Laski",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Alexina, Duchess of Fritelli\n and niece of Laski",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Laski, a Polish noble, Minka's master",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Duc de Fritelli, an Italian noble,\n husband of Alexina, chamberlain\n to the King",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Basile, innkeeper",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Liancourt, a French noble",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "d'Elboeuf, a French noble",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Maugiron, a French noble",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Comte de Caylus, a French noble",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Marquis de Villequier, a French noble",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A soldier",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Six servant girls",
+      "voiceType": "soprano, mezzo"
+    },
+    {
+      "role": "Pages, French nobles, Polish nobles, Soldiers, Serfs and Servants, People",
+      "voiceType": ""
+    }
+  ]
+}

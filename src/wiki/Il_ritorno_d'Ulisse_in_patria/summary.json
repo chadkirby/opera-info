@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Il ritorno d'Ulisse in patria",
+  "displaytitle": "<i>Il ritorno d'Ulisse in patria</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q907047",
+  "titles": {
+    "canonical": "Il_ritorno_d'Ulisse_in_patria",
+    "normalized": "Il ritorno d'Ulisse in patria",
+    "display": "<i>Il ritorno d'Ulisse in patria</i>"
+  },
+  "pageid": 1249630,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Claudio_Monteverdi_-_Il_ritorno_d%27Ulisse_in_patria_-_title_page_of_the_libretto_-_Venice_1641.png",
+    "width": 200,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Claudio_Monteverdi_-_Il_ritorno_d%27Ulisse_in_patria_-_title_page_of_the_libretto_-_Venice_1641.png",
+    "width": 200,
+    "height": 320
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096770617",
+  "tid": "928a3300-11a5-11ed-aa2a-5718e0454c8e",
+  "timestamp": "2022-07-06T14:46:22Z",
+  "description": "1639 opera by Claudio Monteverdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_ritorno_d'Ulisse_in_patria",
+      "revisions": "https://en.wikipedia.org/wiki/Il_ritorno_d'Ulisse_in_patria?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_ritorno_d'Ulisse_in_patria?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_ritorno_d'Ulisse_in_patria"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_ritorno_d'Ulisse_in_patria",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_ritorno_d'Ulisse_in_patria",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_ritorno_d'Ulisse_in_patria?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_ritorno_d'Ulisse_in_patria"
+    }
+  },
+  "extract": "Il ritorno d'Ulisse in patria is an opera consisting of a prologue and five acts, set by Claudio Monteverdi to a libretto by Giacomo Badoaro. The opera was first performed at the Teatro Santi Giovanni e Paolo in Venice during the 1639–1640 carnival season. The story, taken from the second half of Homer's Odyssey, tells how constancy and virtue are ultimately rewarded, treachery and deception overcome. After his long journey home from the Trojan Wars Ulisse, king of Ithaca, finally returns to his kingdom where he finds that a trio of villainous suitors are importuning his faithful queen, Penelope. With the assistance of the gods, his son Telemaco and a staunch friend Eumete, Ulisse vanquishes the suitors and recovers his kingdom.",
+  "extract_html": "<p><i><b>Il ritorno d'Ulisse in patria</b></i> is an opera consisting of a prologue and five acts, set by Claudio Monteverdi to a libretto by Giacomo Badoaro. The opera was first performed at the Teatro Santi Giovanni e Paolo in Venice during the 1639–1640 carnival season. The story, taken from the second half of Homer's <i>Odyssey</i>, tells how constancy and virtue are ultimately rewarded, treachery and deception overcome. After his long journey home from the Trojan Wars Ulisse, king of Ithaca, finally returns to his kingdom where he finds that a trio of villainous suitors are importuning his faithful queen, Penelope. With the assistance of the gods, his son Telemaco and a staunch friend Eumete, Ulisse vanquishes the suitors and recovers his kingdom.</p>"
+}

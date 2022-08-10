@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Der Barbier von Bagdad",
+  "displaytitle": "<i>Der Barbier von Bagdad</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q463710",
+  "titles": {
+    "canonical": "Der_Barbier_von_Bagdad",
+    "normalized": "Der Barbier von Bagdad",
+    "display": "<i>Der Barbier von Bagdad</i>"
+  },
+  "pageid": 2046450,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Peter_cornelius.jpg",
+    "width": 150,
+    "height": 216
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Peter_cornelius.jpg",
+    "width": 150,
+    "height": 216
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1067482551",
+  "tid": "69643740-1345-11ed-bf34-d53ddee238a7",
+  "timestamp": "2022-01-23T18:19:36Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Barbier_von_Bagdad",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Barbier_von_Bagdad?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Barbier_von_Bagdad?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Barbier_von_Bagdad"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Barbier_von_Bagdad",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Barbier_von_Bagdad",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Barbier_von_Bagdad?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Barbier_von_Bagdad"
+    }
+  },
+  "extract": "Der Barbier von Bagdad is a comic opera in two acts by Peter Cornelius to a German libretto by the composer, based on The Tale of the Tailor and The Barber’s Stories of his Six Brothers in One Thousand and One Nights. The first of three operas by Cornelius, the piece was first performed at the Hoftheater in Weimar on 15 December 1858.",
+  "extract_html": "<p><i><b>Der Barbier von Bagdad</b></i> is a comic opera in two acts by Peter Cornelius to a German libretto by the composer, based on <i>The Tale of the Tailor</i> and <i>The Barber’s Stories of his Six Brothers</i> in <i>One Thousand and One Nights</i>. The first of three operas by Cornelius, the piece was first performed at the Hoftheater in Weimar on 15 December 1858.</p>"
+}

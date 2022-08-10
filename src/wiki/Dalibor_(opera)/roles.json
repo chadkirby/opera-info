@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<br>16 May 1868<br>(Conductor: Bedřich Smetana)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Vladislaus_II_of_Bohemia_and_Hungary\" class=\"mw-redirect\" title=\"Vladislaus II of Bohemia and Hungary\">Vladislav</a>, <i><a href=\"/wiki/List_of_rulers_of_Bohemia\" class=\"mw-redirect\" title=\"List of rulers of Bohemia\">Czech King</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Dalibor, <i>a knight</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Budivoj, <i>Commander of the castle guard</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Beneš, <i>the jailor</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Vítek, <i>one of Dalibor's mercenaries</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Milada, <i>sister of the burgrave of Ploškovice</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Jitka, <i>a village maiden on Dalibor's estate</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>One of the judges\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>People, judges, mercenaries, chorus, silent</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Vladislav, Czech King",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Dalibor, a knight",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Budivoj, Commander of the castle guard",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Beneš, the jailor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Vítek, one of Dalibor's mercenaries",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Milada, sister of the burgrave of Ploškovice",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jitka, a village maiden on Dalibor's estate",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "One of the judges",
+      "voiceType": "bass"
+    },
+    {
+      "role": "People, judges, mercenaries, chorus, silent",
+      "voiceType": ""
+    }
+  ]
+}

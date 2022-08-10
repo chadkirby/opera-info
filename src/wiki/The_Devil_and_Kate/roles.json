@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup> 23 November 1899.<br>(Conductor: <a href=\"/wiki/Adolf_%C4%8Cech\" title=\"Adolf Čech\">Adolf Čech</a>)\n</th></tr>\n<tr>\n<td>Káča (Kate)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Marbuel, <i>a devil</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Jirka, <i>a shepherd</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Kate's mother\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Lucifer\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The Princess\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>The Devil's Gate-Keeper\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A Devil Guard\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The Princess's Chamberlain\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A Chambermaid\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A Musician\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Káča (Kate)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Marbuel, a devil",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Jirka, a shepherd",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Kate's mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Lucifer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Princess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Devil's Gate-Keeper",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Devil Guard",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Princess's Chamberlain",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Chambermaid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A Musician",
+      "voiceType": "tenor"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Der fliegende Holländer",
+  "displaytitle": "<i>Der fliegende Holländer</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q114640",
+  "titles": {
+    "canonical": "Der_fliegende_Holländer",
+    "normalized": "Der fliegende Holländer",
+    "display": "<i>Der fliegende Holländer</i>"
+  },
+  "pageid": 38149,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Der_fliegende_Holl%C3%A4nder.jpg/245px-Der_fliegende_Holl%C3%A4nder.jpg",
+    "width": 245,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Der_fliegende_Holl%C3%A4nder.jpg",
+    "width": 920,
+    "height": 1200
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094894966",
+  "tid": "e1371fd0-119c-11ed-a311-27c3041d58f4",
+  "timestamp": "2022-06-25T06:34:16Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder",
+      "revisions": "https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_fliegende_Holl%C3%A4nder"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_fliegende_Holl%C3%A4nder",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_fliegende_Holl%C3%A4nder"
+    }
+  },
+  "extract": "Der fliegende Holländer, WWV 63, is a German-language opera, with libretto and music by Richard Wagner. The central theme is redemption through love. Wagner conducted the premiere at the Königliches Hoftheater Dresden in 1843.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Der fliegende Holländer</i></span></b></i>, WWV 63, is a German-language opera, with libretto and music by Richard Wagner. The central theme is redemption through love. Wagner conducted the premiere at the Königliches Hoftheater Dresden in 1843.</p>"
+}

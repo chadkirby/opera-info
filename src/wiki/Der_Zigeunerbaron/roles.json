@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 24 October 1885<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: Johann Strauss II\n</th></tr>\n<tr>\n<td>Count Peter Homonay, <i>Governor of <a href=\"/wiki/Teme%C5%9Fvar_Eyalet\" title=\"Temeşvar Eyalet\">Temeşvar Province</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Conte Carnero, <i>Royal Commissioner</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Sándor Barinkay, <i>a young exile</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Kálmán Zsupán, <i>a wealthy pig farmer of the <a href=\"/wiki/Banat\" title=\"Banat\">Banat</a> district</i>\n</td>\n<td><a href=\"/wiki/Tenor#Tenor_buffo_or_Spieltenor\" title=\"Tenor\">tenor buffo</a>\n</td>\n</tr>\n<tr>\n<td>Arsena, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mirabella, <i>governess to Zsupán's daughter</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Ottokar, <i>her son</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Czipra, <i>a gypsy woman</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Saffi, <i>a gypsy girl</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Pali, <i>a gypsy</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>The Mayor of Vienna\n</td>\n<td>speaking role\n</td>\n</tr>\n<tr>\n<td>Seppl, <i>a <a href=\"/wiki/Link-boy\" title=\"Link-boy\">link-boy</a></i>\n</td>\n<td>speaking role\n</td>\n</tr>\n<tr>\n<td>Miksa, <i>a boatman</i>\n</td>\n<td>speaking role\n</td>\n</tr>\n<tr>\n<td>István, <i>Zsupán's servant</i>\n</td>\n<td>speaking role\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Józsi, Ferkó, Mihály, Jáncsi, gypsies, Irma, Tercsi, Aranka, Katicza, Julcsa, Etelka, Jolán, Ilka, Arsena's friends</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Count Peter Homonay, Governor of Temeşvar Province",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Conte Carnero, Royal Commissioner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sándor Barinkay, a young exile",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Kálmán Zsupán, a wealthy pig farmer of the Banat district",
+      "voiceType": "tenor buffo"
+    },
+    {
+      "role": "Arsena, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mirabella, governess to Zsupán's daughter",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Ottokar, her son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Czipra, a gypsy woman",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Saffi, a gypsy girl",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Pali, a gypsy",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "The Mayor of Vienna",
+      "voiceType": "speaking role"
+    },
+    {
+      "role": "Seppl, a link-boy",
+      "voiceType": "speaking role"
+    },
+    {
+      "role": "Miksa, a boatman",
+      "voiceType": "speaking role"
+    },
+    {
+      "role": "István, Zsupán's servant",
+      "voiceType": "speaking role"
+    },
+    {
+      "role": "Józsi, Ferkó, Mihály, Jáncsi, gypsies, Irma, Tercsi, Aranka, Katicza, Julcsa, Etelka, Jolán, Ilka, Arsena's friends",
+      "voiceType": ""
+    }
+  ]
+}

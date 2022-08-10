@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Roles\n</th>\n<th>Voice type\n</th>\n<th>Performance cast<br>Zimin Opera<br>24 September 1909<br>(Conductor: <a href=\"/wiki/Emil_Cooper\" title=\"Emil Cooper\">Emil Cooper</a>)\n</th>\n<th>Performance cast<br>Bolshoi Theatre<br>6 November 1909<br>(Conductor: <a href=\"/wiki/Vyacheslav_Suk\" class=\"mw-redirect\" title=\"Vyacheslav Suk\">Vyacheslav Suk</a>)\n</th></tr>\n<tr>\n<td>Tsar Dodon (Царь Додон)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Tsarevich Gvidon (Царевич Гвидон)\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Tsarevich Afron (Царевич Афрон)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>General Polkan\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Amelfa, <i>a housekeeper</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n</tr>\n<tr>\n<td>Astrologer\n</td>\n<td><a href=\"/wiki/Tenor_altino\" class=\"mw-redirect\" title=\"Tenor altino\">tenor altino</a>\n</td>\n\n</tr>\n<tr>\n<td>Tsaritsa of Shemakha (Шемаханская царица)\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Golden Cockerel (Золотой петушок)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">chorus, silent roles\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Tsar Dodon (Царь Додон)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Tsarevich Gvidon (Царевич Гвидон)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Tsarevich Afron (Царевич Афрон)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "General Polkan",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Amelfa, a housekeeper",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Astrologer",
+      "voiceType": "tenor altino"
+    },
+    {
+      "role": "Tsaritsa of Shemakha (Шемаханская царица)",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Golden Cockerel (Золотой петушок)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "chorus, silent roles",
+      "voiceType": ""
+    }
+  ]
+}

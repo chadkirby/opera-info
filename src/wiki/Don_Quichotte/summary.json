@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Don Quichotte",
+  "displaytitle": "<i>Don Quichotte</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q727793",
+  "titles": {
+    "canonical": "Don_Quichotte",
+    "normalized": "Don Quichotte",
+    "display": "<i>Don Quichotte</i>"
+  },
+  "pageid": 2528677,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Georges_Rochegrosse%27s_poster_for_Jules_Massenet%27s_Don_Quichotte.jpg/241px-Georges_Rochegrosse%27s_poster_for_Jules_Massenet%27s_Don_Quichotte.jpg",
+    "width": 241,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/2/27/Georges_Rochegrosse%27s_poster_for_Jules_Massenet%27s_Don_Quichotte.jpg",
+    "width": 3680,
+    "height": 4892
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094893271",
+  "tid": "d0e98130-15f8-11ed-b62a-4f3f40822b90",
+  "timestamp": "2022-06-25T06:13:49Z",
+  "description": "Opera by Jules Massenet",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Don_Quichotte",
+      "revisions": "https://en.wikipedia.org/wiki/Don_Quichotte?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Don_Quichotte?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_Quichotte"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Don_Quichotte",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Don_Quichotte",
+      "edit": "https://en.m.wikipedia.org/wiki/Don_Quichotte?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Don_Quichotte"
+    }
+  },
+  "extract": "Don Quichotte is an opera in five acts by Jules Massenet to a French libretto by Henri Caïn. It was first performed on 19 February 1910 at the Opéra de Monte-Carlo.",
+  "extract_html": "<p><i><b>Don Quichotte</b></i> is an opera in five acts by Jules Massenet to a French libretto by Henri Caïn. It was first performed on 19 February 1910 at the Opéra de Monte-Carlo.</p>"
+}

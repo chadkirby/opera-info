@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Le siège de Corinthe",
+  "displaytitle": "<i>Le siège de Corinthe</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q669125",
+  "titles": {
+    "canonical": "Le_siège_de_Corinthe",
+    "normalized": "Le siège de Corinthe",
+    "display": "<i>Le siège de Corinthe</i>"
+  },
+  "pageid": 1259014,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Siege3i.jpg/320px-Siege3i.jpg",
+    "width": 320,
+    "height": 254
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Siege3i.jpg",
+    "width": 504,
+    "height": 400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731548",
+  "tid": "d04ec7d0-15f8-11ed-859e-eb43a63cb4b0",
+  "timestamp": "2022-05-02T04:12:42Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Le_si%C3%A8ge_de_Corinthe",
+      "revisions": "https://en.wikipedia.org/wiki/Le_si%C3%A8ge_de_Corinthe?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Le_si%C3%A8ge_de_Corinthe?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Le_si%C3%A8ge_de_Corinthe"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Le_si%C3%A8ge_de_Corinthe",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Le_si%C3%A8ge_de_Corinthe",
+      "edit": "https://en.m.wikipedia.org/wiki/Le_si%C3%A8ge_de_Corinthe?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Le_si%C3%A8ge_de_Corinthe"
+    }
+  },
+  "extract": "Le siège de Corinthe is an opera in three acts by Gioachino Rossini set to a French libretto by Luigi Balocchi and Alexandre Soumet, which was based on the reworking of some of the music from the composer's 1820 opera for Naples, Maometto II, the libretto of which was written by Cesare della Valle.",
+  "extract_html": "<p><i><b>Le siège de Corinthe</b></i> is an opera in three acts by Gioachino Rossini set to a French libretto by Luigi Balocchi and Alexandre Soumet, which was based on the reworking of some of the music from the composer's 1820 opera for Naples, <i>Maometto II</i>, the libretto of which was written by Cesare della Valle.</p>"
+}

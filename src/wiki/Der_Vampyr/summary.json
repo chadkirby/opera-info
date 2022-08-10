@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Der Vampyr",
+  "displaytitle": "<i>Der Vampyr</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q253866",
+  "titles": {
+    "canonical": "Der_Vampyr",
+    "normalized": "Der Vampyr",
+    "display": "<i>Der Vampyr</i>"
+  },
+  "pageid": 7889387,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marschner_der_vampyr_poster.jpg/210px-Marschner_der_vampyr_poster.jpg",
+    "width": 210,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Marschner_der_vampyr_poster.jpg",
+    "width": 400,
+    "height": 609
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092338630",
+  "tid": "d0fa4a10-15f8-11ed-9835-c78344910947",
+  "timestamp": "2022-06-09T17:53:40Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Vampyr",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Vampyr?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Vampyr?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Vampyr"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Vampyr",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Vampyr",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Vampyr?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Vampyr"
+    }
+  },
+  "extract": " Der Vampyr  is a Romantic opera in two acts by Heinrich Marschner. The German libretto by Wilhelm August Wohlbrück is based on the play Der Vampir oder die Totenbraut (1821) by Heinrich Ludwig Ritter, which itself was based on the short story The Vampyre (1819) by John Polidori. The first performance took place on 29 March 1828 in Leipzig, where it was a hit.",
+  "extract_html": "<p><i><b> Der Vampyr </b></i> is a Romantic opera in two acts by Heinrich Marschner. The German libretto by Wilhelm August Wohlbrück is based on the play <i>Der Vampir oder die Totenbraut</i> (1821) by Heinrich Ludwig Ritter, which itself was based on the short story <i>The Vampyre</i> (1819) by John Polidori. The first performance took place on 29 March 1828 in Leipzig, where it was a hit.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Orpheus in the Underworld",
+  "displaytitle": "<i>Orpheus in the Underworld</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1137065",
+  "titles": {
+    "canonical": "Orpheus_in_the_Underworld",
+    "normalized": "Orpheus in the Underworld",
+    "display": "<i>Orpheus in the Underworld</i>"
+  },
+  "pageid": 47203,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/1878_poster_for_Jacques_Offenbach%27s_Orph%C3%A9e_aux_enfers.jpg/225px-1878_poster_for_Jacques_Offenbach%27s_Orph%C3%A9e_aux_enfers.jpg",
+    "width": 225,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1878_poster_for_Jacques_Offenbach%27s_Orph%C3%A9e_aux_enfers.jpg",
+    "width": 9924,
+    "height": 14091
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1076858652",
+  "tid": "095dbff0-119d-11ed-b49c-2b3ff5599ea3",
+  "timestamp": "2022-03-13T09:02:48Z",
+  "description": "Opéra bouffon by Jacques Offenbach",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Orpheus_in_the_Underworld",
+      "revisions": "https://en.wikipedia.org/wiki/Orpheus_in_the_Underworld?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Orpheus_in_the_Underworld?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Orpheus_in_the_Underworld"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Orpheus_in_the_Underworld",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Orpheus_in_the_Underworld",
+      "edit": "https://en.m.wikipedia.org/wiki/Orpheus_in_the_Underworld?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Orpheus_in_the_Underworld"
+    }
+  },
+  "extract": "Orpheus in the Underworld and Orpheus in Hell are English names for Orphée aux enfers, a comic opera with music by Jacques Offenbach and words by Hector Crémieux and Ludovic Halévy. It was first performed as a two-act \"opéra bouffon\" at the Théâtre des Bouffes-Parisiens, Paris, on 21 October 1858, and was extensively revised and expanded in a four-act \"opéra féerie\" version, presented at the Théâtre de la Gaîté, Paris, on 7 February 1874.",
+  "extract_html": "<p><i><b>Orpheus in the Underworld</b></i> and <i><b>Orpheus in Hell</b></i> are English names for <i><b>Orphée aux enfers</b></i>, a comic opera with music by Jacques Offenbach and words by Hector Crémieux and Ludovic Halévy. It was first performed as a two-act \"opéra bouffon\" at the Théâtre des Bouffes-Parisiens, Paris, on 21 October 1858, and was extensively revised and expanded in a four-act \"opéra féerie\" version, presented at the Théâtre de la Gaîté, Paris, on 7 February 1874.</p>"
+}

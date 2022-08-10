@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La Wally",
+  "displaytitle": "<i>La Wally</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q654861",
+  "titles": {
+    "canonical": "La_Wally",
+    "normalized": "La Wally",
+    "display": "<i>La Wally</i>"
+  },
+  "pageid": 1844548,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_Wally_-_Manifesto.jpg/225px-La_Wally_-_Manifesto.jpg",
+    "width": 225,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_Wally_-_Manifesto.jpg",
+    "width": 3208,
+    "height": 4553
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085511068",
+  "tid": "259617c0-fb7d-11ec-b75e-252b22227782",
+  "timestamp": "2022-04-30T23:18:02Z",
+  "description": "1892 opera by Alfredo Catalani",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_Wally",
+      "revisions": "https://en.wikipedia.org/wiki/La_Wally?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_Wally?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_Wally"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_Wally",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_Wally",
+      "edit": "https://en.m.wikipedia.org/wiki/La_Wally?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_Wally"
+    }
+  },
+  "extract": "La Wally is an opera in four acts by composer Alfredo Catalani, to a libretto by Luigi Illica, first performed at La Scala, Milan, on 20 January 1892.",
+  "extract_html": "<p><i><b>La Wally</b></i> is an opera in four acts by composer Alfredo Catalani, to a libretto by Luigi Illica, first performed at La Scala, Milan, on 20 January 1892.</p>"
+}

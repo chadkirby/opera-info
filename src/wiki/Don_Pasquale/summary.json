@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Don Pasquale",
+  "displaytitle": "<i>Don Pasquale</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q723941",
+  "titles": {
+    "canonical": "Don_Pasquale",
+    "normalized": "Don Pasquale",
+    "display": "<i>Don Pasquale</i>"
+  },
+  "pageid": 38386,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Luigi_Lablache_in_Don_Pasquale.jpeg/246px-Luigi_Lablache_in_Don_Pasquale.jpeg",
+    "width": 246,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Luigi_Lablache_in_Don_Pasquale.jpeg",
+    "width": 300,
+    "height": 390
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069919264",
+  "tid": "c0c96370-fe82-11ec-bcd7-0181ab771eb5",
+  "timestamp": "2022-02-04T19:06:15Z",
+  "description": "Italian opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Don_Pasquale",
+      "revisions": "https://en.wikipedia.org/wiki/Don_Pasquale?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Don_Pasquale?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_Pasquale"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Don_Pasquale",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Don_Pasquale",
+      "edit": "https://en.m.wikipedia.org/wiki/Don_Pasquale?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Don_Pasquale"
+    }
+  },
+  "extract": "Don Pasquale is an opera buffa, or comic opera, in three acts by Gaetano Donizetti with an Italian libretto completed largely by Giovanni Ruffini as well as the composer. It was based on a libretto by Angelo Anelli for Stefano Pavesi's opera Ser Marcantonio written in 1810 but, on the published libretto, the author appears as \"M.A.\"",
+  "extract_html": "<p><i><b>Don Pasquale</b></i> is an opera buffa, or comic opera, in three acts by Gaetano Donizetti with an Italian libretto completed largely by Giovanni Ruffini as well as the composer. It was based on a libretto by Angelo Anelli for Stefano Pavesi's opera <i>Ser Marcantonio</i> written in 1810 but, on the published libretto, the author appears as \"M.A.\"</p>"
+}

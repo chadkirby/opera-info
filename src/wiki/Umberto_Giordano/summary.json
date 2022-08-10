@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Umberto Giordano",
+  "displaytitle": "Umberto Giordano",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q294826",
+  "titles": {
+    "canonical": "Umberto_Giordano",
+    "normalized": "Umberto Giordano",
+    "display": "Umberto Giordano"
+  },
+  "pageid": 272884,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Umberto_Giordano_by_Gaetano_Esposito_%28color%29.jpg/308px-Umberto_Giordano_by_Gaetano_Esposito_%28color%29.jpg",
+    "width": 308,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Umberto_Giordano_by_Gaetano_Esposito_%28color%29.jpg",
+    "width": 347,
+    "height": 361
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1074520275",
+  "tid": "0558d8e0-0f81-11ed-87be-83642e1c2ee4",
+  "timestamp": "2022-02-28T17:49:01Z",
+  "description": "Italian opera composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Umberto_Giordano",
+      "revisions": "https://en.wikipedia.org/wiki/Umberto_Giordano?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Umberto_Giordano?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Umberto_Giordano"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Umberto_Giordano",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Umberto_Giordano",
+      "edit": "https://en.m.wikipedia.org/wiki/Umberto_Giordano?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Umberto_Giordano"
+    }
+  },
+  "extract": "Umberto Menotti Maria Giordano was an Italian composer, mainly of operas.",
+  "extract_html": "<p><b>Umberto Menotti Maria Giordano</b> was an Italian composer, mainly of operas.</p>"
+}

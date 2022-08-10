@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 9 August 1862<br>Conductor: Hector Berlioz<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[14]</a></sup>\n</th></tr>\n<tr>\n<td>Héro, <i>daughter of Léonato</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Béatrice, <i>niece of Léonato</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Bénédict, <i>Sicilian officer, friend of Claudio</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Don_Pedro_(character)\" class=\"mw-redirect\" title=\"Don Pedro (character)\">Don Pedro</a>, <i>Sicilian general</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Claudio, <i>general's aide-de-camp</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Somarone, <i>a music master</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Ursule, <i>Héro's lady-in-waiting</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Léonato, <i>Governor of Messina</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>A Messenger\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>A Notary\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>People of Sicily, Lords, Ladies, Musicians, Maids – Chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Héro, daughter of Léonato",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Béatrice, niece of Léonato",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Bénédict, Sicilian officer, friend of Claudio",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Pedro, Sicilian general",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Claudio, general's aide-de-camp",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Somarone, a music master",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ursule, Héro's lady-in-waiting",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Léonato, Governor of Messina",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "A Messenger",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "A Notary",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "People of Sicily, Lords, Ladies, Musicians, Maids – Chorus",
+      "voiceType": ""
+    }
+  ]
+}

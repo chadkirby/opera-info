@@ -1,0 +1,85 @@
+{
+  "html": "<table class=\"wikitable\" border=\"1\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast<br>3 November 1946, Leningrad<br>(Conductor: <a href=\"/wiki/Boris_Khaikin\" title=\"Boris Khaikin\">Boris Khaikin</a>)\n</th></tr>\n<tr>\n<td>Don Jerome\n</td>\n<td><a href=\"/wiki/Tenor_(voice)\" class=\"mw-redirect\" title=\"Tenor (voice)\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Don Ferdinand, <i>son of Don Jerome</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Louisa, <i>daughter of Don Jerome</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>The Duenna\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Don Antonio\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Clara d'Almanza\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Mendoza, <i>a fish merchant</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice)\" class=\"mw-redirect\" title=\"Bass (voice)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Don Carlos, <i>friend of Mendoza</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Padre Augustin\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Father Elustaf\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Father Chartreuse\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Father Benedictine\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Lauretta\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Rosina\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Lopez\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Pablo\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Pedro\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Miguel\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Three Maskers\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Two Lay Brothers\n</td>\n<td>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Don Jerome",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Ferdinand, son of Don Jerome",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Louisa, daughter of Don Jerome",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Duenna",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Don Antonio",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Clara d'Almanza",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Mendoza, a fish merchant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Don Carlos, friend of Mendoza",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Padre Augustin",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Father Elustaf",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Father Chartreuse",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Father Benedictine",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lauretta",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Rosina",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Lopez",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pablo",
+      "voiceType": ""
+    },
+    {
+      "role": "Pedro",
+      "voiceType": ""
+    },
+    {
+      "role": "Miguel",
+      "voiceType": ""
+    },
+    {
+      "role": "Three Maskers",
+      "voiceType": ""
+    },
+    {
+      "role": "Two Lay Brothers",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Owen Wingrave",
+  "displaytitle": "<i>Owen Wingrave</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q736246",
+  "titles": {
+    "canonical": "Owen_Wingrave",
+    "normalized": "Owen Wingrave",
+    "display": "<i>Owen Wingrave</i>"
+  },
+  "pageid": 5051183,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Peter_Pears_publicity_photo_1971_crop.png/320px-Peter_Pears_publicity_photo_1971_crop.png",
+    "width": 320,
+    "height": 235
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Peter_Pears_publicity_photo_1971_crop.png",
+    "width": 941,
+    "height": 692
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100433541",
+  "tid": "63ba9de0-0c68-11ed-ba7a-3faf2e237330",
+  "timestamp": "2022-07-25T22:23:18Z",
+  "description": "1970 opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Owen_Wingrave",
+      "revisions": "https://en.wikipedia.org/wiki/Owen_Wingrave?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Owen_Wingrave?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Owen_Wingrave"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Owen_Wingrave",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Owen_Wingrave",
+      "edit": "https://en.m.wikipedia.org/wiki/Owen_Wingrave?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Owen_Wingrave"
+    }
+  },
+  "extract": "Owen Wingrave, Op. 85, is an opera in two acts with music by Benjamin Britten and libretto by Myfanwy Piper, after a short story by Henry James. It was originally written for televised performance.",
+  "extract_html": "<p><i><b>Owen Wingrave</b></i>, Op. 85, is an opera in two acts with music by Benjamin Britten and libretto by Myfanwy Piper, after a short story by Henry James. It was originally written for televised performance.</p>"
+}

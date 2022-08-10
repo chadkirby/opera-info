@@ -1,0 +1,101 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[14]</a></sup><sup id=\"cite_ref-almanacco_15-0\" class=\"reference\"><a href=\"#cite_note-almanacco-15\">[15]</a></sup> 21 March 1925<br>(<a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Victor_de_Sabata\" title=\"Victor de Sabata\">Victor de Sabata</a>)\n</th></tr>\n<tr>\n<td>L'enfant, the child\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<th colspan=\"3\">Part one\n</th></tr>\n<tr>\n<td>Maman, the mother represented by a huge skirt\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Le fauteuil\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>La bergère Louis XV\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>L'horloge comtoise, a clock broken by the child\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>La théière, <a href=\"/wiki/Wedgwood\" title=\"Wedgwood\">Wedgwood</a> teapot\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>La tasse chinoise, a broken china cup\n</td>\n<td>mezzo-contralto\n</td>\n</tr>\n<tr>\n<td>Le feu, the fire in the fireplace\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>La princesse, the princess torn out of a storybook\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>Une pastourelle\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Un pâtre\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Le petit vieillard, the little old man (representing the torn arithmetic book)\n</td>\n<td>tenor<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup>\n</td>\n</tr>\n<tr>\n<td>Le chat\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>La chatte\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<th colspan=\"3\">Part two\n</th></tr>\n<tr>\n<td>La chouette\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>L'arbre, a tree\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>La libellule, a dragonfly\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Le rossignol, a nightingale\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>La chauve-souris, widower bat\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>L'écureuil, a squirrel\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>La rainette, the tree frog\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Le banc, le canapé, le pouf, la chaise de paille (children's chorus); Pâtres and pastoures (shepherds and shepherdesses - torn figures from the decorative wallpaper), Les chiffres (spiteful little numbers that assist the old man in tormenting the child (children's chorus)); trees, animals.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "L'enfant, the child",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Part one",
+      "voiceType": ""
+    },
+    {
+      "role": "Maman, the mother represented by a huge skirt",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Le fauteuil",
+      "voiceType": "bass"
+    },
+    {
+      "role": "La bergère Louis XV",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "L'horloge comtoise, a clock broken by the child",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "La théière, Wedgwood teapot",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "La tasse chinoise, a broken china cup",
+      "voiceType": "mezzo-contralto"
+    },
+    {
+      "role": "Le feu, the fire in the fireplace",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "La princesse, the princess torn out of a storybook",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Une pastourelle",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Un pâtre",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Le petit vieillard, the little old man (representing the torn arithmetic book)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Le chat",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "La chatte",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Part two",
+      "voiceType": ""
+    },
+    {
+      "role": "La chouette",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "L'arbre, a tree",
+      "voiceType": "bass"
+    },
+    {
+      "role": "La libellule, a dragonfly",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Le rossignol, a nightingale",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "La chauve-souris, widower bat",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "L'écureuil, a squirrel",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "La rainette, the tree frog",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Chorus: Le banc, le canapé, le pouf, la chaise de paille (children's chorus); Pâtres and pastoures (shepherds and shepherdesses - torn figures from the decorative wallpaper), Les chiffres (spiteful little numbers that assist the old man in tormenting the child (children's chorus)); trees, animals.",
+      "voiceType": ""
+    }
+  ]
+}

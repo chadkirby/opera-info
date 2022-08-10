@@ -1,0 +1,11 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">La scala di seta</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><i><a href=\"/wiki/Farsa\" title=\"Farsa\">Farsa comica</a></i> by <a href=\"/wiki/Gioachino_Rossini\" title=\"Gioachino Rossini\">Gioachino Rossini</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Rossini-portrait-0.jpg\" class=\"image\"><img alt=\"Rossini-portrait-0.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/220px-Rossini-portrait-0.jpg\" decoding=\"async\" width=\"220\" height=\"268\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/330px-Rossini-portrait-0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/440px-Rossini-portrait-0.jpg 2x\" data-file-width=\"840\" data-file-height=\"1024\"></a><div class=\"infobox-caption\">Portrait of the composer</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>The Silken Ladder</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Giuseppe Maria Foppa</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i>L’échelle de soie</i><br>by <a href=\"/wiki/Eug%C3%A8ne_de_Planard\" title=\"Eugène de Planard\">Eugène de Planard</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">9&nbsp;May&nbsp;1812<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1812-05-09</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Teatro_San_Mois%C3%A8\" title=\"Teatro San Moisè\">Teatro San Moisè</a>, Venice</div></div></td></tr></tbody></table>",
+  "titles": [
+    "La scala di seta"
+  ],
+  "Translation": "The Silken Ladder",
+  "Librettist": "Giuseppe Maria Foppa",
+  "Language": "Italian",
+  "Based on": "L’échelle de soie\nby Eugène de Planard",
+  "Premiere": "9 May 1812\nTeatro San Moisè, Venice"
+}

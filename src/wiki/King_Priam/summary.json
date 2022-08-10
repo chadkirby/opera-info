@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "King Priam",
+  "displaytitle": "<i>King Priam</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3068944",
+  "titles": {
+    "canonical": "King_Priam",
+    "normalized": "King Priam",
+    "display": "<i>King Priam</i>"
+  },
+  "pageid": 4409787,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083527456",
+  "tid": "45fc6eb0-f9de-11ec-920e-4310532554e6",
+  "timestamp": "2022-04-19T08:15:15Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/King_Priam",
+      "revisions": "https://en.wikipedia.org/wiki/King_Priam?action=history",
+      "edit": "https://en.wikipedia.org/wiki/King_Priam?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:King_Priam"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/King_Priam",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/King_Priam",
+      "edit": "https://en.m.wikipedia.org/wiki/King_Priam?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:King_Priam"
+    }
+  },
+  "extract": "King Priam is an opera by Michael Tippett, to his own libretto. The story is based on Homer's Iliad, except the birth and childhood of Paris, which are taken from the Fabulae of Hyginus.",
+  "extract_html": "<p><i><b>King Priam</b></i> is an opera by Michael Tippett, to his own libretto. The story is based on Homer's <i>Iliad</i>, except the birth and childhood of Paris, which are taken from the <i>Fabulae</i> of Hyginus.</p>"
+}

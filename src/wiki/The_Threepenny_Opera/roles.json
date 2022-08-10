@@ -1,0 +1,69 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 31 August 1928<sup id=\"cite_ref-FOOTNOTECasaglia2005_22-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTECasaglia2005-22\">[21]</a></sup><br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Theo_Mackeben\" title=\"Theo Mackeben\">Theo Mackeben</a>\n</th></tr>\n<tr>\n<td>Macheath (\"Mackie Messer\"/\"Mack the Knife\"), <i>London's greatest and most notorious criminal</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>/<a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Jonathan Jeremiah Peachum, <i>the \"Beggar's Friend\", controller of all the beggars in London; conspires to have Mack hanged</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Celia Peachum (\"Frau Peachum\"), <i>Peachum's wife; helps him run the business</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Polly Peachum, <i>the Peachums' daughter; after knowing Mack for only five days, agrees to marry him</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Jackie \"Tiger\" Brown, <i>Police Chief of London and Mack's best friend from their army days</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Lucy Brown, <i>Tiger Brown's daughter; claims to be married to Mack</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Jenny_Diver\" title=\"Jenny Diver\">Jenny</a> (\"Spelunken-Jenny\"/\"Low-Dive Jenny\"/\"Ginny Jenny\"), <i>a prostitute once romantically involved with Macheath; is bribed to turn Mack over to the police</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Filch, <i>a misfit young man who approaches the Peachums in hopes of beggar training</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Street Singer (\"Moritatensänger\"), <i>sings 'The Ballad of Mack the Knife' in the opening scene</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Smith, <i>a constable</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Walter\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Matthias\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Jakob\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Jimmie\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Ede\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Beggars, gangsters, whores, constables</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Macheath (\"Mackie Messer\"/\"Mack the Knife\"), London's greatest and most notorious criminal",
+      "voiceType": "tenor/baritone"
+    },
+    {
+      "role": "Jonathan Jeremiah Peachum, the \"Beggar's Friend\", controller of all the beggars in London; conspires to have Mack hanged",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Celia Peachum (\"Frau Peachum\"), Peachum's wife; helps him run the business",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Polly Peachum, the Peachums' daughter; after knowing Mack for only five days, agrees to marry him",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jackie \"Tiger\" Brown, Police Chief of London and Mack's best friend from their army days",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Lucy Brown, Tiger Brown's daughter; claims to be married to Mack",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jenny (\"Spelunken-Jenny\"/\"Low-Dive Jenny\"/\"Ginny Jenny\"), a prostitute once romantically involved with Macheath; is bribed to turn Mack over to the police",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Filch, a misfit young man who approaches the Peachums in hopes of beggar training",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Street Singer (\"Moritatensänger\"), sings 'The Ballad of Mack the Knife' in the opening scene",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Smith, a constable",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Walter",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Matthias",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jakob",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jimmie",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ede",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Beggars, gangsters, whores, constables",
+      "voiceType": ""
+    }
+  ]
+}

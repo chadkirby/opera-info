@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Die Meistersinger von Nürnberg",
+  "displaytitle": "<i>Die Meistersinger von Nürnberg</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q465540",
+  "titles": {
+    "canonical": "Die_Meistersinger_von_Nürnberg",
+    "normalized": "Die Meistersinger von Nürnberg",
+    "display": "<i>Die Meistersinger von Nürnberg</i>"
+  },
+  "pageid": 37915,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Max_Staegemann_as_Hans_Sachs.jpg/194px-Max_Staegemann_as_Hans_Sachs.jpg",
+    "width": 194,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Max_Staegemann_as_Hans_Sachs.jpg",
+    "width": 571,
+    "height": 942
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099727493",
+  "tid": "e119acc0-119c-11ed-97a7-61aff71ef2aa",
+  "timestamp": "2022-07-22T08:16:36Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg",
+      "revisions": "https://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_Meistersinger_von_N%C3%BCrnberg"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_Meistersinger_von_N%C3%BCrnberg",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_Meistersinger_von_N%C3%BCrnberg"
+    }
+  },
+  "extract": "Die Meistersinger von Nürnberg, WWV 96, is a music drama, or opera, in three acts, by Richard Wagner. It is the longest opera commonly performed, taking nearly four and a half hours, not counting two breaks, and is traditionally not cut. With Hans von Bülow conducting it was first performed on 21 June 1868 at the National Theater in Munich, today home of Bavarian State Opera.",
+  "extract_html": "<p><b><span><i lang=\"de\">Die Meistersinger von Nürnberg</i></span></b>, WWV 96, is a music drama, or opera, in three acts, by Richard Wagner. It is the longest opera commonly performed, taking nearly four and a half hours, not counting two breaks, and is traditionally not cut. With Hans von Bülow conducting it was first performed on 21 June 1868 at the National Theater in Munich, today home of Bavarian State Opera.</p>"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Thaïs (opera)",
+  "displaytitle": "<i>Thaïs</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1144467",
+  "titles": {
+    "canonical": "Thaïs_(opera)",
+    "normalized": "Thaïs (opera)",
+    "display": "<i>Thaïs</i> (opera)"
+  },
+  "pageid": 355216,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102926571",
+  "tid": "b5934830-1670-11ed-ba7b-e7621eb0a2db",
+  "timestamp": "2022-08-07T16:48:03Z",
+  "description": "Opera by Jules Massenet",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tha%C3%AFs_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Tha%C3%AFs_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tha%C3%AFs_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tha%C3%AFs_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Tha%C3%AFs_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tha%C3%AFs_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Tha%C3%AFs_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Tha%C3%AFs_(opera)"
+    }
+  },
+  "extract": "Thaïs is an opera, a comédie lyrique in three acts and seven tableaux, by Jules Massenet to a French libretto by Louis Gallet, based on the novel Thaïs by Anatole France. It was first performed at the Opéra Garnier in Paris on 16 March 1894, starring the American soprano Sibyl Sanderson, for whom Massenet had written the title role. The original production was directed by Alexandre Lapissida, with costumes designed by Charles Bianchini and sets by Marcel Jambon and Eugène Carpezat. The opera was later revised by the composer and was premiered at the same opera house on 13 April 1898.",
+  "extract_html": "<p><i><b>Thaïs</b></i> is an opera, a <i>comédie lyrique</i> in three acts and seven tableaux, by Jules Massenet to a French libretto by Louis Gallet, based on the novel <i>Thaïs</i> by Anatole France. It was first performed at the Opéra Garnier in Paris on 16 March 1894, starring the American soprano Sibyl Sanderson, for whom Massenet had written the title role. The original production was directed by Alexandre Lapissida, with costumes designed by Charles Bianchini and sets by Marcel Jambon and Eugène Carpezat. The opera was later revised by the composer and was premiered at the same opera house on 13 April 1898.</p>"
+}

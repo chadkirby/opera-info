@@ -1,0 +1,93 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a></th>\n<th>Premiere cast, 26 January 1911<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Ernst_von_Schuch\" title=\"Ernst von Schuch\">Ernst von Schuch</a>\n</th></tr>\n<tr>\n<td>The Marschallin, Princess Marie Thérèse von Werdenberg\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Octavian, Count Rofrano, <i>her young lover</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n</tr>\n<tr>\n<td>Baron Ochs auf Lerchenau, <i>the Marschallin's cousin</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Sophie von Faninal\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Herr von Faninal, <i>Sophie's rich <a href=\"/wiki/Parvenu\" title=\"Parvenu\">parvenu</a> father</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Marianne, <i>Sophie's <a href=\"/wiki/Chaperone_(social)\" title=\"Chaperone (social)\">duenna</a></i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Valzacchi, <i>an intriguer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Annina, <i>his niece and partner</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>A notary\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>An Italian singer\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Three noble orphans\n</td>\n<td>soprano, mezzo-<br>soprano, contralto\n</td>\n</tr>\n<tr>\n<td>A milliner\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A vendor of pets\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Faninal's Major-Domo\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A police inspector\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The Marschallin's Major-Domo\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>An innkeeper\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Four lackeys\n</td>\n<td>tenors, basses\n</td>\n</tr>\n<tr>\n<td>Four waiters\n</td>\n<td>tenor, basses\n</td>\n</tr>\n<tr>\n<td>Mohammed, <i>the Marschallin's black page</i>\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td>A flutist, a cook, a hairdresser and his assistant,<br>a scholar, a noble widow\n</td>\n<td>all silent\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Servants, hired deceivers, children, constables</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "The Marschallin, Princess Marie Thérèse von Werdenberg",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Octavian, Count Rofrano, her young lover",
+      "voiceType": "mezzo-soprano (en travesti)"
+    },
+    {
+      "role": "Baron Ochs auf Lerchenau, the Marschallin's cousin",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sophie von Faninal",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Herr von Faninal, Sophie's rich parvenu father",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Marianne, Sophie's duenna",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Valzacchi, an intriguer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Annina, his niece and partner",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "A notary",
+      "voiceType": "bass"
+    },
+    {
+      "role": "An Italian singer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Three noble orphans",
+      "voiceType": "soprano, mezzo-\nsoprano, contralto"
+    },
+    {
+      "role": "A milliner",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A vendor of pets",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Faninal's Major-Domo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A police inspector",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Marschallin's Major-Domo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "An innkeeper",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Four lackeys",
+      "voiceType": "tenors, basses"
+    },
+    {
+      "role": "Four waiters",
+      "voiceType": "tenor, basses"
+    },
+    {
+      "role": "Mohammed, the Marschallin's black page",
+      "voiceType": "silent"
+    },
+    {
+      "role": "A flutist, a cook, a hairdresser and his assistant,\na scholar, a noble widow",
+      "voiceType": "all silent"
+    },
+    {
+      "role": "Servants, hired deceivers, children, constables",
+      "voiceType": ""
+    }
+  ]
+}

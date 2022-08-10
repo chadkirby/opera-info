@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Il turco in Italia",
+  "displaytitle": "<i>Il turco in Italia</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q477643",
+  "titles": {
+    "canonical": "Il_turco_in_Italia",
+    "normalized": "Il turco in Italia",
+    "display": "<i>Il turco in Italia</i>"
+  },
+  "pageid": 1747301,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/262px-Rossini-portrait-0.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rossini-portrait-0.jpg",
+    "width": 840,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731573",
+  "tid": "ed089b80-0063-11ed-ae2d-5997b3b3d27d",
+  "timestamp": "2022-05-02T04:12:53Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Il_turco_in_Italia",
+      "revisions": "https://en.wikipedia.org/wiki/Il_turco_in_Italia?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Il_turco_in_Italia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Il_turco_in_Italia"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Il_turco_in_Italia",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Il_turco_in_Italia",
+      "edit": "https://en.m.wikipedia.org/wiki/Il_turco_in_Italia?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Il_turco_in_Italia"
+    }
+  },
+  "extract": "Il turco in Italia is an opera buffa in two acts by Gioachino Rossini. The Italian-language libretto was written by Felice Romani. It was a re-working of a libretto by Caterino Mazzolà set as an opera by the German composer Franz Seydelmann in 1788.",
+  "extract_html": "<p><i><b>Il turco in Italia</b></i> is an opera buffa in two acts by Gioachino Rossini. The Italian-language libretto was written by Felice Romani. It was a re-working of a libretto by Caterino Mazzolà set as an opera by the German composer Franz Seydelmann in 1788.</p>"
+}

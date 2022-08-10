@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Sadko (opera)",
+  "displaytitle": "<i>Sadko</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q910567",
+  "titles": {
+    "canonical": "Sadko_(opera)",
+    "normalized": "Sadko (opera)",
+    "display": "<i>Sadko</i> (opera)"
+  },
+  "pageid": 1253833,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Chaliapin_F._%28%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD_%D0%A4._%D0%98.%29_1898_as_varyag_in_Sadko.jpg/258px-Chaliapin_F._%28%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD_%D0%A4._%D0%98.%29_1898_as_varyag_in_Sadko.jpg",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Chaliapin_F._%28%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD_%D0%A4._%D0%98.%29_1898_as_varyag_in_Sadko.jpg",
+    "width": 806,
+    "height": 1000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1072211707",
+  "tid": "d09594d0-15f8-11ed-a297-9921492f7a98",
+  "timestamp": "2022-02-16T14:23:51Z",
+  "description": "Opera by Nikolai Rimsky-Korsakov",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sadko_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Sadko_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sadko_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sadko_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Sadko_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Sadko_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Sadko_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Sadko_(opera)"
+    }
+  },
+  "extract": "Sadko is an 1898 opera in seven scenes by Nikolai Rimsky-Korsakov. The libretto was written by the composer, with assistance from Vladimir Belsky, Vladimir Stasov, and others. Rimsky-Korsakov was first inspired by the bylina of Sadko in 1867, when he completed a tone poem on the subject, his Op. 5. After finishing his second revision of this work in 1891, he decided to turn it into a dramatic work.",
+  "extract_html": "<p><i><b>Sadko</b></i> is an 1898 opera in seven scenes by Nikolai Rimsky-Korsakov. The libretto was written by the composer, with assistance from Vladimir Belsky, Vladimir Stasov, and others. Rimsky-Korsakov was first inspired by the bylina of Sadko in 1867, when he completed a tone poem on the subject, his Op. 5. After finishing his second revision of this work in 1891, he decided to turn it into a dramatic work.</p>"
+}

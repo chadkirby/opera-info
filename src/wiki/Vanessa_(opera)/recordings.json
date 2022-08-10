@@ -1,0 +1,56 @@
+{
+  "html": "<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"140\">Cast:<br>Vanessa, Erika,<br>Baroness, Anatol, Doctor\n</th>\n<th>Conductor,<br>Opera house and orchestra\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1958</td>\n<td><a href=\"/wiki/Eleanor_Steber\" title=\"Eleanor Steber\">Eleanor Steber</a>,<br><a href=\"/wiki/Rosalind_Elias\" title=\"Rosalind Elias\">Rosalind Elias</a>,<br><a href=\"/wiki/Regina_Resnik\" title=\"Regina Resnik\">Regina Resnik</a>,<br><a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>,<br><a href=\"/wiki/Giorgio_Tozzi\" title=\"Giorgio Tozzi\">Giorgio Tozzi</a></td>\n\n<td>Audio CD: RCA Victor <br>Cat: 7899-2-RG,<br>(cast of world premiere, per booklet with original LP recording)\n</td></tr>\n<tr>\n<td>1958</td>\n<td>Eleanor Steber,<br> Rosalind Elias,<br>Ira Malaniuk,<br>Nicolai Gedda,<br><a href=\"/wiki/Giorgio_Tozzi\" title=\"Giorgio Tozzi\">Giorgio Tozzi</a></td>\n\n<td>Audio CD:  Orfeo <br>Cat: C653062I (European premiere)\n</td></tr>\n<tr>\n<td>2002</td>\n<td>Ellen Chickering,<br>Andrea Matthews,<br>Marion Dry,<br>Ray Bauwens<br><a href=\"/wiki/Richard_Conrad\" title=\"Richard Conrad\">Richard Conrad</a></td>\n\n<td>Audio CD: Naxos <br>Cat:8.669140-41\n</td></tr>\n<tr>\n<td>2003</td>\n<td><a href=\"/wiki/Christine_Brewer\" title=\"Christine Brewer\">Christine Brewer</a>,<br><a href=\"/wiki/Susan_Graham\" title=\"Susan Graham\">Susan Graham</a>,<br>Catherine Wyn-Rogers,<br>William Burden <br>Neal Davies<br></td>\n\n<td><a href=\"/wiki/Super_Audio_CD\" title=\"Super Audio CD\">Super Audio CD</a>: Chandos <br>Cat:CHSA 5032(2)\n</td></tr>\n<tr>\n<td>June 21, 2019\n</td>\n<td>Emma Bell, Virginie Verrez, Edgaras Montvidas, Rosalind Plowright, Donnie Ray Albert\n</td>\n\n<td>Blu-Ray. DVD. Studio:  BBC / Opus Arte. Subtitles: French, German, Japanese, Korean.\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1958,
+      "cast": [
+        "Eleanor Steber",
+        "Rosalind Elias",
+        "Regina Resnik",
+        "Nicolai Gedda",
+        "Giorgio Tozzi"
+      ],
+      "conductor": "Dimitri Mitropoulos, "
+    },
+    {
+      "year": 1958,
+      "cast": [
+        "Eleanor Steber",
+        " Rosalind Elias",
+        "Ira Malaniuk",
+        "Nicolai Gedda",
+        "Giorgio Tozzi"
+      ],
+      "conductor": "Dimitri Mitropoulos"
+    },
+    {
+      "year": 2002,
+      "cast": [
+        "Ellen Chickering",
+        "Andrea Matthews",
+        "Marion Dry",
+        "Ray Bauwens",
+        "Richard Conrad"
+      ],
+      "conductor": "Gil Rose"
+    },
+    {
+      "year": 2003,
+      "cast": [
+        "Christine Brewer",
+        "Susan Graham",
+        "Catherine Wyn-Rogers",
+        "William Burden ",
+        "Neal Davies"
+      ],
+      "conductor": "Leonard Slatkin"
+    },
+    {
+      "year": null,
+      "cast": [
+        "Emma Bell, Virginie Verrez, Edgaras Montvidas, Rosalind Plowright, Donnie Ray Albert"
+      ],
+      "conductor": "Award-winning British director Keith Warner. Czech conductor Jakub Hrůša. Filmed with Glyndebourne opera company in East Sussex during their 2018 season."
+    }
+  ]
+}

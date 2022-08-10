@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Der ferne Klang",
+  "displaytitle": "<i>Der ferne Klang</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1198586",
+  "titles": {
+    "canonical": "Der_ferne_Klang",
+    "normalized": "Der ferne Klang",
+    "display": "<i>Der ferne Klang</i>"
+  },
+  "pageid": 9016964,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schreker_1912.jpg/246px-Schreker_1912.jpg",
+    "width": 246,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Schreker_1912.jpg",
+    "width": 474,
+    "height": 617
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1079802402",
+  "tid": "d0bf3ce0-15f8-11ed-aafc-7f4250a0a66a",
+  "timestamp": "2022-03-28T18:04:49Z",
+  "description": "Opera by Franz Schreker",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_ferne_Klang",
+      "revisions": "https://en.wikipedia.org/wiki/Der_ferne_Klang?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_ferne_Klang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_ferne_Klang"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_ferne_Klang",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_ferne_Klang",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_ferne_Klang?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_ferne_Klang"
+    }
+  },
+  "extract": "Der ferne Klang is an opera by Franz Schreker, set to his own libretto. Begun in 1903, it was first performed by the Oper Frankfurt on 18 August 1912. It was the composer's breakthrough to fame, and was frequently performed up until 1931, shortly after which the composer's music was proscribed by the Nazi regime. Largely forgotten after World War II, it has been revived by several opera companies in the 21st century.",
+  "extract_html": "<p><i><b>Der ferne Klang</b></i> is an opera by Franz Schreker, set to his own libretto. Begun in 1903, it was first performed by the Oper Frankfurt on 18 August 1912. It was the composer's breakthrough to fame, and was frequently performed up until 1931, shortly after which the composer's music was proscribed by the Nazi regime. Largely forgotten after World War II, it has been revived by several opera companies in the 21st century.</p>"
+}

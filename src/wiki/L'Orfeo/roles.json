@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th width=\"200\">Voice type<sup id=\"cite_ref-36\" class=\"reference\"><a href=\"#cite_note-36\">[n 2]</a></sup>\n</th>\n<th>Appearances\n</th>\n<th>Notes\n</th></tr>\n<tr>\n<td>La Musica (Music)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a> (<a href=\"/wiki/En_travesti\" class=\"mw-redirect\" title=\"En travesti\">en travesti</a>)\n</td>\n\n</tr>\n<tr>\n<td>Orfeo (Orpheus)\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a> or <a href=\"/wiki/Baritone#Bariton/Baryton-Martin\" title=\"Baritone\">high baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Euridice (Eurydice)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> castrato (en travesti)\n</td>\n\n</tr>\n<tr>\n<td>La messaggera (The Messenger)\n</td>\n<td>mezzo-soprano castrato (en travesti)\n</td>\n\n</tr>\n<tr>\n<td>La Speranza (Hope)\n</td>\n<td>mezzo-soprano castrato (en travesti)\n</td>\n\n</tr>\n<tr>\n<td>Caronte (Charon)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Proserpina (Proserpine)\n</td>\n<td>mezzo-soprano castrato (en travesti)\n</td>\n\n</tr>\n<tr>\n<td>Plutone (Pluto)\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Apollo\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Ninfa (Nymph)\n</td>\n<td>mezzo-soprano castrato (en travesti)\n</td>\n\n</tr>\n<tr>\n<td>Eco (Echo)\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Ninfe e pastori (Nymphs and shepherds)\n</td>\n<td>mezzo-soprano castratos (en travesti), <a href=\"/wiki/Alto\" title=\"Alto\">alto</a> castratos (en travesti), tenors, basses\n</td>\n\n</tr>\n<tr>\n<td>Spiriti infernali (Infernal spirits)\n</td>\n<td>tenors, basses\n</td>\n\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "La Musica (Music)",
+      "voiceType": "mezzo-soprano castrato (en travesti)"
+    },
+    {
+      "role": "Orfeo (Orpheus)",
+      "voiceType": "tenor or high baritone"
+    },
+    {
+      "role": "Euridice (Eurydice)",
+      "voiceType": "mezzo-soprano castrato (en travesti)"
+    },
+    {
+      "role": "La messaggera (The Messenger)",
+      "voiceType": "mezzo-soprano castrato (en travesti)"
+    },
+    {
+      "role": "La Speranza (Hope)",
+      "voiceType": "mezzo-soprano castrato (en travesti)"
+    },
+    {
+      "role": "Caronte (Charon)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Proserpina (Proserpine)",
+      "voiceType": "mezzo-soprano castrato (en travesti)"
+    },
+    {
+      "role": "Plutone (Pluto)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Apollo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ninfa (Nymph)",
+      "voiceType": "mezzo-soprano castrato (en travesti)"
+    },
+    {
+      "role": "Eco (Echo)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ninfe e pastori (Nymphs and shepherds)",
+      "voiceType": "mezzo-soprano castratos (en travesti), alto castratos (en travesti), tenors, basses"
+    },
+    {
+      "role": "Spiriti infernali (Infernal spirits)",
+      "voiceType": "tenors, basses"
+    }
+  ]
+}

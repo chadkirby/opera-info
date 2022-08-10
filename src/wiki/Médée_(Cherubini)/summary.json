@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Médée (Cherubini)",
+  "displaytitle": "<i>Médée</i> (Cherubini)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q577758",
+  "titles": {
+    "canonical": "Médée_(Cherubini)",
+    "normalized": "Médée (Cherubini)",
+    "display": "<i>Médée</i> (Cherubini)"
+  },
+  "pageid": 45204662,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Medea_Cherubini_titelblad.jpg/230px-Medea_Cherubini_titelblad.jpg",
+    "width": 230,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Medea_Cherubini_titelblad.jpg",
+    "width": 3288,
+    "height": 4576
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103555886",
+  "tid": "30923720-185c-11ed-89ba-111598f03013",
+  "timestamp": "2022-08-10T03:26:12Z",
+  "description": "French opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini)",
+      "revisions": "https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:M%C3%A9d%C3%A9e_(Cherubini)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/M%C3%A9d%C3%A9e_(Cherubini)",
+      "edit": "https://en.m.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:M%C3%A9d%C3%A9e_(Cherubini)"
+    }
+  },
+  "extract": "Médée is a French language opéra-comique by Luigi Cherubini. The libretto by François-Benoît Hoffman was based on Euripides' tragedy of Medea and Pierre Corneille's play Médée. It is set in the ancient city of Corinth.",
+  "extract_html": "<p><i><b>Médée</b></i> is a French language opéra-comique by Luigi Cherubini. The libretto by François-Benoît Hoffman was based on Euripides' tragedy of Medea and Pierre Corneille's play <i>Médée</i>. It is set in the ancient city of Corinth.</p>"
+}

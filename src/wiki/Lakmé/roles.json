@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-Wolff_5-1\" class=\"reference\"><a href=\"#cite_note-Wolff-5\">[5]</a></sup> 14 April 1883<br>Conductor: <a href=\"/wiki/Jules_Danb%C3%A9\" title=\"Jules Danbé\">Jules Danbé</a>\n</th></tr>\n<tr>\n<td>Lakmé, a priestess, daughter of Nilakantha\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>Gérald, a British army officer\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Nilakantha, a Brahmin priest\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Frédéric, officer friend of Gérald\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Mallika, slave of Lakmé\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Hadji, slave of Nilakantha\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Miss Ellen, fiancée of Gérald\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Miss Rose, companion of Ellen\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Mistress Bentson, a governess\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Fortune teller (<i>Un Domben</i>)\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A Chinese merchant\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Le Kouravar\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: Officers, ladies, merchants, Brahmins, musicians\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Lakmé, a priestess, daughter of Nilakantha",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Gérald, a British army officer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nilakantha, a Brahmin priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Frédéric, officer friend of Gérald",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Mallika, slave of Lakmé",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Hadji, slave of Nilakantha",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Miss Ellen, fiancée of Gérald",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Miss Rose, companion of Ellen",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Mistress Bentson, a governess",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Fortune teller (Un Domben)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A Chinese merchant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Le Kouravar",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Chorus: Officers, ladies, merchants, Brahmins, musicians",
+      "voiceType": ""
+    }
+  ]
+}

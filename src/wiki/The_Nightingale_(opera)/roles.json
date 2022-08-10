@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, 26 May 1914<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[6]</a></sup><br>(Conductor: <a href=\"/wiki/Pierre_Monteux\" title=\"Pierre Monteux\">Pierre Monteux</a>)\n</th></tr>\n<tr>\n<td>Nightingale (Соловей)\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>Fisherman (Рыбак)\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Cook (Кухарочка)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Emperor (Император)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Chamberlain (Камергер)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Bonze (Бонза)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Death (Смерть)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>1st Japanese emissary (Японский посол 1)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>2nd Japanese emissary (Японский посол 2)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>3rd Japanese emissary (Японский посол 3)\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Nightingale (Соловей)",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "Fisherman (Рыбак)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Cook (Кухарочка)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Emperor (Император)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chamberlain (Камергер)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Bonze (Бонза)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Death (Смерть)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "1st Japanese emissary (Японский посол 1)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "2nd Japanese emissary (Японский посол 2)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "3rd Japanese emissary (Японский посол 3)",
+      "voiceType": "tenor"
+    }
+  ]
+}

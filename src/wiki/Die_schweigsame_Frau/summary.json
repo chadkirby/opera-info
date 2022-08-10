@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Die schweigsame Frau",
+  "displaytitle": "<i>Die schweigsame Frau</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1219379",
+  "titles": {
+    "canonical": "Die_schweigsame_Frau",
+    "normalized": "Die schweigsame Frau",
+    "display": "<i>Die schweigsame Frau</i>"
+  },
+  "pageid": 4522132,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102226195",
+  "tid": "d2514e90-15f8-11ed-bfe7-0dbe26228ac4",
+  "timestamp": "2022-08-04T00:55:53Z",
+  "description": "1935 opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_schweigsame_Frau",
+      "revisions": "https://en.wikipedia.org/wiki/Die_schweigsame_Frau?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_schweigsame_Frau?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_schweigsame_Frau"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_schweigsame_Frau",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_schweigsame_Frau",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_schweigsame_Frau?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_schweigsame_Frau"
+    }
+  },
+  "extract": "Die schweigsame Frau, Op. 80, is a 1935 comic opera in three acts by Richard Strauss with libretto by Stefan Zweig after Ben Jonson's Epicoene, or the Silent Woman.",
+  "extract_html": "<p><i><b>Die schweigsame Frau</b></i>, Op. 80, is a 1935 comic opera in three acts by Richard Strauss with libretto by Stefan Zweig after Ben Jonson's <i>Epicoene, or the Silent Woman</i>.</p>"
+}

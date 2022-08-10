@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Giovanni Paisiello",
+  "displaytitle": "Giovanni Paisiello",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q202303",
+  "titles": {
+    "canonical": "Giovanni_Paisiello",
+    "normalized": "Giovanni Paisiello",
+    "display": "Giovanni Paisiello"
+  },
+  "pageid": 37945,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PaiselloVigeeLeBrun.jpg/239px-PaiselloVigeeLeBrun.jpg",
+    "width": 239,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/PaiselloVigeeLeBrun.jpg",
+    "width": 2300,
+    "height": 3080
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101880432",
+  "tid": "b6729120-123d-11ed-a52f-9b906acaa55f",
+  "timestamp": "2022-08-02T08:32:56Z",
+  "description": "Italian Classical era composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Giovanni_Paisiello",
+      "revisions": "https://en.wikipedia.org/wiki/Giovanni_Paisiello?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Giovanni_Paisiello?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Giovanni_Paisiello"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Giovanni_Paisiello",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Giovanni_Paisiello",
+      "edit": "https://en.m.wikipedia.org/wiki/Giovanni_Paisiello?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Giovanni_Paisiello"
+    }
+  },
+  "extract": "Giovanni Paisiello was an Italian composer of the Classical era, and was the most popular opera composer of the late 1700s. His operatic style influenced Mozart and Rossini, and his music was championed by Haydn and Beethoven.",
+  "extract_html": "<p><b>Giovanni Paisiello</b> was an Italian composer of the Classical era, and was the most popular opera composer of the late 1700s. His operatic style influenced Mozart and Rossini, and his music was championed by Haydn and Beethoven.</p>"
+}

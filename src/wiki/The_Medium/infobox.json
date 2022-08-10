@@ -1,0 +1,9 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">The Medium</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Gian_Carlo_Menotti\" title=\"Gian Carlo Menotti\">Gian Carlo Menotti</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Gcmenotti.jpg\" class=\"image\"><img alt=\"Gcmenotti.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/180px-Gcmenotti.jpg\" decoding=\"async\" width=\"180\" height=\"269\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/270px-Gcmenotti.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fc/Gcmenotti.jpg 2x\" data-file-width=\"272\" data-file-height=\"406\"></a><div class=\"infobox-caption\">The composer in 1944</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Menotti</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">English</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">May&nbsp;8,&nbsp;1946<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1946-05-08</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Columbia_University\" title=\"Columbia University\">Columbia University</a>, New York</div></div></td></tr></tbody></table>",
+  "titles": [
+    "The Medium"
+  ],
+  "Librettist": "Menotti",
+  "Language": "English",
+  "Premiere": "May 8, 1946\nColumbia University, New York"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Cardillac",
+  "displaytitle": "<i>Cardillac</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q618009",
+  "titles": {
+    "canonical": "Cardillac",
+    "normalized": "Cardillac",
+    "display": "<i>Cardillac</i>"
+  },
+  "pageid": 9017123,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paul_Hindemith_1923.jpg/265px-Paul_Hindemith_1923.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Paul_Hindemith_1923.jpg",
+    "width": 436,
+    "height": 527
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1058018050",
+  "tid": "d0b5ee10-15f8-11ed-ad3d-2515899fd149",
+  "timestamp": "2021-11-30T23:59:42Z",
+  "description": "Opera by Paul Hindemith",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cardillac",
+      "revisions": "https://en.wikipedia.org/wiki/Cardillac?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cardillac?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cardillac"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Cardillac",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Cardillac",
+      "edit": "https://en.m.wikipedia.org/wiki/Cardillac?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Cardillac"
+    }
+  },
+  "extract": "Cardillac, Op. 39, is an opera by Paul Hindemith in three acts and four scenes. Ferdinand Lion wrote the libretto based on characters from the short story Das Fräulein von Scuderi by E. T. A. Hoffmann.",
+  "extract_html": "<p><i><b>Cardillac</b></i>, Op. 39, is an opera by Paul Hindemith in three acts and four scenes. Ferdinand Lion wrote the libretto based on characters from the short story <i>Das Fräulein von Scuderi</i> by E. T. A. Hoffmann.</p>"
+}

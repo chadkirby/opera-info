@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Der Rosenkavalier",
+  "displaytitle": "<i>Der Rosenkavalier</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q471240",
+  "titles": {
+    "canonical": "Der_Rosenkavalier",
+    "normalized": "Der Rosenkavalier",
+    "display": "<i>Der Rosenkavalier</i>"
+  },
+  "pageid": 639594,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg/234px-Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg",
+    "width": 234,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg",
+    "width": 439,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093109493",
+  "tid": "d2582c60-15f8-11ed-8708-3911db969c31",
+  "timestamp": "2022-06-14T16:16:43Z",
+  "description": "Comic opera in three acts by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Der_Rosenkavalier",
+      "revisions": "https://en.wikipedia.org/wiki/Der_Rosenkavalier?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Der_Rosenkavalier?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Der_Rosenkavalier"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Der_Rosenkavalier",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Der_Rosenkavalier",
+      "edit": "https://en.m.wikipedia.org/wiki/Der_Rosenkavalier?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Der_Rosenkavalier"
+    }
+  },
+  "extract": "Der Rosenkavalier, Op. 59, is a comic opera in three acts by Richard Strauss to an original German libretto by Hugo von Hofmannsthal. It is loosely adapted from the novel Les amours du chevalier de Faublas by Louvet de Couvrai and Molière's comedy Monsieur de Pourceaugnac. It was first performed at the Königliches Opernhaus in Dresden on 26 January 1911 under the direction of Max Reinhardt, Ernst von Schuch conducting. Until the premiere, the working title was Ochs auf Lerchenau.",
+  "extract_html": "<p><b><span><i lang=\"de\">Der Rosenkavalier</i></span></b>, Op. 59, is a comic opera in three acts by Richard Strauss to an original German libretto by Hugo von Hofmannsthal. It is loosely adapted from the novel <i>Les amours du chevalier de Faublas</i> by Louvet de Couvrai and Molière's comedy <i>Monsieur de Pourceaugnac</i>. It was first performed at the Königliches Opernhaus in Dresden on 26 January 1911 under the direction of Max Reinhardt, Ernst von Schuch conducting. Until the premiere, the working title was <i>Ochs auf Lerchenau</i>.</p>"
+}

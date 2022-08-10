@@ -1,0 +1,105 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 16 March 1938<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\">[17]</a></sup><br>Conductor: <a href=\"/wiki/V%C3%A1clav_Talich\" title=\"Václav Talich\">Václav Talich</a>\n</th></tr>\n<tr>\n<td>Julietta\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Michel\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Small Arab\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Old Arab\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Woman selling birds and poultry\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Woman selling fish\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>The man with the helmet\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Police officer\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Three gentlemen\n</td>\n<td>sopranos\n</td>\n</tr>\n<tr>\n<td>Grandfather Youth\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Grandfather\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Grandmother\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Fortune teller\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>The seller of memories\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>The old sailor\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The young sailor\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The old lady\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>The forest guard\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The messenger\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>The official\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The beggar\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td>The convict\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The railway engineer\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The nightwatchman\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus: Townspeople; a group of grey figures.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Julietta",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Michel",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Small Arab",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Old Arab",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Woman selling birds and poultry",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Woman selling fish",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The man with the helmet",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Police officer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Three gentlemen",
+      "voiceType": "sopranos"
+    },
+    {
+      "role": "Grandfather Youth",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Grandfather",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Grandmother",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Fortune teller",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "The seller of memories",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "The old sailor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The young sailor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The old lady",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The forest guard",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The messenger",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The official",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The beggar",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "The convict",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The railway engineer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The nightwatchman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: Townspeople; a group of grey figures.",
+      "voiceType": ""
+    }
+  ]
+}

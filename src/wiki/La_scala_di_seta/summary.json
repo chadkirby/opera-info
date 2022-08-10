@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La scala di seta",
+  "displaytitle": "<i>La scala di seta</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q471330",
+  "titles": {
+    "canonical": "La_scala_di_seta",
+    "normalized": "La scala di seta",
+    "display": "<i>La scala di seta</i>"
+  },
+  "pageid": 7187885,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/262px-Rossini-portrait-0.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rossini-portrait-0.jpg",
+    "width": 840,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731544",
+  "tid": "eb93aec0-0063-11ed-8359-b91437ceaf0f",
+  "timestamp": "2022-05-02T04:12:40Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_scala_di_seta",
+      "revisions": "https://en.wikipedia.org/wiki/La_scala_di_seta?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_scala_di_seta?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_scala_di_seta"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_scala_di_seta",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_scala_di_seta",
+      "edit": "https://en.m.wikipedia.org/wiki/La_scala_di_seta?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_scala_di_seta"
+    }
+  },
+  "extract": "La scala di seta is an operatic farsa comica in one act by Gioachino Rossini to a libretto by Giuseppe Maria Foppa. It was first performed in Venice, Italy, at the Teatro San Moisè on 9 May 1812. The overture has been frequently recorded and continues to be featured in the modern concert repertoire.",
+  "extract_html": "<p><i><b>La scala di seta</b></i> is an operatic <i>farsa comica</i> in one act by Gioachino Rossini to a libretto by Giuseppe Maria Foppa. It was first performed in Venice, Italy, at the Teatro San Moisè on 9 May 1812. The overture has been frequently recorded and continues to be featured in the modern concert repertoire.</p>"
+}

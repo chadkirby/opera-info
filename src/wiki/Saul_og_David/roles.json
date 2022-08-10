@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 28 November 1902<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup><br>(Conductor: Carl Nielsen)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Saul\" title=\"Saul\">Saul</a>, <i>King of Israel </i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/David\" title=\"David\">David</a>, <i>a shepherd</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Michal\" title=\"Michal\">Michal</a>, <i>Saul's daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/David_and_Jonathan\" title=\"David and Jonathan\">Jonathan</a>, <i>Saul's son</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Samuel\" title=\"Samuel\">Samuel</a>, <i>prophet of Israel</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Abner\" title=\"Abner\">Abner</a>, <i>Saul's captain</i>\n</td>\n<td>bass-baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Abishai_(biblical_figure)\" title=\"Abishai (biblical figure)\">Abishai</a>, <i>David's companion</i>\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">treble</a> or soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Witch_of_Endor\" title=\"Witch of Endor\">Witch of Endor</a>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: Israelites and soldiers\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Saul, King of Israel",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "David, a shepherd",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Michal, Saul's daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jonathan, Saul's son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Samuel, prophet of Israel",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Abner, Saul's captain",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Abishai, David's companion",
+      "voiceType": "treble or soprano"
+    },
+    {
+      "role": "Witch of Endor",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Chorus: Israelites and soldiers",
+      "voiceType": ""
+    }
+  ]
+}

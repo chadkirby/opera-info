@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Maria Stuarda",
+  "displaytitle": "<i>Maria Stuarda</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q377685",
+  "titles": {
+    "canonical": "Maria_Stuarda",
+    "normalized": "Maria Stuarda",
+    "display": "<i>Maria Stuarda</i>"
+  },
+  "pageid": 552200,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gaetano_Donizetti_1.jpg/228px-Gaetano_Donizetti_1.jpg",
+    "width": 228,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Gaetano_Donizetti_1.jpg",
+    "width": 600,
+    "height": 842
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1084092271",
+  "tid": "6289cfb0-f988-11ec-9da9-096fe3c5a9f8",
+  "timestamp": "2022-04-22T14:19:29Z",
+  "description": "Opera by Gaetano Donizetti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Maria_Stuarda",
+      "revisions": "https://en.wikipedia.org/wiki/Maria_Stuarda?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Maria_Stuarda?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Maria_Stuarda"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Maria_Stuarda",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Maria_Stuarda",
+      "edit": "https://en.m.wikipedia.org/wiki/Maria_Stuarda?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Maria_Stuarda"
+    }
+  },
+  "extract": "Maria Stuarda is a tragic opera, in two acts, by Gaetano Donizetti, to a libretto by Giuseppe Bardari, based on Andrea Maffei's translation of Friedrich Schiller's 1800 play Maria Stuart.",
+  "extract_html": "<p><i><b>Maria Stuarda</b></i> is a tragic opera, in two acts, by Gaetano Donizetti, to a libretto by Giuseppe Bardari, based on Andrea Maffei's translation of Friedrich Schiller's 1800 play <i>Maria Stuart</i>.</p>"
+}

@@ -1,0 +1,67 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"140\">Cast (Roberto, Anna, Guglielmo)\n</th>\n<th>Conductor,<br>opera house and orchestra\n</th>\n<th>Label<sup id=\"cite_ref-FOOTNOTECaponn.d._13-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTECaponn.d.-13\">[11]</a></sup>\n</th></tr>\n<tr>\n<td>1954</td>\n<td>Gianni Dal Ferro,<br>Elisabetta Fusco,<br>Silvano Verlinghieri</td>\n\n<td>CD: <a href=\"/wiki/Cetra_Records\" title=\"Cetra Records\">Cetra Records</a> (Warner Fonit Cetra)\n</td></tr>\n<tr>\n<td>1971</td>\n<td><a href=\"/wiki/Barry_Morell\" title=\"Barry Morell\">Barry Morell</a>,<br><a href=\"/wiki/Adriana_Maliponte\" title=\"Adriana Maliponte\">Adriana Maliponte</a>,<br> <a href=\"/wiki/Matteo_Manuguerra\" title=\"Matteo Manuguerra\">Matteo Manuguerra</a></td>\n\n<td>Audio LP: <a href=\"/wiki/RCA_Records\" title=\"RCA Records\">RCA Records</a><br>Cat: LSC 7096\n</td></tr>\n<tr>\n<td>1979</td>\n<td>David Parker,<br>Marilyn Richardson,<br> James Christiansen</td>\n\n<td>CD: Chandos<br>Cat: ABT 1019\n</td></tr>\n<tr>\n<td>1979</td>\n<td><a href=\"/wiki/Pl%C3%A1cido_Domingo\" title=\"Plácido Domingo\">Plácido Domingo</a>,<br><a href=\"/wiki/Renata_Scotto\" title=\"Renata Scotto\">Renata Scotto</a>,<br> <a href=\"/wiki/Leo_Nucci\" title=\"Leo Nucci\">Leo Nucci</a><br><i>Narrator: <a href=\"/wiki/Tito_Gobbi\" title=\"Tito Gobbi\">Tito Gobbi</a></i></td>\n\n<td>CD: <a href=\"/wiki/Sony_Classical\" class=\"mw-redirect\" title=\"Sony Classical\">Sony Classical</a><br>Cat: MT 76890\n</td></tr>\n<tr>\n<td>2004\n</td>\n<td>Albert Montserrat,<br>Andrea Rola,<br>Halla Margret\n</td>\n\n<td>DVD: Kultur <br>Cat: D4064\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td>Carlo Torriani,<br>Miriam Cauchi,<br>Antonio Stragapede\n</td>\n\n<td>CD: Cameo Classics Cat: CC9040CD,<br>DVD: Documentary presented by Dr. <a href=\"/wiki/Simonetta_Puccini\" title=\"Simonetta Puccini\">Simonetta Puccini</a> with film in Italy and video excerpts from the concert\n</td></tr>\n<tr>\n<td>2018\n</td>\n<td>Elia Fabbian\n<p>Maria Teresa Leva\nLeonardo Caimi\nTony Laudadio\n</p>\n</td>\n\n<td>CD: Dynamic,\n<p>Cat: CDS7840\nDVD: 37840\n</p>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1954,
+      "cast": [
+        "Gianni Dal Ferro",
+        "Elisabetta Fusco",
+        "Silvano Verlinghieri"
+      ],
+      "conductor": "Arturo Basile"
+    },
+    {
+      "year": 1971,
+      "cast": [
+        "Barry Morell",
+        "Adriana Maliponte",
+        " Matteo Manuguerra"
+      ],
+      "conductor": "Anton Guadagno"
+    },
+    {
+      "year": 1979,
+      "cast": [
+        "David Parker",
+        "Marilyn Richardson",
+        " James Christiansen"
+      ],
+      "conductor": "Myer Fredman"
+    },
+    {
+      "year": 1979,
+      "cast": [
+        "Plácido Domingo",
+        "Renata Scotto",
+        " Leo Nucci",
+        "Narrator: Tito Gobbi"
+      ],
+      "conductor": "Lorin Maazel"
+    },
+    {
+      "year": 2004,
+      "cast": [
+        "Albert Montserrat",
+        "Andrea Rola",
+        "Halla Margret"
+      ],
+      "conductor": "Tamás Pál"
+    },
+    {
+      "year": 2008,
+      "cast": [
+        "Carlo Torriani",
+        "Miriam Cauchi",
+        "Antonio Stragapede"
+      ],
+      "conductor": "Joseph Debrincat"
+    },
+    {
+      "year": 2018,
+      "cast": [
+        "Elia Fabbian Maria Teresa Leva Leonardo Caimi Tony Laudadio"
+      ],
+      "conductor": "Marci Angius, Orchestra e Coro del Maggio Musicale Fiorentino (Recorded at Teatro Maggio Musicale Fiorentino, October 25, 2018)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Venus and Adonis (opera)",
+  "displaytitle": "<i>Venus and Adonis</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q381965",
+  "titles": {
+    "canonical": "Venus_and_Adonis_(opera)",
+    "normalized": "Venus and Adonis (opera)",
+    "display": "<i>Venus and Adonis</i> (opera)"
+  },
+  "pageid": 3755350,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cornelis_van_Haarlem_-_Venus_en_Adonis.jpg/250px-Cornelis_van_Haarlem_-_Venus_en_Adonis.jpg",
+    "width": 250,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cornelis_van_Haarlem_-_Venus_en_Adonis.jpg",
+    "width": 782,
+    "height": 1000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102884783",
+  "tid": "a0269bc0-1646-11ed-85a5-43c8970e7d8d",
+  "timestamp": "2022-08-07T11:46:49Z",
+  "description": "Opera by John Blow written c1683",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Venus_and_Adonis_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Venus_and_Adonis_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Venus_and_Adonis_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Venus_and_Adonis_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Venus_and_Adonis_(opera)"
+    }
+  },
+  "extract": "Venus and Adonis is an opera in three acts and a prologue by the English Baroque composer John Blow, composed in about 1683. It was written for the court of King Charles II at either London or Windsor. It is considered by some to be either a semi-opera or a masque, but The New Grove names it as the earliest known English opera.",
+  "extract_html": "<p><i><b>Venus and Adonis</b></i> is an opera in three acts and a prologue by the English Baroque composer John Blow, composed in about 1683. It was written for the court of King Charles II at either London or Windsor. It is considered by some to be either a semi-opera or a masque, but <i>The New Grove</i> names it as the earliest known English opera.</p>"
+}

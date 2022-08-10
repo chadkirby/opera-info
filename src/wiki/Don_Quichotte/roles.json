@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 19 February 1910<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[14]</a></sup><br>Conductor: <a href=\"/wiki/L%C3%A9on_Jehin\" title=\"Léon Jehin\">Léon Jehin</a>\n</th></tr>\n<tr>\n<td>La belle Dulcinée (The beautiful <a href=\"/wiki/Dulcinea\" class=\"mw-redirect\" title=\"Dulcinea\">Dulcinea</a>)\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Don Quichotte (<a href=\"/wiki/Don_Quixote\" title=\"Don Quixote\">Don Quixote</a>)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Sancho (<a href=\"/wiki/Sancho_Panza\" title=\"Sancho Panza\">Sancho Panza</a>)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Pedro (<i><a href=\"/wiki/Travesti_(theatre)\" title=\"Travesti (theatre)\">travesti</a></i>)\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Garcias (<i>travesti</i>)\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Rodriguez\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Juan\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Chief of the Bandits\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Two valets\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritones</a>\n</td>\n</tr>\n<tr>\n<td>Four bandits\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>Gentry, Friends of Dulcinée, Ladies, Bandits, Crowds.</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "La belle Dulcinée (The beautiful Dulcinea)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Don Quichotte (Don Quixote)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sancho (Sancho Panza)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Pedro (travesti)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Garcias (travesti)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Rodriguez",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Juan",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Chief of the Bandits",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Two valets",
+      "voiceType": "baritones"
+    },
+    {
+      "role": "Four bandits",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Chorus: Gentry, Friends of Dulcinée, Ladies, Bandits, Crowds.",
+      "voiceType": ""
+    }
+  ]
+}

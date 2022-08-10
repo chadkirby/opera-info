@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "The Pilgrim's Progress (opera)",
+  "displaytitle": "<i>The Pilgrim's Progress</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7757107",
+  "titles": {
+    "canonical": "The_Pilgrim's_Progress_(opera)",
+    "normalized": "The Pilgrim's Progress (opera)",
+    "display": "<i>The Pilgrim's Progress</i> (opera)"
+  },
+  "pageid": 3270601,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085496175",
+  "tid": "fe0b82c0-f9ca-11ec-a1a0-43edd5389f02",
+  "timestamp": "2022-04-30T21:41:16Z",
+  "description": "Opera by Ralph Vaughan Williams",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Pilgrim's_Progress_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Pilgrim's_Progress_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Pilgrim's_Progress_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Pilgrim's_Progress_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Pilgrim's_Progress_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Pilgrim's_Progress_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Pilgrim's_Progress_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Pilgrim's_Progress_(opera)"
+    }
+  },
+  "extract": "The Pilgrim's Progress is an opera by Ralph Vaughan Williams, based on John Bunyan's 1678 allegory The Pilgrim's Progress. The composer himself described the work as a 'Morality' rather than an opera. Nonetheless, he intended the work to be performed on stage, rather than in a church or cathedral. Vaughan Williams himself prepared the libretto, with interpolations from the Bible and also text from his second wife, Ursula Wood. His changes to the story included altering the name of the central character from 'Christian' to 'Pilgrim', so as to universalise the spiritual message.",
+  "extract_html": "<p><i><b>The Pilgrim's Progress</b></i> is an opera by Ralph Vaughan Williams, based on John Bunyan's 1678 allegory <i>The Pilgrim's Progress</i>. The composer himself described the work as a 'Morality' rather than an opera. Nonetheless, he intended the work to be performed on stage, rather than in a church or cathedral. Vaughan Williams himself prepared the libretto, with interpolations from the Bible and also text from his second wife, Ursula Wood. His changes to the story included altering the name of the central character from 'Christian' to 'Pilgrim', so as to universalise the spiritual message.</p>"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Manuel de Zumaya",
+  "displaytitle": "Manuel de Zumaya",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q329122",
+  "titles": {
+    "canonical": "Manuel_de_Zumaya",
+    "normalized": "Manuel de Zumaya",
+    "display": "Manuel de Zumaya"
+  },
+  "pageid": 1628319,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1043172162",
+  "tid": "a296b980-0f84-11ed-a764-791c80cd1991",
+  "timestamp": "2021-09-08T18:32:38Z",
+  "description": "Mexican composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Manuel_de_Zumaya",
+      "revisions": "https://en.wikipedia.org/wiki/Manuel_de_Zumaya?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Manuel_de_Zumaya?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Manuel_de_Zumaya"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Manuel_de_Zumaya",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Manuel_de_Zumaya",
+      "edit": "https://en.m.wikipedia.org/wiki/Manuel_de_Zumaya?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Manuel_de_Zumaya"
+    }
+  },
+  "extract": "Manuel de Zumaya or Manuel de Sumaya was perhaps the most famous Mexican composer of the colonial period of New Spain. His music was the culmination of the Baroque style in the New World. He was the first person in the western hemisphere to compose an Italian-texted opera, entitled Partenope. Similar to Antonio Vivaldi, Zumaya was also a life-long, active Roman Catholic priest.",
+  "extract_html": "<p><b>Manuel de Zumaya</b> or <b>Manuel de Sumaya</b> was perhaps the most famous Mexican composer of the colonial period of New Spain. His music was the culmination of the Baroque style in the New World. He was the first person in the western hemisphere to compose an Italian-texted opera, entitled <i>Partenope</i>. Similar to Antonio Vivaldi, Zumaya was also a life-long, active Roman Catholic priest.</p>"
+}

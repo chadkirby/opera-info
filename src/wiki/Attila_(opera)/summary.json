@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Attila (opera)",
+  "displaytitle": "<i>Attila</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q211460",
+  "titles": {
+    "canonical": "Attila_(opera)",
+    "normalized": "Attila (opera)",
+    "display": "<i>Attila</i> (opera)"
+  },
+  "pageid": 1944909,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Illustrated_London_News_-_Giuseppe_Verdi%27s_Attila_at_Her_Majesty%27s_Theatre%2C_London.jpg/320px-Illustrated_London_News_-_Giuseppe_Verdi%27s_Attila_at_Her_Majesty%27s_Theatre%2C_London.jpg",
+    "width": 320,
+    "height": 219
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Illustrated_London_News_-_Giuseppe_Verdi%27s_Attila_at_Her_Majesty%27s_Theatre%2C_London.jpg",
+    "width": 3842,
+    "height": 2628
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086129654",
+  "tid": "b16998e0-1445-11ed-b880-13611bad0e27",
+  "timestamp": "2022-05-04T09:55:26Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Attila_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Attila_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Attila_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Attila_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Attila_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Attila_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Attila_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Attila_(opera)"
+    }
+  },
+  "extract": "Attila is an opera in a prologue and three acts by Giuseppe Verdi to an Italian libretto by Temistocle Solera, based on the 1809 play Attila, König der Hunnen by Zacharias Werner. The opera received its first performance at La Fenice in Venice on 17 March 1846.",
+  "extract_html": "<p><i><b>Attila</b></i> is an opera in a prologue and three acts by Giuseppe Verdi to an Italian libretto by Temistocle Solera, based on the 1809 play <i><span><i lang=\"de\">Attila, König der Hunnen</i></span></i> by Zacharias Werner. The opera received its first performance at La Fenice in Venice on 17 March 1846.</p>"
+}

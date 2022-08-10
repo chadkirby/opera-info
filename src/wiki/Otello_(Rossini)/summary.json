@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Otello (Rossini)",
+  "displaytitle": "<i>Otello</i> (Rossini)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q925332",
+  "titles": {
+    "canonical": "Otello_(Rossini)",
+    "normalized": "Otello (Rossini)",
+    "display": "<i>Otello</i> (Rossini)"
+  },
+  "pageid": 1976426,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Manuel_Garcia_as_Otello_in_Paris_from_Gallica.jpg/221px-Manuel_Garcia_as_Otello_in_Paris_from_Gallica.jpg",
+    "width": 221,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Manuel_Garcia_as_Otello_in_Paris_from_Gallica.jpg",
+    "width": 1897,
+    "height": 2739
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098523440",
+  "tid": "f207c700-11a7-11ed-98df-5db971df3fa0",
+  "timestamp": "2022-07-16T06:43:56Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Otello_(Rossini)",
+      "revisions": "https://en.wikipedia.org/wiki/Otello_(Rossini)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Otello_(Rossini)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Otello_(Rossini)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Otello_(Rossini)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Otello_(Rossini)",
+      "edit": "https://en.m.wikipedia.org/wiki/Otello_(Rossini)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Otello_(Rossini)"
+    }
+  },
+  "extract": "Otello is an opera in three acts by Gioachino Rossini to an Italian libretto by Francesco Berio di Salsa after William Shakespeare's play Othello, or The Moor of Venice; it was premiered in Naples, Teatro del Fondo, 4 December 1816.",
+  "extract_html": "<p><i><b>Otello</b></i> is an opera in three acts by Gioachino Rossini to an Italian libretto by Francesco Berio di Salsa after William Shakespeare's play <i>Othello, or The Moor of Venice</i>; it was premiered in Naples, Teatro del Fondo, 4 December 1816.</p>"
+}

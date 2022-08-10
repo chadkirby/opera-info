@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 26 December 1833<br>(Conductor: <a href=\"/wiki/Eugenio_Cavallini\" title=\"Eugenio Cavallini\">Eugenio Cavallini</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Alfonso_I_d%27Este,_Duke_of_Ferrara\" title=\"Alfonso I d'Este, Duke of Ferrara\">Alfonso d'Este</a>, <i>Duke of Ferrara</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Lucrezia_Borgia\" title=\"Lucrezia Borgia\">Lucrezia Borgia</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Maffio Orsini\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Gennaro, <i>young nobleman in<br>service of the Venetian Republic</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Jeppo Liverotto, <i>young nobleman in<br>service of the Venetian Republic</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Don Apostolo Gazella, <i>young nobleman in<br>service of the Venetian Republic</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Ascanio Petrucci, <i>young nobleman in<br>service of the Venetian Republic</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Oloferno Vitellozzo, <i>young nobleman in<br>service of the Venetian Republic</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Rustighello, <i>in the service of Don Alfonso</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Gubetta, <i>in service of Lucrezia</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Astolfo, <i>in service of Lucrezia</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Gentlemen-at-arms, officers, and nobles of the Venetian Republic;<br>same, attached to court of Alfonso; ladies-in-waiting, Capuchin friars, etc.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Alfonso d'Este, Duke of Ferrara",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lucrezia Borgia",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Maffio Orsini",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Gennaro, young nobleman in\nservice of the Venetian Republic",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Jeppo Liverotto, young nobleman in\nservice of the Venetian Republic",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Apostolo Gazella, young nobleman in\nservice of the Venetian Republic",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ascanio Petrucci, young nobleman in\nservice of the Venetian Republic",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Oloferno Vitellozzo, young nobleman in\nservice of the Venetian Republic",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Rustighello, in the service of Don Alfonso",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Gubetta, in service of Lucrezia",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Astolfo, in service of Lucrezia",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Gentlemen-at-arms, officers, and nobles of the Venetian Republic;\nsame, attached to court of Alfonso; ladies-in-waiting, Capuchin friars, etc.",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "Bátori Mária",
+  "displaytitle": "<i>Bátori Mária</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q853790",
+  "titles": {
+    "canonical": "Bátori_Mária",
+    "normalized": "Bátori Mária",
+    "display": "<i>Bátori Mária</i>"
+  },
+  "pageid": 23703000,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1004281483",
+  "tid": "874ef780-0f90-11ed-906d-0b2c29dfb2b5",
+  "timestamp": "2021-02-01T21:46:57Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/B%C3%A1tori_M%C3%A1ria",
+      "revisions": "https://en.wikipedia.org/wiki/B%C3%A1tori_M%C3%A1ria?action=history",
+      "edit": "https://en.wikipedia.org/wiki/B%C3%A1tori_M%C3%A1ria?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:B%C3%A1tori_M%C3%A1ria"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/B%C3%A1tori_M%C3%A1ria",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/B%C3%A1tori_M%C3%A1ria",
+      "edit": "https://en.m.wikipedia.org/wiki/B%C3%A1tori_M%C3%A1ria?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:B%C3%A1tori_M%C3%A1ria"
+    }
+  },
+  "extract": "Bátori Mária is an 1840 Hungarian opera by Ferenc Erkel.",
+  "extract_html": "<p><i><b>Bátori Mária</b></i> is an 1840 Hungarian opera by Ferenc Erkel.</p>"
+}

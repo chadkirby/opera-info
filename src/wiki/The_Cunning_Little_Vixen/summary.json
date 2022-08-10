@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Cunning Little Vixen",
+  "displaytitle": "<i>The Cunning Little Vixen</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1171538",
+  "titles": {
+    "canonical": "The_Cunning_Little_Vixen",
+    "normalized": "The Cunning Little Vixen",
+    "display": "<i>The Cunning Little Vixen</i>"
+  },
+  "pageid": 1228794,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Leos_Janacek_relief.jpg/310px-Leos_Janacek_relief.jpg",
+    "width": 310,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Leos_Janacek_relief.jpg",
+    "width": 960,
+    "height": 992
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102924763",
+  "tid": "56d56540-166f-11ed-885e-13973b43f119",
+  "timestamp": "2022-08-07T16:38:15Z",
+  "description": "Opera by Leoš Janáček",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Cunning_Little_Vixen",
+      "revisions": "https://en.wikipedia.org/wiki/The_Cunning_Little_Vixen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Cunning_Little_Vixen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Cunning_Little_Vixen"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Cunning_Little_Vixen",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Cunning_Little_Vixen",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Cunning_Little_Vixen?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Cunning_Little_Vixen"
+    }
+  },
+  "extract": "The Cunning Little Vixen is a Czech-language opera by Leoš Janáček, composed in 1921 to 1923. Its libretto was adapted by the composer from a 1920 serialized novella, Liška Bystrouška, by Rudolf Těsnohlídek.",
+  "extract_html": "<p><i><b>The Cunning Little Vixen</b></i> is a Czech-language opera by Leoš Janáček, composed in 1921 to 1923. Its libretto was adapted by the composer from a 1920 serialized novella, <i>Liška Bystrouška</i>, by Rudolf Těsnohlídek.</p>"
+}

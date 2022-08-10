@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mignon",
+  "displaytitle": "<i>Mignon</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q657595",
+  "titles": {
+    "canonical": "Mignon",
+    "normalized": "Mignon",
+    "display": "<i>Mignon</i>"
+  },
+  "pageid": 356933,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mignon_%28opera%29_1866_poster_NGO3p383.jpg/246px-Mignon_%28opera%29_1866_poster_NGO3p383.jpg",
+    "width": 246,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mignon_%28opera%29_1866_poster_NGO3p383.jpg",
+    "width": 1504,
+    "height": 1952
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069150454",
+  "tid": "d1fb8d70-15f8-11ed-8a7b-b33949b8c6b3",
+  "timestamp": "2022-01-31T21:21:57Z",
+  "description": "Opera by Ambroise Thomas",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mignon",
+      "revisions": "https://en.wikipedia.org/wiki/Mignon?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mignon?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mignon"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Mignon",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mignon",
+      "edit": "https://en.m.wikipedia.org/wiki/Mignon?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Mignon"
+    }
+  },
+  "extract": "Mignon is an 1866 opéra comique in three acts by Ambroise Thomas. The original French libretto was by Jules Barbier and Michel Carré, based on Goethe's 1795-96 novel Wilhelm Meisters Lehrjahre. The Italian version was translated by Giuseppe Zaffira. The opera is mentioned in James Joyce's \"The Dead\" (Dubliners) and Willa Cather's The Professor's House. Thomas's goddaughter Mignon Nevada was named after the main character.",
+  "extract_html": "<p><i><b>Mignon</b></i> is an 1866 <i>opéra comique</i> in three acts by Ambroise Thomas. The original French libretto was by Jules Barbier and Michel Carré, based on Goethe's 1795-96 novel <i>Wilhelm Meisters Lehrjahre</i>. The Italian version was translated by Giuseppe Zaffira. The opera is mentioned in James Joyce's \"The Dead\" (<i>Dubliners</i>) and Willa Cather's <i>The Professor's House</i>. Thomas's goddaughter Mignon Nevada was named after the main character.</p>"
+}

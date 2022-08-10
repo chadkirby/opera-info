@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 19 October 1845<br>Conductor: Richard Wagner\n</th>\n<th>Revised (Paris) version<br>Premiere cast, 13 March 1861<br>Conductor: <a href=\"/wiki/Pierre-Louis_Dietsch\" title=\"Pierre-Louis Dietsch\">Pierre-Louis Dietsch</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Tannh%C3%A4user\" title=\"Tannhäuser\">Tannhäuser</a>, <i>a <a href=\"/wiki/Minnesinger\" class=\"mw-redirect\" title=\"Minnesinger\">Minnesinger</a></i>, known as Heinrich\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Elizabeth_of_Hungary\" title=\"Elizabeth of Hungary\">Princess Elisabeth</a>, <i>the <a href=\"/wiki/Landgrave\" title=\"Landgrave\">Landgrave</a>'s niece</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Venus_(mythology)\" title=\"Venus (mythology)\">Venus</a>, <i>Goddess of Love</i>\n</td>\n<td>soprano or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Wolfram_von_Eschenbach\" title=\"Wolfram von Eschenbach\">Wolfram von Eschenbach</a>, <i>a Minnesinger</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Hermann_I,_Landgrave_of_Thuringia\" title=\"Hermann I, Landgrave of Thuringia\">Hermann</a>, <i>Landgrave of Thuringia</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Walther_von_der_Vogelweide\" title=\"Walther von der Vogelweide\">Walther von der Vogelweide</a>, <i>a Minnesinger</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Biterolf, <i>a Minnesinger</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Heinrich der Schreiber, <i>a Minnesinger</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Reinmar_von_Zweter\" title=\"Reinmar von Zweter\">Reinmar von Zweter</a>, <i>a Minnesinger</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>A young shepherd\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Four noble pages\n</td>\n<td>soprano, <a href=\"/wiki/Alto\" title=\"Alto\">alto</a>\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\"><i>Nobles, knights, ladies, pilgrims, <a href=\"/wiki/Siren_(mythology)\" title=\"Siren (mythology)\">sirens</a>, <a href=\"/wiki/Naiad\" title=\"Naiad\">naiads</a>, <a href=\"/wiki/Nymph\" title=\"Nymph\">nymphs</a>, <a href=\"/wiki/Bacchants\" class=\"mw-redirect\" title=\"Bacchants\">bacchants</a>; In Paris version, also the <a href=\"/wiki/Charites\" title=\"Charites\">Three Graces</a>, youths, <a href=\"/wiki/Cupid\" title=\"Cupid\">cupids</a>, <a href=\"/wiki/Satyr\" title=\"Satyr\">satyrs</a>, and <a href=\"/wiki/Faun\" title=\"Faun\">fauns</a></i><sup id=\"cite_ref-FOOTNOTEHarewood1987168–174_15-1\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEHarewood1987168–174-15\">[15]</a></sup><sup id=\"cite_ref-FOOTNOTEOsborne199383–104_23-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEOsborne199383–104-23\">[23]</a></sup>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Tannhäuser, a Minnesinger, known as Heinrich",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Princess Elisabeth, the Landgrave's niece",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Venus, Goddess of Love",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Wolfram von Eschenbach, a Minnesinger",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Hermann, Landgrave of Thuringia",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Walther von der Vogelweide, a Minnesinger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Biterolf, a Minnesinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Heinrich der Schreiber, a Minnesinger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Reinmar von Zweter, a Minnesinger",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A young shepherd",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Four noble pages",
+      "voiceType": "soprano, alto"
+    },
+    {
+      "role": "Nobles, knights, ladies, pilgrims, sirens, naiads, nymphs, bacchants; In Paris version, also the Three Graces, youths, cupids, satyrs, and fauns",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Golden Cockerel",
+  "displaytitle": "<i>The Golden Cockerel</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q579026",
+  "titles": {
+    "canonical": "The_Golden_Cockerel",
+    "normalized": "The Golden Cockerel",
+    "display": "<i>The Golden Cockerel</i>"
+  },
+  "pageid": 1106775,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bilibin_stage.jpg/320px-Bilibin_stage.jpg",
+    "width": 320,
+    "height": 183
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bilibin_stage.jpg",
+    "width": 729,
+    "height": 418
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091860119",
+  "tid": "7af3b420-12ac-11ed-a924-8fa44eb57fa8",
+  "timestamp": "2022-06-06T20:39:03Z",
+  "description": "Opera by Nikolai Rimsky-Korsakov",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Golden_Cockerel",
+      "revisions": "https://en.wikipedia.org/wiki/The_Golden_Cockerel?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Golden_Cockerel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Golden_Cockerel"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Golden_Cockerel",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Golden_Cockerel",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Golden_Cockerel?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Golden_Cockerel"
+    }
+  },
+  "extract": "The Golden Cockerel is an opera in three acts, with short prologue and even shorter epilogue, composed by Nikolai Rimsky-Korsakov, his last opera he completed before his death in 1908. Its libretto written by Vladimir Belsky derives from Alexander Pushkin's 1834 poem The Tale of the Golden Cockerel. The opera was completed in 1907 and premiered in 1909 in Moscow, after the composer's death. Outside Russia it has often been performed in French as Le coq d'or.",
+  "extract_html": "<p><i><b>The Golden Cockerel</b></i> is an opera in three acts, with short prologue and even shorter epilogue, composed by Nikolai Rimsky-Korsakov, his last opera he completed before his death in 1908. Its libretto written by Vladimir Belsky derives from Alexander Pushkin's 1834 poem <i>The Tale of the Golden Cockerel</i>. The opera was completed in 1907 and premiered in 1909 in Moscow, after the composer's death. Outside Russia it has often been performed in French as <i>Le coq d'or</i>.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Castor et Pollux",
+  "displaytitle": "<i>Castor et Pollux</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1049784",
+  "titles": {
+    "canonical": "Castor_et_Pollux",
+    "normalized": "Castor et Pollux",
+    "display": "<i>Castor et Pollux</i>"
+  },
+  "pageid": 8736383,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg/220px-Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg",
+    "width": 220,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Portrait_of_Jean-Philippe_Rameau_-_Joseph_Aved.jpg",
+    "width": 417,
+    "height": 606
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094522671",
+  "tid": "9f191c80-08d6-11ed-89fa-cf59861762f9",
+  "timestamp": "2022-06-23T04:10:02Z",
+  "description": "1737 opera by Jean-Philippe Rameau",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Castor_et_Pollux",
+      "revisions": "https://en.wikipedia.org/wiki/Castor_et_Pollux?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Castor_et_Pollux?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Castor_et_Pollux"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Castor_et_Pollux",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Castor_et_Pollux",
+      "edit": "https://en.m.wikipedia.org/wiki/Castor_et_Pollux?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Castor_et_Pollux"
+    }
+  },
+  "extract": "Castor et Pollux is an opera by Jean-Philippe Rameau, first performed on 24 October 1737 by the Académie royale de musique at its theatre in the Palais-Royal in Paris. The librettist was Pierre-Joseph-Justin Bernard, whose reputation as a salon poet it made. This was the third opera by Rameau and his second in the form of the tragédie en musique. Rameau made substantial cuts, alterations and added new material to the opera for its revival in 1754. Experts still dispute which of the two versions is superior. Whatever the case, Castor et Pollux has always been regarded as one of Rameau's finest works.",
+  "extract_html": "<p><i><b>Castor et Pollux</b></i> is an opera by Jean-Philippe Rameau, first performed on 24 October 1737 by the Académie royale de musique at its theatre in the Palais-Royal in Paris. The librettist was Pierre-Joseph-Justin Bernard, whose reputation as a salon poet it made. This was the third opera by Rameau and his second in the form of the <i>tragédie en musique</i>. Rameau made substantial cuts, alterations and added new material to the opera for its revival in 1754. Experts still dispute which of the two versions is superior. Whatever the case, <i>Castor et Pollux</i> has always been regarded as one of Rameau's finest works.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pomone (opera)",
+  "displaytitle": "<i>Pomone</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3294489",
+  "titles": {
+    "canonical": "Pomone_(opera)",
+    "normalized": "Pomone (opera)",
+    "display": "<i>Pomone</i> (opera)"
+  },
+  "pageid": 31170230,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Title_page_of_score_of_%27Pomone%27_by_Cambert_-_C_Ballard_1671_-_Gallica.jpg/216px-Title_page_of_score_of_%27Pomone%27_by_Cambert_-_C_Ballard_1671_-_Gallica.jpg",
+    "width": 216,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Title_page_of_score_of_%27Pomone%27_by_Cambert_-_C_Ballard_1671_-_Gallica.jpg",
+    "width": 2272,
+    "height": 3363
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069309599",
+  "tid": "51fe3710-0f92-11ed-8a2f-81b17244e3b4",
+  "timestamp": "2022-02-01T17:10:40Z",
+  "description": "1671 Opera by Robert Cambert",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pomone_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Pomone_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pomone_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pomone_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Pomone_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Pomone_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Pomone_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Pomone_(opera)"
+    }
+  },
+  "extract": "Pomone (Pomona) is a pastoral opera in a prologue and five acts by Robert Cambert with a libretto by Pierre Perrin. It has been described as \"effectively the first French opera.\" It was first performed in Paris at the Jeu de Paume de la Bouteille theatre belonging to Cambert and Perrin's Académie d'Opéra on 3 March 1671. The production had ballets choreographed by Des Brosses and sets and machinery designed by Alexandre de Rieux, marquis de Sourdéac. The novelty of the work drew large audiences and the opera enjoyed 146 performances over the eight months of its run. The score of Pomone has only partially survived.",
+  "extract_html": "<p><i><b>Pomone</b></i> (<i>Pomona</i>) is a pastoral opera in a prologue and five acts by Robert Cambert with a libretto by Pierre Perrin. It has been described as \"effectively the first French opera.\" It was first performed in Paris at the Jeu de Paume de la Bouteille theatre belonging to Cambert and Perrin's Académie d'Opéra on 3 March 1671. The production had ballets choreographed by Des Brosses and sets and machinery designed by Alexandre de Rieux, marquis de Sourdéac. The novelty of the work drew large audiences and the opera enjoyed 146 performances over the eight months of its run. The score of <i>Pomone</i> has only partially survived.</p>"
+}

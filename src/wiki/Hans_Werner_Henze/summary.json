@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hans Werner Henze",
+  "displaytitle": "Hans Werner Henze",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q76915",
+  "titles": {
+    "canonical": "Hans_Werner_Henze",
+    "normalized": "Hans Werner Henze",
+    "display": "Hans Werner Henze"
+  },
+  "pageid": 647641,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg/229px-Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg",
+    "width": 572,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083158266",
+  "tid": "e17a0010-178d-11ed-a188-7da249eff68d",
+  "timestamp": "2022-04-17T10:48:02Z",
+  "description": "German composer (1926–2012)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hans_Werner_Henze",
+      "revisions": "https://en.wikipedia.org/wiki/Hans_Werner_Henze?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hans_Werner_Henze?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hans_Werner_Henze"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hans_Werner_Henze",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hans_Werner_Henze",
+      "edit": "https://en.m.wikipedia.org/wiki/Hans_Werner_Henze?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hans_Werner_Henze"
+    }
+  },
+  "extract": "Hans Werner Henze was a German composer. His large oeuvre of works is extremely varied in style, having been influenced by serialism, atonality, Stravinsky, Italian music, Arabic music and jazz, as well as traditional schools of German composition. In particular, his stage works reflect \"his consistent cultivation of music for the theatre throughout his life\".",
+  "extract_html": "<p><b>Hans Werner Henze</b> was a German composer. His large oeuvre of works is extremely varied in style, having been influenced by serialism, atonality, Stravinsky, Italian music, Arabic music and jazz, as well as traditional schools of German composition. In particular, his stage works reflect \"his consistent cultivation of music for the theatre throughout his life\".</p>"
+}

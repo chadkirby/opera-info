@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Louise (opera)",
+  "displaytitle": "<i>Louise</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q286488",
+  "titles": {
+    "canonical": "Louise_(opera)",
+    "normalized": "Louise (opera)",
+    "display": "<i>Louise</i> (opera)"
+  },
+  "pageid": 563302,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Poster_Louise_Opera_By_Charpentier.jpg/222px-Poster_Louise_Opera_By_Charpentier.jpg",
+    "width": 222,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Poster_Louise_Opera_By_Charpentier.jpg",
+    "width": 4975,
+    "height": 7156
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093303667",
+  "tid": "d06c3ae0-15f8-11ed-9932-f503a8b80fe1",
+  "timestamp": "2022-06-15T18:55:58Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Louise_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Louise_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Louise_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Louise_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Louise_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Louise_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Louise_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Louise_(opera)"
+    }
+  },
+  "extract": "Louise is a “musical novel,” or “roman musical,” in four acts and five scenes by Gustave Charpentier. It can be considered an opera. The composer himself penned the French libretto with contributions from Saint-Pol-Roux, a symbolist poet and inspiration of the surrealists. It is an atmospheric story of working-class life in Paris, with the city itself invoked along the way: young Louise, a seamstress living with her parents, loves Julien, an artist; she desires freedom, associated in her mind with him and the city. Musically the work is verismo, it marks the beginning of naturalism in French opera.",
+  "extract_html": "<p><i><b>Louise</b></i> is a “musical novel,” or “<span><i lang=\"fr\">roman musical</i></span>,” in four acts and five scenes by Gustave Charpentier. It can be considered an opera. The composer himself penned the French libretto with contributions from Saint-Pol-Roux, a symbolist poet and inspiration of the surrealists. It is an atmospheric story of working-class life in Paris, with the city itself invoked along the way: young Louise, a seamstress living with her parents, loves Julien, an artist; she desires freedom, associated in her mind with him and the city. Musically the work is <i>verismo</i>, it marks the beginning of naturalism in French opera.</p>"
+}

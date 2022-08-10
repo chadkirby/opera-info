@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "War and Peace (opera)",
+  "displaytitle": "<i>War and Peace</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q785515",
+  "titles": {
+    "canonical": "War_and_Peace_(opera)",
+    "normalized": "War and Peace (opera)",
+    "display": "<i>War and Peace</i> (opera)"
+  },
+  "pageid": 2016145,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg/260px-Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "width": 260,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "width": 2116,
+    "height": 2607
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087455824",
+  "tid": "1dcee670-11a8-11ed-88aa-95cb698e4a75",
+  "timestamp": "2022-05-12T15:21:55Z",
+  "description": "Opera by Sergei Prokofiev",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/War_and_Peace_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/War_and_Peace_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/War_and_Peace_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:War_and_Peace_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/War_and_Peace_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/War_and_Peace_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/War_and_Peace_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:War_and_Peace_(opera)"
+    }
+  },
+  "extract": "War and Peace is a 1946 230-minute opera in 13 scenes, plus an overture and an epigraph, by Sergei Prokofiev. Based on the 1869 novel War and Peace by Leo Tolstoy, its Russian libretto was prepared by the composer and Mira Mendelson. The first seven scenes are devoted to peace, the latter six, after the epigraph, to war.",
+  "extract_html": "<p><i><b>War and Peace</b></i> is a 1946 230-minute opera in 13 scenes, plus an overture and an epigraph, by Sergei Prokofiev. Based on the 1869 novel <i>War and Peace</i> by Leo Tolstoy, its Russian libretto was prepared by the composer and Mira Mendelson. The first seven scenes are devoted to peace, the latter six, after the epigraph, to war.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 31 May 1817<br>(Conductor: <a href=\"/wiki/Alessandro_Rolla\" title=\"Alessandro Rolla\">Alessandro Rolla</a>)\n</th></tr>\n<tr>\n<td>Ninetta, <i>Fabrizio’s servant</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Fabrizio Vingradito, <i>a rich farmer</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Lucia, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Giannetto, <i>his son, a soldier</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Fernando Villabella, <i>Ninetta’s father, a soldier</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Gottardo the Podestà, <i>village mayor</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Pippo, <i>a young peasant, employed by Fabrizio</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Giorgio, <i>servant to the mayor</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Isacco, <i>a peddler</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Antonio, <i>the gaoler</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Ernesto, <i>a soldier, friend of Fernando</i>\n</td>\n<td>bass\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Ninetta, Fabrizio’s servant",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Fabrizio Vingradito, a rich farmer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lucia, his wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Giannetto, his son, a soldier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fernando Villabella, Ninetta’s father, a soldier",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Gottardo the Podestà, village mayor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Pippo, a young peasant, employed by Fabrizio",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Giorgio, servant to the mayor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Isacco, a peddler",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Antonio, the gaoler",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Ernesto, a soldier, friend of Fernando",
+      "voiceType": "bass"
+    }
+  ]
+}

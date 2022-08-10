@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Kurt Weill",
+  "displaytitle": "Kurt Weill",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q55004",
+  "titles": {
+    "canonical": "Kurt_Weill",
+    "normalized": "Kurt Weill",
+    "display": "Kurt Weill"
+  },
+  "pageid": 51097,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg/213px-Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg",
+    "width": 400,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099476334",
+  "tid": "e1cd9e50-178d-11ed-a67f-ab28f2818218",
+  "timestamp": "2022-07-21T00:24:03Z",
+  "description": "German composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Kurt_Weill",
+      "revisions": "https://en.wikipedia.org/wiki/Kurt_Weill?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Kurt_Weill?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kurt_Weill"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Kurt_Weill",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Kurt_Weill",
+      "edit": "https://en.m.wikipedia.org/wiki/Kurt_Weill?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Kurt_Weill"
+    }
+  },
+  "extract": "Kurt Julian Weill was a German composer, active from the 1920s in his native country, and in his later years in the United States. He was a leading composer for the stage who was best known for his fruitful collaborations with Bertolt Brecht. With Brecht, he developed productions such as his best-known work, The Threepenny Opera, which included the ballad \"Mack the Knife\". Weill held the ideal of writing music that served a socially useful purpose, Gebrauchsmusik. He also wrote several works for the concert hall and a number of works on Jewish themes. He became a United States citizen on August 27, 1943.",
+  "extract_html": "<p><b>Kurt Julian Weill</b> was a German composer, active from the 1920s in his native country, and in his later years in the United States. He was a leading composer for the stage who was best known for his fruitful collaborations with Bertolt Brecht. With Brecht, he developed productions such as his best-known work, <i>The Threepenny Opera</i>, which included the ballad \"Mack the Knife\". Weill held the ideal of writing music that served a socially useful purpose, <i>Gebrauchsmusik</i>. He also wrote several works for the concert hall and a number of works on Jewish themes. He became a United States citizen on August 27, 1943.</p>"
+}

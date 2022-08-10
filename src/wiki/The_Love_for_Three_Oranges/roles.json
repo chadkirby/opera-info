@@ -1,0 +1,73 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role<br><style data-mw-deduplicate=\"TemplateStyles:r886047488\">.mw-parser-output .nobold{font-weight:normal}</style><span class=\"nobold\">(en=Name used in productions in English,<br>fr=Name in original French production)</span>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 30 December 1921<br>Conductor: Sergei Prokofiev\n</th></tr>\n<tr>\n<td>King of Clubs (en) / Le Roi de Trèfle (fr), <i>ruler of an imaginary kingdom</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>The Prince (en) / Le Prince (fr), <i>his son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Princess (en) / Princesse (fr) Clarice, <i>the king's niece</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Leandro (en) / Léandre (fr), <i>the prime minister</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Truffaldino (en) / Trouffaldino (fr), <i>the court jester</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Pantalone (en) / Pantalon (fr), <i>the king's advisor</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Tchelio (en) / Tchélio (fr), <i>a magician</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Fata Morgana, <i>a witch</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Princess (en) / Princesse (fr) Ninette, <i>Orange No. 3</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Princess (en) / Princesse (fr) Linette, <i>Orange No. 1</i>\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Princess (en) / Princesse (fr) Nicolette, <i>Orange No. 2</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Smeraldina (en) / Sméraldina (fr), <i>Fata Morgana's servant</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Farfarello, <i>a demon</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Cook (en) / La Cuisinière (fr), <i>giant custodian of the three oranges</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Master of Ceremonies (en) / Le Maître de Cérémonies (fr)\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Herald (en) / Héraut (fr)\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Advocates of Tragedy, Comedy, Lyric Drama, and Farce; Ten \"Ridicules\" (Cranks); little demons; courtiers, monsters, drunkards, gluttons, guards, servants, soldiers</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "King of Clubs (en) / Le Roi de Trèfle (fr), ruler of an imaginary kingdom",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Prince (en) / Le Prince (fr), his son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Princess (en) / Princesse (fr) Clarice, the king's niece",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Leandro (en) / Léandre (fr), the prime minister",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Truffaldino (en) / Trouffaldino (fr), the court jester",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pantalone (en) / Pantalon (fr), the king's advisor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Tchelio (en) / Tchélio (fr), a magician",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Fata Morgana, a witch",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Princess (en) / Princesse (fr) Ninette, Orange No. 3",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Princess (en) / Princesse (fr) Linette, Orange No. 1",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Princess (en) / Princesse (fr) Nicolette, Orange No. 2",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Smeraldina (en) / Sméraldina (fr), Fata Morgana's servant",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Farfarello, a demon",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Cook (en) / La Cuisinière (fr), giant custodian of the three oranges",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Master of Ceremonies (en) / Le Maître de Cérémonies (fr)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Herald (en) / Héraut (fr)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Advocates of Tragedy, Comedy, Lyric Drama, and Farce; Ten \"Ridicules\" (Cranks); little demons; courtiers, monsters, drunkards, gluttons, guards, servants, soldiers",
+      "voiceType": ""
+    }
+  ]
+}

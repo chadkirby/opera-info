@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Hamlet (Thomas)",
+  "displaytitle": "<i>Hamlet</i> (Thomas)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q631016",
+  "titles": {
+    "canonical": "Hamlet_(Thomas)",
+    "normalized": "Hamlet (Thomas)",
+    "display": "<i>Hamlet</i> (Thomas)"
+  },
+  "pageid": 8968794,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hamlet_by_Alphonse_de_Neuville.jpg/245px-Hamlet_by_Alphonse_de_Neuville.jpg",
+    "width": 245,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hamlet_by_Alphonse_de_Neuville.jpg",
+    "width": 614,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101945183",
+  "tid": "20d84400-1839-11ed-944e-6f2cf5d8c202",
+  "timestamp": "2022-08-02T16:03:32Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hamlet_(Thomas)",
+      "revisions": "https://en.wikipedia.org/wiki/Hamlet_(Thomas)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hamlet_(Thomas)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hamlet_(Thomas)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hamlet_(Thomas)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hamlet_(Thomas)",
+      "edit": "https://en.m.wikipedia.org/wiki/Hamlet_(Thomas)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hamlet_(Thomas)"
+    }
+  },
+  "extract": "Hamlet is a grand opera in five acts of 1868 by the French composer Ambroise Thomas, with a libretto by Michel Carré and Jules Barbier based on a French adaptation by Alexandre Dumas, père, and Paul Meurice of William Shakespeare's play Hamlet.",
+  "extract_html": "<p><i><b>Hamlet</b></i> is a grand opera in five acts of 1868 by the French composer Ambroise Thomas, with a libretto by Michel Carré and Jules Barbier based on a French adaptation by Alexandre Dumas, père, and Paul Meurice of William Shakespeare's play <i>Hamlet</i>.</p>"
+}

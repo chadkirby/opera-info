@@ -1,0 +1,77 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 9 December 1905<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup><br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Ernst_von_Schuch\" title=\"Ernst von Schuch\">Ernst von Schuch</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Herod_Antipas\" title=\"Herod Antipas\">Herodes</a>, <i><a href=\"/wiki/Herodian_Tetrarchy\" title=\"Herodian Tetrarchy\">Tetrarch</a> of <a href=\"/wiki/Judea_(Roman_province)\" class=\"mw-redirect\" title=\"Judea (Roman province)\">Judaea</a> and <a href=\"/wiki/Perea\" title=\"Perea\">Perea</a></i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Herodias\" title=\"Herodias\">Herodias</a>, <i>his wife (and sister-in-law)</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Salome\" title=\"Salome\">Salome</a>, <i>his stepdaughter (and niece)</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Jochanaan (<a href=\"/wiki/John_the_Baptist\" title=\"John the Baptist\">John the Baptist</a>)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Narraboth, <i>Captain of the Guard</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The Page of Herodias\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>First Jew\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second Jew\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Third Jew\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Fourth Jew\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Fifth Jew\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>First Nazarene\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Second Nazarene\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>First soldier\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Second soldier\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A Cappadocian\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A slave\n</td>\n<td>soprano/tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Royal guests (Egyptians and Romans), and entourage, servants, soldiers (all silent)</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Herodes, Tetrarch of Judaea and Perea",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Herodias, his wife (and sister-in-law)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Salome, his stepdaughter (and niece)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jochanaan (John the Baptist)",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Narraboth, Captain of the Guard",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Page of Herodias",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "First Jew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second Jew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Third Jew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fourth Jew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fifth Jew",
+      "voiceType": "bass"
+    },
+    {
+      "role": "First Nazarene",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Second Nazarene",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "First soldier",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Second soldier",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Cappadocian",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A slave",
+      "voiceType": "soprano/tenor"
+    },
+    {
+      "role": "Royal guests (Egyptians and Romans), and entourage, servants, soldiers (all silent)",
+      "voiceType": ""
+    }
+  ]
+}

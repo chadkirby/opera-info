@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Luigi Dallapiccola",
+  "displaytitle": "Luigi Dallapiccola",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q17575",
+  "titles": {
+    "canonical": "Luigi_Dallapiccola",
+    "normalized": "Luigi Dallapiccola",
+    "display": "Luigi Dallapiccola"
+  },
+  "pageid": 26621379,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103387534",
+  "tid": "566c76b0-17e2-11ed-9030-b383a5a5ffae",
+  "timestamp": "2022-08-09T12:53:57Z",
+  "description": "Italian composer (1904–1975)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Luigi_Dallapiccola",
+      "revisions": "https://en.wikipedia.org/wiki/Luigi_Dallapiccola?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Luigi_Dallapiccola?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Luigi_Dallapiccola"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Luigi_Dallapiccola",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Luigi_Dallapiccola",
+      "edit": "https://en.m.wikipedia.org/wiki/Luigi_Dallapiccola?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Luigi_Dallapiccola"
+    }
+  },
+  "extract": "Luigi Dallapiccola was an Italian composer known for his lyrical twelve-tone compositions.",
+  "extract_html": "<p><b>Luigi Dallapiccola</b> was an Italian composer known for his lyrical twelve-tone compositions.</p>"
+}

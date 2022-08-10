@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Robert Cambert",
+  "displaytitle": "Robert Cambert",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q427701",
+  "titles": {
+    "canonical": "Robert_Cambert",
+    "normalized": "Robert Cambert",
+    "display": "Robert Cambert"
+  },
+  "pageid": 2328724,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1063807570",
+  "tid": "1548cae0-0b98-11ed-868b-93331f6a44d6",
+  "timestamp": "2022-01-05T01:30:36Z",
+  "description": "French composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robert_Cambert",
+      "revisions": "https://en.wikipedia.org/wiki/Robert_Cambert?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robert_Cambert?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Cambert"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Robert_Cambert",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Robert_Cambert",
+      "edit": "https://en.m.wikipedia.org/wiki/Robert_Cambert?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Robert_Cambert"
+    }
+  },
+  "extract": "Robert Cambert was a French composer principally of opera. His opera Pomone was the first actual opera in French.",
+  "extract_html": "<p><b>Robert Cambert</b> was a French composer principally of opera. His opera <i>Pomone</i> was the first actual opera in French.</p>"
+}

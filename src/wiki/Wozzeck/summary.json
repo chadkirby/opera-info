@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Wozzeck",
+  "displaytitle": "<i>Wozzeck</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q45784",
+  "titles": {
+    "canonical": "Wozzeck",
+    "normalized": "Wozzeck",
+    "display": "<i>Wozzeck</i>"
+  },
+  "pageid": 534416,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hans_Heinrich_Palitzsch_1974_poster_Wozzek.jpg/223px-Hans_Heinrich_Palitzsch_1974_poster_Wozzek.jpg",
+    "width": 223,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hans_Heinrich_Palitzsch_1974_poster_Wozzek.jpg",
+    "width": 504,
+    "height": 722
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097877624",
+  "tid": "855461a0-1683-11ed-b2c9-4f9cee9d6d6f",
+  "timestamp": "2022-07-13T03:19:18Z",
+  "description": "1925 opera by Alban Berg; Berg's first opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Wozzeck",
+      "revisions": "https://en.wikipedia.org/wiki/Wozzeck?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Wozzeck?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Wozzeck"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Wozzeck",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Wozzeck",
+      "edit": "https://en.m.wikipedia.org/wiki/Wozzeck?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Wozzeck"
+    }
+  },
+  "extract": "Wozzeck is the first opera by the Austrian composer Alban Berg. It was composed between 1914 and 1922 and first performed in 1925. The opera is based on the drama Woyzeck, which the German playwright Georg Büchner left incomplete at his death. Berg attended the first production in Vienna of Büchner's play on 5 May 1914, and knew at once that he wanted to base an opera on it. From the fragments of unordered scenes left by Büchner, Berg selected 15 to form a compact structure of three acts with five scenes each. He adapted the libretto himself, retaining \"the essential character of the play, with its many short scenes, its abrupt and sometimes brutal language, and its stark, if haunted, realism...\"",
+  "extract_html": "<p><i><b>Wozzeck</b></i> is the first opera by the Austrian composer Alban Berg. It was composed between 1914 and 1922 and first performed in 1925. The opera is based on the drama <i>Woyzeck</i>, which the German playwright Georg Büchner left incomplete at his death. Berg attended the first production in Vienna of Büchner's play on 5 May 1914, and knew at once that he wanted to base an opera on it. From the fragments of unordered scenes left by Büchner, Berg selected 15 to form a compact structure of three acts with five scenes each. He adapted the libretto himself, retaining \"the essential character of the play, with its many short scenes, its abrupt and sometimes brutal language, and its stark, if haunted, realism...\"</p>"
+}

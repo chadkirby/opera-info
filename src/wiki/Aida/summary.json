@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Aida",
+  "displaytitle": "<i>Aida</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q171277",
+  "titles": {
+    "canonical": "Aida",
+    "normalized": "Aida",
+    "display": "<i>Aida</i>"
+  },
+  "pageid": 37888,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Giuseppe_Verdi%2C_c._1872_Aida_vocal_score_cover_-_Restoration.jpg/222px-Giuseppe_Verdi%2C_c._1872_Aida_vocal_score_cover_-_Restoration.jpg",
+    "width": 222,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/f7/Giuseppe_Verdi%2C_c._1872_Aida_vocal_score_cover_-_Restoration.jpg",
+    "width": 2336,
+    "height": 3358
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096848815",
+  "tid": "d0a5c170-15f8-11ed-bfe7-0dbe26228ac4",
+  "timestamp": "2022-07-07T01:30:07Z",
+  "description": "Opera in four acts by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Aida",
+      "revisions": "https://en.wikipedia.org/wiki/Aida?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Aida?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Aida"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Aida",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Aida",
+      "edit": "https://en.m.wikipedia.org/wiki/Aida?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Aida"
+    }
+  },
+  "extract": "Aida is an opera in four acts by Giuseppe Verdi to an Italian libretto by Antonio Ghislanzoni. Set in the Old Kingdom of Egypt, it was commissioned by Cairo's Khedivial Opera House and had its première there on 24 December 1871, in a performance conducted by Giovanni Bottesini. Today the work holds a central place in the operatic canon, receiving performances every year around the world; at New York's Metropolitan Opera alone, Aida has been sung more than 1,100 times since 1886. Ghislanzoni's scheme follows a scenario often attributed to the French Egyptologist Auguste Mariette, but Verdi biographer Mary Jane Phillips-Matz argues that the source is actually Temistocle Solera.",
+  "extract_html": "<p><i><b>Aida</b></i> is an opera in four acts by Giuseppe Verdi to an Italian libretto by Antonio Ghislanzoni. Set in the Old Kingdom of Egypt, it was commissioned by Cairo's Khedivial Opera House and had its première there on 24 December 1871, in a performance conducted by Giovanni Bottesini. Today the work holds a central place in the operatic canon, receiving performances every year around the world; at New York's Metropolitan Opera alone, <i>Aida</i> has been sung more than 1,100 times since 1886. Ghislanzoni's scheme follows a scenario often attributed to the French Egyptologist Auguste Mariette, but Verdi biographer Mary Jane Phillips-Matz argues that the source is actually Temistocle Solera.</p>"
+}

@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 29 January 1781<br>Conductor: <a href=\"/wiki/Christian_Cannabich\" title=\"Christian Cannabich\">Christian Cannabich</a><sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup>\n</th></tr>\n<tr>\n<td>Ilia, <i>daughter of King Priam of Troy</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Idomeneo (Idomeneus), <i>King of Crete</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Idamante (Idamantes), <i>son of Idomeneo</i>\n</td>\n<td>soprano <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>, later rewritten as tenor\n</td>\n</tr>\n<tr>\n<td>Elettra (Electra), <i>Princess of Argos</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Arbace (Arbaces), <i>Idomeneo's confidant</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>High priest of Neptune\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The voice of the Oracle of Neptune\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Two Cretan women\n</td>\n<td>soprano and <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Two Trojans\n</td>\n<td>tenor and bass\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Ilia, daughter of King Priam of Troy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Idomeneo (Idomeneus), King of Crete",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Idamante (Idamantes), son of Idomeneo",
+      "voiceType": "soprano castrato, later rewritten as tenor"
+    },
+    {
+      "role": "Elettra (Electra), Princess of Argos",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Arbace (Arbaces), Idomeneo's confidant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "High priest of Neptune",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The voice of the Oracle of Neptune",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Two Cretan women",
+      "voiceType": "soprano and mezzo-soprano"
+    },
+    {
+      "role": "Two Trojans",
+      "voiceType": "tenor and bass"
+    }
+  ]
+}

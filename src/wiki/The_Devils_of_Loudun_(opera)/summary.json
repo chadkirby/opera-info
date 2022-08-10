@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Devils of Loudun (opera)",
+  "displaytitle": "<i>The Devils of Loudun</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q939433",
+  "titles": {
+    "canonical": "The_Devils_of_Loudun_(opera)",
+    "normalized": "The Devils of Loudun (opera)",
+    "display": "<i>The Devils of Loudun</i> (opera)"
+  },
+  "pageid": 9017591,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Krzysztof_Penderecki_20080706.jpg/213px-Krzysztof_Penderecki_20080706.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Krzysztof_Penderecki_20080706.jpg",
+    "width": 1632,
+    "height": 2448
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097468555",
+  "tid": "d17175e0-15f8-11ed-a969-154e9d712b05",
+  "timestamp": "2022-07-10T22:20:44Z",
+  "description": "1969 opera by Krzysztof Penderecki",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Devils_of_Loudun_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Devils_of_Loudun_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Devils_of_Loudun_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Devils_of_Loudun_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Devils_of_Loudun_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Devils_of_Loudun_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Devils_of_Loudun_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Devils_of_Loudun_(opera)"
+    }
+  },
+  "extract": "Die Teufel von Loudun is an opera in three acts written in 1968 and 1969 by Polish composer Krzysztof Penderecki, and then revised in 1972 and 1975. It has a German libretto by the composer, based on John Whiting's dramatization of Aldous Huxley's book of the same name.",
+  "extract_html": "<p><i><b>Die Teufel von Loudun</b></i> is an opera in three acts written in 1968 and 1969 by Polish composer Krzysztof Penderecki, and then revised in 1972 and 1975. It has a German libretto by the composer, based on John Whiting's dramatization of Aldous Huxley's book of the same name.</p>"
+}

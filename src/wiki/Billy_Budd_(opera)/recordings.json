@@ -1,0 +1,77 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"125\">Cast:<br>Billy Budd,<br>Captain Vere,<br>John Claggart\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\">[29]</a></sup>\n</th></tr>\n<tr>\n<td>1951\n</td>\n<td><a href=\"/wiki/Theodor_Uppman\" title=\"Theodor Uppman\">Theodor Uppman</a>,<br><a href=\"/wiki/Peter_Pears\" title=\"Peter Pears\">Peter Pears</a>,<br><a href=\"/wiki/Frederick_Dalberg\" title=\"Frederick Dalberg\">Frederick Dalberg</a>\n</td>\n\n<td>CD: VAI,<br>Cat: VAIA 1034-3\n</td></tr>\n<tr>\n<td>1967\n</td>\n<td><a href=\"/wiki/Peter_Glossop\" title=\"Peter Glossop\">Peter Glossop</a>,<br><a href=\"/wiki/Peter_Pears\" title=\"Peter Pears\">Peter Pears</a>,<br><a href=\"/wiki/Michael_Langdon\" title=\"Michael Langdon\">Michael Langdon</a>\n</td>\n\n<td>CD: Decca,<br>Cat: 417 428-2LH3\n</td></tr>\n<tr>\n<td>1997\n</td>\n<td><a href=\"/wiki/Thomas_Hampson_(baritone)\" class=\"mw-redirect\" title=\"Thomas Hampson (baritone)\">Thomas Hampson</a>,<br><span class=\"nowrap\"><a href=\"/wiki/Anthony_Rolfe-Johnson\" class=\"mw-redirect\" title=\"Anthony Rolfe-Johnson\">Anthony Rolfe-Johnson</a></span>,<br><a href=\"/wiki/Eric_Halfvarson\" title=\"Eric Halfvarson\">Eric Halfvarson</a>\n</td>\n\n<td>CD: Erato,<br>Cat: 3984 21631-2\n</td></tr>\n<tr>\n<td>1999\n</td>\n<td><a href=\"/wiki/Simon_Keenlyside\" title=\"Simon Keenlyside\">Simon Keenlyside</a>,<br><a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a>,<br><a href=\"/wiki/John_Tomlinson_(bass)\" title=\"John Tomlinson (bass)\">John Tomlinson</a>\n</td>\n\n<td>CD: Chandos,<br>Cat: CHAN 9826<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\">[31]</a></sup>\n</td></tr>\n<tr>\n<td>2004\n</td>\n<td><a href=\"/wiki/Bo_Skovhus\" title=\"Bo Skovhus\">Bo Skovhus</a>,<br><a href=\"/wiki/Neil_Shicoff\" title=\"Neil Shicoff\">Neil Shicoff</a>,<br><a href=\"/wiki/Eric_Halfvarson\" title=\"Eric Halfvarson\">Eric Halfvarson</a>\n</td>\n\n<td>CD: Orfeo d'Or<br>Cat: C 602 033 D<sup id=\"cite_ref-Clements2004_13-1\" class=\"reference\"><a href=\"#cite_note-Clements2004-13\">[13]</a></sup>\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td><a href=\"/wiki/Nathan_Gunn\" title=\"Nathan Gunn\">Nathan Gunn</a>,<br><a href=\"/wiki/Ian_Bostridge\" title=\"Ian Bostridge\">Ian Bostridge</a>,<br><a href=\"/wiki/Gidon_Saks\" title=\"Gidon Saks\">Gidon Saks</a>\n</td>\n\n<td>CD: Virgin Classics,<br>Cat: 50999 5 19039 2 3 (revised version)\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td><a href=\"/wiki/Jacques_Imbrailo\" title=\"Jacques Imbrailo\">Jacques Imbrailo</a>,<br><a href=\"/wiki/John_Mark_Ainsley\" title=\"John Mark Ainsley\">John Mark Ainsley</a>,<br>Philip Ens\n</td>\n\n<td>DVD: Glyndebourne,<br>Cat: OA BD 7086D (revised version)\n</td></tr>\n<tr>\n<td>2013\n</td>\n<td>Jacques Imbrailo,<br><a href=\"/wiki/John_Mark_Ainsley\" title=\"John Mark Ainsley\">John Mark Ainsley</a>,<br>Philip Ens\n</td>\n\n<td>CD: Glyndebourne,<br>Cat: GFOCD 017-10 (revised version)\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1951,
+      "cast": [
+        "Theodor Uppman",
+        "Peter Pears",
+        "Frederick Dalberg"
+      ],
+      "conductor": "Benjamin Britten"
+    },
+    {
+      "year": 1967,
+      "cast": [
+        "Peter Glossop",
+        "Peter Pears",
+        "Michael Langdon"
+      ],
+      "conductor": "Benjamin Britten"
+    },
+    {
+      "year": 1997,
+      "cast": [
+        "Thomas Hampson",
+        "Anthony Rolfe-Johnson",
+        "Eric Halfvarson"
+      ],
+      "conductor": "Kent Nagano"
+    },
+    {
+      "year": 1999,
+      "cast": [
+        "Simon Keenlyside",
+        "Philip Langridge",
+        "John Tomlinson"
+      ],
+      "conductor": "Richard Hickox"
+    },
+    {
+      "year": 2004,
+      "cast": [
+        "Bo Skovhus",
+        "Neil Shicoff",
+        "Eric Halfvarson"
+      ],
+      "conductor": "Donald Runnicles"
+    },
+    {
+      "year": 2008,
+      "cast": [
+        "Nathan Gunn",
+        "Ian Bostridge",
+        "Gidon Saks"
+      ],
+      "conductor": "Daniel Harding"
+    },
+    {
+      "year": 2011,
+      "cast": [
+        "Jacques Imbrailo",
+        "John Mark Ainsley",
+        "Philip Ens"
+      ],
+      "conductor": "Mark Elder"
+    },
+    {
+      "year": 2013,
+      "cast": [
+        "Jacques Imbrailo",
+        "John Mark Ainsley",
+        "Philip Ens"
+      ],
+      "conductor": "Mark Elder"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Barber of Seville (Paisiello)",
+  "displaytitle": "<i>The Barber of Seville</i> (Paisiello)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1192391",
+  "titles": {
+    "canonical": "The_Barber_of_Seville_(Paisiello)",
+    "normalized": "The Barber of Seville (Paisiello)",
+    "display": "<i>The Barber of Seville</i> (Paisiello)"
+  },
+  "pageid": 8968941,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Il_Barbieri_di_Siviglia_6328-Peralta.jpg/320px-Il_Barbieri_di_Siviglia_6328-Peralta.jpg",
+    "width": 320,
+    "height": 214
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Il_Barbieri_di_Siviglia_6328-Peralta.jpg",
+    "width": 4336,
+    "height": 2894
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091813943",
+  "tid": "c8f96dd0-fa20-11ec-971d-8dfe57495f9e",
+  "timestamp": "2022-06-06T15:07:49Z",
+  "description": "1782 opera by Giovanni Paisiello",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Barber_of_Seville_(Paisiello)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Barber_of_Seville_(Paisiello)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Barber_of_Seville_(Paisiello)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Barber_of_Seville_(Paisiello)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Barber_of_Seville_(Paisiello)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Barber_of_Seville_(Paisiello)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Barber_of_Seville_(Paisiello)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Barber_of_Seville_(Paisiello)"
+    }
+  },
+  "extract": "Il barbiere di Siviglia, ovvero La precauzione inutile is a comic opera by Giovanni Paisiello to a libretto by Giuseppe Petrosellini, even though his name is not identified on the score's title page.",
+  "extract_html": "<p><i><b>Il barbiere di Siviglia, ovvero La precauzione inutile</b></i> is a comic opera by Giovanni Paisiello to a libretto by Giuseppe Petrosellini, even though his name is not identified on the score's title page.</p>"
+}

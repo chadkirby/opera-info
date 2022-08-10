@@ -1,0 +1,29 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<br>10 June 1968<br>(Conductor: Benjamin Britten)\n</th></tr>\n<tr>\n<td>Tempter/Abbot\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>The Father\n</td>\n<td><a href=\"/wiki/Bass_baritone\" class=\"mw-redirect\" title=\"Bass baritone\">bass baritone</a>\n</td>\n</tr>\n<tr>\n<td>The Younger Son\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The Elder Son\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Young Servants and Distant Voices\n</td>\n<td>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>Servants, Parasites, and Beggars</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Tempter/Abbot",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Father",
+      "voiceType": "bass baritone"
+    },
+    {
+      "role": "The Younger Son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Elder Son",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Young Servants and Distant Voices",
+      "voiceType": ""
+    },
+    {
+      "role": "Chorus: Servants, Parasites, and Beggars",
+      "voiceType": ""
+    }
+  ]
+}

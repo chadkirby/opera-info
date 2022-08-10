@@ -1,0 +1,8 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">The Immortal Hour</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Rutland_Boughton\" title=\"Rutland Boughton\">Rutland Boughton</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Rb3.jpg\" class=\"image\"><img alt=\"Rb3.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rb3.jpg/220px-Rb3.jpg\" decoding=\"async\" width=\"220\" height=\"297\" srcset=\"//upload.wikimedia.org/wikipedia/commons/3/31/Rb3.jpg 1.5x\" data-file-width=\"264\" data-file-height=\"356\"></a><div class=\"infobox-caption\">The composer</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Boughton</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">26&nbsp;August&nbsp;1914<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1914-08-26</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Glastonbury_Festival_(1914%E2%80%9325)\" class=\"mw-redirect\" title=\"Glastonbury Festival (1914–25)\">Glastonbury Festival</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "The Immortal Hour"
+  ],
+  "Librettist": "Boughton",
+  "Premiere": "26 August 1914\nGlastonbury Festival"
+}

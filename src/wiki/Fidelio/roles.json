@@ -1,0 +1,41 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere casts of three versions</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup>\n</th>\n<th>Premiere cast,<br>First version: 3 acts<sup id=\"cite_ref-TITLE_14-0\" class=\"reference\"><a href=\"#cite_note-TITLE-14\">[14]</a></sup><br>20 November 1805<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Ignaz_von_Seyfried\" title=\"Ignaz von Seyfried\">Ignaz von Seyfried</a>\n</th>\n<th>Premiere cast,<br>Second version: 2 acts<sup id=\"cite_ref-TITLE_14-1\" class=\"reference\"><a href=\"#cite_note-TITLE-14\">[14]</a></sup><br>29 March 1806<br>Conductor: Ignaz von Seyfried<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\">[15]</a></sup>\n</th>\n<th>Premiere cast,<br>Final version: 2 acts<br>23 May 1814<br>Conductor: <a href=\"/wiki/Michael_Umlauf\" title=\"Michael Umlauf\">Michael Umlauf</a>\n</th></tr>\n<tr>\n<td>Florestan, <i>a prisoner</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n\n<td><a href=\"/wiki/Julius_Radichi\" title=\"Julius Radichi\">Julius Radichi</a>\n</td></tr>\n<tr>\n<td>Leonore, <i>his wife, disguised as a man under the alias</i> Fidelio\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Rocco, <i>gaoler</i> (guard)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Marzelline, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Jaquino, <i>assistant to Rocco</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Don Pizarro, <i>governor of the prison</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Don Fernando, <i>King's minister</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n\n</tr>\n<tr>\n<td>Two prisoners\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a> and <a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"5\"><i>Soldiers, prisoners, townspeople</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Florestan, a prisoner",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Leonore, his wife, disguised as a man under the alias Fidelio",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Rocco, gaoler (guard)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Marzelline, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jaquino, assistant to Rocco",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Don Pizarro, governor of the prison",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Don Fernando, King's minister",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Two prisoners",
+      "voiceType": "tenor and bass"
+    },
+    {
+      "role": "Soldiers, prisoners, townspeople",
+      "voiceType": ""
+    }
+  ]
+}

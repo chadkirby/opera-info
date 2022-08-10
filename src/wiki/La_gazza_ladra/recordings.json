@@ -1,0 +1,73 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup>\n</th></tr>\n<tr>\n<td>1978\n</td>\n<td>Rosetta Pizzo,<br>Pietro Bottazza,<br>Alberto Rinaldi,<br>Angelo Romero,<br>Helga Muller,<br>Francesco Signor,<br>Nuci Condo\n</td>\n\n<td>Audio LP: Italia Fonit Cetra<br>Cat: ITL 70056\n</td></tr>\n<tr>\n<td>1987\n</td>\n<td><a href=\"/wiki/Ileana_Cotrubas\" class=\"mw-redirect\" title=\"Ileana Cotrubas\">Ileana Cotrubas</a>,<br><a href=\"/wiki/Carlos_Feller\" title=\"Carlos Feller\">Carlos Feller</a>,<br>Nucci Condò,<br>David Kuebler,<br>Brent Ellis\n</td>\n\n<td>DVD: ArtHaus Musik<br>Cat: 102 203\n</td></tr>\n<tr>\n<td>1989\n</td>\n<td><a href=\"/wiki/Katia_Ricciarelli\" title=\"Katia Ricciarelli\">Katia Ricciarelli</a>,<br>Roberto Coviello,<br>Luciana D'Intino,<br><a href=\"/wiki/William_Matteuzzi\" title=\"William Matteuzzi\">William Matteuzzi</a>,<br><a href=\"/wiki/Ferruccio_Furlanetto\" title=\"Ferruccio Furlanetto\">Ferruccio Furlanetto</a>\n</td>\n\n<td>CD: Sony<br>Cat: S3K 45 850\n</td></tr>\n<tr>\n<td>1998\n</td>\n<td>Cinzia Forte,<br>Franco Vassallo,<br>Linda Tirendi,<br>Simon Edwards,<br>Natale de Carolis\n</td>\n\n<td>Audio CD: Mondo Musica<br>Cat: MFOH 20111\n</td></tr>\n<tr>\n<td>2007\n</td>\n<td>Mariola Cantarero,<br><a href=\"/wiki/Paolo_Bordogna\" title=\"Paolo Bordogna\">Paolo Bordogna</a>,<br><span class=\"nowrap\">Kleopatra Papatheologou</span>,<br>Dmitry Korchak,<br><a href=\"/wiki/Alex_Esposito\" title=\"Alex Esposito\">Alex Esposito</a>\n</td>\n\n<td>DVD: <a href=\"/wiki/Dynamic_(record_label)\" title=\"Dynamic (record label)\">Dynamic</a>,<br>Cat: 33567\n</td></tr>\n<tr>\n<td>2009\n</td>\n<td>Marie José Moreno, <br>Giulio Mastrototaro, <br>Luisa Islam Ali-Zade, <br>Kenneth Tarver, <br>Lorenzo Regazzo\n</td>\n\n<td>Audio CD: <a href=\"/wiki/Naxos_Records\" class=\"mw-redirect\" title=\"Naxos Records\">Naxos Records</a> <br>8.660369-71\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "year": 1978,
+      "cast": [
+        "Rosetta Pizzo",
+        "Pietro Bottazza",
+        "Alberto Rinaldi",
+        "Angelo Romero",
+        "Helga Muller",
+        "Francesco Signor",
+        "Nuci Condo"
+      ],
+      "conductor": "Alberto Zedda"
+    },
+    {
+      "year": 1987,
+      "cast": [
+        "Ileana Cotrubas",
+        "Carlos Feller",
+        "Nucci Condò",
+        "David Kuebler",
+        "Brent Ellis"
+      ],
+      "conductor": "Bruno Bartoletti"
+    },
+    {
+      "year": 1989,
+      "cast": [
+        "Katia Ricciarelli",
+        "Roberto Coviello",
+        "Luciana D'Intino",
+        "William Matteuzzi",
+        "Ferruccio Furlanetto"
+      ],
+      "conductor": "Gianluigi Gelmetti"
+    },
+    {
+      "year": 1998,
+      "cast": [
+        "Cinzia Forte",
+        "Franco Vassallo",
+        "Linda Tirendi",
+        "Simon Edwards",
+        "Natale de Carolis"
+      ],
+      "conductor": "Giancarlo Andretta"
+    },
+    {
+      "year": 2007,
+      "cast": [
+        "Mariola Cantarero",
+        "Paolo Bordogna",
+        "Kleopatra Papatheologou",
+        "Dmitry Korchak",
+        "Alex Esposito"
+      ],
+      "conductor": "Lü Jia"
+    },
+    {
+      "year": 2009,
+      "cast": [
+        "Marie José Moreno, ",
+        "Giulio Mastrototaro, ",
+        "Luisa Islam Ali-Zade, ",
+        "Kenneth Tarver, ",
+        "Lorenzo Regazzo"
+      ],
+      "conductor": "Alberto Zedda"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Thomas Arne",
+  "displaytitle": "Thomas Arne",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q309709",
+  "titles": {
+    "canonical": "Thomas_Arne",
+    "normalized": "Thomas Arne",
+    "display": "Thomas Arne"
+  },
+  "pageid": 162051,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Thomas_Augustine_Arne.png/223px-Thomas_Augustine_Arne.png",
+    "width": 223,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Thomas_Augustine_Arne.png",
+    "width": 286,
+    "height": 410
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098880858",
+  "tid": "82ec53f0-0f80-11ed-a110-df3bd2ede36d",
+  "timestamp": "2022-07-17T23:01:39Z",
+  "description": "18th-century British composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Thomas_Arne",
+      "revisions": "https://en.wikipedia.org/wiki/Thomas_Arne?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Thomas_Arne?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Thomas_Arne"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Thomas_Arne",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Thomas_Arne",
+      "edit": "https://en.m.wikipedia.org/wiki/Thomas_Arne?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Thomas_Arne"
+    }
+  },
+  "extract": "Thomas Augustine Arne was an English composer. He is best known for his patriotic song \"Rule, Britannia!\" and the song \"A-Hunting We Will Go\", the latter composed for a 1777 production of The Beggar's Opera, which has since become popular as a folk song and a nursery rhyme. Arne was a leading British theatre composer of the 18th century, working at the West End's Drury Lane and Covent Garden. He wrote many operatic entertainments for the London theatres and pleasure gardens, as well as concertos, sinfonias, and sonatas.",
+  "extract_html": "<p><b>Thomas Augustine Arne</b> was an English composer. He is best known for his patriotic song \"Rule, Britannia!\" and the song \"A-Hunting We Will Go\", the latter composed for a 1777 production of <i>The Beggar's Opera</i>, which has since become popular as a folk song and a nursery rhyme. Arne was a leading British theatre composer of the 18th century, working at the West End's Drury Lane and Covent Garden. He wrote many operatic entertainments for the London theatres and pleasure gardens, as well as concertos, sinfonias, and sonatas.</p>"
+}

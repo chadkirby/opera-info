@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La vestale (Spontini)",
+  "displaytitle": "<i>La vestale</i> (Spontini)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1622224",
+  "titles": {
+    "canonical": "La_vestale_(Spontini)",
+    "normalized": "La vestale (Spontini)",
+    "display": "<i>La vestale</i> (Spontini)"
+  },
+  "pageid": 356085,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Caroline_Branchu.jpg/213px-Caroline_Branchu.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Caroline_Branchu.jpg",
+    "width": 400,
+    "height": 601
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093871558",
+  "tid": "53336b70-0f81-11ed-a74d-cfb50b6d6912",
+  "timestamp": "2022-06-19T09:25:56Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_vestale_(Spontini)",
+      "revisions": "https://en.wikipedia.org/wiki/La_vestale_(Spontini)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_vestale_(Spontini)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_vestale_(Spontini)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_vestale_(Spontini)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_vestale_(Spontini)",
+      "edit": "https://en.m.wikipedia.org/wiki/La_vestale_(Spontini)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_vestale_(Spontini)"
+    }
+  },
+  "extract": "La vestale is an opera composed by Gaspare Spontini to a French libretto by Étienne de Jouy. It takes the form of a tragédie lyrique in three acts. It was first performed on 15 December 1807 by the Académie Impériale de Musique at the Salle Montansier and is regarded as Spontini's masterpiece. The musical style shows the influence of Gluck and anticipates the works of Berlioz, Wagner, and French Grand opera.",
+  "extract_html": "<p><i><b>La vestale</b></i> is an opera composed by Gaspare Spontini to a French libretto by Étienne de Jouy. It takes the form of a <i>tragédie lyrique</i> in three acts. It was first performed on 15 December 1807 by the Académie Impériale de Musique at the Salle Montansier and is regarded as Spontini's masterpiece. The musical style shows the influence of Gluck and anticipates the works of Berlioz, Wagner, and French Grand opera.</p>"
+}

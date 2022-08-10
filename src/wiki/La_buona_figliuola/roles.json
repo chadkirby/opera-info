@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 6 February 1760\n</th></tr>\n<tr>\n<td>Cecchina, <i>a maid</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a> <a href=\"/wiki/Travesti_(theatre)\" title=\"Travesti (theatre)\">travesti</a>\n</td>\n</tr>\n<tr>\n<td>Armidoro, <i>engaged to Lucinda</i>\n</td>\n<td>soprano castrato\n</td>\n</tr>\n<tr>\n<td>The marquis of Conchiglia, <i>in love with Cecchina</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Lucinda, <i>the marquis' sister</i>\n</td>\n<td>soprano castrato travesti\n</td>\n</tr>\n<tr>\n<td>Mengotto, <i>a poor man in love with Cecchina</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Paoluccia, <i>a maid</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> castrato travesti\n</td>\n</tr>\n<tr>\n<td>Sandrina, <i>a maid</i>\n</td>\n<td>soprano castrato travesti\n</td>\n</tr>\n<tr>\n<td>Tagliaferro, <i>a German soldier</i>\n</td>\n<td>baritone\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Cecchina, a maid",
+      "voiceType": "soprano castrato travesti"
+    },
+    {
+      "role": "Armidoro, engaged to Lucinda",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "The marquis of Conchiglia, in love with Cecchina",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lucinda, the marquis' sister",
+      "voiceType": "soprano castrato travesti"
+    },
+    {
+      "role": "Mengotto, a poor man in love with Cecchina",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Paoluccia, a maid",
+      "voiceType": "mezzo-soprano castrato travesti"
+    },
+    {
+      "role": "Sandrina, a maid",
+      "voiceType": "soprano castrato travesti"
+    },
+    {
+      "role": "Tagliaferro, a German soldier",
+      "voiceType": "baritone"
+    }
+  ]
+}

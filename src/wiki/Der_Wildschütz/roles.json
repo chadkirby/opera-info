@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast,<br>31 December 1842<br>(Conductor: Albert Lortzing)\n</th></tr>\n<tr>\n<td>Count von Eberbach\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Gräfin (Countess) von Eberbach, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a>\n</td>\n</tr>\n<tr>\n<td>Baron Kronthal, <i>brother of the Countess</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Baronin (Baroness) von Freimann, <i>widow, sister of the Count</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Baculus, <i>schoolmaster</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Gretchen, <i>his fiancée</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Pancratius, <i>the Count's <a href=\"/wiki/Major-domo\" class=\"mw-redirect\" title=\"Major-domo\">major-domo</a></i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Nanette, <i>the Baroness's maid</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Count von Eberbach",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Gräfin (Countess) von Eberbach, his wife",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Baron Kronthal, brother of the Countess",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Baronin (Baroness) von Freimann, widow, sister of the Count",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Baculus, schoolmaster",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Gretchen, his fiancée",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Pancratius, the Count's major-domo",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nanette, the Baroness's maid",
+      "voiceType": "mezzo-soprano"
+    }
+  ]
+}

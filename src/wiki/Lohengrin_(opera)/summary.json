@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lohengrin (opera)",
+  "displaytitle": "<i>Lohengrin</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q23085",
+  "titles": {
+    "canonical": "Lohengrin_(opera)",
+    "normalized": "Lohengrin (opera)",
+    "display": "<i>Lohengrin</i> (opera)"
+  },
+  "pageid": 38150,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lohengrin_8420-Peralta.jpg/221px-Lohengrin_8420-Peralta.jpg",
+    "width": 221,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lohengrin_8420-Peralta.jpg",
+    "width": 4822,
+    "height": 6977
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103173154",
+  "tid": "0cf534f0-1737-11ed-aa1a-5f6cf65512dc",
+  "timestamp": "2022-08-08T16:27:49Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lohengrin_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Lohengrin_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lohengrin_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lohengrin_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Lohengrin_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lohengrin_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Lohengrin_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Lohengrin_(opera)"
+    }
+  },
+  "extract": "Lohengrin, WWV 75, is a Romantic opera in three acts composed and written by Richard Wagner, first performed in 1850. The story of the eponymous character is taken from medieval German romance, notably the Parzival of Wolfram von Eschenbach, and its sequel Lohengrin, itself inspired by the epic of Garin le Loherain. It is part of the Knight of the Swan legend.",
+  "extract_html": "<p><i><b>Lohengrin</b></i>, WWV 75, is a Romantic opera in three acts composed and written by Richard Wagner, first performed in 1850. The story of the eponymous character is taken from medieval German romance, notably the <i>Parzival</i> of Wolfram von Eschenbach, and its sequel <i>Lohengrin</i>, itself inspired by the epic of <i>Garin le Loherain</i>. It is part of the Knight of the Swan legend.</p>"
+}

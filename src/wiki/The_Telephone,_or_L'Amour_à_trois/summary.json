@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Telephone (opera)",
+  "displaytitle": "<i>The Telephone</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1170527",
+  "titles": {
+    "canonical": "The_Telephone_(opera)",
+    "normalized": "The Telephone (opera)",
+    "display": "<i>The Telephone</i> (opera)"
+  },
+  "pageid": 2795263,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/214px-Gcmenotti.jpg",
+    "width": 214,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gcmenotti.jpg",
+    "width": 272,
+    "height": 406
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1070711880",
+  "tid": "84a5f930-1683-11ed-b629-312e62f0f65e",
+  "timestamp": "2022-02-08T21:42:12Z",
+  "description": "Opera by Gian Carlo Menotti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Telephone_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Telephone_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Telephone_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Telephone_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Telephone_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Telephone_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Telephone_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Telephone_(opera)"
+    }
+  },
+  "extract": "The Telephone, or L'Amour à trois is an English-language comic opera in one act by Gian Carlo Menotti, both words and music. It was written for production by the Ballet Society and was first presented on a double bill with Menotti's The Medium at the Heckscher Theater, New York City, February 18–20, 1947. The Broadway production took place on May 1, 1947, at the Ethel Barrymore Theatre. The Metropolitan Opera Company presented it once, at the Lewisohn Stadium, on July 31, 1965.",
+  "extract_html": "<p><i><b>The Telephone, or L'Amour à trois</b></i> is an English-language comic opera in one act by Gian Carlo Menotti, both words and music. It was written for production by the Ballet Society and was first presented on a double bill with Menotti's <i>The Medium</i> at the Heckscher Theater, New York City, February 18–20, 1947. The Broadway production took place on May 1, 1947, at the Ethel Barrymore Theatre. The Metropolitan Opera Company presented it once, at the Lewisohn Stadium, on July 31, 1965.</p>"
+}

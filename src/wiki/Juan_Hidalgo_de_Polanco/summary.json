@@ -1,0 +1,37 @@
+{
+  "type": "standard",
+  "title": "Juan Hidalgo de Polanco",
+  "displaytitle": "Juan Hidalgo de Polanco",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4889831",
+  "titles": {
+    "canonical": "Juan_Hidalgo_de_Polanco",
+    "normalized": "Juan Hidalgo de Polanco",
+    "display": "Juan Hidalgo de Polanco"
+  },
+  "pageid": 19226077,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069729999",
+  "tid": "fab25580-faa2-11ec-a93d-9b7e314115b6",
+  "timestamp": "2022-02-03T19:47:32Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Juan_Hidalgo_de_Polanco",
+      "revisions": "https://en.wikipedia.org/wiki/Juan_Hidalgo_de_Polanco?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Juan_Hidalgo_de_Polanco?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Juan_Hidalgo_de_Polanco"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Juan_Hidalgo_de_Polanco",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Juan_Hidalgo_de_Polanco",
+      "edit": "https://en.m.wikipedia.org/wiki/Juan_Hidalgo_de_Polanco?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Juan_Hidalgo_de_Polanco"
+    }
+  },
+  "extract": "Juan Hidalgo de Polanco was a Spanish composer and harpist who became the most influential composer of his time in the Hispanic world writing the music for the first two operas created in Spanish. He is considered by many to be the father of Spanish opera and of the zarzuela.",
+  "extract_html": "<p><b>Juan Hidalgo de Polanco</b> was a Spanish composer and harpist who became the most influential composer of his time in the Hispanic world writing the music for the first two operas created in Spanish. He is considered by many to be the father of Spanish opera and of the zarzuela.</p>"
+}

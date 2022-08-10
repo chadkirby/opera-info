@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Francis Poulenc",
+  "displaytitle": "Francis Poulenc",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q191408",
+  "titles": {
+    "canonical": "Francis_Poulenc",
+    "normalized": "Francis Poulenc",
+    "display": "Francis Poulenc"
+  },
+  "pageid": 144508,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/b8/Poulenc-1922.jpg",
+    "width": 220,
+    "height": 283
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/b8/Poulenc-1922.jpg",
+    "width": 220,
+    "height": 283
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097733060",
+  "tid": "665f1010-0f80-11ed-bb1a-bb273b6e0db7",
+  "timestamp": "2022-07-12T11:24:24Z",
+  "description": "French composer and pianist (1899-1963)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Francis_Poulenc",
+      "revisions": "https://en.wikipedia.org/wiki/Francis_Poulenc?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Francis_Poulenc?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Francis_Poulenc"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Francis_Poulenc",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Francis_Poulenc",
+      "edit": "https://en.m.wikipedia.org/wiki/Francis_Poulenc?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Francis_Poulenc"
+    }
+  },
+  "extract": "Francis Jean Marcel Poulenc was a French composer and pianist. His compositions include songs, solo piano works, chamber music, choral pieces, operas, ballets, and orchestral concert music. Among the best-known are the piano suite Trois mouvements perpétuels (1919), the ballet Les biches (1923), the Concert champêtre (1928) for harpsichord and orchestra, the Organ Concerto (1938), the opera Dialogues des Carmélites (1957), and the Gloria (1959) for soprano, choir, and orchestra.",
+  "extract_html": "<p><b>Francis Jean Marcel Poulenc</b> was a French composer and pianist. His compositions include songs, solo piano works, chamber music, choral pieces, operas, ballets, and orchestral concert music. Among the best-known are the piano suite <i>Trois mouvements perpétuels</i> (1919), the ballet <i>Les biches</i> (1923), the <i>Concert champêtre</i> (1928) for harpsichord and orchestra, the Organ Concerto (1938), the opera <i>Dialogues des Carmélites</i> (1957), and the <i>Gloria</i> (1959) for soprano, choir, and orchestra.</p>"
+}

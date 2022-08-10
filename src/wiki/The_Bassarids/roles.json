@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\">[9]</a></sup> 6 August 1966<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup><br>Conductor: <a href=\"/wiki/Christoph_von_Dohn%C3%A1nyi\" title=\"Christoph von Dohnányi\">Christoph von Dohnányi</a><sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Dionysus\" title=\"Dionysus\">Dionysus</a>, <i>voice and stranger</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Tiresias\" title=\"Tiresias\">Tiresias</a>, <i>an old blind prophet</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Cadmus\" title=\"Cadmus\">Cadmus</a>, <i>founder and former king of <a href=\"/wiki/Thebes,_Greece\" title=\"Thebes, Greece\">Thebes</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Agave_(Theban_princess)\" class=\"mw-redirect\" title=\"Agave (Theban princess)\">Agave</a>, <i>his daughter, mother of <a href=\"/wiki/Pentheus\" title=\"Pentheus\">Pentheus</a></i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Beroe, <i>an old <a href=\"/wiki/Slave\" class=\"mw-redirect\" title=\"Slave\">slave</a>, once nurse to <a href=\"/wiki/Semele\" title=\"Semele\">Semele</a> and Pentheus</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Captain of the Royal Guard\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Pentheus, <i>king of Thebes</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Autonoe\" class=\"mw-redirect\" title=\"Autonoe\">Autonoe</a>, <i>daughter of Cadmus</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A female slave in Agave's household\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td>Her daughter\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Chorus of <a href=\"/wiki/Bassarids\" class=\"mw-redirect\" title=\"Bassarids\">bassarids</a>, citizens of Thebes, guards, servants</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Dionysus, voice and stranger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Tiresias, an old blind prophet",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Cadmus, founder and former king of Thebes",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Agave, his daughter, mother of Pentheus",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Beroe, an old slave, once nurse to Semele and Pentheus",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Captain of the Royal Guard",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Pentheus, king of Thebes",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Autonoe, daughter of Cadmus",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A female slave in Agave's household",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Her daughter",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Chorus of bassarids, citizens of Thebes, guards, servants",
+      "voiceType": ""
+    }
+  ]
+}

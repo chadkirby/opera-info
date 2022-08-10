@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Oedipus rex (opera)",
+  "displaytitle": "<i>Oedipus rex</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1891546",
+  "titles": {
+    "canonical": "Oedipus_rex_(opera)",
+    "normalized": "Oedipus rex (opera)",
+    "display": "<i>Oedipus rex</i> (opera)"
+  },
+  "pageid": 26532740,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Igor_Stravinsky_LOC_32392u.jpg/265px-Igor_Stravinsky_LOC_32392u.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg",
+    "width": 4477,
+    "height": 5410
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093052074",
+  "tid": "d43095e0-15f8-11ed-bc22-ab0897746d17",
+  "timestamp": "2022-06-14T07:41:39Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Oedipus_rex_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Oedipus_rex_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Oedipus_rex_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Oedipus_rex_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Oedipus_rex_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Oedipus_rex_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Oedipus_rex_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Oedipus_rex_(opera)"
+    }
+  },
+  "extract": "Oedipus rex is an opera-oratorio by Igor Stravinsky, scored for orchestra, speaker, soloists, and male chorus. The libretto, based on Sophocles's tragedy, was written by Jean Cocteau in French and then translated by Abbé Jean Daniélou into Latin; the narration, however, is performed in the language of the audience.",
+  "extract_html": "<p><i><b>Oedipus rex</b></i> is an opera-oratorio by Igor Stravinsky, scored for orchestra, speaker, soloists, and male chorus. The libretto, based on Sophocles's tragedy, was written by Jean Cocteau in French and then translated by Abbé Jean Daniélou into Latin; the narration, however, is performed in the language of the audience.</p>"
+}

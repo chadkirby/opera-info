@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Bastien und Bastienne",
+  "displaytitle": "<i>Bastien und Bastienne</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q791268",
+  "titles": {
+    "canonical": "Bastien_und_Bastienne",
+    "normalized": "Bastien und Bastienne",
+    "display": "<i>Bastien und Bastienne</i>"
+  },
+  "pageid": 3833464,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Fran%C3%A7ois_Boucher_-_Shepherd_and_Shepherdess_Reposing_-_WGA02915.jpg/270px-Fran%C3%A7ois_Boucher_-_Shepherd_and_Shepherdess_Reposing_-_WGA02915.jpg",
+    "width": 270,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Fran%C3%A7ois_Boucher_-_Shepherd_and_Shepherdess_Reposing_-_WGA02915.jpg",
+    "width": 845,
+    "height": 1000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1013449030",
+  "tid": "d0ddc160-15f8-11ed-a518-bdb529dbc007",
+  "timestamp": "2021-03-21T17:49:27Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Bastien_und_Bastienne",
+      "revisions": "https://en.wikipedia.org/wiki/Bastien_und_Bastienne?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Bastien_und_Bastienne?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Bastien_und_Bastienne"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Bastien_und_Bastienne",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Bastien_und_Bastienne",
+      "edit": "https://en.m.wikipedia.org/wiki/Bastien_und_Bastienne?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Bastien_und_Bastienne"
+    }
+  },
+  "extract": "Bastien und Bastienne, K. 50 is a one-act singspiel, a comic opera, by Wolfgang Amadeus Mozart.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Bastien und Bastienne</i></span></b></i>, K. 50 is a one-act singspiel, a comic opera, by Wolfgang Amadeus Mozart.</p>"
+}

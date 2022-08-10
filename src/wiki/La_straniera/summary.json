@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La straniera",
+  "displaytitle": "<i>La straniera</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q785347",
+  "titles": {
+    "canonical": "La_straniera",
+    "normalized": "La straniera",
+    "display": "<i>La straniera</i>"
+  },
+  "pageid": 5892832,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lalande-Straniera-La_Scala-Feb-1829.jpg/250px-Lalande-Straniera-La_Scala-Feb-1829.jpg",
+    "width": 250,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lalande-Straniera-La_Scala-Feb-1829.jpg",
+    "width": 964,
+    "height": 1234
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1066503089",
+  "tid": "b8d25aa0-f9f5-11ec-ac6e-1b82a1369ec1",
+  "timestamp": "2022-01-18T17:37:35Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_straniera",
+      "revisions": "https://en.wikipedia.org/wiki/La_straniera?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_straniera?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_straniera"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_straniera",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_straniera",
+      "edit": "https://en.m.wikipedia.org/wiki/La_straniera?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_straniera"
+    }
+  },
+  "extract": "La straniera is an opera in two acts with music by Vincenzo Bellini to an Italian libretto by Felice Romani, based on the novel L'Étrangère by Charles-Victor Prévot, vicomte d'Arlincourt, although writer Herbert Weinstock also adds that it is \"more likely [based on] a dramatization of [that novel] in Italian by Giovan Carlo, barone di Cosenza\" since he then quotes a letter from Bellini to his friend Francesco Florimo in which he says that Romani \"certainly will not follow the play\" [suggesting then that they were aware of its existence.]",
+  "extract_html": "<p><i><b>La straniera</b></i> is an opera in two acts with music by Vincenzo Bellini to an Italian libretto by Felice Romani, based on the novel <i>L'Étrangère</i> by Charles-Victor Prévot, vicomte d'Arlincourt, although writer Herbert Weinstock also adds that it is \"more likely [based on] a dramatization of [that novel] in Italian by Giovan Carlo, barone di Cosenza\" since he then quotes a letter from Bellini to his friend Francesco Florimo in which he says that Romani \"certainly will not follow the play\" [suggesting then that they were aware of its existence.]</p>"
+}

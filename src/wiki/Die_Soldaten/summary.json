@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Die Soldaten",
+  "displaytitle": "<i>Die Soldaten</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1216312",
+  "titles": {
+    "canonical": "Die_Soldaten",
+    "normalized": "Die Soldaten",
+    "display": "<i>Die Soldaten</i>"
+  },
+  "pageid": 9017401,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Salzburger_Festspiele_2012_-_Die_Soldaten.jpg/213px-Salzburger_Festspiele_2012_-_Die_Soldaten.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Salzburger_Festspiele_2012_-_Die_Soldaten.jpg",
+    "width": 1772,
+    "height": 2661
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1078452372",
+  "tid": "2c09b060-fa21-11ec-a3de-e795a81823c9",
+  "timestamp": "2022-03-21T17:13:32Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_Soldaten",
+      "revisions": "https://en.wikipedia.org/wiki/Die_Soldaten?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_Soldaten?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_Soldaten"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_Soldaten",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_Soldaten",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_Soldaten?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_Soldaten"
+    }
+  },
+  "extract": "Die Soldaten is a four-act opera in German by Bernd Alois Zimmermann, based on the 1776 play by Jakob Michael Reinhold Lenz. In a letter accompanying his newly printed play that he sent to his best friend, the German philosopher Johann Gottfried von Herder, Lenz described himself as \"an enigma to even his most precious friends\", while saying of the play, \"Here, into your holy hands, the piece which carries half of my existence. [The ideas it contains are] true and will remain so, even if centuries may walk contemptuously across my skull\".",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Die Soldaten</i></span></b></i> is a four-act opera in German by Bernd Alois Zimmermann, based on the 1776 play by Jakob Michael Reinhold Lenz. In a letter accompanying his newly printed play that he sent to his best friend, the German philosopher Johann Gottfried von Herder, Lenz described himself as \"an enigma to even his most precious friends\", while saying of the play, \"Here, into your holy hands, the piece which carries half of my existence. [The ideas it contains are] true and will remain so, even if centuries may walk contemptuously across my skull\".</p>"
+}

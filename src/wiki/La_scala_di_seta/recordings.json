@@ -1,0 +1,95 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br> Dormont, Giulia,<br>Lucilla, Dorvil\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label <sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup>\n</th></tr>\n<tr>\n<td>1953\n</td>\n<td>Piero Besma,<br>Angelica Tuccari,<br>Giuseppina Savi,<br>Giuseppe Gentile\n</td>\n\n<td>LP: Period<br>Cat: SPL 591<br>LP: Nixa<br>Cat: PLP 591<br>LP: Contrepoint<br>Cat: MC 20.063<br>LP: Opera Society<br>Cat: M 2071 36\n</td></tr>\n<tr>\n<td>1962\n</td>\n<td>Manlio Rocchi,<br>Graziela Sciutti,<br><a href=\"/wiki/Margherita_Rinaldi\" title=\"Margherita Rinaldi\">Margherita Rinaldi</a>,<br>Fernandino Jacopucci\n</td>\n\n<td>LP: RCA Victor<br>Cat: LM 2650<br>LP: RCA Victor<br>Cat: E 5502-3<br>LP: RCA<br>Cat: VLS 32512\n</td></tr>\n<tr>\n<td>1983\n</td>\n<td>Tulio Pane,<br>Carmen Lavani,<br>Tiziana Tramonti,<br><a href=\"/wiki/Ernesto_Palacio\" title=\"Ernesto Palacio\">Ernesto Palacio</a>\n</td>\n\n<td>VHS: House of Opera<br>Cat: VIDEO 1643<br>DVD: House of Opera<br>Cat: DVD 1643<br>DVD: Opus Arte «Faveo»<br>Cat: 4023 D<br><br>\n</td></tr>\n<tr>\n<td>1988\n</td>\n<td>Oslavio di Credico,<br><a href=\"/wiki/Luciana_Serra\" title=\"Luciana Serra\">Luciana Serra</a>,<br><a href=\"/wiki/Cecilia_Bartoli\" title=\"Cecilia Bartoli\">Cecilia Bartoli</a>,<br><a href=\"/wiki/William_Matteuzzi\" title=\"William Matteuzzi\">William Matteuzzi</a>\n</td>\n\n<td>CD: Fonit Cetra<br>Cat: 102 203<br>CD: Ricordi/Fonit Cetra<br>Cat: RFCD 2003<br>CD: Warner Fonit<br>Cat: 0927 43307-2\n</td></tr>\n<tr>\n<td>1990\n</td>\n<td>David Griffith,<br>Luciana Serra,<br>Jane Bunnell,<br>David Kuebler\n</td>\n\n<td>DVD: EuroArts<br>Cat: 2054978\n</td></tr>\n<tr>\n<td>1992\n</td>\n<td>Fulvio Massa,<br> Teresa Ringholz,<br>Francesca Provvisionato,<br><a href=\"/wiki/Ram%C3%B3n_Vargas\" title=\"Ramón Vargas\">Ramón Vargas</a>\n</td>\n\n<td>Audio CD: Claves <br>Cat: 50-9219-20\n</td></tr>\n<tr>\n<td>2000\n</td>\n<td>Enrico Facini,<br><span class=\"nowrap\"><a href=\"/wiki/Elizabeth_Norberg-Schulz\" title=\"Elizabeth Norberg-Schulz\">Elizabeth Norberg-Schulz</a></span>,<br>Claudia Marchi,<br>Antonino Siragusa\n</td>\n\n<td>CD: House of Opera<br>Cat: CD 706\n</td></tr>\n<tr>\n<td>2001\n</td>\n<td>Andrea Carboni, <br>Gaia Matteini,<br> Silvia Vajente,<br> Samuele Simoncini\n</td>\n\n<td>Audio CD: Bongiovanni<br>Cat: GB 2316/7-2\n</td></tr>\n<tr>\n<td>2009\n</td>\n<td>Daniele Zanfardino,<br><a href=\"/wiki/Olga_Peretyatko\" title=\"Olga Peretyatko\">Olga Peretyatko</a>,<br>Anna Malavasi,<br>José Manuel Zapata\n</td>\n\n<td>CD: premiereopera.net\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1953,
+      "cast": [
+        "Piero Besma",
+        "Angelica Tuccari",
+        "Giuseppina Savi",
+        "Giuseppe Gentile"
+      ],
+      "conductor": "Giuseppe Morelli"
+    },
+    {
+      "year": 1962,
+      "cast": [
+        "Manlio Rocchi",
+        "Graziela Sciutti",
+        "Margherita Rinaldi",
+        "Fernandino Jacopucci"
+      ],
+      "conductor": "Franco Ferrara"
+    },
+    {
+      "year": 1983,
+      "cast": [
+        "Tulio Pane",
+        "Carmen Lavani",
+        "Tiziana Tramonti",
+        "Ernesto Palacio"
+      ],
+      "conductor": "Marc Andreae"
+    },
+    {
+      "year": 1988,
+      "cast": [
+        "Oslavio di Credico",
+        "Luciana Serra",
+        "Cecilia Bartoli",
+        "William Matteuzzi"
+      ],
+      "conductor": "Gabriele Ferro"
+    },
+    {
+      "year": 1990,
+      "cast": [
+        "David Griffith",
+        "Luciana Serra",
+        "Jane Bunnell",
+        "David Kuebler"
+      ],
+      "conductor": "Gianluigi Gelmetti"
+    },
+    {
+      "year": 1992,
+      "cast": [
+        "Fulvio Massa",
+        " Teresa Ringholz",
+        "Francesca Provvisionato",
+        "Ramón Vargas"
+      ],
+      "conductor": "Marcello Viotti"
+    },
+    {
+      "year": 2000,
+      "cast": [
+        "Enrico Facini",
+        "Elizabeth Norberg-Schulz",
+        "Claudia Marchi",
+        "Antonino Siragusa"
+      ],
+      "conductor": "Alberto Zedda"
+    },
+    {
+      "year": 2001,
+      "cast": [
+        "Andrea Carboni, ",
+        "Gaia Matteini",
+        " Silvia Vajente",
+        " Samuele Simoncini"
+      ],
+      "conductor": "Giovan Battista Varoli"
+    },
+    {
+      "year": 2009,
+      "cast": [
+        "Daniele Zanfardino",
+        "Olga Peretyatko",
+        "Anna Malavasi",
+        "José Manuel Zapata"
+      ],
+      "conductor": "Claudio Scimone"
+    }
+  ]
+}

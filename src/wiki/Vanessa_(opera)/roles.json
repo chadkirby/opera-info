@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast, January 15, 1958<br>(Conductor: <a href=\"/wiki/Dimitri_Mitropoulos\" title=\"Dimitri Mitropoulos\">Dimitri Mitropoulos</a>)\n</th></tr>\n<tr>\n<td>Vanessa</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td>Erika, <i>her niece</i></td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a></td>\n</tr>\n<tr>\n<td>The Old Baroness, <i>Vanessa's mother</i></td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a></td>\n</tr>\n<tr>\n<td>Anatol, <i>the son of Vanessa's original lover, also named Anatol</i></td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a></td>\n</tr>\n<tr>\n<td>The Old Doctor</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n</tr>\n<tr>\n<td>Nicholas, <i>the major-domo</i></td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a></td>\n</tr>\n<tr>\n<td>The Footman</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a></td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Vanessa",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Erika, her niece",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The Old Baroness, Vanessa's mother",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Anatol, the son of Vanessa's original lover, also named Anatol",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Old Doctor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nicholas, the major-domo",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Footman",
+      "voiceType": "bass"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Der Wildschütz</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Albert_Lortzing\" title=\"Albert Lortzing\">Albert Lortzing</a></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Lortzing2.jpg\" class=\"image\"><img alt=\"Lortzing2.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lortzing2.jpg/180px-Lortzing2.jpg\" decoding=\"async\" width=\"180\" height=\"252\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lortzing2.jpg/270px-Lortzing2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lortzing2.jpg/360px-Lortzing2.jpg 2x\" data-file-width=\"3000\" data-file-height=\"4200\"></a><div class=\"infobox-caption\">The composer in 1845</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Translation</th><td class=\"infobox-data\"><i>The Poacher</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Lortzing</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">German</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i>Der Rehbock</i><br>by <a href=\"/wiki/August_von_Kotzebue\" title=\"August von Kotzebue\">August von Kotzebue</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">31&nbsp;December&nbsp;1842<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1842-12-31</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Leipzig_Opera\" title=\"Leipzig Opera\">Stadttheater</a>, <a href=\"/wiki/Leipzig\" title=\"Leipzig\">Leipzig</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "Der Wildschütz"
+  ],
+  "Translation": "The Poacher",
+  "Librettist": "Lortzing",
+  "Language": "German",
+  "Based on": "Der Rehbock\nby August von Kotzebue",
+  "Premiere": "31 December 1842\nStadttheater, Leipzig"
+}

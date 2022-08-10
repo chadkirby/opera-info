@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th scope=\"col\">Role\n</th>\n<th scope=\"col\"><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th scope=\"col\">Premiere cast, 11 March 1851<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\">[20]</a></sup><br>Conductor: <a href=\"/wiki/Gaetano_Mares\" title=\"Gaetano Mares\">Gaetano Mares</a>\n</th></tr>\n<tr>\n<td>Rigoletto, <i>the Duke's jester</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Gilda, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Duke of Mantua\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Sparafucile, <i>a murderer for hire</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Maddalena, <i>his sister</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Giovanna, <i>Gilda's Nurse</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Count Ceprano\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Countess Ceprano, <i>his wife</i>\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Matteo Borsa, <i>a courtier</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Count Monterone\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Marullo\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>A Court Usher\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A Page\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i> Male Chorus: the Duke's courtiers and guests</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Rigoletto, the Duke's jester",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Gilda, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Duke of Mantua",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sparafucile, a murderer for hire",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Maddalena, his sister",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Giovanna, Gilda's Nurse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Count Ceprano",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Countess Ceprano, his wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Matteo Borsa, a courtier",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Count Monterone",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Marullo",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "A Court Usher",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Page",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Male Chorus: the Duke's courtiers and guests",
+      "voiceType": ""
+    }
+  ]
+}

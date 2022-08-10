@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lucio Silla",
+  "displaytitle": "<i>Lucio Silla</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q943913",
+  "titles": {
+    "canonical": "Lucio_Silla",
+    "normalized": "Lucio Silla",
+    "display": "<i>Lucio Silla</i>"
+  },
+  "pageid": 3204444,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Martini_bologna_mozart_1777.jpg/272px-Martini_bologna_mozart_1777.jpg",
+    "width": 272,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martini_bologna_mozart_1777.jpg",
+    "width": 510,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1078347099",
+  "tid": "8f6eba90-1247-11ed-b92c-8f0a01c3a7de",
+  "timestamp": "2022-03-21T03:22:42Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lucio_Silla",
+      "revisions": "https://en.wikipedia.org/wiki/Lucio_Silla?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lucio_Silla?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lucio_Silla"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Lucio_Silla",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lucio_Silla",
+      "edit": "https://en.m.wikipedia.org/wiki/Lucio_Silla?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Lucio_Silla"
+    }
+  },
+  "extract": "Lucio Silla, K. 135, is an Italian opera seria in three acts composed by Wolfgang Amadeus Mozart at the age of 16. The libretto was written by Giovanni de Gamerra, revised by Pietro Metastasio.",
+  "extract_html": "<p><i><b>Lucio Silla</b></i>, K. 135, is an Italian opera seria in three acts composed by Wolfgang Amadeus Mozart at the age of 16. The libretto was written by Giovanni de Gamerra, revised by Pietro Metastasio.</p>"
+}

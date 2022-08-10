@@ -1,0 +1,105 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, September 30, 1935<br>Conductor: <a href=\"/wiki/Alexander_Smallens\" title=\"Alexander Smallens\">Alexander Smallens</a>\n</th></tr>\n<tr>\n<td>Porgy, <i>a disabled beggar</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Bess, <i>Crown's girl</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Crown, <i>a tough <a href=\"/wiki/Stevedore\" title=\"Stevedore\">stevedore</a></i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Sportin' Life, <i>a dope peddler</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Robbins, <i>an inhabitant of Catfish Row</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Serena, <i>Robbins' wife</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Jake, <i>a fisherman</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Clara, <i>Jake's wife</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Maria, <i>keeper of the cook-shop</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Mingo\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Peter, <i>the honeyman</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Lily, <i>Peter's wife</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Frazier, <i>a black \"lawyer\"</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Annie\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Strawberry woman\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Jim, <i>a stevedore who hauls cotton</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Undertaker\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Nelson\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Crab man\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Scipio, <i>a small boy</i>\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">boy soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mr. Archdale, <i>a white lawyer</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Detective\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Policeman\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Coroner\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">The Eva Jessye Choir, led by <a href=\"/wiki/Eva_Jessye\" title=\"Eva Jessye\">Eva Jessye</a>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Porgy, a disabled beggar",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Bess, Crown's girl",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Crown, a tough stevedore",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sportin' Life, a dope peddler",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Robbins, an inhabitant of Catfish Row",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Serena, Robbins' wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Jake, a fisherman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Clara, Jake's wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Maria, keeper of the cook-shop",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Mingo",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Peter, the honeyman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lily, Peter's wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Frazier, a black \"lawyer\"",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Annie",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Strawberry woman",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Jim, a stevedore who hauls cotton",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Undertaker",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Nelson",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Crab man",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Scipio, a small boy",
+      "voiceType": "boy soprano"
+    },
+    {
+      "role": "Mr. Archdale, a white lawyer",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Detective",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Policeman",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Coroner",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "The Eva Jessye Choir, led by Eva Jessye",
+      "voiceType": ""
+    }
+  ]
+}

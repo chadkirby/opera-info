@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 1 December 1937<br>(Conductor: <a href=\"/wiki/Malcolm_Sargent\" title=\"Malcolm Sargent\">Malcolm Sargent</a>)\n</th></tr>\n<tr>\n<td>Bartley\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Cathleen\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Maurya\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Nora\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A Woman\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Bartley",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Cathleen",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Maurya",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Nora",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A Woman",
+      "voiceType": "mezzo-soprano"
+    }
+  ]
+}

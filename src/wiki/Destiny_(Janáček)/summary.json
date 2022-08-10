@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Destiny (Janáček)",
+  "displaytitle": "<i>Destiny</i> (Janáček)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3133498",
+  "titles": {
+    "canonical": "Destiny_(Janáček)",
+    "normalized": "Destiny (Janáček)",
+    "display": "<i>Destiny</i> (Janáček)"
+  },
+  "pageid": 2018810,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Leos_Janacek_relief.jpg/310px-Leos_Janacek_relief.jpg",
+    "width": 310,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Leos_Janacek_relief.jpg",
+    "width": 960,
+    "height": 992
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1069134951",
+  "tid": "48eecd20-f9b1-11ec-a5b1-7d9eb5e0ec92",
+  "timestamp": "2022-01-31T19:48:23Z",
+  "description": "Opera by Leoš Janáček",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek)",
+      "revisions": "https://en.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Destiny_(Jan%C3%A1%C4%8Dek)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Destiny_(Jan%C3%A1%C4%8Dek)",
+      "edit": "https://en.m.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Destiny_(Jan%C3%A1%C4%8Dek)"
+    }
+  },
+  "extract": "Destiny is an opera in three acts by Leoš Janáček to a Czech libretto by the composer and Fedora Bartošová. Janáček began the work in 1903 and completed it in 1907. The inspiration for the opera came from a visit by Janáček in the summer of 1903, after the death of his daughter Olga, to the spa at Luhačovice. There, Janáček met Kamila Urválková, who had been the subject of an opera by Ludvík Čelanský, Kamila, where she felt that Čelanský had falsely depicted her personality. After learning that Janáček was a composer, Urválková persuaded Janáček to write another opera to counteract Čelanský's portrait of her.",
+  "extract_html": "<p><i><b>Destiny</b></i> is an opera in three acts by Leoš Janáček to a Czech libretto by the composer and Fedora Bartošová. Janáček began the work in 1903 and completed it in 1907. The inspiration for the opera came from a visit by Janáček in the summer of 1903, after the death of his daughter Olga, to the spa at Luhačovice. There, Janáček met Kamila Urválková, who had been the subject of an opera by Ludvík Čelanský, <i>Kamila</i>, where she felt that Čelanský had falsely depicted her personality. After learning that Janáček was a composer, Urválková persuaded Janáček to write another opera to counteract Čelanský's portrait of her.</p>"
+}

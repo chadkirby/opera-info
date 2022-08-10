@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere casts in Naples and Paris</span>\n</caption>\n<tbody><tr>\n<th>Role<br>Naples version / Paris version\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Naples premiere cast,<br>5&nbsp;March&nbsp;1818<br>(Conductor: Nicola&nbsp;Festa)\n</th>\n<th>Paris premiere cast:<br>revised version,<br>26&nbsp;March&nbsp;1827<br>(Conductor: <a href=\"/wiki/Henri_Valentino\" title=\"Henri Valentino\">Henri&nbsp;Valentino</a><sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup>)\n</th></tr>\n<tr>\n<td>Mosè / Moïse (<a href=\"/wiki/Moses\" title=\"Moses\">Moses</a>)\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Faraone / Pharaon (<a href=\"/wiki/Pharaoh\" title=\"Pharaoh\">Pharaoh</a>)\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Amaltea / Sinaïde, <i>his wife</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Osiride / Aménophis, <i>their son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Elcia / Anaï, <i>a Hebrew girl</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Aronne / Eliézer (<a href=\"/wiki/Aaron\" title=\"Aaron\">Aaron</a>)\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>Amenofi / Marie (<a href=\"/wiki/Miriam\" title=\"Miriam\">Miriam</a>), <i>Moses' sister</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Mambre / Aufide, <i>a priest</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td>(no role) / Osiride, <i>the High Priest</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>(no role) / A mysterious voice\n</td>\n<td>bass\n</td>\n\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Mosè / Moïse (Moses)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Faraone / Pharaon (Pharaoh)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Amaltea / Sinaïde, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Osiride / Aménophis, their son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Elcia / Anaï, a Hebrew girl",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Aronne / Eliézer (Aaron)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Amenofi / Marie (Miriam), Moses' sister",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Mambre / Aufide, a priest",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "(no role) / Osiride, the High Priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "(no role) / A mysterious voice",
+      "voiceType": "bass"
+    }
+  ]
+}

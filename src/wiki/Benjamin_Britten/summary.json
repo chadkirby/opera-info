@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Benjamin Britten",
+  "displaytitle": "Benjamin Britten",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q150767",
+  "titles": {
+    "canonical": "Benjamin_Britten",
+    "normalized": "Benjamin Britten",
+    "display": "Benjamin Britten"
+  },
+  "pageid": 64437,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg/264px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg",
+    "width": 264,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg",
+    "width": 725,
+    "height": 878
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098486200",
+  "tid": "d6d08210-178d-11ed-8c75-cf4a77a859da",
+  "timestamp": "2022-07-16T02:05:27Z",
+  "description": "English composer, conductor, and pianist (1913–1976)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Benjamin_Britten",
+      "revisions": "https://en.wikipedia.org/wiki/Benjamin_Britten?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Benjamin_Britten?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Benjamin_Britten"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Benjamin_Britten",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Benjamin_Britten",
+      "edit": "https://en.m.wikipedia.org/wiki/Benjamin_Britten?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Benjamin_Britten"
+    }
+  },
+  "extract": "Edward Benjamin Britten, Baron Britten was an English composer, conductor, and pianist. He was a central figure of 20th-century British music, with a range of works including opera, other vocal music, orchestral and chamber pieces. His best-known works include the opera Peter Grimes (1945), the War Requiem (1962) and the orchestral showpiece The Young Person's Guide to the Orchestra (1945).",
+  "extract_html": "<p><b>Edward Benjamin Britten, Baron Britten</b> was an English composer, conductor, and pianist. He was a central figure of 20th-century British music, with a range of works including opera, other vocal music, orchestral and chamber pieces. His best-known works include the opera <i>Peter Grimes</i> (1945), the <i>War Requiem</i> (1962) and the orchestral showpiece <i>The Young Person's Guide to the Orchestra</i> (1945).</p>"
+}

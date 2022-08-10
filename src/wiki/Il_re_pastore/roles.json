@@ -1,0 +1,25 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 23 April 1775<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: W. A. Mozart<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup>\n</th></tr>\n<tr>\n<td>Aminta, <i>a shepherd, rightful heir to <a href=\"/wiki/Sidon\" title=\"Sidon\">Sidon</a></i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n</tr>\n<tr>\n<td>Elisa, <i><a href=\"/wiki/Phoenicia\" title=\"Phoenicia\">Phoenician</a> shepherdess</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Tamiri, <i>daughter of the deposed tyrant, Stratone </i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Agenore, <i>Sidonian aristocrat</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Alexander_the_Great\" title=\"Alexander the Great\">Alessandro</a>, <i>King of <a href=\"/wiki/Macedonia_(ancient_kingdom)\" title=\"Macedonia (ancient kingdom)\">Macedonia</a></i>\n</td>\n<td>tenor\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Aminta, a shepherd, rightful heir to Sidon",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Elisa, Phoenician shepherdess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Tamiri, daughter of the deposed tyrant, Stratone",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Agenore, Sidonian aristocrat",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Alessandro, King of Macedonia",
+      "voiceType": "tenor"
+    }
+  ]
+}

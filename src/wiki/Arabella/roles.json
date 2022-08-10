@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 1 July 1933<br>Conductor: <a href=\"/wiki/Clemens_Krauss\" title=\"Clemens Krauss\">Clemens Krauss</a>\n</th></tr>\n<tr>\n<td>Arabella\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Zdenka, <i>her sister</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Count Waldner, <i>their father, a retired cavalry officer</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Adelaide, <i>their mother</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mandryka, <i>a Croatian landowner</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Matteo, <i>a young officer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Count Elemer, <i>one of Arabella's suitors</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Count Dominik, <i>another</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Count Lamoral, <i>a third</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The <a href=\"/wiki/Fiaker\" class=\"mw-redirect\" title=\"Fiaker\">Fiaker</a>milli, <i>belle of the Coachmen's Ball</i>\n</td>\n<td><a href=\"/wiki/Coloratura_soprano\" title=\"Coloratura soprano\">coloratura soprano</a>\n</td>\n</tr>\n<tr>\n<td>A fortune-teller\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Welko, Djura, Jankel, <i>Mandryka's servants</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Hotel Porter\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>A chaperone, three card players, a doctor, a waiter\n</td>\n<td>silent\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Coachmen, waiters, ball guests, hotel residents</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Arabella",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Zdenka, her sister",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Count Waldner, their father, a retired cavalry officer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Adelaide, their mother",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Mandryka, a Croatian landowner",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Matteo, a young officer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Count Elemer, one of Arabella's suitors",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Count Dominik, another",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Count Lamoral, a third",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Fiakermilli, belle of the Coachmen's Ball",
+      "voiceType": "coloratura soprano"
+    },
+    {
+      "role": "A fortune-teller",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Welko, Djura, Jankel, Mandryka's servants",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Hotel Porter",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "A chaperone, three card players, a doctor, a waiter",
+      "voiceType": "silent"
+    },
+    {
+      "role": "Coachmen, waiters, ball guests, hotel residents",
+      "voiceType": ""
+    }
+  ]
+}

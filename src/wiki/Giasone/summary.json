@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Giasone",
+  "displaytitle": "<i>Giasone</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2245661",
+  "titles": {
+    "canonical": "Giasone",
+    "normalized": "Giasone",
+    "display": "<i>Giasone</i>"
+  },
+  "pageid": 6963454,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francesco_Cavalli.png/258px-Francesco_Cavalli.png",
+    "width": 258,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Francesco_Cavalli.png",
+    "width": 285,
+    "height": 354
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097347529",
+  "tid": "8811ac50-001b-11ed-937d-a15f3fff60fc",
+  "timestamp": "2022-07-10T06:42:54Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Giasone",
+      "revisions": "https://en.wikipedia.org/wiki/Giasone?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Giasone?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Giasone"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Giasone",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Giasone",
+      "edit": "https://en.m.wikipedia.org/wiki/Giasone?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Giasone"
+    }
+  },
+  "extract": "Giasone (Jason) is an opera in three acts and a prologue with music by Francesco Cavalli and a libretto by Giacinto Andrea Cicognini. It was premiered at the Teatro San Cassiano, Venice on 5 January 1649, during carnival. The plot is loosely based on the story of Jason and the golden fleece, but the opera contains many comic elements too.",
+  "extract_html": "<p><i><b>Giasone</b></i> (<i>Jason</i>) is an opera in three acts and a prologue with music by Francesco Cavalli and a libretto by Giacinto Andrea Cicognini. It was premiered at the Teatro San Cassiano, Venice on 5 January 1649, during carnival. The plot is loosely based on the story of Jason and the golden fleece, but the opera contains many comic elements too.</p>"
+}

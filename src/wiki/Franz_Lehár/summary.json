@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Franz Lehár",
+  "displaytitle": "Franz Lehár",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q191917",
+  "titles": {
+    "canonical": "Franz_Lehár",
+    "normalized": "Franz Lehár",
+    "display": "Franz Lehár"
+  },
+  "pageid": 253328,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bain_News_Service_-_Franz_Leh%C3%A1r.jpg/225px-Bain_News_Service_-_Franz_Leh%C3%A1r.jpg",
+    "width": 225,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bain_News_Service_-_Franz_Leh%C3%A1r.jpg",
+    "width": 3805,
+    "height": 5397
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102525548",
+  "tid": "84fa0ca0-1683-11ed-9914-353f9bdb0b6c",
+  "timestamp": "2022-08-05T14:02:05Z",
+  "description": "Austro-Hungarian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Franz_Leh%C3%A1r",
+      "revisions": "https://en.wikipedia.org/wiki/Franz_Leh%C3%A1r?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Franz_Leh%C3%A1r?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Franz_Leh%C3%A1r"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Franz_Leh%C3%A1r",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Franz_Leh%C3%A1r",
+      "edit": "https://en.m.wikipedia.org/wiki/Franz_Leh%C3%A1r?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Franz_Leh%C3%A1r"
+    }
+  },
+  "extract": "Franz Lehár was an Austro-Hungarian composer. He is mainly known for his operettas, of which the most successful and best known is The Merry Widow.",
+  "extract_html": "<p><b>Franz Lehár</b> was an Austro-Hungarian composer. He is mainly known for his operettas, of which the most successful and best known is <i>The Merry Widow</i>.</p>"
+}

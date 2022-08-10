@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La púrpura de la rosa",
+  "displaytitle": "<i>La púrpura de la rosa</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q6466355",
+  "titles": {
+    "canonical": "La_púrpura_de_la_rosa",
+    "normalized": "La púrpura de la rosa",
+    "display": "<i>La púrpura de la rosa</i>"
+  },
+  "pageid": 19176731,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Purpura_de_la_rosa_score_frontispiece.jpg/320px-Purpura_de_la_rosa_score_frontispiece.jpg",
+    "width": 320,
+    "height": 204
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/36/Purpura_de_la_rosa_score_frontispiece.jpg",
+    "width": 750,
+    "height": 477
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1058691474",
+  "tid": "d5fb43c0-15f8-11ed-aa8a-af36859d9fee",
+  "timestamp": "2021-12-05T01:56:23Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_p%C3%BArpura_de_la_rosa",
+      "revisions": "https://en.wikipedia.org/wiki/La_p%C3%BArpura_de_la_rosa?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_p%C3%BArpura_de_la_rosa?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_p%C3%BArpura_de_la_rosa"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_p%C3%BArpura_de_la_rosa",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_p%C3%BArpura_de_la_rosa",
+      "edit": "https://en.m.wikipedia.org/wiki/La_p%C3%BArpura_de_la_rosa?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_p%C3%BArpura_de_la_rosa"
+    }
+  },
+  "extract": "La púrpura de la rosa is an opera in one act, composed by Tomás de Torrejón y Velasco to a Spanish libretto by Pedro Calderón de la Barca, a great writer of the Spanish Golden Age.",
+  "extract_html": "<p><i><b>La púrpura de la rosa</b></i> is an opera in one act, composed by Tomás de Torrejón y Velasco to a Spanish libretto by Pedro Calderón de la Barca, a great writer of the Spanish Golden Age.</p>"
+}

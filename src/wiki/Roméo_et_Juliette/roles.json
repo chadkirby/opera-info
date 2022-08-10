@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup>\n</th>\n<th>Premiere Cast, 27 April 1867<br>(Conductor: <a href=\"/wiki/Adolphe_Deloffre\" title=\"Adolphe Deloffre\">Adolphe Deloffre</a>)<sup id=\"cite_ref-Gounod_8-0\" class=\"reference\"><a href=\"#cite_note-Gounod-8\">[8]</a></sup>\n</th></tr>\n<tr>\n<td>Juliette\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Roméo, <i>son of Montague</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Frère Laurent\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Mercutio, <i>Romeo's friend</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Stéphano, <i>Romeo's page</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>,<br>(<a href=\"/wiki/Trouser_role\" class=\"mw-redirect\" title=\"Trouser role\">trouser role</a>)\n</td>\n</tr>\n<tr>\n<td>Count Capulet\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Tybalt, <i>Lady Capulet's nephew</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Gertrude, <i>Juliet's nurse</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>The Duke\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Pâris, <i>a young count</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Grégorio, <i>Capulet's servant</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Benvolio, <i>Montague's nephew</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Frère Jean\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Male and female retainers and kinsmen of the Houses of Capulet and Montague, maskers</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Juliette",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Roméo, son of Montague",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frère Laurent",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mercutio, Romeo's friend",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Stéphano, Romeo's page",
+      "voiceType": "mezzo-soprano,\n(trouser role)"
+    },
+    {
+      "role": "Count Capulet",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Tybalt, Lady Capulet's nephew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Gertrude, Juliet's nurse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The Duke",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Pâris, a young count",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Grégorio, Capulet's servant",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Benvolio, Montague's nephew",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frère Jean",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Male and female retainers and kinsmen of the Houses of Capulet and Montague, maskers",
+      "voiceType": ""
+    }
+  ]
+}

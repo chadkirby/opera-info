@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Boris Godunov (opera)",
+  "displaytitle": "<i>Boris Godunov</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q386846",
+  "titles": {
+    "canonical": "Boris_Godunov_(opera)",
+    "normalized": "Boris Godunov (opera)",
+    "display": "<i>Boris Godunov</i> (opera)"
+  },
+  "pageid": 39085,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Death_of_Boris_1874.jpg/320px-The_Death_of_Boris_1874.jpg",
+    "width": 320,
+    "height": 218
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Death_of_Boris_1874.jpg",
+    "width": 638,
+    "height": 434
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097218320",
+  "tid": "04ad04d0-180e-11ed-bd5b-71421c76ce09",
+  "timestamp": "2022-07-09T11:40:50Z",
+  "description": "Opera by Modest Mussorgsky",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Boris_Godunov_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Boris_Godunov_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Boris_Godunov_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Boris_Godunov_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Boris_Godunov_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Boris_Godunov_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Boris_Godunov_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Boris_Godunov_(opera)"
+    }
+  },
+  "extract": "Boris Godunov is an opera by Modest Mussorgsky (1839–1881). The work was composed between 1868 and 1873 in Saint Petersburg, Russia. It is Mussorgsky's only completed opera and is considered his masterpiece. Its subjects are the Russian ruler Boris Godunov, who reigned as Tsar during the Time of Troubles, and his nemesis, the False Dmitriy. The Russian-language libretto was written by the composer, and is based on the 1825 drama Boris Godunov by Aleksandr Pushkin, and, in the Revised Version of 1872, on Nikolay Karamzin's History of the Russian State.",
+  "extract_html": "<p><i><b>Boris Godunov</b></i> is an opera by Modest Mussorgsky (1839–1881). The work was composed between 1868 and 1873 in Saint Petersburg, Russia. It is Mussorgsky's only completed opera and is considered his masterpiece. Its subjects are the Russian ruler Boris Godunov, who reigned as Tsar during the Time of Troubles, and his nemesis, the False Dmitriy. The Russian-language libretto was written by the composer, and is based on the 1825 drama <i>Boris Godunov</i> by Aleksandr Pushkin, and, in the Revised Version of 1872, on Nikolay Karamzin's <i>History of the Russian State</i>.</p>"
+}

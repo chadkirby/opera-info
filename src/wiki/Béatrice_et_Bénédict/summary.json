@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Béatrice et Bénédict",
+  "displaytitle": "<i>Béatrice et Bénédict</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q791661",
+  "titles": {
+    "canonical": "Béatrice_et_Bénédict",
+    "normalized": "Béatrice et Bénédict",
+    "display": "<i>Béatrice et Bénédict</i>"
+  },
+  "pageid": 355811,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hector_Berlioz%2C_B%C3%A9atrice_et_B%C3%A9n%C3%A9dict_score_title_page_-_Restoration.jpg/218px-Hector_Berlioz%2C_B%C3%A9atrice_et_B%C3%A9n%C3%A9dict_score_title_page_-_Restoration.jpg",
+    "width": 218,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hector_Berlioz%2C_B%C3%A9atrice_et_B%C3%A9n%C3%A9dict_score_title_page_-_Restoration.jpg",
+    "width": 1940,
+    "height": 2840
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1070554259",
+  "tid": "d0923970-15f8-11ed-b86d-81029fe01bea",
+  "timestamp": "2022-02-08T03:04:09Z",
+  "description": "19th-century opéra comique by Hector Berlioz",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict",
+      "revisions": "https://en.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict?action=history",
+      "edit": "https://en.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:B%C3%A9atrice_et_B%C3%A9n%C3%A9dict"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict",
+      "edit": "https://en.m.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:B%C3%A9atrice_et_B%C3%A9n%C3%A9dict"
+    }
+  },
+  "extract": "Béatrice et Bénédict is an opéra comique in two acts by French composer Hector Berlioz. Berlioz wrote the French libretto himself, based in general outline on a subplot in Shakespeare's Much Ado About Nothing.",
+  "extract_html": "<p><i><b>Béatrice et Bénédict</b></i> is an <i>opéra comique</i> in two acts by French composer Hector Berlioz. Berlioz wrote the French libretto himself, based in general outline on a subplot in Shakespeare's <i>Much Ado About Nothing</i>.</p>"
+}

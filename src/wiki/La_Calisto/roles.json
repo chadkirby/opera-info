@@ -1,0 +1,73 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, November 28, 1651<br>(Conductor: Francesco Cavalli)\n</th>\n<th>Alternative Cast<br>proposed by A. Torrente<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup>\n</th></tr>\n<tr>\n<td>La Natura\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a> <a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>\n</td>\n\n</tr>\n<tr>\n<td>L'Eternità\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Il Destino\n</td>\n<td><a href=\"/wiki/Boy_soprano\" title=\"Boy soprano\">boy soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Callisto_(mythology)\" title=\"Callisto (mythology)\">Calisto</a>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Jupiter_(mythology)\" title=\"Jupiter (mythology)\">Giove</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Giove in Diana\n</td>\n<td>soprano or bass\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Diana_(mythology)\" title=\"Diana (mythology)\">Diana</a>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Endymion_(mythology)\" title=\"Endymion (mythology)\">Endimione</a>\n</td>\n<td>alto castrato\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Juno_(mythology)\" title=\"Juno (mythology)\">Giunone</a>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Linfea\n</td>\n<td>soprano castrato\n</td>\n\n</tr>\n<tr>\n<td>Satirino\n</td>\n<td>boy soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Mercury_(mythology)\" title=\"Mercury (mythology)\">Mercurio</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Pan_(god)\" title=\"Pan (god)\">Pane</a>\n</td>\n<td>alto castrato\n</td>\n\n</tr>\n<tr>\n<td>Silvano\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Furia 1\n</td>\n<td>soprano castrato\n</td>\n\n</tr>\n<tr>\n<td>Furia 2\n</td>\n<td>boy soprano\n</td>\n\n</tr>\n<tr>\n<td>Furia\n</td>\n<td>bass\n</td>\n\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "La Natura",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "L'Eternità",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Il Destino",
+      "voiceType": "boy soprano"
+    },
+    {
+      "role": "Calisto",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Giove",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Giove in Diana",
+      "voiceType": "soprano or bass"
+    },
+    {
+      "role": "Diana",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Endimione",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Giunone",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Linfea",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Satirino",
+      "voiceType": "boy soprano"
+    },
+    {
+      "role": "Mercurio",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pane",
+      "voiceType": "alto castrato"
+    },
+    {
+      "role": "Silvano",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Furia 1",
+      "voiceType": "soprano castrato"
+    },
+    {
+      "role": "Furia 2",
+      "voiceType": "boy soprano"
+    },
+    {
+      "role": "Furia",
+      "voiceType": "bass"
+    }
+  ]
+}

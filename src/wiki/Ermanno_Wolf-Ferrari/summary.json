@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ermanno Wolf-Ferrari",
+  "displaytitle": "Ermanno Wolf-Ferrari",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q57275",
+  "titles": {
+    "canonical": "Ermanno_Wolf-Ferrari",
+    "normalized": "Ermanno Wolf-Ferrari",
+    "display": "Ermanno Wolf-Ferrari"
+  },
+  "pageid": 168365,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ermanno_Wolf-Ferrari_1906.jpg/215px-Ermanno_Wolf-Ferrari_1906.jpg",
+    "width": 215,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ermanno_Wolf-Ferrari_1906.jpg",
+    "width": 471,
+    "height": 701
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103342693",
+  "tid": "80c83b90-17bc-11ed-9d59-a5253f5ef479",
+  "timestamp": "2022-08-09T08:23:08Z",
+  "description": "Italian composer (1876-1948)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ermanno_Wolf-Ferrari",
+      "revisions": "https://en.wikipedia.org/wiki/Ermanno_Wolf-Ferrari?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ermanno_Wolf-Ferrari?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ermanno_Wolf-Ferrari"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ermanno_Wolf-Ferrari",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ermanno_Wolf-Ferrari",
+      "edit": "https://en.m.wikipedia.org/wiki/Ermanno_Wolf-Ferrari?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ermanno_Wolf-Ferrari"
+    }
+  },
+  "extract": "Ermanno Wolf-Ferrari was an Italian composer and teacher. He is best known for his comic operas such as Il segreto di Susanna (1909). A number of his works were based on plays by Carlo Goldoni, including Le donne curiose (1903), I quatro rusteghi (1906) and Il campiello (1936).",
+  "extract_html": "<p><b>Ermanno Wolf-Ferrari</b> was an Italian composer and teacher. He is best known for his comic operas such as <i>Il segreto di Susanna</i> (1909). A number of his works were based on plays by Carlo Goldoni, including <i>Le donne curiose</i> (1903), <i>I quatro rusteghi</i> (1906) and <i>Il campiello</i> (1936).</p>"
+}

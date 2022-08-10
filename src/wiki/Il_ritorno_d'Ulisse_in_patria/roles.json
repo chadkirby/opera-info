@@ -1,0 +1,93 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th width=\"300\">Role\n</th>\n<th width=\"150\">Voice type\n</th>\n<th width=\"200\">Appearances\n</th>\n<th width=\"300\">Notes\n</th></tr>\n<tr>\n<td>L'humana Fragilità (Human Frailty)\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Chronos\" title=\"Chronos\">Il Tempo</a> (Time) <i>god</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>La <a href=\"/wiki/Fortuna\" title=\"Fortuna\">Fortuna</a> (Fortune) <i>goddess</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>L'<a href=\"/wiki/Cupid\" title=\"Cupid\">Amore</a> (Cupid) <i>god</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Penelope\" title=\"Penelope\">Penelope</a> <i>Wife to Ulisse</i>\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Eurycleia\" class=\"mw-redirect\" title=\"Eurycleia\">Ericlea</a> (Eurycleia) <i>Penelope's nurse</i>\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Melantho\" title=\"Melantho\">Melanto</a> (Melantho) <i>attendant to Penelope</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Eurymachus\" title=\"Eurymachus\">Eurimaco</a> (Eurymachus) <i>a servant to Penelope's suitors</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Neptune_(mythology)\" title=\"Neptune (mythology)\">Nettuno</a> (Neptune) <i>sea-god</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Jupiter_(mythology)\" title=\"Jupiter (mythology)\">Giove</a> (Jupiter) <i>supreme god</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Scheria\" title=\"Scheria\">Coro Faeci</a> (Chorus of Phaeacians)\n</td>\n<td>alto, tenor, bass\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Odysseus\" title=\"Odysseus\">Ulisse</a> (Ulysses or Odysseus)<br><i>King of Ithaca</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Minerva\" title=\"Minerva\">Minerva</a> <i>goddess</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Eumaeus\" title=\"Eumaeus\">Eumete</a> (Eumetes) <i>a shepherd</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Irus_(mythology)\" title=\"Irus (mythology)\">Iro</a> (Irus) <i>a parasite</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Telemachus\" title=\"Telemachus\">Telemaco</a> (Telemachus) <i>son of Ulisse</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Antinous_son_of_Eupeithes\" class=\"mw-redirect\" title=\"Antinous son of Eupeithes\">Antinoo</a> (Antinous) <i>suitor to Penelope</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Peisander_(mythology)\" title=\"Peisander (mythology)\">Pisandro</a> (Peisander) <i>suitor to Penelope</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Amphinomus\" title=\"Amphinomus\">Anfinomo</a> (Amphinomus) <i>suitor to Penelope</i>\n</td>\n<td>alto or <a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Juno_(mythology)\" title=\"Juno (mythology)\">Giunone</a> (Juno) <i>goddess</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Coro in Cielo (Heavenly chorus)\n</td>\n<td>soprano, alto, tenor\n</td>\n\n</tr>\n<tr>\n<td>Coro marittimo (Chorus of sirens)\n</td>\n<td>soprano, tenor, bass\n</td>\n\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "L'humana Fragilità (Human Frailty)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Il Tempo (Time) god",
+      "voiceType": "bass"
+    },
+    {
+      "role": "La Fortuna (Fortune) goddess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "L'Amore (Cupid) god",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Penelope Wife to Ulisse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Ericlea (Eurycleia) Penelope's nurse",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Melanto (Melantho) attendant to Penelope",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Eurimaco (Eurymachus) a servant to Penelope's suitors",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Nettuno (Neptune) sea-god",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Giove (Jupiter) supreme god",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Coro Faeci (Chorus of Phaeacians)",
+      "voiceType": "alto, tenor, bass"
+    },
+    {
+      "role": "Ulisse (Ulysses or Odysseus)\nKing of Ithaca",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Minerva goddess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Eumete (Eumetes) a shepherd",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Iro (Irus) a parasite",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Telemaco (Telemachus) son of Ulisse",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Antinoo (Antinous) suitor to Penelope",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Pisandro (Peisander) suitor to Penelope",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Anfinomo (Amphinomus) suitor to Penelope",
+      "voiceType": "alto or countertenor"
+    },
+    {
+      "role": "Giunone (Juno) goddess",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Coro in Cielo (Heavenly chorus)",
+      "voiceType": "soprano, alto, tenor"
+    },
+    {
+      "role": "Coro marittimo (Chorus of sirens)",
+      "voiceType": "soprano, tenor, bass"
+    }
+  ]
+}

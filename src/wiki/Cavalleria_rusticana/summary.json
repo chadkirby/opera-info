@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Cavalleria rusticana",
+  "displaytitle": "<i>Cavalleria rusticana</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q221806",
+  "titles": {
+    "canonical": "Cavalleria_rusticana",
+    "normalized": "Cavalleria rusticana",
+    "display": "<i>Cavalleria rusticana</i>"
+  },
+  "pageid": 23977262,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cavelleria_Rusticana%2C_scene_from_the_1890_premiere%2C_Teatro_Costanzi%2C_Rome.jpg/320px-Cavelleria_Rusticana%2C_scene_from_the_1890_premiere%2C_Teatro_Costanzi%2C_Rome.jpg",
+    "width": 320,
+    "height": 277
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cavelleria_Rusticana%2C_scene_from_the_1890_premiere%2C_Teatro_Costanzi%2C_Rome.jpg",
+    "width": 3853,
+    "height": 3338
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101134142",
+  "tid": "89cbbe50-0f43-11ed-beec-650e7a842ad2",
+  "timestamp": "2022-07-29T13:37:04Z",
+  "description": "Opera by Pietro Mascagni",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cavalleria_rusticana",
+      "revisions": "https://en.wikipedia.org/wiki/Cavalleria_rusticana?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cavalleria_rusticana?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cavalleria_rusticana"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Cavalleria_rusticana",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Cavalleria_rusticana",
+      "edit": "https://en.m.wikipedia.org/wiki/Cavalleria_rusticana?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Cavalleria_rusticana"
+    }
+  },
+  "extract": "Cavalleria rusticana is an opera in one act by Pietro Mascagni to an Italian libretto by Giovanni Targioni-Tozzetti and Guido Menasci, adapted from an 1880 short story of the same name and subsequent play by Giovanni Verga. Considered one of the classic verismo operas, it premiered on 17 May 1890 at the Teatro Costanzi in Rome. Since 1893, it has often been performed in a so-called Cav/Pag double-bill with Pagliacci by Ruggero Leoncavallo.",
+  "extract_html": "<p><i><b>Cavalleria rusticana</b></i> is an opera in one act by Pietro Mascagni to an Italian libretto by Giovanni Targioni-Tozzetti and Guido Menasci, adapted from an 1880 short story of the same name and subsequent play by Giovanni Verga. Considered one of the classic <i>verismo</i> operas, it premiered on 17 May 1890 at the Teatro Costanzi in Rome. Since 1893, it has often been performed in a so-called <i>Cav/Pag</i> double-bill with <i>Pagliacci</i> by Ruggero Leoncavallo.</p>"
+}

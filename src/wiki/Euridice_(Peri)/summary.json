@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Euridice (Peri)",
+  "displaytitle": "<i>Euridice</i> (Peri)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q748501",
+  "titles": {
+    "canonical": "Euridice_(Peri)",
+    "normalized": "Euridice (Peri)",
+    "display": "<i>Euridice</i> (Peri)"
+  },
+  "pageid": 1675635,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PeriEuridicePrologo.jpg/232px-PeriEuridicePrologo.jpg",
+    "width": 232,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/PeriEuridicePrologo.jpg",
+    "width": 254,
+    "height": 350
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096268058",
+  "tid": "54862d10-0724-11ed-8d24-79350f43006b",
+  "timestamp": "2022-07-03T10:59:26Z",
+  "description": "Earliest surviving opera",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Euridice_(Peri)",
+      "revisions": "https://en.wikipedia.org/wiki/Euridice_(Peri)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Euridice_(Peri)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Euridice_(Peri)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Euridice_(Peri)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Euridice_(Peri)",
+      "edit": "https://en.m.wikipedia.org/wiki/Euridice_(Peri)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Euridice_(Peri)"
+    }
+  },
+  "extract": "Euridice is an opera by Jacopo Peri, with additional music by Giulio Caccini. It is the earliest surviving opera, Peri's earlier Dafne being lost. The libretto by Ottavio Rinuccini is based on books X and XI of Ovid's Metamorphoses\nwhich recount the story of the legendary musician Orpheus and his wife Euridice.",
+  "extract_html": "<p><i><b>Euridice</b></i> is an opera by Jacopo Peri, with additional music by Giulio Caccini. It is the earliest surviving opera, Peri's earlier <i>Dafne</i> being lost. The libretto by Ottavio Rinuccini is based on books X and XI of Ovid's <i>Metamorphoses</i>\nwhich recount the story of the legendary musician Orpheus and his wife Euridice.</p>"
+}

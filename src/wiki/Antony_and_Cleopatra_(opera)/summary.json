@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Antony and Cleopatra (opera)",
+  "displaytitle": "<i>Antony and Cleopatra</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4777266",
+  "titles": {
+    "canonical": "Antony_and_Cleopatra_(opera)",
+    "normalized": "Antony and Cleopatra (opera)",
+    "display": "<i>Antony and Cleopatra</i> (opera)"
+  },
+  "pageid": 6490492,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Opera_House_At_Lincoln_Center_2.jpg/320px-Metropolitan_Opera_House_At_Lincoln_Center_2.jpg",
+    "width": 320,
+    "height": 240
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Opera_House_At_Lincoln_Center_2.jpg",
+    "width": 800,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1064098492",
+  "tid": "24886580-fa02-11ec-9e89-236883cf5c78",
+  "timestamp": "2022-01-06T15:23:40Z",
+  "description": "Opera by Samuel Barber",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Antony_and_Cleopatra_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Antony_and_Cleopatra_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Antony_and_Cleopatra_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Antony_and_Cleopatra_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Antony_and_Cleopatra_(opera)"
+    }
+  },
+  "extract": "Antony and Cleopatra, Op. 40, is an opera in three acts by American composer Samuel Barber. The libretto was prepared by Franco Zeffirelli. It was based on the play Antony and Cleopatra by William Shakespeare and made use of Shakespeare's language exclusively.",
+  "extract_html": "<p><i><b>Antony and Cleopatra</b></i>, Op. 40, is an opera in three acts by American composer Samuel Barber. The libretto was prepared by Franco Zeffirelli. It was based on the play <i>Antony and Cleopatra</i> by William Shakespeare and made use of Shakespeare's language exclusively.</p>"
+}

@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, <span class=\"nowrap\">10 September 1838</span><br>Conductor: <span class=\"nowrap\"><a href=\"/wiki/Fran%C3%A7ois_Habeneck\" title=\"François Habeneck\">François Habeneck</a></span><sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[20]</a></sup>\n</th></tr>\n<tr>\n<td>Teresa, <i>Daughter of Balducci, in love with Cellini, but promised to Fieramosca</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Ascanio, <i>Cellini’s trusted apprentice (a <a href=\"/wiki/Breeches_role\" title=\"Breeches role\">breeches role</a>)</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Benvenuto_Cellini\" title=\"Benvenuto Cellini\">Benvenuto Cellini</a>, <i>An artist/goldsmith</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Fieramosca, <i>The Pope's sculptor</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Pope_Clement_VII\" title=\"Pope Clement VII\">Pope Clement VII</a><sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\">[21]</a></sup>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Balducci, <i>The Pope's treasurer and Teresa's father</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Francesco, <i>An artisan</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Bernardino, <i>An artisan</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><i>An innkeeper</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Pompeo, <i>friend of Fieramosca</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Columbine\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>maskers, neighbours, metal-workers, friends and apprentices of Cellini, troupers, dancers, people, guards, white friars, <br> the Pope's retinue, foundrymen, workmen, spectators</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Teresa, Daughter of Balducci, in love with Cellini, but promised to Fieramosca",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ascanio, Cellini’s trusted apprentice (a breeches role)",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Benvenuto Cellini, An artist/goldsmith",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Fieramosca, The Pope's sculptor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Pope Clement VII",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Balducci, The Pope's treasurer and Teresa's father",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Francesco, An artisan",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Bernardino, An artisan",
+      "voiceType": "bass"
+    },
+    {
+      "role": "An innkeeper",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pompeo, friend of Fieramosca",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Columbine",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Chorus: maskers, neighbours, metal-workers, friends and apprentices of Cellini, troupers, dancers, people, guards, white friars, \n the Pope's retinue, foundrymen, workmen, spectators",
+      "voiceType": ""
+    }
+  ]
+}

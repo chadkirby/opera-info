@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, December 18, 1926<br>(Conductor: <a href=\"/wiki/Franti%C5%A1ek_Neumann\" title=\"František Neumann\">František Neumann</a>)\n</th></tr>\n<tr>\n<td>Emilia Marty, formerly Elina Makropulos, <i>a celebrated singer</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Albert Gregor\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Dr Kolenatý, <i>a lawyer</i>\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Vítek, <i>Kolenatý's clerk</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Kristina, <i>his daughter, a young singer</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Baron Jaroslav Prus\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Janek, <i>his son</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Count Hauk-Šendorf\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Stage Technician\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Cleaning Woman\n</td>\n<td><a href=\"/wiki/Alto\" title=\"Alto\">alto</a>\n</td>\n</tr>\n<tr>\n<td>Hotel Maid\n</td>\n<td>alto\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Offstage male chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Emilia Marty, formerly Elina Makropulos, a celebrated singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Albert Gregor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Dr Kolenatý, a lawyer",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Vítek, Kolenatý's clerk",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Kristina, his daughter, a young singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Baron Jaroslav Prus",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Janek, his son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Count Hauk-Šendorf",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Stage Technician",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Cleaning Woman",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Hotel Maid",
+      "voiceType": "alto"
+    },
+    {
+      "role": "Offstage male chorus",
+      "voiceType": ""
+    }
+  ]
+}

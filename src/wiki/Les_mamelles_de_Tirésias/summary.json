@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Les mamelles de Tirésias",
+  "displaytitle": "<i>Les mamelles de Tirésias</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4692200",
+  "titles": {
+    "canonical": "Les_mamelles_de_Tirésias",
+    "normalized": "Les mamelles de Tirésias",
+    "display": "<i>Les mamelles de Tirésias</i>"
+  },
+  "pageid": 1865760,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tiresias.jpg/297px-Tiresias.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tiresias.jpg",
+    "width": 3307,
+    "height": 3564
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1000131835",
+  "tid": "797e6df0-f9ad-11ec-8aa6-417f30468de6",
+  "timestamp": "2021-01-13T19:01:15Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Les_mamelles_de_Tir%C3%A9sias",
+      "revisions": "https://en.wikipedia.org/wiki/Les_mamelles_de_Tir%C3%A9sias?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Les_mamelles_de_Tir%C3%A9sias?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Les_mamelles_de_Tir%C3%A9sias"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Les_mamelles_de_Tir%C3%A9sias",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Les_mamelles_de_Tir%C3%A9sias",
+      "edit": "https://en.m.wikipedia.org/wiki/Les_mamelles_de_Tir%C3%A9sias?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Les_mamelles_de_Tir%C3%A9sias"
+    }
+  },
+  "extract": "Les Mamelles de Tirésias is an opéra bouffe by Francis Poulenc, in a prologue and two acts based on the eponymous play by Guillaume Apollinaire. The opera was written in 1945 and first performed in 1947. Apollinaire's play, written in 1903, was revised with a sombre prologue by the time it premiered during World War I in France. For the opera, Poulenc incorporated both the farcical and the serious aspects of the original play, which according to one critic displays a \"high-spirited topsy-turveydom\" that conceals \"a deeper and sadder theme – the need to repopulate and rediscover a France ravaged by war.\"",
+  "extract_html": "<p><i><b>Les Mamelles de Tirésias</b></i> is an <i>opéra bouffe</i> by Francis Poulenc, in a prologue and two acts based on the eponymous play by Guillaume Apollinaire. The opera was written in 1945 and first performed in 1947. Apollinaire's play, written in 1903, was revised with a sombre prologue by the time it premiered during World War I in France. For the opera, Poulenc incorporated both the farcical and the serious aspects of the original play, which according to one critic displays a \"high-spirited topsy-turveydom\" that conceals \"a deeper and sadder theme – the need to repopulate and rediscover a France ravaged by war.\"</p>"
+}

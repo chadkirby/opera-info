@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Frederick Delius",
+  "displaytitle": "Frederick Delius",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q312698",
+  "titles": {
+    "canonical": "Frederick_Delius",
+    "normalized": "Frederick Delius",
+    "display": "Frederick Delius"
+  },
+  "pageid": 151143,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Fritz_Delius_%281907%29.jpg/216px-Fritz_Delius_%281907%29.jpg",
+    "width": 216,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/7/79/Fritz_Delius_%281907%29.jpg",
+    "width": 1596,
+    "height": 2368
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103494722",
+  "tid": "c89b64b0-182f-11ed-ab58-2fa6b4c55312",
+  "timestamp": "2022-08-09T22:08:16Z",
+  "description": "English composer (1862-1934)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Frederick_Delius",
+      "revisions": "https://en.wikipedia.org/wiki/Frederick_Delius?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Frederick_Delius?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Frederick_Delius"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Frederick_Delius",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Frederick_Delius",
+      "edit": "https://en.m.wikipedia.org/wiki/Frederick_Delius?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Frederick_Delius"
+    }
+  },
+  "extract": "Frederick Theodore Albert Delius, originally Fritz Delius, was an English composer. Born in Bradford in the north of England to a prosperous mercantile family, he resisted attempts to recruit him to commerce. He was sent to Florida in the United States in 1884 to manage an orange plantation. He soon neglected his managerial duties and in 1886 returned to Europe.",
+  "extract_html": "<p><b>Frederick Theodore Albert Delius</b>, originally <b>Fritz Delius</b>, was an English composer. Born in Bradford in the north of England to a prosperous mercantile family, he resisted attempts to recruit him to commerce. He was sent to Florida in the United States in 1884 to manage an orange plantation. He soon neglected his managerial duties and in 1886 returned to Europe.</p>"
+}

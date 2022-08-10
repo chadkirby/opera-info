@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Parsifal",
+  "displaytitle": "<i>Parsifal</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q220340",
+  "titles": {
+    "canonical": "Parsifal",
+    "normalized": "Parsifal",
+    "display": "<i>Parsifal</i>"
+  },
+  "pageid": 38235,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Parsifal_%281882_retuschiert%29.jpg/224px-Parsifal_%281882_retuschiert%29.jpg",
+    "width": 224,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Parsifal_%281882_retuschiert%29.jpg",
+    "width": 420,
+    "height": 600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095103921",
+  "tid": "d139c410-15f8-11ed-8f11-472c9599e2cd",
+  "timestamp": "2022-06-26T10:56:40Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Parsifal",
+      "revisions": "https://en.wikipedia.org/wiki/Parsifal?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Parsifal?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Parsifal"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Parsifal",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Parsifal",
+      "edit": "https://en.m.wikipedia.org/wiki/Parsifal?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Parsifal"
+    }
+  },
+  "extract": "Parsifal is an opera in three acts by Richard Wagner with the libretto by the composer himself loosely based on the 13th-century Middle High German epic poem Parzival of the Minnesänger Wolfram von Eschenbach, recounting the story of the Arthurian knight Parzival (Percival) and his quest for the Holy Grail.",
+  "extract_html": "<p><i><b>Parsifal</b></i> is an opera in three acts by Richard Wagner with the libretto by the composer himself loosely based on the 13th-century Middle High German epic poem <i>Parzival</i> of the <i>Minnesänger</i> Wolfram von Eschenbach, recounting the story of the Arthurian knight Parzival (Percival) and his quest for the Holy Grail.</p>"
+}

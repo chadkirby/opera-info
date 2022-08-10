@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Nikolai Rimsky-Korsakov",
+  "displaytitle": "Nikolai Rimsky-Korsakov",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q93227",
+  "titles": {
+    "canonical": "Nikolai_Rimsky-Korsakov",
+    "normalized": "Nikolai Rimsky-Korsakov",
+    "display": "Nikolai Rimsky-Korsakov"
+  },
+  "pageid": 75847,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rimsky-Korsakov_Serow_crop.png/283px-Rimsky-Korsakov_Serow_crop.png",
+    "width": 283,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rimsky-Korsakov_Serow_crop.png",
+    "width": 701,
+    "height": 793
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099871329",
+  "tid": "07b86d80-1544-11ed-95d3-7b159f2f9055",
+  "timestamp": "2022-07-23T01:12:41Z",
+  "description": "Russian composer (1844–1908)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov",
+      "revisions": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nikolai_Rimsky-Korsakov"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Nikolai_Rimsky-Korsakov",
+      "edit": "https://en.m.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Nikolai_Rimsky-Korsakov"
+    }
+  },
+  "extract": "Nikolai Andreyevich Rimsky-Korsakov \nwas a Russian composer, a member of the group of composers known as The Five. He was a master of orchestration. His best-known orchestral compositions—Capriccio Espagnol, the Russian Easter Festival Overture, and the symphonic suite Scheherazade—are staples of the classical music repertoire, along with suites and excerpts from some of his 15 operas. Scheherazade is an example of his frequent use of fairy-tale and folk subjects.",
+  "extract_html": "<p><b>Nikolai Andreyevich Rimsky-Korsakov</b> \nwas a Russian composer, a member of the group of composers known as The Five. He was a master of orchestration. His best-known orchestral compositions—<i>Capriccio Espagnol</i>, the <i>Russian Easter Festival Overture</i>, and the symphonic suite <i>Scheherazade</i>—are staples of the classical music repertoire, along with suites and excerpts from some of his 15 operas. <i>Scheherazade</i> is an example of his frequent use of fairy-tale and folk subjects.</p>"
+}

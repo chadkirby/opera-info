@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Modest Mussorgsky",
+  "displaytitle": "Modest Mussorgsky",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q132682",
+  "titles": {
+    "canonical": "Modest_Mussorgsky",
+    "normalized": "Modest Mussorgsky",
+    "display": "Modest Mussorgsky"
+  },
+  "pageid": 64710,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Modest_Musorgskiy%2C_1870.jpg/243px-Modest_Musorgskiy%2C_1870.jpg",
+    "width": 243,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Modest_Musorgskiy%2C_1870.jpg",
+    "width": 459,
+    "height": 603
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098012594",
+  "tid": "06c5a910-1544-11ed-9582-d3a65c8a0efc",
+  "timestamp": "2022-07-13T20:00:32Z",
+  "description": "Russian composer (1839–1881)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Modest_Mussorgsky",
+      "revisions": "https://en.wikipedia.org/wiki/Modest_Mussorgsky?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Modest_Mussorgsky?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Modest_Mussorgsky"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Modest_Mussorgsky",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Modest_Mussorgsky",
+      "edit": "https://en.m.wikipedia.org/wiki/Modest_Mussorgsky?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Modest_Mussorgsky"
+    }
+  },
+  "extract": "Modest Petrovich Mussorgsky was a Russian composer, one of the group known as \"The Five\". He was an innovator of Russian music in the Romantic period. He strove to achieve a uniquely Russian musical identity, often in deliberate defiance of the established conventions of Western music.",
+  "extract_html": "<p><b>Modest Petrovich Mussorgsky</b> was a Russian composer, one of the group known as \"The Five\". He was an innovator of Russian music in the Romantic period. He strove to achieve a uniquely Russian musical identity, often in deliberate defiance of the established conventions of Western music.</p>"
+}

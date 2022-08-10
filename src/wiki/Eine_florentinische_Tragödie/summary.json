@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Eine florentinische Tragödie",
+  "displaytitle": "<i>Eine florentinische Tragödie</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1306735",
+  "titles": {
+    "canonical": "Eine_florentinische_Tragödie",
+    "normalized": "Eine florentinische Tragödie",
+    "display": "<i>Eine florentinische Tragödie</i>"
+  },
+  "pageid": 4290211,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eine_florentinische_Trag%C3%B6die_-_Oper_in_einem_Aufzug%2C_Op._16_%281916%29_%2814781429964%29.jpg/235px-Eine_florentinische_Trag%C3%B6die_-_Oper_in_einem_Aufzug%2C_Op._16_%281916%29_%2814781429964%29.jpg",
+    "width": 235,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Eine_florentinische_Trag%C3%B6die_-_Oper_in_einem_Aufzug%2C_Op._16_%281916%29_%2814781429964%29.jpg",
+    "width": 2523,
+    "height": 3437
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083459661",
+  "tid": "d1cc4010-15f8-11ed-996a-5f5da9404976",
+  "timestamp": "2022-04-18T23:03:38Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Eine_florentinische_Trag%C3%B6die",
+      "revisions": "https://en.wikipedia.org/wiki/Eine_florentinische_Trag%C3%B6die?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Eine_florentinische_Trag%C3%B6die?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Eine_florentinische_Trag%C3%B6die"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Eine_florentinische_Trag%C3%B6die",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Eine_florentinische_Trag%C3%B6die",
+      "edit": "https://en.m.wikipedia.org/wiki/Eine_florentinische_Trag%C3%B6die?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Eine_florentinische_Trag%C3%B6die"
+    }
+  },
+  "extract": "Eine florentinische Tragödie, Op. 16, is an opera in one act by Alexander von Zemlinsky composed in 1915–16 to a libretto adapted by the composer from a German translation by Max Meyerfeld of Oscar Wilde's unfinished play A Florentine Tragedy.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Eine florentinische Tragödie</i></span></b></i>, Op. 16, is an opera in one act by Alexander von Zemlinsky composed in 1915–16 to a libretto adapted by the composer from a German translation by Max Meyerfeld of Oscar Wilde's unfinished play <i>A Florentine Tragedy</i>.</p>"
+}

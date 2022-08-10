@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Arnold Schoenberg",
+  "displaytitle": "Arnold Schoenberg",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q154770",
+  "titles": {
+    "canonical": "Arnold_Schoenberg",
+    "normalized": "Arnold Schoenberg",
+    "display": "Arnold Schoenberg"
+  },
+  "pageid": 67025,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Arnold_Schoenberg_la_1948.jpg/254px-Arnold_Schoenberg_la_1948.jpg",
+    "width": 254,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg",
+    "width": 318,
+    "height": 400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1096273075",
+  "tid": "db2d7390-178d-11ed-965b-cd80cd3ac66b",
+  "timestamp": "2022-07-03T11:52:17Z",
+  "description": "Austrian-American composer (1874–1951)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
+      "revisions": "https://en.wikipedia.org/wiki/Arnold_Schoenberg?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arnold_Schoenberg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arnold_Schoenberg"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Arnold_Schoenberg",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Arnold_Schoenberg",
+      "edit": "https://en.m.wikipedia.org/wiki/Arnold_Schoenberg?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Arnold_Schoenberg"
+    }
+  },
+  "extract": "Arnold Schoenberg or Schönberg was an Austrian-American composer, music theorist, teacher, writer, and painter. He is widely considered one of the most influential composers of the 20th century. He was associated with the expressionist movement in German poetry and art, and leader of the Second Viennese School. As a Jewish composer, Schoenberg was targeted by the Nazi Party, which labeled his works as degenerate music and forbade them from being published. He immigrated to the United States in 1933, becoming an American citizen in 1941.",
+  "extract_html": "<p><b>Arnold Schoenberg</b> or <b>Schönberg</b> was an Austrian-American composer, music theorist, teacher, writer, and painter. He is widely considered one of the most influential composers of the 20th century. He was associated with the expressionist movement in German poetry and art, and leader of the Second Viennese School. As a Jewish composer, Schoenberg was targeted by the Nazi Party, which labeled his works as degenerate music and forbade them from being published. He immigrated to the United States in 1933, becoming an American citizen in 1941.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Paul Dukas",
+  "displaytitle": "Paul Dukas",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q215556",
+  "titles": {
+    "canonical": "Paul_Dukas",
+    "normalized": "Paul Dukas",
+    "display": "Paul Dukas"
+  },
+  "pageid": 75835,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paul_Dukas_01.jpg/320px-Paul_Dukas_01.jpg",
+    "width": 320,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Paul_Dukas_01.jpg",
+    "width": 380,
+    "height": 380
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099225792",
+  "tid": "d95e7ff0-178d-11ed-8f11-472c9599e2cd",
+  "timestamp": "2022-07-19T17:03:20Z",
+  "description": "French composer (1865–1935)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Paul_Dukas",
+      "revisions": "https://en.wikipedia.org/wiki/Paul_Dukas?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Paul_Dukas?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Dukas"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Paul_Dukas",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Paul_Dukas",
+      "edit": "https://en.m.wikipedia.org/wiki/Paul_Dukas?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Paul_Dukas"
+    }
+  },
+  "extract": "Paul Abraham Dukas was a French composer, critic, scholar and teacher. A studious man of retiring personality, he was intensely self-critical, having abandoned and destroyed many of his compositions. His best-known work is the orchestral piece The Sorcerer's Apprentice, the fame of which has eclipsed that of his other surviving works. Among these are the opera Ariane et Barbe-bleue, his Symphony in C and Piano Sonata in E-flat minor, the Variations, Interlude and Finale on a Theme by Rameau, and a ballet, La Péri.",
+  "extract_html": "<p><b>Paul Abraham Dukas</b> was a French composer, critic, scholar and teacher. A studious man of retiring personality, he was intensely self-critical, having abandoned and destroyed many of his compositions. His best-known work is the orchestral piece <span><i>The Sorcerer's Apprentice</i></span>, the fame of which has eclipsed that of his other surviving works. Among these are the opera <i>Ariane et Barbe-bleue</i>, his Symphony in C and Piano Sonata in E-flat minor, the <i>Variations, Interlude and Finale on a Theme by Rameau</i>, and a ballet, <i>La Péri</i>.</p>"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Alexander von Zemlinsky",
+  "displaytitle": "Alexander von Zemlinsky",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q78524",
+  "titles": {
+    "canonical": "Alexander_von_Zemlinsky",
+    "normalized": "Alexander von Zemlinsky",
+    "display": "Alexander von Zemlinsky"
+  },
+  "pageid": 33787421,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zemlinsky.jpg/263px-Zemlinsky.jpg",
+    "width": 263,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Zemlinsky.jpg",
+    "width": 575,
+    "height": 700
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1089417420",
+  "tid": "1f3c9460-024b-11ed-bed6-bdaa51e6110b",
+  "timestamp": "2022-05-23T17:36:47Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alexander_von_Zemlinsky",
+      "revisions": "https://en.wikipedia.org/wiki/Alexander_von_Zemlinsky?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alexander_von_Zemlinsky?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alexander_von_Zemlinsky"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Alexander_von_Zemlinsky",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Alexander_von_Zemlinsky",
+      "edit": "https://en.m.wikipedia.org/wiki/Alexander_von_Zemlinsky?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Alexander_von_Zemlinsky"
+    }
+  },
+  "extract": "Alexander Zemlinsky or Alexander von Zemlinsky was an Austrian composer, conductor, and teacher.",
+  "extract_html": "<p><b>Alexander Zemlinsky</b> or <b>Alexander von Zemlinsky</b> was an Austrian composer, conductor, and teacher.</p>"
+}

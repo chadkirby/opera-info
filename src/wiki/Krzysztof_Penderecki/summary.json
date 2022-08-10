@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Krzysztof Penderecki",
+  "displaytitle": "Krzysztof Penderecki",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q153469",
+  "titles": {
+    "canonical": "Krzysztof_Penderecki",
+    "normalized": "Krzysztof Penderecki",
+    "display": "Krzysztof Penderecki"
+  },
+  "pageid": 17292,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Krzysztof_Penderecki_20080706.jpg/213px-Krzysztof_Penderecki_20080706.jpg",
+    "width": 213,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Krzysztof_Penderecki_20080706.jpg",
+    "width": 1632,
+    "height": 2448
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094802923",
+  "tid": "79f51a70-119c-11ed-8fd9-0f74bb4c6b35",
+  "timestamp": "2022-06-24T15:43:03Z",
+  "description": "Polish composer and conductor",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Krzysztof_Penderecki",
+      "revisions": "https://en.wikipedia.org/wiki/Krzysztof_Penderecki?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Krzysztof_Penderecki?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Krzysztof_Penderecki"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Krzysztof_Penderecki",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Krzysztof_Penderecki",
+      "edit": "https://en.m.wikipedia.org/wiki/Krzysztof_Penderecki?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Krzysztof_Penderecki"
+    }
+  },
+  "extract": "Krzysztof Eugeniusz Penderecki was a Polish composer and conductor. His best known works include Threnody to the Victims of Hiroshima, Symphony No. 3, his St Luke Passion, Polish Requiem, Anaklasis and Utrenja. Penderecki's oeuvre includes four operas, eight symphonies and other orchestral pieces, a variety of instrumental concertos, choral settings of mainly religious texts, as well as chamber and instrumental works.",
+  "extract_html": "<p><b>Krzysztof Eugeniusz Penderecki</b> was a Polish composer and conductor. His best known works include <i>Threnody to the Victims of Hiroshima</i>, Symphony No. 3, his <i>St Luke Passion</i>, <i>Polish Requiem</i>, <i>Anaklasis</i> and <i>Utrenja</i>. <span>Penderecki's <i>oeuvre</i></span> includes four operas, eight symphonies and other orchestral pieces, a variety of instrumental concertos, choral settings of mainly religious texts, as well as chamber and instrumental works<i>.</i></p>"
+}

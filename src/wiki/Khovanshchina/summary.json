@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Khovanshchina",
+  "displaytitle": "<i>Khovanshchina</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q917711",
+  "titles": {
+    "canonical": "Khovanshchina",
+    "normalized": "Khovanshchina",
+    "display": "<i>Khovanshchina</i>"
+  },
+  "pageid": 1250775,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Khovanshchina_Act_1_Vasnetsov_1897.jpg/320px-Khovanshchina_Act_1_Vasnetsov_1897.jpg",
+    "width": 320,
+    "height": 215
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Khovanshchina_Act_1_Vasnetsov_1897.jpg",
+    "width": 815,
+    "height": 547
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1092304232",
+  "tid": "77b997c0-12ac-11ed-ab63-a51f6c3ab64f",
+  "timestamp": "2022-06-09T13:16:07Z",
+  "description": "Opera by Modest Mussorgsky",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Khovanshchina",
+      "revisions": "https://en.wikipedia.org/wiki/Khovanshchina?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Khovanshchina?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Khovanshchina"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Khovanshchina",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Khovanshchina",
+      "edit": "https://en.m.wikipedia.org/wiki/Khovanshchina?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Khovanshchina"
+    }
+  },
+  "extract": "Khovanshchina is an opera in five acts by Modest Mussorgsky. The work was written between 1872 and 1880 in St. Petersburg, Russia. The composer wrote the libretto based on historical sources. The opera was almost finished in piano score when the composer died in 1881, but the orchestration was almost entirely lacking.",
+  "extract_html": "<p><i><b>Khovanshchina</b></i> is an opera in five acts by Modest Mussorgsky. The work was written between 1872 and 1880 in St. Petersburg, Russia. The composer wrote the libretto based on historical sources. The opera was almost finished in piano score when the composer died in 1881, but the orchestration was almost entirely lacking.</p>"
+}

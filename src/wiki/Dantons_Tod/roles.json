@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast 6 August 1947<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup><br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Ferenc_Fricsay\" title=\"Ferenc Fricsay\">Ferenc Fricsay</a>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Georges_Danton\" title=\"Georges Danton\">Georges Danton</a></td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Camille_Desmoulins\" title=\"Camille Desmoulins\">Camille Desmoulins</a></td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a></td>\n</tr>\n<tr>\n<td>Lucile</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Marie-Jean_H%C3%A9rault_de_S%C3%A9chelles\" title=\"Marie-Jean Hérault de Séchelles\">Hérault de Séchelles</a></td>\n<td>tenor</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Maximilien_Robespierre\" title=\"Maximilien Robespierre\">Robespierre</a></td>\n<td>tenor</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Louis_Antoine_de_Saint-Just\" title=\"Louis Antoine de Saint-Just\">Saint-Just</a></td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a></td>\n</tr>\n<tr>\n<td>Simon</td>\n<td>bass</td>\n</tr>\n<tr>\n<td>Julie</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a></td>\n</tr>\n<tr>\n<td>Hermann</td>\n<td>bass</td>\n</tr>\n<tr>\n<td>Simon's wife</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a></td>\n</tr>\n<tr>\n<td>Young man</td>\n<td>tenor</td>\n</tr>\n<tr>\n<td>Two executioners</td>\n<td>tenor, bass</td>\n</tr>\n<tr>\n<td>Woman</td>\n<td>soprano</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus (<a href=\"/wiki/SATB\" title=\"SATB\">SATB</a>)\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Georges Danton",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Camille Desmoulins",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Lucile",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hérault de Séchelles",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Robespierre",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Saint-Just",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Simon",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Julie",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Hermann",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Simon's wife",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Young man",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Two executioners",
+      "voiceType": "tenor, bass"
+    },
+    {
+      "role": "Woman",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus (SATB)",
+      "voiceType": ""
+    }
+  ]
+}

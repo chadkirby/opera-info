@@ -1,0 +1,57 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types</span>\n</caption>\n<tbody><tr>\n<th>Role</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th></tr>\n<tr>\n<td>Platon Kuzmich Kovalyov, <i>a Collegiate Assessor</i></td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td></tr>\n<tr>\n<td>Ivan Yakovlevich, <i>a barber</i></td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td></tr>\n<tr>\n<td>Police Inspector</td>\n<td>very high <a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td></tr>\n<tr>\n<td>Ivan, <i>Kovalyov's valet</i></td>\n<td>tenor\n</td></tr>\n<tr>\n<td>The Nose</td>\n<td>tenor\n</td></tr>\n<tr>\n<td>Pelagia Grigorievna Podtochina, <i>a staff-officer's widow</i></td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td></tr>\n<tr>\n<td>Her Daughter</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td></tr>\n<tr>\n<td>The Old Countess</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td></tr>\n<tr>\n<td>Praskovya Ossipovna, <i>wife of Ivan Yakovlevich</i></td>\n<td>soprano\n</td></tr>\n<tr>\n<td>A Bread-Seller</td>\n<td>soprano\n</td></tr>\n<tr>\n<td>A Clerk in a Newspaper Office</td>\n<td>bass-baritone\n</td></tr>\n<tr>\n<td>Iaryzhkin, <i>a friend of Kovalyov's</i></td>\n<td>tenor\n</td></tr>\n<tr>\n<td colspan=\"2\">Eight Footmen, Ten Policemen, Nine Gentlemen, Four Eunuchs, Passers-By, People at Coach Station, etc.\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Platon Kuzmich Kovalyov, a Collegiate Assessor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Ivan Yakovlevich, a barber",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Police Inspector",
+      "voiceType": "very high tenor"
+    },
+    {
+      "role": "Ivan, Kovalyov's valet",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Nose",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Pelagia Grigorievna Podtochina, a staff-officer's widow",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Her Daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Old Countess",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Praskovya Ossipovna, wife of Ivan Yakovlevich",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A Bread-Seller",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A Clerk in a Newspaper Office",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Iaryzhkin, a friend of Kovalyov's",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Eight Footmen, Ten Policemen, Nine Gentlemen, Four Eunuchs, Passers-By, People at Coach Station, etc.",
+      "voiceType": ""
+    }
+  ]
+}

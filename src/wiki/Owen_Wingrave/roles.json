@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 16 May 1971<br>(Conductor: <a href=\"/wiki/Benjamin_Britten\" title=\"Benjamin Britten\">Benjamin Britten</a>)\n</th></tr>\n<tr>\n<td>Owen Wingrave\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">Baritone</a>\n</td>\n</tr>\n<tr>\n<td>Spencer Coyle\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">Bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Lechmere\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">Tenor</a>\n</td>\n</tr>\n<tr>\n<td>Miss Wingrave\n</td>\n<td>Dramatic <a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Mrs Coyle\n</td>\n<td>Soprano\n</td>\n</tr>\n<tr>\n<td>Mrs Julian\n</td>\n<td>Soprano\n</td>\n</tr>\n<tr>\n<td>Kate Julian\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">Mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>General Sir Philip Wingrave\n</td>\n<td>Tenor\n</td>\n</tr>\n<tr>\n<td>Narrator\n</td>\n<td>Tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Owen Wingrave",
+      "voiceType": "Baritone"
+    },
+    {
+      "role": "Spencer Coyle",
+      "voiceType": "Bass-baritone"
+    },
+    {
+      "role": "Lechmere",
+      "voiceType": "Tenor"
+    },
+    {
+      "role": "Miss Wingrave",
+      "voiceType": "Dramatic soprano"
+    },
+    {
+      "role": "Mrs Coyle",
+      "voiceType": "Soprano"
+    },
+    {
+      "role": "Mrs Julian",
+      "voiceType": "Soprano"
+    },
+    {
+      "role": "Kate Julian",
+      "voiceType": "Mezzo-soprano"
+    },
+    {
+      "role": "General Sir Philip Wingrave",
+      "voiceType": "Tenor"
+    },
+    {
+      "role": "Narrator",
+      "voiceType": "Tenor"
+    },
+    {
+      "role": "Chorus",
+      "voiceType": ""
+    }
+  ]
+}

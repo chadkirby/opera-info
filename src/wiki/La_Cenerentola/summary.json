@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La Cenerentola",
+  "displaytitle": "<i>La Cenerentola</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q176700",
+  "titles": {
+    "canonical": "La_Cenerentola",
+    "normalized": "La Cenerentola",
+    "display": "<i>La Cenerentola</i>"
+  },
+  "pageid": 356776,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gioachino_Rossini_-_La_Cenerentola_-_titlepage_of_the_libretto_-_Genoa_1817.png/204px-Gioachino_Rossini_-_La_Cenerentola_-_titlepage_of_the_libretto_-_Genoa_1817.png",
+    "width": 204,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Gioachino_Rossini_-_La_Cenerentola_-_titlepage_of_the_libretto_-_Genoa_1817.png",
+    "width": 493,
+    "height": 773
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101355828",
+  "tid": "245c1cb0-116c-11ed-aeac-d9ae5d3fdfa3",
+  "timestamp": "2022-07-30T15:52:30Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_Cenerentola",
+      "revisions": "https://en.wikipedia.org/wiki/La_Cenerentola?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_Cenerentola?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_Cenerentola"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_Cenerentola",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_Cenerentola",
+      "edit": "https://en.m.wikipedia.org/wiki/La_Cenerentola?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_Cenerentola"
+    }
+  },
+  "extract": "La Cenerentola, ossia La bontà in trionfo is an operatic dramma giocoso in two acts by Gioachino Rossini. The libretto was written by Jacopo Ferretti, based on the libretti written by Charles-Guillaume Étienne for the opera Cendrillon with music by Nicolas Isouard and by Francesco Fiorini for Agatina, o la virtù premiata with music by Stefano Pavesi. All these operas are versions of the fairy tale Cendrillon by Charles Perrault. Rossini's opera was first performed in Rome's Teatro Valle on 25 January 1817.",
+  "extract_html": "<p><i><b><span><i lang=\"it\">La Cenerentola, ossia La bontà in trionfo</i></span></b></i> is an operatic <i>dramma giocoso</i> in two acts by Gioachino Rossini. The libretto was written by Jacopo Ferretti, based on the libretti written by Charles-Guillaume Étienne for the opera <i>Cendrillon</i> with music by Nicolas Isouard and by Francesco Fiorini for <i>Agatina, o la virtù premiata</i> with music by Stefano Pavesi. All these operas are versions of the fairy tale <i>Cendrillon</i> by Charles Perrault. Rossini's opera was first performed in Rome's Teatro Valle on 25 January 1817.</p>"
+}

@@ -1,0 +1,13 @@
+{
+  "html": "<table class=\"infobox vevent haudio\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary album\"><i><span title=\"French-language text\"><i lang=\"fr\">La damnation de Faust</i></span></i></th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight:bold;\"><i><span title=\"French-language text\"><i lang=\"fr\"><a href=\"/wiki/Oratorio\" title=\"Oratorio\">Légende dramatique</a></i></span></i> by <span class=\"nowrap\"><a href=\"/wiki/Hector_Berlioz\" title=\"Hector Berlioz\">Hector Berlioz</a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a href=\"/wiki/File:Berlioz_engraving.jpg\" class=\"image\"><img alt=\"Berlioz engraving.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Berlioz_engraving.jpg/260px-Berlioz_engraving.jpg\" decoding=\"async\" width=\"260\" height=\"331\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Berlioz_engraving.jpg/390px-Berlioz_engraving.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a1/Berlioz_engraving.jpg 2x\" data-file-width=\"469\" data-file-height=\"597\"></a><div class=\"infobox-caption\">Hector Berlioz</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">English</th><td class=\"infobox-data\"><i>The Damnation of Faust</i></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><a href=\"/wiki/Opus_number\" title=\"Opus number\">Opus</a></th><td class=\"infobox-data\">24</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">French</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><a href=\"/wiki/Goethe%27s_Faust\" title=\"Goethe's Faust\">Goethe's <i>Faust</i></a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Composed</th><td class=\"infobox-data\">1845<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1845</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Performed</th><td class=\"infobox-data\">6&nbsp;December&nbsp;1846<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1846-12-06</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Scoring</th><td class=\"infobox-data\"><div class=\"hlist hlist-separated\"><ul><li>four soloists</li><li>children's chorus</li><li>seven-part choir</li><li>orchestra</li></ul></div></td></tr></tbody></table>",
+  "titles": [
+    "La damnation de Faust"
+  ],
+  "English": "The Damnation of Faust",
+  "Opus": "24",
+  "Language": "French",
+  "Based on": "Goethe's Faust",
+  "Composed": "1845",
+  "Performed": "6 December 1846",
+  "Scoring": "four soloistschildren's chorusseven-part choirorchestra"
+}

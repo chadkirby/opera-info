@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "L'étoile (opera)",
+  "displaytitle": "<i>L'étoile</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1197145",
+  "titles": {
+    "canonical": "L'étoile_(opera)",
+    "normalized": "L'étoile (opera)",
+    "display": "<i>L'étoile</i> (opera)"
+  },
+  "pageid": 1642716,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Emmanuel_Chabrier%27s_L%27%C3%89toile_by_F%C3%A9lix_R%C3%A9gamey.jpg/230px-Emmanuel_Chabrier%27s_L%27%C3%89toile_by_F%C3%A9lix_R%C3%A9gamey.jpg",
+    "width": 230,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Emmanuel_Chabrier%27s_L%27%C3%89toile_by_F%C3%A9lix_R%C3%A9gamey.jpg",
+    "width": 422,
+    "height": 588
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "950398036",
+  "tid": "a8aad0e0-0f84-11ed-a710-e7255f404721",
+  "timestamp": "2020-04-11T21:53:01Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'%C3%A9toile_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/L'%C3%A9toile_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'%C3%A9toile_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'%C3%A9toile_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'%C3%A9toile_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'%C3%A9toile_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/L'%C3%A9toile_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'%C3%A9toile_(opera)"
+    }
+  },
+  "extract": "L'étoile is an opéra bouffe in three acts by Emmanuel Chabrier with a libretto by Eugène Leterrier and Albert Vanloo.",
+  "extract_html": "<p><i><b>L'étoile</b></i> is an opéra bouffe in three acts by Emmanuel Chabrier with a libretto by Eugène Leterrier and Albert Vanloo.</p>"
+}

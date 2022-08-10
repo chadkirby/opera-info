@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Das Rheingold",
+  "displaytitle": "<i>Das Rheingold</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q327717",
+  "titles": {
+    "canonical": "Das_Rheingold",
+    "normalized": "Das Rheingold",
+    "display": "<i>Das Rheingold</i>"
+  },
+  "pageid": 49482,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/B%C3%BChnenbildentwurf_Rheingold.JPG/320px-B%C3%BChnenbildentwurf_Rheingold.JPG",
+    "width": 320,
+    "height": 226
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/B%C3%BChnenbildentwurf_Rheingold.JPG",
+    "width": 1791,
+    "height": 1266
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102336926",
+  "tid": "d0e90ec0-1405-11ed-877b-a9c3f5bc4b93",
+  "timestamp": "2022-08-04T14:57:49Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Das_Rheingold",
+      "revisions": "https://en.wikipedia.org/wiki/Das_Rheingold?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Das_Rheingold?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Das_Rheingold"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Das_Rheingold",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Das_Rheingold",
+      "edit": "https://en.m.wikipedia.org/wiki/Das_Rheingold?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Das_Rheingold"
+    }
+  },
+  "extract": "Das Rheingold, WWV 86A, is the first of the four music dramas that constitute Richard Wagner's Der Ring des Nibelungen,. It was performed, as a single opera, at the National Theatre Munich on 22 September 1869, and received its first performance as part of the Ring cycle at the Bayreuth Festspielhaus, on 13 August 1876.",
+  "extract_html": "<p><i><b>Das Rheingold</b></i>, WWV 86A, is the first of the four music dramas that constitute Richard Wagner's <i>Der Ring des Nibelungen,</i>. It was performed, as a single opera, at the National Theatre Munich on 22 September 1869, and received its first performance as part of the <i>Ring</i> cycle at the Bayreuth Festspielhaus, on 13 August 1876.</p>"
+}

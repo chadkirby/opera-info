@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Euryanthe",
+  "displaytitle": "<i>Euryanthe</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q707737",
+  "titles": {
+    "canonical": "Euryanthe",
+    "normalized": "Euryanthe",
+    "display": "<i>Euryanthe</i>"
+  },
+  "pageid": 9016600,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/8-Skogsscenen_ur_Euryanthe-Svenska_Teatern_8.jpg/320px-8-Skogsscenen_ur_Euryanthe-Svenska_Teatern_8.jpg",
+    "width": 320,
+    "height": 251
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/8-Skogsscenen_ur_Euryanthe-Svenska_Teatern_8.jpg",
+    "width": 717,
+    "height": 562
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1093233792",
+  "tid": "d120e4e0-15f8-11ed-9394-23db77ec40c2",
+  "timestamp": "2022-06-15T10:15:37Z",
+  "description": "Opera by Carl Maria von Weber",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Euryanthe",
+      "revisions": "https://en.wikipedia.org/wiki/Euryanthe?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Euryanthe?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Euryanthe"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Euryanthe",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Euryanthe",
+      "edit": "https://en.m.wikipedia.org/wiki/Euryanthe?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Euryanthe"
+    }
+  },
+  "extract": "Euryanthe is a German grand heroic-romantic opera by Carl Maria von Weber, first performed at the Theater am Kärntnertor in Vienna on 25 October 1823. Though acknowledged as one of Weber's most important operas, the work is rarely staged because of the weak libretto by Helmina von Chézy. Euryanthe is based on the 13th-century French romance L'Histoire du très-noble et chevalereux prince Gérard, comte de Nevers et la très-virtueuse et très chaste princesse Euriant de Savoye, sa mye.",
+  "extract_html": "<p><i><b>Euryanthe</b></i> is a German grand heroic-romantic opera by Carl Maria von Weber, first performed at the Theater am Kärntnertor in Vienna on 25 October 1823. Though acknowledged as one of Weber's most important operas, the work is rarely staged because of the weak libretto by Helmina von Chézy. <i>Euryanthe</i> is based on the 13th-century French romance <i>L'Histoire du très-noble et chevalereux prince Gérard, comte de Nevers et la très-virtueuse et très chaste princesse Euriant de Savoye, sa mye</i>.</p>"
+}

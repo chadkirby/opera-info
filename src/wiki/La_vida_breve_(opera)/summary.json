@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "La vida breve (opera)",
+  "displaytitle": "<i>La vida breve</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q733839",
+  "titles": {
+    "canonical": "La_vida_breve_(opera)",
+    "normalized": "La vida breve (opera)",
+    "display": "<i>La vida breve</i> (opera)"
+  },
+  "pageid": 2023513,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ManuelDeFalla.JPG/233px-ManuelDeFalla.JPG",
+    "width": 233,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/ManuelDeFalla.JPG",
+    "width": 300,
+    "height": 412
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099022790",
+  "tid": "d0749f50-15f8-11ed-95d3-7b159f2f9055",
+  "timestamp": "2022-07-18T16:40:09Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_vida_breve_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/La_vida_breve_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_vida_breve_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_vida_breve_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_vida_breve_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_vida_breve_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/La_vida_breve_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_vida_breve_(opera)"
+    }
+  },
+  "extract": "La vida breve  is an opera in two acts and four scenes by Manuel de Falla to an original Spanish libretto by Carlos Fernández-Shaw. Local (Andalusian) dialect is used. It was written between August 1904 and March 1905, but not produced until 1913. The first performance was given at the Casino Municipal in Nice on 1 April 1913. Paris and Madrid performances followed, later in 1913 and in 1914 respectively. Claude Debussy played a major role in influencing Falla to transform it from the number opera it was at its Nice premiere to an opera with a more continuous musical texture and more mature orchestration. This revision was first heard at the Paris premiere at the Opéra-Comique in December 1913, and is the standard version.",
+  "extract_html": "<p><i><b>La vida breve </b></i> is an opera in two acts and four scenes by Manuel de Falla to an original Spanish libretto by Carlos Fernández-Shaw. Local (Andalusian) dialect is used. It was written between August 1904 and March 1905, but not produced until 1913. The first performance was given at the Casino Municipal in Nice on 1 April 1913. Paris and Madrid performances followed, later in 1913 and in 1914 respectively. Claude Debussy played a major role in influencing Falla to transform it from the number opera it was at its Nice premiere to an opera with a more continuous musical texture and more mature orchestration. This revision was first heard at the Paris premiere at the Opéra-Comique in December 1913, and is the standard version.</p>"
+}

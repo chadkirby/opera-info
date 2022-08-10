@@ -1,0 +1,33 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere, 19 June 1926<br>(Conductor: <a href=\"/wiki/Emil_M%C5%82ynarski\" title=\"Emil Młynarski\">Emil Młynarski</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Roger_II_of_Sicily\" title=\"Roger II of Sicily\">Roger II</a>, <i>King of Sicily</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Roxana, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Muhammad_al-Idrisi\" title=\"Muhammad al-Idrisi\">Edrisi</a>, <i>an Arab scholar</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Shepherd\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Archbishop\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Deaconess\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Priests, monks, nuns, acolytes, courtiers, guards, eunuchs, Shepherd's disciples</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Roger II, King of Sicily",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Roxana, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Edrisi, an Arab scholar",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Shepherd",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Archbishop",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Deaconess",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Priests, monks, nuns, acolytes, courtiers, guards, eunuchs, Shepherd's disciples",
+      "voiceType": ""
+    }
+  ]
+}

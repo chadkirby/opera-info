@@ -1,0 +1,27 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"145\">Cast<br>(Médée, Dircé,<br>Néris, Jason,<br>Créon)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-Medea_9-0\" class=\"reference\"><a href=\"#cite_note-Medea-9\">[9]</a></sup>\n</th></tr>\n<tr>\n<td>1995\n</td>\n<td>Iano Tamar,<br><a href=\"/wiki/Patrizia_Ciofi\" title=\"Patrizia Ciofi\">Patrizia Ciofi</a>,<br>Magali Damonte,<br>Luca Lombardo,<br>Jean-Philippe Courtis\n</td>\n\n<td>Audio CD: Nuova Era<br>Cat: 7253/54<br>Nuova Era,<br>Cat: 231687 (Reissue 2008)\n</td></tr>\n<tr>\n<td>1997\n</td>\n<td><a href=\"/wiki/Phyllis_Treigle\" title=\"Phyllis Treigle\">Phyllis Treigle</a>,<br><a href=\"/wiki/Tha%C3%AFs_St_Julien\" class=\"mw-redirect\" title=\"Thaïs St Julien\">Thaïs St Julien</a>,<br><a href=\"/wiki/D%27Anna_Fortunato\" title=\"D'Anna Fortunato\">D'Anna Fortunato</a>,<br>Carl Halvorson,<br>David Arnold\n</td>\n\n<td>Audio CD: <a href=\"/wiki/Newport_Classic\" title=\"Newport Classic\">Newport Classic</a><br>Cat: NPD 85622/2\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1995,
+      "cast": [
+        "Iano Tamar",
+        "Patrizia Ciofi",
+        "Magali Damonte",
+        "Luca Lombardo",
+        "Jean-Philippe Courtis"
+      ],
+      "conductor": "Patrick Fournillier"
+    },
+    {
+      "year": 1997,
+      "cast": [
+        "Phyllis Treigle",
+        "Thaïs St Julien",
+        "D'Anna Fortunato",
+        "Carl Halvorson",
+        "David Arnold"
+      ],
+      "conductor": "Bart Folse"
+    }
+  ]
+}

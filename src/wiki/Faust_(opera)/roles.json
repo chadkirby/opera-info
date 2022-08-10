@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 19 March 1859<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Adolphe_Deloffre\" title=\"Adolphe Deloffre\">Adolphe Deloffre</a><sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Faust\" title=\"Faust\">Faust</a>, a philosopher and metaphysician\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Mephistopheles\" title=\"Mephistopheles\">Méphistophélès</a>, a familiar spirit of Hell\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Marguerite, a young maiden\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Valentin, a soldier and Marguerite's brother\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Wagner, friend of Valentin\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Siébel, a youth in love with Marguerite\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a> or soprano<br>(<a href=\"/wiki/Breeches_role\" title=\"Breeches role\">breeches role</a>)\n</td>\n</tr>\n<tr>\n<td>Marthe Schwerlein, Marguerite's guardian\n</td>\n<td>mezzo-soprano or <a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Young girls, labourers, students, soldiers, burghers, matrons, invisible demons,<br>church choir, witches, queens and courtesans of antiquity, celestial voices\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Faust, a philosopher and metaphysician",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Méphistophélès, a familiar spirit of Hell",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Marguerite, a young maiden",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Valentin, a soldier and Marguerite's brother",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Wagner, friend of Valentin",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Siébel, a youth in love with Marguerite",
+      "voiceType": "mezzo-soprano or soprano\n(breeches role)"
+    },
+    {
+      "role": "Marthe Schwerlein, Marguerite's guardian",
+      "voiceType": "mezzo-soprano or contralto"
+    },
+    {
+      "role": "Young girls, labourers, students, soldiers, burghers, matrons, invisible demons,\nchurch choir, witches, queens and courtesans of antiquity, celestial voices",
+      "voiceType": ""
+    }
+  ]
+}

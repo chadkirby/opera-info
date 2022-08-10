@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th width=\"300\">Role\n</th>\n<th width=\"180\">Singer\n</th>\n<th width=\"100\">Voice type\n</th>\n<th width=\"350\">Appearances<sup id=\"cite_ref-31\" class=\"reference\"><a href=\"#cite_note-31\">[31]</a></sup>\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Fortuna\" title=\"Fortuna\">La Fortuna</a>, <i>Fortune</i><br><a href=\"/wiki/Poppaea_Sabina\" title=\"Poppaea Sabina\">Poppea</a>, <i>Poppaea, a most noble lady, mistress of Nero, raised by him to the seat of empire</i>\n</td>\n<td>Anna di Valerio\n</td>\n\n</tr>\n<tr>\n<td>La Virtù, <i>Virtue</i><br><a href=\"/wiki/Claudia_Octavia\" title=\"Claudia Octavia\">Ottavia</a>, <i>Octavia, reigning Empress, who is repudiated by Nero</i><br>Drusilla, <i>a lady of court, in love with Otho</i>\n</td>\n<td><a href=\"/wiki/Anna_Renzi\" title=\"Anna Renzi\">Anna Renzi</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Nero\" title=\"Nero\">Nerone</a>, <i>Nero, Roman Emperor</i>\n</td>\n<td>Stefano Costa\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Cupid\" title=\"Cupid\">Amore</a>, <i>Cupid</i><br>Valletto, <i>a valet, page of the Empress</i>\n</td>\n<td>Rabacchio\n</td>\n\n</tr>\n\n<tr>\n<td><a href=\"/wiki/Athena\" title=\"Athena\">Pallade</a>, <i>Pallas</i><br>Damigella, <i>a lady-in-waiting to the Empress<br><a href=\"/wiki/Venus_(mythology)\" title=\"Venus (mythology)\">Venere</a>, </i>Venus<i></i>\n</td>\n<td>Ponzanino\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Otho\" title=\"Otho\">Ottone</a>, <i>Otho, a most noble lord</i>\n</td>\n<td>Fritellino\n</td>\n\n</tr>\n<tr>\n<td>Arnalta, <i>aged nurse and confidante of Poppaea</i><br>Nutrice, <i>the nurse of the Empress Octavia</i><br>Famigliare I, <i>first friend of Seneca</i>\n</td>\n<td><i>Vecchia</i> singer\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Praetorian_Guard\" title=\"Praetorian Guard\">Soldato pretoriano</a> I, <i>first Praetorian soldier</i><br>Famigliare II, <i>second friend of Seneca</i><br><a href=\"/wiki/Lucan\" title=\"Lucan\">Lucano</a>, <i>Lucan, poet, intimate of Nero</i>\n</td>\n<td>Roman singer\n</td>\n\n</tr>\n<tr>\n<td>Soldato pretoriano II, <i>second Praetorian soldier</i><br><a href=\"/wiki/Freedman\" title=\"Freedman\">Liberto</a>, <i>a freedman, captain of the Praetorian Guard</i><br><a href=\"/wiki/Tribune\" title=\"Tribune\">Tribuno</a>, <i>a tribune</i>\n</td>\n<td>Captain Pompeo Conti\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Seneca_the_Younger\" title=\"Seneca the Younger\">Seneca</a>, <i>philosopher, Nero's tutor</i><br><a href=\"/wiki/Lictor\" title=\"Lictor\">Littore</a>, <i>a lictor</i>\n</td>\n<td>Don Giacinto Zucchi\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Mercury_(mythology)\" title=\"Mercury (mythology)\">Mercurio</a>, <i>Mercury</i><br>Famigliare III, <i>third friend of Seneca</i><br><a href=\"/wiki/Roman_consul\" title=\"Roman consul\">Console</a>, <i>a consul</i>\n</td>\n<td>Florentine singer\n</td>\n\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "La Fortuna, Fortune\nPoppea, Poppaea, a most noble lady, mistress of Nero, raised by him to the seat of empire",
+      "voiceType": "Anna di Valerio"
+    },
+    {
+      "role": "La Virtù, Virtue\nOttavia, Octavia, reigning Empress, who is repudiated by Nero\nDrusilla, a lady of court, in love with Otho",
+      "voiceType": "Anna Renzi"
+    },
+    {
+      "role": "Nerone, Nero, Roman Emperor",
+      "voiceType": "Stefano Costa"
+    },
+    {
+      "role": "Amore, Cupid\nValletto, a valet, page of the Empress",
+      "voiceType": "Rabacchio"
+    },
+    {
+      "role": "Pallade, Pallas\nDamigella, a lady-in-waiting to the Empress\nVenere,Venus",
+      "voiceType": "Ponzanino"
+    },
+    {
+      "role": "Ottone, Otho, a most noble lord",
+      "voiceType": "Fritellino"
+    },
+    {
+      "role": "Arnalta, aged nurse and confidante of Poppaea\nNutrice, the nurse of the Empress Octavia\nFamigliare I, first friend of Seneca",
+      "voiceType": "Vecchia singer"
+    },
+    {
+      "role": "Soldato pretoriano I, first Praetorian soldier\nFamigliare II, second friend of Seneca\nLucano, Lucan, poet, intimate of Nero",
+      "voiceType": "Roman singer"
+    },
+    {
+      "role": "Soldato pretoriano II, second Praetorian soldier\nLiberto, a freedman, captain of the Praetorian Guard\nTribuno, a tribune",
+      "voiceType": "Captain Pompeo Conti"
+    },
+    {
+      "role": "Seneca, philosopher, Nero's tutor\nLittore, a lictor",
+      "voiceType": "Don Giacinto Zucchi"
+    },
+    {
+      "role": "Mercurio, Mercury\nFamigliare III, third friend of Seneca\nConsole, a consul",
+      "voiceType": "Florentine singer"
+    }
+  ]
+}

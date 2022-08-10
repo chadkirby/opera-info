@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Aribert Reimann",
+  "displaytitle": "Aribert Reimann",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q246758",
+  "titles": {
+    "canonical": "Aribert_Reimann",
+    "normalized": "Aribert Reimann",
+    "display": "Aribert Reimann"
+  },
+  "pageid": 3547359,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aribert_Reimann.jpg/240px-Aribert_Reimann.jpg",
+    "width": 240,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aribert_Reimann.jpg",
+    "width": 2040,
+    "height": 2720
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1086208194",
+  "tid": "89a2ff30-f9cf-11ec-b261-cb6cb5548f24",
+  "timestamp": "2022-05-04T19:45:13Z",
+  "description": "German composer, pianist and accompanist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Aribert_Reimann",
+      "revisions": "https://en.wikipedia.org/wiki/Aribert_Reimann?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Aribert_Reimann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Aribert_Reimann"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Aribert_Reimann",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Aribert_Reimann",
+      "edit": "https://en.m.wikipedia.org/wiki/Aribert_Reimann?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Aribert_Reimann"
+    }
+  },
+  "extract": "Aribert Reimann is a German composer, pianist and accompanist, known especially for his literary operas. His version of Shakespeare's King Lear, the opera Lear, was written at the suggestion of Dietrich Fischer-Dieskau, who sang the title role. His opera Medea after Grillparzer's play premiered in 2010 at the Vienna State Opera. He was a professor of contemporary Lied in Hamburg and Berlin. In 2011, he was awarded the Ernst von Siemens Music Prize for his life's work.",
+  "extract_html": "<p><b>Aribert Reimann</b> is a German composer, pianist and accompanist, known especially for his literary operas. His version of Shakespeare's <i>King Lear</i>, the opera <i>Lear</i>, was written at the suggestion of Dietrich Fischer-Dieskau, who sang the title role. His opera <i>Medea</i> after Grillparzer's play premiered in 2010 at the Vienna State Opera. He was a professor of contemporary Lied in Hamburg and Berlin. In 2011, he was awarded the Ernst von Siemens Music Prize for his life's work.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "William Tell (opera)",
+  "displaytitle": "<i>William Tell</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q729659",
+  "titles": {
+    "canonical": "William_Tell_(opera)",
+    "normalized": "William Tell (opera)",
+    "display": "<i>William Tell</i> (opera)"
+  },
+  "pageid": 355345,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Guillaume_Tell_-_1-3._Laure_Cinti-Damoreau_as_Mathilde%2C_Adolphe_Nourrit_as_Arnold_Melchtal%2C_and_Nicolas_Levasseur_as_Walter_Furst.jpg/320px-thumbnail.jpg",
+    "width": 320,
+    "height": 218
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Guillaume_Tell_-_1-3._Laure_Cinti-Damoreau_as_Mathilde%2C_Adolphe_Nourrit_as_Arnold_Melchtal%2C_and_Nicolas_Levasseur_as_Walter_Furst.jpg",
+    "width": 4671,
+    "height": 3187
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1080731695",
+  "tid": "5d2a6070-17d3-11ed-a40a-656a06f4cb90",
+  "timestamp": "2022-04-03T03:04:23Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/William_Tell_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/William_Tell_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/William_Tell_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:William_Tell_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/William_Tell_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/William_Tell_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/William_Tell_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:William_Tell_(opera)"
+    }
+  },
+  "extract": "William Tell is a French-language opera in four acts by Italian composer Gioachino Rossini to a libretto by Victor-Joseph Étienne de Jouy and L. F. Bis, based on Friedrich Schiller's play Wilhelm Tell, which, in turn, drew on the William Tell legend. The opera was Rossini's last, although he lived for nearly 40 more years. Fabio Luisi said that Rossini planned for Guillaume Tell to be his last opera even as he composed it. The often-performed overture in four sections features a depiction of a storm and a vivacious finale, the \"March of the Swiss Soldiers\".",
+  "extract_html": "<p><i><b>William Tell</b></i> is a French-language opera in four acts by Italian composer Gioachino Rossini to a libretto by Victor-Joseph Étienne de Jouy and L. F. Bis, based on Friedrich Schiller's play <i>Wilhelm Tell,</i> which, in turn, drew on the William Tell legend. The opera was Rossini's last, although he lived for nearly 40 more years. Fabio Luisi said that Rossini planned for <i>Guillaume Tell</i> to be his last opera even as he composed it. The often-performed overture in four sections features a depiction of a storm and a vivacious finale, the \"March of the Swiss Soldiers\".</p>"
+}

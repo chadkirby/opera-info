@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 4 November 1924<br>Conductor: <a href=\"/wiki/Fritz_Busch\" title=\"Fritz Busch\">Fritz Busch</a>\n</th></tr>\n<tr>\n<td>Christine Storch\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Robert Storch, <i>her husband, a conductor</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Anna, <i>their maid</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Franzl, <i>their eight-year-old son</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Baron Lummer\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>The notary\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>His wife\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Stroh, <i>another conductor</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>A commercial counselor\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>A legal counsellor\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>A singer\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Fanny, <i>the Storch's cook</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Marie and Therese, <i>maids</i>\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Resi, <i>a young girl</i>\n</td>\n<td>soprano\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Christine Storch",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Robert Storch, her husband, a conductor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Anna, their maid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Franzl, their eight-year-old son",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Baron Lummer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The notary",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "His wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Stroh, another conductor",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "A commercial counselor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "A legal counsellor",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "A singer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Fanny, the Storch's cook",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Marie and Therese, maids",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Resi, a young girl",
+      "voiceType": "soprano"
+    }
+  ]
+}

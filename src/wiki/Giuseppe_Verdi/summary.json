@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Giuseppe Verdi",
+  "displaytitle": "Giuseppe Verdi",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7317",
+  "titles": {
+    "canonical": "Giuseppe_Verdi",
+    "normalized": "Giuseppe Verdi",
+    "display": "Giuseppe Verdi"
+  },
+  "pageid": 12958,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Primo_ritratto_boldiniano_di_Verdi.jpg/231px-Primo_ritratto_boldiniano_di_Verdi.jpg",
+    "width": 231,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Primo_ritratto_boldiniano_di_Verdi.jpg",
+    "width": 1709,
+    "height": 2362
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103548053",
+  "tid": "a1096e30-1855-11ed-91d1-c1134e2c9fdf",
+  "timestamp": "2022-08-10T02:39:11Z",
+  "description": "Italian opera composer (1813–1901)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+      "revisions": "https://en.wikipedia.org/wiki/Giuseppe_Verdi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Giuseppe_Verdi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Giuseppe_Verdi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Giuseppe_Verdi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Giuseppe_Verdi",
+      "edit": "https://en.m.wikipedia.org/wiki/Giuseppe_Verdi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Giuseppe_Verdi"
+    }
+  },
+  "extract": "Giuseppe Fortunino Francesco Verdi was an Italian composer best known for his operas. He was born near Busseto to a provincial family of moderate means, receiving a musical education with the help of a local patron. Verdi came to dominate the Italian opera scene after the era of Gioachino Rossini, Gaetano Donizetti, and Vincenzo Bellini, whose works significantly influenced him.",
+  "extract_html": "<p><b>Giuseppe Fortunino Francesco Verdi</b> was an Italian composer best known for his operas. He was born near Busseto to a provincial family of moderate means, receiving a musical education with the help of a local patron. Verdi came to dominate the Italian opera scene after the era of Gioachino Rossini, Gaetano Donizetti, and Vincenzo Bellini, whose works significantly influenced him.</p>"
+}

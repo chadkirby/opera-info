@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\"><i>La liberazione di Ruggiero dall'isola d'Alcina</i></th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Comic_opera\" title=\"Comic opera\">comic opera</a> by <a href=\"/wiki/Francesca_Caccini\" title=\"Francesca Caccini\">Francesca Caccini</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\">Ferdinando Saracinelli</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Italian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i><a href=\"/wiki/Orlando_Furioso\" title=\"Orlando Furioso\">Orlando Furioso</a></i><br>by Ludovico Ariosto</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">3&nbsp;February&nbsp;1625<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1625-02-03</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Villa_di_Poggio_Imperiale\" class=\"mw-redirect\" title=\"Villa di Poggio Imperiale\">Villa di Poggio Imperiale</a>, <a href=\"/wiki/Florence\" title=\"Florence\">Florence</a></div></div></td></tr></tbody></table>",
+  "titles": [
+    "La liberazione di Ruggiero dall'isola d'Alcina"
+  ],
+  "Librettist": "Ferdinando Saracinelli",
+  "Language": "Italian",
+  "Based on": "Orlando Furioso\nby Ludovico Ariosto",
+  "Premiere": "3 February 1625\nVilla di Poggio Imperiale, Florence"
+}

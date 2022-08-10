@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Die Entführung aus dem Serail",
+  "displaytitle": "<i>Die Entführung aus dem Serail</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q210711",
+  "titles": {
+    "canonical": "Die_Entführung_aus_dem_Serail",
+    "normalized": "Die Entführung aus dem Serail",
+    "display": "<i>Die Entführung aus dem Serail</i>"
+  },
+  "pageid": 38062,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mozart_Die_Entf%C3%BChrung_aus_dem_Serail_Urauff%C3%BChrung_1782.jpg/320px-Mozart_Die_Entf%C3%BChrung_aus_dem_Serail_Urauff%C3%BChrung_1782.jpg",
+    "width": 320,
+    "height": 249
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mozart_Die_Entf%C3%BChrung_aus_dem_Serail_Urauff%C3%BChrung_1782.jpg",
+    "width": 768,
+    "height": 597
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091996620",
+  "tid": "d06e0fa0-15f8-11ed-b69c-9f5577a8a330",
+  "timestamp": "2022-06-07T16:13:00Z",
+  "description": "Opera by Wolfgang Amadeus Mozart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail",
+      "revisions": "https://en.wikipedia.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Die_Entf%C3%BChrung_aus_dem_Serail"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Die_Entf%C3%BChrung_aus_dem_Serail",
+      "edit": "https://en.m.wikipedia.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Die_Entf%C3%BChrung_aus_dem_Serail"
+    }
+  },
+  "extract": "Die Entführung aus dem Serail is a singspiel in three acts by Wolfgang Amadeus Mozart. The German libretto is by Gottlieb Stephanie, based on Christoph Friedrich Bretzner's Belmont und Constanze, oder Die Entführung aus dem Serail. The plot concerns the attempt of the hero Belmonte, assisted by his servant Pedrillo, to rescue his beloved Constanze from the seraglio of Pasha Selim. The work premiered on 16 July 1782 at the Vienna Burgtheater, with the composer conducting.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Die Entführung aus dem Serail</i></span></b></i> is a singspiel in three acts by Wolfgang Amadeus Mozart. The German libretto is by Gottlieb Stephanie, based on Christoph Friedrich Bretzner's <span><i>Belmont und Constanze, oder Die Entführung aus dem Serail</i></span>. The plot concerns the attempt of the hero Belmonte, assisted by his servant Pedrillo, to rescue his beloved Constanze from the seraglio of Pasha Selim. The work premiered on 16 July 1782 at the Vienna Burgtheater, with the composer conducting.</p>"
+}

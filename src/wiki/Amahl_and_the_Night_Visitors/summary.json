@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Amahl and the Night Visitors",
+  "displaytitle": "<i>Amahl and the Night Visitors</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q452523",
+  "titles": {
+    "canonical": "Amahl_and_the_Night_Visitors",
+    "normalized": "Amahl and the Night Visitors",
+    "display": "<i>Amahl and the Night Visitors</i>"
+  },
+  "pageid": 1266808,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gcmenotti.jpg/214px-Gcmenotti.jpg",
+    "width": 214,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gcmenotti.jpg",
+    "width": 272,
+    "height": 406
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091857798",
+  "tid": "fe08b7b0-0f83-11ed-aa04-2bfd2fcc0944",
+  "timestamp": "2022-06-06T20:25:09Z",
+  "description": "Opera by Gian Carlo Menotti",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Amahl_and_the_Night_Visitors",
+      "revisions": "https://en.wikipedia.org/wiki/Amahl_and_the_Night_Visitors?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Amahl_and_the_Night_Visitors?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Amahl_and_the_Night_Visitors"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Amahl_and_the_Night_Visitors",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Amahl_and_the_Night_Visitors",
+      "edit": "https://en.m.wikipedia.org/wiki/Amahl_and_the_Night_Visitors?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Amahl_and_the_Night_Visitors"
+    }
+  },
+  "extract": "Amahl and the Night Visitors is an opera in one act by Gian Carlo Menotti with an original English libretto by the composer. It was commissioned by NBC and first performed by the NBC Opera Theatre on December 24, 1951, in New York City at NBC Studio 8H in Rockefeller Center, where it was broadcast live on television from that venue as the debut production of the Hallmark Hall of Fame. It was the first opera specifically composed for television in the United States.",
+  "extract_html": "<p><i><b>Amahl and the Night Visitors</b></i> is an opera in one act by Gian Carlo Menotti with an original English libretto by the composer. It was commissioned by NBC and first performed by the NBC Opera Theatre on December 24, 1951, in New York City at NBC Studio 8H in Rockefeller Center, where it was broadcast live on television from that venue as the debut production of the <i>Hallmark Hall of Fame</i>. It was the first opera specifically composed for television in the United States.</p>"
+}

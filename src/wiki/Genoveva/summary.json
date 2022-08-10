@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Genoveva",
+  "displaytitle": "<i>Genoveva</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q957377",
+  "titles": {
+    "canonical": "Genoveva",
+    "normalized": "Genoveva",
+    "display": "<i>Genoveva</i>"
+  },
+  "pageid": 3677132,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Adrian_Ludwig_Richter_013.png/268px-Adrian_Ludwig_Richter_013.png",
+    "width": 268,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Adrian_Ludwig_Richter_013.png",
+    "width": 2012,
+    "height": 2406
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1004087121",
+  "tid": "887a1da0-0bf9-11ed-8d32-41532e48f1af",
+  "timestamp": "2021-02-01T00:46:19Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Genoveva",
+      "revisions": "https://en.wikipedia.org/wiki/Genoveva?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Genoveva?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Genoveva"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Genoveva",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Genoveva",
+      "edit": "https://en.m.wikipedia.org/wiki/Genoveva?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Genoveva"
+    }
+  },
+  "extract": "Genoveva, Op. 81, is an opera in four acts by Robert Schumann in the genre of German Romanticism with a libretto by Robert Reinick and the composer. The only opera Schumann ever wrote, it received its first performance on 25 June 1850 at the Stadttheater in Leipzig, with the composer conducting. It received only three performances during the premiere, and the negative criticism it received in the press played a decisive role in Schumann's decision to not write a second opera.",
+  "extract_html": "<p><i><b>Genoveva</b></i>, Op. 81, is an opera in four acts by Robert Schumann in the genre of German Romanticism with a libretto by Robert Reinick and the composer. The only opera Schumann ever wrote, it received its first performance on 25 June 1850 at the Stadttheater in Leipzig, with the composer conducting. It received only three performances during the premiere, and the negative criticism it received in the press played a decisive role in Schumann's decision to not write a second opera.</p>"
+}

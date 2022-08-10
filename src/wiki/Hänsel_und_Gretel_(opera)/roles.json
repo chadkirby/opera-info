@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 23 December 1893<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Richard_Strauss\" title=\"Richard Strauss\">Richard Strauss</a>\n</th></tr>\n<tr>\n<td>Peter,<sup id=\"cite_ref-fn_9-0\" class=\"reference\"><a href=\"#cite_note-fn-9\">[N 1]</a></sup> <i>broom-maker</i></td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n</tr>\n<tr>\n<td>Gertrud,<sup id=\"cite_ref-fn_9-1\" class=\"reference\"><a href=\"#cite_note-fn-9\">[N 1]</a></sup> <i>his wife</i></td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a></td>\n</tr>\n<tr>\n<td>Hansel, <i>their son</i></td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a></td>\n</tr>\n<tr>\n<td>Gretel, <i>their daughter</i></td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td>The Gingerbread Witch</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a><sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[N 2]</a></sup></td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Sandman\" title=\"Sandman\">Sandman</a>, the Sleep <a href=\"/wiki/Fairy\" title=\"Fairy\">Fairy</a></td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td>Dewman, the Dew Fairy</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td>Chorus of echoes</td>\n<td>three <a href=\"/wiki/Soprano\" title=\"Soprano\">sopranos</a>, two <a href=\"/wiki/Alto\" title=\"Alto\">altos</a></td>\n</tr>\n<tr>\n<td colspan=\"2\">Children's chorus</td>\n<td>\n</td></tr>\n<tr>\n<td colspan=\"2\">Ballet (14 angels)</td>\n<td>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Peter, broom-maker",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Gertrud, his wife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Hansel, their son",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Gretel, their daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "The Gingerbread Witch",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Sandman, the Sleep Fairy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Dewman, the Dew Fairy",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus of echoes",
+      "voiceType": "three sopranos, two altos"
+    },
+    {
+      "role": "Children's chorus",
+      "voiceType": ""
+    },
+    {
+      "role": "Ballet (14 angels)",
+      "voiceType": ""
+    }
+  ]
+}

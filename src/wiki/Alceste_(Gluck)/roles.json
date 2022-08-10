@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Original version<br>Role\n</th>\n<th>Revised version<br>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-it_19-0\" class=\"reference\"><a href=\"#cite_note-it-19\">[19]</a></sup>\n</th>\n<th>Original version<br>Premiere cast<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[20]</a></sup><br>Vienna, 1767\n</th>\n<th>Revised version<br>Premiere cast<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\">[21]</a></sup><br>Paris, 1776<br>Conductor: –\n</th></tr>\n<tr>\n<td>Admeto (<a href=\"/wiki/Admetus\" class=\"mw-redirect\" title=\"Admetus\">Admetus</a>), <i>King of Pherae in Thessaly</i>\n</td>\n<td>Admète,<sup id=\"cite_ref-Admette_22-0\" class=\"reference\"><a href=\"#cite_note-Admette-22\">[22]</a></sup> <i>King of Thessaly</i>\n</td>\n\n\n<td><a href=\"/wiki/Joseph_Legros\" title=\"Joseph Legros\">Joseph Legros</a>\n</td></tr>\n<tr>\n<td>Alceste (<a href=\"/wiki/Alcestis\" title=\"Alcestis\">Alcestis</a>), <i>his wife</i>\n</td>\n<td>Alceste, <i>Admète's<sup id=\"cite_ref-Admette_22-1\" class=\"reference\"><a href=\"#cite_note-Admette-22\">[22]</a></sup> wife</i>\n</td>\n\n\n<td><a href=\"/wiki/Rosalie_Levasseur\" title=\"Rosalie Levasseur\">Rosalie Levasseur</a>\n</td></tr>\n<tr>\n<td>Eumelo and Aspasia,<br><i>their children</i>\n</td>\n<td>Their two children\n</td>\n\n\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(not reported)</i></div>\n</td></tr>\n<tr>\n<td>Evandro (Evander), <i>a confidant of Admetus</i>\n</td>\n<td>Evandre, <i>a leader of the Pherae people</i>\n</td>\n\n\n<td>M. Tirot (o Thirot)\n</td></tr>\n<tr>\n<td>Ismene, <i>a confidante of Alcestis</i>\n</td>\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(no role)</i></div>\n</td>\n\n\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(no role)</i></div>\n</td></tr>\n<tr>\n<td>High Priest of <a href=\"/wiki/Apollo\" title=\"Apollo\">Apollo</a>\n</td>\n<td>High Priest of Apollon\n</td>\n\n\n<td>Nicolas Gélin\n</td></tr>\n<tr>\n<td>Apollo\n</td>\n<td>Apollon (Apollo), <i>protector of the house of Admetus</i>\n</td>\n\n\n<td>M. Moreau\n</td></tr>\n<tr>\n<td>An infernal deity\n</td>\n<td>An infernal god\n</td>\n\n\n<td>M. De La Suze\n</td></tr>\n<tr>\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(no role)</i></div>\n</td>\n<td>Hercule (<a href=\"/wiki/Hercules\" title=\"Hercules\">Hercules</a>)<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\">[23]</a></sup>\n</td>\n\n\n<td><a href=\"/wiki/Henri_Larriv%C3%A9e\" title=\"Henri Larrivée\">Henri Larrivée</a><sup id=\"cite_ref-24\" class=\"reference\"><a href=\"#cite_note-24\">[24]</a></sup>\n</td></tr>\n<tr>\n<td>An oracle\n</td>\n<td>An oracle<sup id=\"cite_ref-Cast_25-0\" class=\"reference\"><a href=\"#cite_note-Cast-25\">[25]</a></sup>\n</td>\n\n\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(not reported)</i></div>\n</td></tr>\n<tr>\n<td>A town crier\n</td>\n<td>A herald of arms<sup id=\"cite_ref-Cast_25-1\" class=\"reference\"><a href=\"#cite_note-Cast-25\">[25]</a></sup>\n</td>\n\n\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(not reported)</i></div>\n</td></tr>\n<tr>\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(no role)</i></div>\n</td>\n<td>Choryphaei <i>(chorus leaders)</i>\n</td>\n\n\n<td><div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i>(not reported)</i></div>\n</td></tr>\n<tr>\n<td colspan=\"5\">Chorus (1767): <i>courtiers, citizens, Alcestis's maids of honour, priests of Apollo, gods of the underworld</i>\n</td></tr>\n<tr>\n<td colspan=\"5\">Chorus (1776): <i>officers of the palace, Alcestis's attendants, citizens of Pherae, infernal deities, priests and priestesses in the temple of Apollo.</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Admeto (Admetus), King of Pherae in Thessaly",
+      "voiceType": "Admète, King of Thessaly"
+    },
+    {
+      "role": "Alceste (Alcestis), his wife",
+      "voiceType": "Alceste, Admète's wife"
+    },
+    {
+      "role": "Eumelo and Aspasia,\ntheir children",
+      "voiceType": "Their two children"
+    },
+    {
+      "role": "Evandro (Evander), a confidant of Admetus",
+      "voiceType": "Evandre, a leader of the Pherae people"
+    },
+    {
+      "role": "Ismene, a confidante of Alcestis",
+      "voiceType": "(no role)"
+    },
+    {
+      "role": "High Priest of Apollo",
+      "voiceType": "High Priest of Apollon"
+    },
+    {
+      "role": "Apollo",
+      "voiceType": "Apollon (Apollo), protector of the house of Admetus"
+    },
+    {
+      "role": "An infernal deity",
+      "voiceType": "An infernal god"
+    },
+    {
+      "role": "(no role)",
+      "voiceType": "Hercule (Hercules)"
+    },
+    {
+      "role": "An oracle",
+      "voiceType": "An oracle"
+    },
+    {
+      "role": "A town crier",
+      "voiceType": "A herald of arms"
+    },
+    {
+      "role": "(no role)",
+      "voiceType": "Choryphaei (chorus leaders)"
+    },
+    {
+      "role": "Chorus (1767): courtiers, citizens, Alcestis's maids of honour, priests of Apollo, gods of the underworld",
+      "voiceType": ""
+    },
+    {
+      "role": "Chorus (1776): officers of the palace, Alcestis's attendants, citizens of Pherae, infernal deities, priests and priestesses in the temple of Apollo.",
+      "voiceType": ""
+    }
+  ]
+}

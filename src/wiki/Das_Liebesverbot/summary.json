@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Das Liebesverbot",
+  "displaytitle": "<i>Das Liebesverbot</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q174392",
+  "titles": {
+    "canonical": "Das_Liebesverbot",
+    "normalized": "Das Liebesverbot",
+    "display": "<i>Das Liebesverbot</i>"
+  },
+  "pageid": 1129450,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wagner%2C_Richard_-_Liebesverbot.jpg/229px-Wagner%2C_Richard_-_Liebesverbot.jpg",
+    "width": 229,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Wagner%2C_Richard_-_Liebesverbot.jpg",
+    "width": 2361,
+    "height": 3291
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1075201045",
+  "tid": "d0aa2e40-15f8-11ed-b8db-4928b2244f49",
+  "timestamp": "2022-03-04T13:38:21Z",
+  "description": "Opera by Richard Wagner",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Das_Liebesverbot",
+      "revisions": "https://en.wikipedia.org/wiki/Das_Liebesverbot?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Das_Liebesverbot?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Das_Liebesverbot"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Das_Liebesverbot",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Das_Liebesverbot",
+      "edit": "https://en.m.wikipedia.org/wiki/Das_Liebesverbot?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Das_Liebesverbot"
+    }
+  },
+  "extract": "Das Liebesverbot, is an early comic opera in two acts by Richard Wagner, with the libretto written by the composer after Shakespeare's Measure for Measure. Described as a Große komische Oper, it was composed in early 1836.",
+  "extract_html": "<p><i><b><span><i lang=\"de\">Das Liebesverbot</i></span></b></i>, is an early comic opera in two acts by Richard Wagner, with the libretto written by the composer after Shakespeare's <i>Measure for Measure</i>. Described as a <i><span><i lang=\"de\">Große komische Oper</i></span></i>, it was composed in early 1836.</p>"
+}

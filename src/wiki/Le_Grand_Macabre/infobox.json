@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Le Grand Macabre</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\"><a href=\"/wiki/Opera\" title=\"Opera\">Opera</a> by <a href=\"/wiki/Gy%C3%B6rgy_Ligeti\" title=\"György Ligeti\">György Ligeti</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><div class=\"plainlist\">\n<ul><li>György Ligeti</li>\n<li>Michael Meschke</li></ul>\n</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">German</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i>La balade du grand macabre</i><br>by <a href=\"/wiki/Michel_de_Ghelderode\" title=\"Michel de Ghelderode\">Michel de Ghelderode</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">12&nbsp;April&nbsp;1978<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1978-04-12</span>)</span> (in Swedish)<br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Royal_Swedish_Opera\" title=\"Royal Swedish Opera\">Royal Swedish Opera</a>, Stockholm</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Le Grand Macabre"
+  ],
+  "Librettist": "György Ligeti Michael Meschke",
+  "Language": "German",
+  "Based on": "La balade du grand macabre\nby Michel de Ghelderode",
+  "Premiere": "12 April 1978 (in Swedish)\nRoyal Swedish Opera, Stockholm"
+}

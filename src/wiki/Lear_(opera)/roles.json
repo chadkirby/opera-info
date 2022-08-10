@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role<sup id=\"cite_ref-schott_9-0\" class=\"reference\"><a href=\"#cite_note-schott-9\">[9]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-schott_9-1\" class=\"reference\"><a href=\"#cite_note-schott-9\">[9]</a></sup>\n</th>\n<th>Premiere cast 9 July 1978<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup><br>(Conductor: <a href=\"/wiki/Gerd_Albrecht\" title=\"Gerd Albrecht\">Gerd Albrecht</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Leir_of_Britain\" title=\"Leir of Britain\">Lear</a></td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a></td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Shakespearean_fool\" title=\"Shakespearean fool\">Fool</a></td>\n<td>spoken role</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Goneril\" title=\"Goneril\">Goneril</a>, <i>daughter of Lear</i></td>\n<td>dramatic <a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a></td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Regan_(King_Lear)\" title=\"Regan (King Lear)\">Regan</a>, <i>daughter of Lear</i></td>\n<td>soprano</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Cordelia_(King_Lear)\" title=\"Cordelia (King Lear)\">Cordelia</a>, <i>daughter of Lear</i></td>\n<td>soprano</td>\n</tr>\n<tr>\n<td>Duke of Albany</td>\n<td>baritone</td>\n</tr>\n<tr>\n<td>Duke of Cornwall</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a></td>\n</tr>\n<tr>\n<td>King of France</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a></td>\n</tr>\n<tr>\n<td>Duke of Gloucester</td>\n<td>bass-baritone</td>\n</tr>\n<tr>\n<td>Edgar, <i>son of Gloucester</i></td>\n<td>tenor/<a href=\"/wiki/Countertenor\" title=\"Countertenor\">countertenor</a></td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Edmund_(King_Lear)\" title=\"Edmund (King Lear)\">Edmund</a>, <i>illegitimate son of Gloucester</i></td>\n<td>tenor</td>\n</tr>\n<tr>\n<td>Earl of Kent</td>\n<td>tenor</td>\n</tr>\n<tr>\n<td>Servant</td>\n<td>tenor</td>\n</tr>\n<tr>\n<td>Knight</td>\n<td>spoken role</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>servants, guards, soldiers, Lear's and Gloucester's retinue</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Lear",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Fool",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Goneril, daughter of Lear",
+      "voiceType": "dramatic soprano"
+    },
+    {
+      "role": "Regan, daughter of Lear",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Cordelia, daughter of Lear",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Duke of Albany",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Duke of Cornwall",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "King of France",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Duke of Gloucester",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Edgar, son of Gloucester",
+      "voiceType": "tenor/countertenor"
+    },
+    {
+      "role": "Edmund, illegitimate son of Gloucester",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Earl of Kent",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Servant",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Knight",
+      "voiceType": "spoken role"
+    },
+    {
+      "role": "Chorus: servants, guards, soldiers, Lear's and Gloucester's retinue",
+      "voiceType": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 22 January 1934<br>Conductor: <a href=\"/wiki/Samuil_Samosud\" title=\"Samuil Samosud\">Samuil Samosud</a>\n</th></tr>\n<tr>\n<td>Boris Timofeyevich Izmailov, <i>a Merchant</i>\n</td>\n<td>high <a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Zinoviy Borisovich Izmailov, <i>his son</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Katerina Lvovna Izmailova, <i>wife of Zinoviy Borisovich</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Sergei, <i>a workman employed at the Izmailovs</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Aksinya, <i>a workwoman employed at the Izmailovs</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Tattered peasant (Village Drunk)\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Workman, <i>employed at the Izmailovs</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Steward, <i>a workman employed at the Izmailovs</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Porter, <i>a workman employed at the Izmailovs</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>First Workman, <i>employed at the Izmailovs</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second Workman, <i>employed at the Izmailovs</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Priest\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Police Inspector\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Local Nihilist\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Policeman\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Old Convict\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Sonyetka, <i>a convict</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>A female convict\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Sergeant\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Sentry\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Ghost of Boris Timofeyevich\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <a href=\"/wiki/SATB\" title=\"SATB\">SATB</a>, divided parts – <i>Workmen and women employed at the Izmailovs; Policemen; Wedding guests; male and female convicts</i>\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Boris Timofeyevich Izmailov, a Merchant",
+      "voiceType": "high bass"
+    },
+    {
+      "role": "Zinoviy Borisovich Izmailov, his son",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Katerina Lvovna Izmailova, wife of Zinoviy Borisovich",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sergei, a workman employed at the Izmailovs",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Aksinya, a workwoman employed at the Izmailovs",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Tattered peasant (Village Drunk)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Workman, employed at the Izmailovs",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Steward, a workman employed at the Izmailovs",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Porter, a workman employed at the Izmailovs",
+      "voiceType": "bass"
+    },
+    {
+      "role": "First Workman, employed at the Izmailovs",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second Workman, employed at the Izmailovs",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Priest",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Police Inspector",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Local Nihilist",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Policeman",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Old Convict",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sonyetka, a convict",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "A female convict",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sergeant",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Sentry",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ghost of Boris Timofeyevich",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Chorus: SATB, divided parts – Workmen and women employed at the Izmailovs; Policemen; Wedding guests; male and female convicts",
+      "voiceType": ""
+    }
+  ]
+}

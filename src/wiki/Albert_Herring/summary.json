@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Albert Herring",
+  "displaytitle": "<i>Albert Herring</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q577825",
+  "titles": {
+    "canonical": "Albert_Herring",
+    "normalized": "Albert Herring",
+    "display": "<i>Albert Herring</i>"
+  },
+  "pageid": 1256196,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg/297px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 297,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia_crop.jpg",
+    "width": 509,
+    "height": 548
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1100074352",
+  "tid": "646ea590-0afd-11ed-9e02-0f52f68fde8b",
+  "timestamp": "2022-07-24T03:04:52Z",
+  "description": "1947 opera by Benjamin Britten",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Albert_Herring",
+      "revisions": "https://en.wikipedia.org/wiki/Albert_Herring?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Albert_Herring?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Albert_Herring"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Albert_Herring",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Albert_Herring",
+      "edit": "https://en.m.wikipedia.org/wiki/Albert_Herring?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Albert_Herring"
+    }
+  },
+  "extract": "Albert Herring, Op. 39, is a chamber opera in three acts by Benjamin Britten.",
+  "extract_html": "<p><i><b>Albert Herring</b></i>, Op. 39, is a chamber opera in three acts by Benjamin Britten.</p>"
+}

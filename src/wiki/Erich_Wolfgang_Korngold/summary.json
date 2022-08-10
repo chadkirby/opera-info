@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Erich Wolfgang Korngold",
+  "displaytitle": "Erich Wolfgang Korngold",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313371",
+  "titles": {
+    "canonical": "Erich_Wolfgang_Korngold",
+    "normalized": "Erich Wolfgang Korngold",
+    "display": "Erich Wolfgang Korngold"
+  },
+  "pageid": 416941,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Erich_Wolfgang_Korngold_01.jpg/246px-Erich_Wolfgang_Korngold_01.jpg",
+    "width": 246,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Erich_Wolfgang_Korngold_01.jpg",
+    "width": 898,
+    "height": 1166
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097008766",
+  "tid": "a184c060-fe85-11ec-91f2-61c083ab426f",
+  "timestamp": "2022-07-08T03:18:52Z",
+  "description": "Austrian-born American composer and conductor (1897–1957)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Erich_Wolfgang_Korngold",
+      "revisions": "https://en.wikipedia.org/wiki/Erich_Wolfgang_Korngold?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Erich_Wolfgang_Korngold?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Erich_Wolfgang_Korngold"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Erich_Wolfgang_Korngold",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Erich_Wolfgang_Korngold",
+      "edit": "https://en.m.wikipedia.org/wiki/Erich_Wolfgang_Korngold?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Erich_Wolfgang_Korngold"
+    }
+  },
+  "extract": "Erich Wolfgang Korngold was an Austrian-born American composer and conductor. A child prodigy, he became one of the most important and influential composers in Hollywood history. He was a noted pianist and composer of classical music, along with music for Hollywood films, and the first composer of international stature to write Hollywood scores.",
+  "extract_html": "<p><b>Erich Wolfgang Korngold</b> was an Austrian-born American composer and conductor. A child prodigy, he became one of the most important and influential composers in Hollywood history. He was a noted pianist and composer of classical music, along with music for Hollywood films, and the first composer of international stature to write Hollywood scores.</p>"
+}

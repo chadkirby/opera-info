@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "L'italiana in Algeri",
+  "displaytitle": "<i>L'italiana in Algeri</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q589932",
+  "titles": {
+    "canonical": "L'italiana_in_Algeri",
+    "normalized": "L'italiana in Algeri",
+    "display": "<i>L'italiana in Algeri</i>"
+  },
+  "pageid": 356788,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/262px-Rossini-portrait-0.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rossini-portrait-0.jpg",
+    "width": 840,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1085731496",
+  "tid": "f1996e40-0063-11ed-bf4d-a5bba1a2e9b4",
+  "timestamp": "2022-05-02T04:12:23Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/L'italiana_in_Algeri",
+      "revisions": "https://en.wikipedia.org/wiki/L'italiana_in_Algeri?action=history",
+      "edit": "https://en.wikipedia.org/wiki/L'italiana_in_Algeri?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:L'italiana_in_Algeri"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/L'italiana_in_Algeri",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/L'italiana_in_Algeri",
+      "edit": "https://en.m.wikipedia.org/wiki/L'italiana_in_Algeri?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:L'italiana_in_Algeri"
+    }
+  },
+  "extract": "L'italiana in Algeri is an operatic dramma giocoso in two acts by Gioachino Rossini to an Italian libretto by Angelo Anelli, based on his earlier text set by Luigi Mosca. It premiered at the Teatro San Benedetto in Venice on 22 May 1813. The music is characteristic of Rossini's style, remarkable for its fusion of sustained, manic energy with elegant, pristine melodies.",
+  "extract_html": "<p><i><b>L'italiana in Algeri</b></i> is an operatic <i>dramma giocoso</i> in two acts by Gioachino Rossini to an Italian libretto by Angelo Anelli, based on his earlier text set by Luigi Mosca. It premiered at the Teatro San Benedetto in Venice on 22 May 1813. The music is characteristic of Rossini's style, remarkable for its fusion of sustained, manic energy with elegant, pristine melodies.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast <br>(Henry Morosos,<br>Sir Morosus,<br>Housekeeper,<br> Barber, Aminta)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-28\" class=\"reference\"><a href=\"#cite_note-28\">[28]</a></sup>\n</th></tr>\n<tr>\n<td>1959\n</td>\n<td><a href=\"/wiki/Fritz_Wunderlich\" title=\"Fritz Wunderlich\">Fritz Wunderlich</a>,<br><a href=\"/wiki/Hans_Hotter\" title=\"Hans Hotter\">Hans Hotter</a>,<br><span class=\"nowrap\">Georgine von Milinkovic</span>,<br><a href=\"/wiki/Hermann_Prey\" title=\"Hermann Prey\">Hermann Prey</a>,<br> <a href=\"/wiki/Hilde_G%C3%BCden\" title=\"Hilde Güden\">Hilde Güden</a>\n</td>\n\n<td>Audio CD: DG<br>Cat: DG 445 335–2\n</td></tr>\n<tr>\n<td>1971\n</td>\n<td><a href=\"/wiki/Donald_Grobe\" title=\"Donald Grobe\">Donald Grobe</a>,<br>Kurt Böhme,<br><a href=\"/wiki/Martha_M%C3%B6dl\" title=\"Martha Mödl\">Martha Mödl</a>,<br><a href=\"/wiki/Barry_McDaniel\" title=\"Barry McDaniel\">Barry McDaniel</a>,<br><a href=\"/wiki/Reri_Grist\" title=\"Reri Grist\">Reri Grist</a>\n</td>\n\n<td>Audio CD: Orfeo,<br>Cat: C 516992 I\n</td></tr>\n<tr>\n<td>1977 (re-issued 2012)\n</td>\n<td><a href=\"/wiki/Eberhard_B%C3%BCchner\" title=\"Eberhard Büchner\">Eberhard Büchner</a>,<br><a href=\"/wiki/Theo_Adam\" title=\"Theo Adam\">Theo Adam</a>,<br><a href=\"/wiki/Annelies_Burmeister\" title=\"Annelies Burmeister\">Annelies Burmeister</a>,<br><a href=\"/wiki/Wolfgang_Sch%C3%B6ne\" title=\"Wolfgang Schöne\">Wolfgang Schöne</a>,<br><a href=\"/wiki/Jeanette_Scovotti\" title=\"Jeanette Scovotti\">Jeanette Scovotti</a>\n</td>\n\n<td>Audio CD: Testament<br>Cat: CMS5660332.\n</td></tr>\n<tr>\n<td>2013\n</td>\n<td>Bernhard Berchtold, <br> Franz Hawlata, <br> Monika Straube, <br>Andreas Kindschuh, <br><a href=\"/wiki/Julia_Bauer\" title=\"Julia Bauer\">Julia Bauer</a>.\n</td>\n\n<td>Audio CD: CPO <br> Cat: CPO 777 757–2\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1959,
+      "cast": [
+        "Fritz Wunderlich",
+        "Hans Hotter",
+        "Georgine von Milinkovic",
+        "Hermann Prey",
+        " Hilde Güden"
+      ],
+      "conductor": "Karl Böhm, "
+    },
+    {
+      "year": 1971,
+      "cast": [
+        "Donald Grobe",
+        "Kurt Böhme",
+        "Martha Mödl",
+        "Barry McDaniel",
+        "Reri Grist"
+      ],
+      "conductor": "Wolfgang Sawallisch"
+    },
+    {
+      "year": 1977,
+      "cast": [
+        "Eberhard Büchner",
+        "Theo Adam",
+        "Annelies Burmeister",
+        "Wolfgang Schöne",
+        "Jeanette Scovotti"
+      ],
+      "conductor": "Marek Janowski"
+    },
+    {
+      "year": 2013,
+      "cast": [
+        "Bernhard Berchtold, ",
+        " Franz Hawlata, ",
+        " Monika Straube, ",
+        "Andreas Kindschuh, ",
+        "Julia Bauer."
+      ],
+      "conductor": "Frank Beermann, "
+    }
+  ]
+}

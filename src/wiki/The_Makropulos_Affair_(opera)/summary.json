@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Makropulos Affair (opera)",
+  "displaytitle": "<i>The Makropulos Affair</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1142221",
+  "titles": {
+    "canonical": "The_Makropulos_Affair_(opera)",
+    "normalized": "The Makropulos Affair (opera)",
+    "display": "<i>The Makropulos Affair</i> (opera)"
+  },
+  "pageid": 132876,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Leos_Janacek_relief.jpg/310px-Leos_Janacek_relief.jpg",
+    "width": 310,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Leos_Janacek_relief.jpg",
+    "width": 960,
+    "height": 992
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1097752452",
+  "tid": "ab946ed0-119e-11ed-bb0f-e3bc4c3eacf5",
+  "timestamp": "2022-07-12T13:54:26Z",
+  "description": "Opera by Leoš Janáček",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Makropulos_Affair_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Makropulos_Affair_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Makropulos_Affair_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Makropulos_Affair_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Makropulos_Affair_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Makropulos_Affair_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Makropulos_Affair_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Makropulos_Affair_(opera)"
+    }
+  },
+  "extract": "The Makropulos Affair is a Czech opera in 3 acts, with music and libretto by Leoš Janáček. Janáček based his opera on the play Věc Makropulos by Karel Čapek. Composed between 1923 and 1925, The Makropulos Affair was his penultimate opera and, like much of his later work, was inspired by his infatuation with Kamila Stösslová, a married woman much younger than himself.",
+  "extract_html": "<p><i><b>The Makropulos Affair</b></i> is a Czech opera in 3 acts, with music and libretto by Leoš Janáček. Janáček based his opera on the play <i>Věc Makropulos</i> by Karel Čapek. Composed between 1923 and 1925, <i>The Makropulos Affair</i> was his penultimate opera and, like much of his later work, was inspired by his infatuation with Kamila Stösslová, a married woman much younger than himself.</p>"
+}

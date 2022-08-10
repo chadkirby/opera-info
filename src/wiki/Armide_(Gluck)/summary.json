@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Armide (Gluck)",
+  "displaytitle": "<i>Armide</i> (Gluck)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q777582",
+  "titles": {
+    "canonical": "Armide_(Gluck)",
+    "normalized": "Armide (Gluck)",
+    "display": "<i>Armide</i> (Gluck)"
+  },
+  "pageid": 1671285,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1009497505",
+  "tid": "d03d3ba0-15f8-11ed-84e6-99b08ae5ea3d",
+  "timestamp": "2021-02-28T22:11:19Z",
+  "description": "1777 opera by Christoph Willibald Gluck",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Armide_(Gluck)",
+      "revisions": "https://en.wikipedia.org/wiki/Armide_(Gluck)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Armide_(Gluck)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Armide_(Gluck)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Armide_(Gluck)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Armide_(Gluck)",
+      "edit": "https://en.m.wikipedia.org/wiki/Armide_(Gluck)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Armide_(Gluck)"
+    }
+  },
+  "extract": "Armide is an opera by Christoph Willibald Gluck, set to a libretto by Philippe Quinault. Gluck's fifth production for the Parisian stage and the composer's own favourite among his works, it was first performed on 23 September 1777 by the Académie Royale de Musique in the second Salle du Palais-Royal in Paris.",
+  "extract_html": "<p><i><b>Armide</b></i> is an opera by Christoph Willibald Gluck, set to a libretto by Philippe Quinault. Gluck's fifth production for the Parisian stage and the composer's own favourite among his works, it was first performed on 23 September 1777 by the Académie Royale de Musique in the second Salle du Palais-Royal in Paris.</p>"
+}

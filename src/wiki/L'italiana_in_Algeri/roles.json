@@ -1,0 +1,37 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premier cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 22 May 1813<br>Conductor: <style data-mw-deduplicate=\"TemplateStyles:r886047488\">.mw-parser-output .nobold{font-weight:normal}</style><span class=\"nobold\">likely</span> <a href=\"/wiki/Alessandro_Rolla\" title=\"Alessandro Rolla\">Alessandro Rolla</a>\n</th></tr>\n<tr>\n<td>Isabella, <i>the Italian girl</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Lindoro, <i>in love with Isabella</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Taddeo, <i>an elderly Italian</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Mustafà, <i>the Bey of Algiers</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Elvira, <i>his wife</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Zulma, <i>her confidante</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Haly, <i>the captain of the Bey's guard</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a> or <a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a><sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Harem women (silent); Eunuchs, pirates, slaves, sailors – Male chorus</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Isabella, the Italian girl",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Lindoro, in love with Isabella",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Taddeo, an elderly Italian",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Mustafà, the Bey of Algiers",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Elvira, his wife",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Zulma, her confidante",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Haly, the captain of the Bey's guard",
+      "voiceType": "tenor or bass"
+    },
+    {
+      "role": "Harem women (silent); Eunuchs, pirates, slaves, sailors – Male chorus",
+      "voiceType": ""
+    }
+  ]
+}

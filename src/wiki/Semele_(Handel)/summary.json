@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Semele (Handel)",
+  "displaytitle": "<i>Semele</i> (Handel)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1284403",
+  "titles": {
+    "canonical": "Semele_(Handel)",
+    "normalized": "Semele (Handel)",
+    "display": "<i>Semele</i> (Handel)"
+  },
+  "pageid": 355835,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/265px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 2400,
+    "height": 2901
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087498825",
+  "tid": "d2010bb0-15f8-11ed-8cfd-b199062b25a9",
+  "timestamp": "2022-05-12T20:49:26Z",
+  "description": "1744 opera-oratorio by Handel",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Semele_(Handel)",
+      "revisions": "https://en.wikipedia.org/wiki/Semele_(Handel)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Semele_(Handel)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Semele_(Handel)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Semele_(Handel)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Semele_(Handel)",
+      "edit": "https://en.m.wikipedia.org/wiki/Semele_(Handel)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Semele_(Handel)"
+    }
+  },
+  "extract": "Semele is a 'musical drama', originally presented \"after the manner of an oratorio\", in three parts by George Frideric Handel. Based on a pre-existent opera libretto by William Congreve, the work is an opera in all but name but was first presented in concert form at Covent Garden theatre on 10 February 1744. The story comes from Ovid's Metamorphoses and concerns Semele, mother of Bacchus. Handel also referred to the work as 'The Story of Semele'. The work contains the famous aria Where'er you walk.",
+  "extract_html": "<p><i><b>Semele</b></i> is a 'musical drama', originally presented \"after the manner of an oratorio\", in three parts by George Frideric Handel. Based on a pre-existent opera libretto by William Congreve, the work is an opera in all but name but was first presented in concert form at Covent Garden theatre on 10 February 1744. The story comes from <span>Ovid's <i>Metamorphoses</i></span> and concerns Semele, mother of Bacchus. Handel also referred to the work as 'The Story of Semele'. The work contains the famous aria <i>Where'er you walk.</i></p>"
+}

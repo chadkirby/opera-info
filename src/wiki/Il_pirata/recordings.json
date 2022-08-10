@@ -1,0 +1,65 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>(Imogene,<br>Gualtiero,<br>Ernesto,<br>Goffredo)\n</th>\n<th>Conductor,<br>Opera house and orchestra\n</th>\n<th>Label<sup id=\"cite_ref-OPDIS_16-1\" class=\"reference\"><a href=\"#cite_note-OPDIS-16\">[16]</a></sup>\n</th></tr>\n<tr>\n<td>1959</td>\n<td><a href=\"/wiki/Maria_Callas\" title=\"Maria Callas\">Maria Callas</a>,<br><a href=\"/wiki/Pier_Miranda_Ferraro\" title=\"Pier Miranda Ferraro\">Pier Miranda Ferraro</a>,<br>Constantino Ego,<br><a href=\"/wiki/Chester_Watson_(bass%E2%80%90baritone)\" title=\"Chester Watson (bass‐baritone)\">Chester Watson</a></td>\n\n<td>Audio CD: <a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a> <br>Cat: D232361\n</td></tr>\n<tr>\n<td>1967</td>\n<td><a href=\"/wiki/Montserrat_Caball%C3%A9\" title=\"Montserrat Caballé\">Montserrat Caballé</a>, <br>Flaviano Labò, <br><a href=\"/wiki/Piero_Cappuccilli\" title=\"Piero Cappuccilli\">Piero Cappuccilli</a>,<br>Giuseppe Baratti</td>\n\n<td>Audio CD: <a href=\"/w/index.php?title=Opera_d%27Oro&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Opera d'Oro (page does not exist)\">Opera d'Oro</a><br>Cat: B00000FBRF<br>\n</td></tr>\n<tr>\n<td>1970</td>\n<td><a href=\"/wiki/Montserrat_Caball%C3%A9\" title=\"Montserrat Caballé\">Montserrat Caballé</a>,<br><a href=\"/wiki/Bernab%C3%A9_Mart%C3%AD\" title=\"Bernabé Martí\">Bernabé Martí</a>,<br><a href=\"/wiki/Piero_Cappuccilli\" title=\"Piero Cappuccilli\">Piero Cappuccilli</a>,<br><a href=\"/wiki/Ruggero_Raimondi\" title=\"Ruggero Raimondi\">Ruggero Raimondi</a><br></td>\n\n<td>Audio CD: <a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a><br>Cat: 7243 567121<br> (Re-issued 2005)\n</td></tr>\n<tr>\n<td>1994</td>\n<td><a href=\"/wiki/Lucia_Aliberti\" title=\"Lucia Aliberti\">Lucia Aliberti</a>, <br>Stuart Neill, <br>Roberto Frontali,<br>Kelly Anderson</td>\n\n<td>Audio CD: Berlin Classics <br>Cat: B0000035MR\n</td></tr>\n<tr>\n<td>2003</td>\n<td><a href=\"/wiki/Ren%C3%A9e_Fleming\" title=\"Renée Fleming\">Renée Fleming</a>, <br><a href=\"/wiki/Marcello_Giordani\" title=\"Marcello Giordani\">Marcello Giordani</a>, <br><a href=\"/wiki/Dwayne_Croft\" title=\"Dwayne Croft\">Dwayne Croft</a>,<br>Tigran Martirossian</td>\n\n<td>Audio CD: Celestial Audio <br>Cat: CA 309 B0000035MR\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td><a href=\"/wiki/Carmen_Giannattasio\" title=\"Carmen Giannattasio\">Carmen Giannattasio</a>,<br>José Bros,<br><a href=\"/wiki/Ludovic_T%C3%A9zier\" title=\"Ludovic Tézier\">Ludovic Tézier</a>,<br>Brindley Sherratt\n</td>\n\n<td>Audio CD: <a href=\"/wiki/Opera_Rara\" title=\"Opera Rara\">Opera Rara</a>,<br>Cat: ORC45\n</td></tr>\n</tbody></table>",
+  "items": [
+    {
+      "year": 1959,
+      "cast": [
+        "Maria Callas",
+        "Pier Miranda Ferraro",
+        "Constantino Ego",
+        "Chester Watson"
+      ],
+      "conductor": "Nicola Rescigno"
+    },
+    {
+      "year": 1967,
+      "cast": [
+        "Montserrat Caballé, ",
+        "Flaviano Labò, ",
+        "Piero Cappuccilli",
+        "Giuseppe Baratti"
+      ],
+      "conductor": "Franco Capuana"
+    },
+    {
+      "year": 1970,
+      "cast": [
+        "Montserrat Caballé",
+        "Bernabé Martí",
+        "Piero Cappuccilli",
+        "Ruggero Raimondi"
+      ],
+      "conductor": "Gianandrea Gavazzeni"
+    },
+    {
+      "year": 1994,
+      "cast": [
+        "Lucia Aliberti, ",
+        "Stuart Neill, ",
+        "Roberto Frontali",
+        "Kelly Anderson"
+      ],
+      "conductor": "Marcello Viotti, "
+    },
+    {
+      "year": 2003,
+      "cast": [
+        "Renée Fleming, ",
+        "Marcello Giordani, ",
+        "Dwayne Croft",
+        "Tigran Martirossian"
+      ],
+      "conductor": "Bruno Campanella, "
+    },
+    {
+      "year": 2012,
+      "cast": [
+        "Carmen Giannattasio",
+        "José Bros",
+        "Ludovic Tézier",
+        "Brindley Sherratt"
+      ],
+      "conductor": "David Parry"
+    }
+  ]
+}

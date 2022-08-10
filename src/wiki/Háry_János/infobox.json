@@ -1,0 +1,10 @@
+{
+  "html": "<table class=\"infobox vevent\"><tbody><tr><th colspan=\"2\" class=\"infobox-above summary\" style=\"font-style: italic; background: #ededed;\">Háry János</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\" style=\"font-weight: bold;\">Folk <a href=\"/wiki/Opera\" title=\"Opera\">opera</a> by <a href=\"/wiki/Zolt%C3%A1n_Kod%C3%A1ly\" title=\"Zoltán Kodály\">Zoltán Kodály</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Librettist</th><td class=\"infobox-data\"><div class=\"plainlist\">\n<ul><li>Béla Paulini</li>\n<li><a href=\"/wiki/Zsolt_Hars%C3%A1nyi\" title=\"Zsolt Harsányi\">Zsolt Harsányi</a></li></ul>\n</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Language</th><td class=\"infobox-data\">Hungarian</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Based on</th><td class=\"infobox-data\"><i>The Veteran</i><br>by <a href=\"/wiki/J%C3%A1nos_Garay\" title=\"János Garay\">János Garay</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Premiere</th><td class=\"infobox-data\"><div style=\"display:inline;\" class=\"vevent\">1926<span style=\"display:none\">&nbsp;(<span class=\"bday dtstart published updated\">1926</span>)</span><br><div style=\"display:inline;\" class=\"summary\"><a href=\"/wiki/Royal_Hungarian_Opera_House\" class=\"mw-redirect\" title=\"Royal Hungarian Opera House\">Royal Hungarian Opera House</a>, Budapest</div></div></td></tr></tbody></table>",
+  "titles": [
+    "Háry János"
+  ],
+  "Librettist": "Béla Paulini Zsolt Harsányi",
+  "Language": "Hungarian",
+  "Based on": "The Veteran\nby János Garay",
+  "Premiere": "1926\nRoyal Hungarian Opera House, Budapest"
+}

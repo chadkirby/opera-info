@@ -1,0 +1,53 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-37\" class=\"reference\"><a href=\"#cite_note-37\">[37]</a></sup><sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\">[38]</a></sup> 9 March 1868<br>(Conductor: <a href=\"/wiki/Fran%C3%A7ois_George-Hainl\" title=\"François George-Hainl\">François George-Hainl</a> )\n</th></tr>\n<tr>\n<td><a href=\"/wiki/King_Claudius\" title=\"King Claudius\">Claudius</a>, <i>King of Denmark,<br>brother of the late King Hamlet</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Gertrude_(Hamlet)\" title=\"Gertrude (Hamlet)\">Gertrude</a>, <i>Queen of Denmark,<br>widow of King Hamlet<br>and mother to Prince Hamlet</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Prince_Hamlet\" title=\"Prince Hamlet\">Hamlet</a>, <i>Prince of Denmark</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Polonius\" title=\"Polonius\">Polonius</a>, <i>court chancellor</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Ophelia\" title=\"Ophelia\">Ophélie</a>, <i>daughter of Polonius</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Laertes_(Hamlet)\" title=\"Laertes (Hamlet)\">Laërte</a>, <i>son of Polonius</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Marcellus, <i>friend of Hamlet</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Horatio_(Hamlet)\" title=\"Horatio (Hamlet)\">Horatio</a>, <i>friend of Hamlet</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Ghost_(Hamlet)\" title=\"Ghost (Hamlet)\">Ghost</a> of the late King Hamlet\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>First <a href=\"/wiki/The_Gravediggers\" title=\"The Gravediggers\">gravedigger</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Second gravedigger\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: <i>lords, ladies, soldiers, servants, players, Danish peasants</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Claudius, King of Denmark,\nbrother of the late King Hamlet",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Gertrude, Queen of Denmark,\nwidow of King Hamlet\nand mother to Prince Hamlet",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Hamlet, Prince of Denmark",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Polonius, court chancellor",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ophélie, daughter of Polonius",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Laërte, son of Polonius",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Marcellus, friend of Hamlet",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Horatio, friend of Hamlet",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ghost of the late King Hamlet",
+      "voiceType": "bass"
+    },
+    {
+      "role": "First gravedigger",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Second gravedigger",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Chorus: lords, ladies, soldiers, servants, players, Danish peasants",
+      "voiceType": ""
+    }
+  ]
+}

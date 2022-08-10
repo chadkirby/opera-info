@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Salome (opera)",
+  "displaytitle": "<i>Salome</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q723407",
+  "titles": {
+    "canonical": "Salome_(opera)",
+    "normalized": "Salome (opera)",
+    "display": "<i>Salome</i> (opera)"
+  },
+  "pageid": 711935,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Flickr_-_%E2%80%A6trialsanderrors_-_Richard_Strauss-Woche%2C_festival_poster%2C_1910.jpg/215px-Flickr_-_%E2%80%A6trialsanderrors_-_Richard_Strauss-Woche%2C_festival_poster%2C_1910.jpg",
+    "width": 215,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Flickr_-_%E2%80%A6trialsanderrors_-_Richard_Strauss-Woche%2C_festival_poster%2C_1910.jpg",
+    "width": 3435,
+    "height": 5112
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101588934",
+  "tid": "d198d400-15f8-11ed-a0c5-81dc3ecaf8aa",
+  "timestamp": "2022-07-31T20:47:54Z",
+  "description": "Opera by Richard Strauss",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Salome_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Salome_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Salome_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Salome_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Salome_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Salome_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Salome_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Salome_(opera)"
+    }
+  },
+  "extract": "Salome, Op. 54, is an opera in one act by Richard Strauss. The libretto is Hedwig Lachmann's German translation of the 1891 French play Salomé by Oscar Wilde, edited by the composer. Strauss dedicated the opera to his friend Sir Edgar Speyer.",
+  "extract_html": "<p><i><b>Salome</b></i>, Op. 54, is an opera in one act by Richard Strauss. The libretto is Hedwig Lachmann's German translation of the 1891 French play <i>Salomé</i> by Oscar Wilde, edited by the composer. Strauss dedicated the opera to his friend Sir Edgar Speyer.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Turandot",
+  "displaytitle": "<i>Turandot</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q207990",
+  "titles": {
+    "canonical": "Turandot",
+    "normalized": "Turandot",
+    "display": "<i>Turandot</i>"
+  },
+  "pageid": 38248,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Poster_Turandot.jpg/226px-Poster_Turandot.jpg",
+    "width": 226,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Poster_Turandot.jpg",
+    "width": 706,
+    "height": 1001
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094893400",
+  "tid": "e3bf9f70-119c-11ed-89de-c10793a0bcdc",
+  "timestamp": "2022-06-25T06:15:10Z",
+  "description": "Opera by Giacomo Puccini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Turandot",
+      "revisions": "https://en.wikipedia.org/wiki/Turandot?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Turandot?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Turandot"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Turandot",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Turandot",
+      "edit": "https://en.m.wikipedia.org/wiki/Turandot?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Turandot"
+    }
+  },
+  "extract": "Turandot is an opera in three acts by Giacomo Puccini, posthumously completed by Franco Alfano in 1926, and set to a libretto in Italian by Giuseppe Adami and Renato Simoni. Turandot's best-known aria is \"Nessun dorma\", which became globally popular in the 1990s following Luciano Pavarotti's performance of it for the 1990 FIFA World Cup.",
+  "extract_html": "<p><i><b>Turandot</b></i> is an opera in three acts by Giacomo Puccini, posthumously completed by Franco Alfano in 1926, and set to a libretto in Italian by Giuseppe Adami and Renato Simoni. <i>Turandot</i><span class=\"nowrap\">'s</span> best-known aria is \"Nessun dorma\", which became globally popular in the 1990s following Luciano Pavarotti's performance of it for the 1990 FIFA World Cup.</p>"
+}

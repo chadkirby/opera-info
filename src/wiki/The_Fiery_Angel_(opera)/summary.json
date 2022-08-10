@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Fiery Angel (opera)",
+  "displaytitle": "<i>The Fiery Angel</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2372929",
+  "titles": {
+    "canonical": "The_Fiery_Angel_(opera)",
+    "normalized": "The Fiery Angel (opera)",
+    "display": "<i>The Fiery Angel</i> (opera)"
+  },
+  "pageid": 2016086,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Paolo_Monti_-_Servizio_fotografico_%28Italia%2C_1973%29_-_BEIC_6348693.jpg/211px-Paolo_Monti_-_Servizio_fotografico_%28Italia%2C_1973%29_-_BEIC_6348693.jpg",
+    "width": 211,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Paolo_Monti_-_Servizio_fotografico_%28Italia%2C_1973%29_-_BEIC_6348693.jpg",
+    "width": 845,
+    "height": 1280
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1075873470",
+  "tid": "7c5ce110-12ac-11ed-8b23-e36614b7c4e7",
+  "timestamp": "2022-03-08T04:17:17Z",
+  "description": "Opera by Sergei Prokofiev",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Fiery_Angel_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/The_Fiery_Angel_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Fiery_Angel_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Fiery_Angel_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Fiery_Angel_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Fiery_Angel_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Fiery_Angel_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Fiery_Angel_(opera)"
+    }
+  },
+  "extract": "Sergei Prokofiev's opera, The Fiery Angel, Op. 37, could be considered one of the composer’s largest challenges. Writing, production, and location were all factors in the piece’s progress. Prokofiev had completed the orchestration in 1927, but the journey to completion was not truly over until after Prokofiev’s time, when the piece was first presented in a full performance at the Théâtre des Champs-Élysées on 25 November 1954, and was first premiered at the Venice Festival in 1955.",
+  "extract_html": "<p>Sergei Prokofiev's opera, <i><b>The Fiery Angel</b></i>, Op. 37, could be considered one of the composer’s largest challenges. Writing, production, and location were all factors in the piece’s progress. Prokofiev had completed the orchestration in 1927, but the journey to completion was not truly over until after Prokofiev’s time, when the piece was first presented in a full performance at the Théâtre des Champs-Élysées on 25 November 1954, and was first premiered at the Venice Festival in 1955.</p>"
+}

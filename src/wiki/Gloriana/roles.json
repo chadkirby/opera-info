@@ -1,0 +1,89 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 8 June 1953<br>(Conductor: <a href=\"/wiki/John_Pritchard_(conductor)\" title=\"John Pritchard (conductor)\">John Pritchard</a>)\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Elizabeth_I_of_England\" class=\"mw-redirect\" title=\"Elizabeth I of England\">Queen Elizabeth I</a>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Robert_Devereux,_2nd_Earl_of_Essex\" title=\"Robert Devereux, 2nd Earl of Essex\">Robert Devereux, Earl of Essex</a>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Frances_Walsingham\" class=\"mw-redirect\" title=\"Frances Walsingham\">Frances, Countess of Essex</a>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Charles_Blount,_1st_Earl_of_Devonshire\" class=\"mw-redirect\" title=\"Charles Blount, 1st Earl of Devonshire\">Charles Blount, Lord Mountjoy</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Penelope_Blount,_Countess_of_Devonshire\" title=\"Penelope Blount, Countess of Devonshire\">Penelope (Lady Rich)</a> <i>sister to Essex</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Robert_Cecil,_1st_Earl_of_Salisbury\" title=\"Robert Cecil, 1st Earl of Salisbury\">Sir Robert Cecil</a> <i>Secretary of the Council</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Walter_Raleigh\" title=\"Walter Raleigh\">Sir Walter Raleigh</a>, <i>Captain of the Guard</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td><a href=\"/wiki/Henry_Cuffe\" title=\"Henry Cuffe\">Henry Cuffe</a> <i>a satellite of Essex</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>A Lady-in-Waiting\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>A Blind Ballad-Singer\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>The Recorder of Norwich\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>A Housewife\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>The Spirit of the Masque\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The Master of Ceremonies\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>The City Crier\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Time\n</td>\n<td><a href=\"/wiki/Ballet\" title=\"Ballet\">dancer</a>\n</td>\n</tr>\n<tr>\n<td>Concord\n</td>\n<td>dancer\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus: citizens, maids of honour, ladies and gentlemen of the household, courtiers, masquers, old men, men and boys of Essex's following, councillors\n</td></tr>\n<tr>\n<td>Dancers: country girls, fisherman, Morris Dancers\n</td>\n<td>Morris dancer\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Actors: pages, ballad-singer's runner, phantom of Queen Elizabeth\n</td></tr>\n<tr>\n<td colspan=\"3\">Musicians on the stage: state trumpeters, dance orchestra, pipe and tabor, gittern, drummer\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Queen Elizabeth I",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Robert Devereux, Earl of Essex",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Frances, Countess of Essex",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Charles Blount, Lord Mountjoy",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Penelope (Lady Rich) sister to Essex",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sir Robert Cecil Secretary of the Council",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Sir Walter Raleigh, Captain of the Guard",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Henry Cuffe a satellite of Essex",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "A Lady-in-Waiting",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "A Blind Ballad-Singer",
+      "voiceType": "bass"
+    },
+    {
+      "role": "The Recorder of Norwich",
+      "voiceType": "bass"
+    },
+    {
+      "role": "A Housewife",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "The Spirit of the Masque",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The Master of Ceremonies",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "The City Crier",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Time",
+      "voiceType": "dancer"
+    },
+    {
+      "role": "Concord",
+      "voiceType": "dancer"
+    },
+    {
+      "role": "Chorus: citizens, maids of honour, ladies and gentlemen of the household, courtiers, masquers, old men, men and boys of Essex's following, councillors",
+      "voiceType": ""
+    },
+    {
+      "role": "Dancers: country girls, fisherman, Morris Dancers",
+      "voiceType": "Morris dancer"
+    },
+    {
+      "role": "Actors: pages, ballad-singer's runner, phantom of Queen Elizabeth",
+      "voiceType": ""
+    },
+    {
+      "role": "Musicians on the stage: state trumpeters, dance orchestra, pipe and tabor, gittern, drummer",
+      "voiceType": ""
+    }
+  ]
+}

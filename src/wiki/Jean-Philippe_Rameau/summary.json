@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jean-Philippe Rameau",
+  "displaytitle": "Jean-Philippe Rameau",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1145",
+  "titles": {
+    "canonical": "Jean-Philippe_Rameau",
+    "normalized": "Jean-Philippe Rameau",
+    "display": "Jean-Philippe Rameau"
+  },
+  "pageid": 152682,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg/235px-Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg",
+    "width": 235,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg",
+    "width": 609,
+    "height": 830
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102662588",
+  "tid": "b3ecb710-1552-11ed-a7db-25563838465e",
+  "timestamp": "2022-08-06T06:40:43Z",
+  "description": "French composer and music theorist (1683–1764)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
+      "revisions": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jean-Philippe_Rameau"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Jean-Philippe_Rameau",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jean-Philippe_Rameau",
+      "edit": "https://en.m.wikipedia.org/wiki/Jean-Philippe_Rameau?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Jean-Philippe_Rameau"
+    }
+  },
+  "extract": "Jean-Philippe Rameau was a French composer and music theorist. Regarded as one of the most important French composers and music theorists of the 18th century, he replaced Jean-Baptiste Lully as the dominant composer of French opera and is also considered the leading French composer of his time for the harpsichord, alongside François Couperin.",
+  "extract_html": "<p><b>Jean-Philippe Rameau</b> was a French composer and music theorist. Regarded as one of the most important French composers and music theorists of the 18th century, he replaced Jean-Baptiste Lully as the dominant composer of French opera and is also considered the leading French composer of his time for the harpsichord, alongside François Couperin.</p>"
+}

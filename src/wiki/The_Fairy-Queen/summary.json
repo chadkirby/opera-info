@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "The Fairy-Queen",
+  "displaytitle": "<i>The Fairy-Queen</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2743188",
+  "titles": {
+    "canonical": "The_Fairy-Queen",
+    "normalized": "The Fairy-Queen",
+    "display": "<i>The Fairy-Queen</i>"
+  },
+  "pageid": 3842699,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Fairy-Queen2.gif/233px-The_Fairy-Queen2.gif",
+    "width": 233,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Fairy-Queen2.gif",
+    "width": 701,
+    "height": 961
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091064929",
+  "tid": "cdd2ccd0-f9d4-11ec-9659-8394b5b7e2ff",
+  "timestamp": "2022-06-02T00:27:02Z",
+  "description": "Semi-opera by Henry Purcell",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/The_Fairy-Queen",
+      "revisions": "https://en.wikipedia.org/wiki/The_Fairy-Queen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/The_Fairy-Queen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:The_Fairy-Queen"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/The_Fairy-Queen",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Fairy-Queen",
+      "edit": "https://en.m.wikipedia.org/wiki/The_Fairy-Queen?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Fairy-Queen"
+    }
+  },
+  "extract": "The Fairy-Queen is a semi-opera by Henry Purcell; a \"Restoration spectacular\". The libretto is an anonymous adaptation of William Shakespeare's comedy A Midsummer Night's Dream. First performed in 1692, The Fairy-Queen was composed three years before Purcell's death at the age of 35. Following his death, the score was lost and only rediscovered early in the twentieth century.",
+  "extract_html": "<p><i><b>The Fairy-Queen</b></i> is a semi-opera by Henry Purcell; a \"Restoration spectacular\". The libretto is an anonymous adaptation of William Shakespeare's comedy <i>A Midsummer Night's Dream</i>. First performed in 1692, <i>The Fairy-Queen</i> was composed three years before Purcell's death at the age of 35. Following his death, the score was lost and only rediscovered early in the twentieth century.</p>"
+}

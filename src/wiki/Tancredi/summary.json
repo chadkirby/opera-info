@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tancredi",
+  "displaytitle": "<i>Tancredi</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q911443",
+  "titles": {
+    "canonical": "Tancredi",
+    "normalized": "Tancredi",
+    "display": "<i>Tancredi</i>"
+  },
+  "pageid": 1811601,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rossini-portrait-0.jpg/262px-Rossini-portrait-0.jpg",
+    "width": 262,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rossini-portrait-0.jpg",
+    "width": 840,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091418029",
+  "tid": "ed7b0c60-0063-11ed-a8bd-4f0d51c6cee5",
+  "timestamp": "2022-06-04T05:41:40Z",
+  "description": "Opera by Gioachino Rossini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tancredi",
+      "revisions": "https://en.wikipedia.org/wiki/Tancredi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tancredi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tancredi"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Tancredi",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tancredi",
+      "edit": "https://en.m.wikipedia.org/wiki/Tancredi?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Tancredi"
+    }
+  },
+  "extract": "Tancredi is a melodramma eroico in two acts by composer Gioachino Rossini and librettist Gaetano Rossi, based on Voltaire's play Tancrède (1760). The opera made its first appearance at the Teatro La Fenice in Venice on 6 February 1813, and because Il signor Bruschino premiered in late January, the composer must have completed Tancredi in less than a month. The overture, borrowed from La pietra del paragone, is a popular example of Rossini's characteristic style and is regularly performed in concert and recorded.",
+  "extract_html": "<p><i><b>Tancredi</b></i> is a <i>melodramma eroico</i> in two acts by composer Gioachino Rossini and librettist Gaetano Rossi, based on Voltaire's play <i>Tancrède</i> (1760). The opera made its first appearance at the Teatro La Fenice in Venice on 6 February 1813, and because <i>Il signor Bruschino</i> premiered in late January, the composer must have completed <i>Tancredi</i> in less than a month. The overture, borrowed from <i>La pietra del paragone</i>, is a popular example of Rossini's characteristic style and is regularly performed in concert and recorded.</p>"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Hunyadi László (opera)",
+  "displaytitle": "Hunyadi László (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q657853",
+  "titles": {
+    "canonical": "Hunyadi_László_(opera)",
+    "normalized": "Hunyadi László (opera)",
+    "display": "Hunyadi László (opera)"
+  },
+  "pageid": 17892665,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Erkel_Ferenc_Gy%C3%B6rgyi_Alajos.jpg/234px-Erkel_Ferenc_Gy%C3%B6rgyi_Alajos.jpg",
+    "width": 234,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Erkel_Ferenc_Gy%C3%B6rgyi_Alajos.jpg",
+    "width": 650,
+    "height": 888
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1057110983",
+  "tid": "d291b2f0-15f8-11ed-ae60-97857091e4ef",
+  "timestamp": "2021-11-25T14:46:26Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hunyadi_L%C3%A1szl%C3%B3_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Hunyadi_L%C3%A1szl%C3%B3_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hunyadi_L%C3%A1szl%C3%B3_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hunyadi_L%C3%A1szl%C3%B3_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hunyadi_L%C3%A1szl%C3%B3_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hunyadi_L%C3%A1szl%C3%B3_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Hunyadi_L%C3%A1szl%C3%B3_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Hunyadi_L%C3%A1szl%C3%B3_(opera)"
+    }
+  },
+  "extract": "Hunyadi László is an opera in three acts by the Hungarian composer Ferenc Erkel. The libretto, by Béni Egressy, is based on a play by Lőrinc Tóth. The opera was first performed at the Pesti Nemzeti Magyar Szinház, Budapest on 27 January 1844. Hunyadi László is considered to be the first important Hungarian opera and Erkel's musical style draws on folk influences, particularly the dance known as the verbunkos.",
+  "extract_html": "<p><i><b>Hunyadi László</b></i> is an opera in three acts by the Hungarian composer Ferenc Erkel. The libretto, by Béni Egressy, is based on a play by Lőrinc Tóth. The opera was first performed at the Pesti Nemzeti Magyar Szinház, Budapest on 27 January 1844. <i>Hunyadi László</i> is considered to be the first important Hungarian opera and Erkel's musical style draws on folk influences, particularly the dance known as the verbunkos.</p>"
+}

@@ -1,0 +1,77 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 1649<br>\n</th></tr>\n<tr>\n<td>Alinda, <i>Lady of the Court of Isifile</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Amore, <i>Love (Cupid, protector of Isifile)</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Besso, <i>Captain of Jason's soldiers</i>\n</td>\n<td><a href=\"/wiki/Bass_(vocal_range)\" class=\"mw-redirect\" title=\"Bass (vocal range)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Delfa, <i>Medea's old nurse</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Demo, <i>Stammering dwarf of Egeo's court</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Egeo, <i>King of Athens (Aegus)</i>\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Eolo, <i>(Aeolus)</i>\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Ercole, <i>An Argonaut (Hercules)</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Giasone, <i>Leader of the Argonauts (Jason)</i>\n</td>\n<td>contralto (<a href=\"/wiki/Castrato\" title=\"Castrato\">castrato</a>)\n</td>\n</tr>\n<tr>\n<td>Giove, <i>(Jupiter)</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Isifile, <i>Queen of Lemnos (Hypsipyle)</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Medea, <i>Queen of Colchis</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Oreste, <i>Confidant of Isifile</i>\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Rosmina, <i>Gardener</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Sole, <i>The Sun (Apollo), protector of Medea</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Volano\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Zeffiro\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">Chorus of Winds, Chorus of spirits, Argonauts, gods, soldiers, and sailors\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Alinda, Lady of the Court of Isifile",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Amore, Love (Cupid, protector of Isifile)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Besso, Captain of Jason's soldiers",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Delfa, Medea's old nurse",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Demo, Stammering dwarf of Egeo's court",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Egeo, King of Athens (Aegus)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Eolo, (Aeolus)",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Ercole, An Argonaut (Hercules)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Giasone, Leader of the Argonauts (Jason)",
+      "voiceType": "contralto (castrato)"
+    },
+    {
+      "role": "Giove, (Jupiter)",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Isifile, Queen of Lemnos (Hypsipyle)",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Medea, Queen of Colchis",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Oreste, Confidant of Isifile",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Rosmina, Gardener",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Sole, The Sun (Apollo), protector of Medea",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Volano",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Zeffiro",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Chorus of Winds, Chorus of spirits, Argonauts, gods, soldiers, and sailors",
+      "voiceType": ""
+    }
+  ]
+}

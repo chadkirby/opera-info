@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Palestrina (opera)",
+  "displaytitle": "<i>Palestrina</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q368944",
+  "titles": {
+    "canonical": "Palestrina_(opera)",
+    "normalized": "Palestrina (opera)",
+    "display": "<i>Palestrina</i> (opera)"
+  },
+  "pageid": 8917993,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hans_Pfitzner_by_Wanda_von_Debschitz-Kunowski%2C_ca_1910.jpg/250px-Hans_Pfitzner_by_Wanda_von_Debschitz-Kunowski%2C_ca_1910.jpg",
+    "width": 250,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hans_Pfitzner_by_Wanda_von_Debschitz-Kunowski%2C_ca_1910.jpg",
+    "width": 599,
+    "height": 765
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101928212",
+  "tid": "d11db090-15f8-11ed-9cca-214414e76b59",
+  "timestamp": "2022-08-02T14:13:24Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Palestrina_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Palestrina_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Palestrina_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Palestrina_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Palestrina_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Palestrina_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Palestrina_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Palestrina_(opera)"
+    }
+  },
+  "extract": "Palestrina is an opera by the German composer Hans Pfitzner, first performed in 1917. The composer referred to it as a Musikalische Legende, and wrote the libretto himself, based on a legend about the Renaissance musician Giovanni Pierluigi da Palestrina, who saves the art of contrapuntal music (polyphony) for the Church in the sixteenth century through his composition of the Missa Papae Marcelli. The wider context is that of the European Reformation and the role of music in relation to it. The character of Cardinal Borromeo is depicted, and a General Congress of the Council of Trent is the centrepiece of act 2.",
+  "extract_html": "<p><i><b>Palestrina</b></i> is an opera by the German composer Hans Pfitzner, first performed in 1917. The composer referred to it as a <i>Musikalische Legende</i>, and wrote the libretto himself, based on a legend about the Renaissance musician Giovanni Pierluigi da Palestrina, who saves the art of contrapuntal music (polyphony) for the Church in the sixteenth century through his composition of the <i>Missa Papae Marcelli</i>. The wider context is that of the European Reformation and the role of music in relation to it. The character of Cardinal Borromeo is depicted, and a General Congress of the Council of Trent is the centrepiece of act 2.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Norma (opera)",
+  "displaytitle": "<i>Norma</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q320353",
+  "titles": {
+    "canonical": "Norma_(opera)",
+    "normalized": "Norma (opera)",
+    "display": "<i>Norma</i> (opera)"
+  },
+  "pageid": 179204,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bellini-Norma-original_cast-detail.jpg",
+    "width": 220,
+    "height": 308
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bellini-Norma-original_cast-detail.jpg",
+    "width": 220,
+    "height": 308
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101141731",
+  "tid": "e85f9c50-0f4a-11ed-b376-3f01cf7077a5",
+  "timestamp": "2022-07-29T14:29:49Z",
+  "description": "Opera by Vincenzo Bellini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Norma_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Norma_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Norma_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Norma_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Norma_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Norma_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Norma_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Norma_(opera)"
+    }
+  },
+  "extract": "Norma is a tragedia lirica or opera in two acts by Vincenzo Bellini with libretto by Felice Romani after the play Norma, ou L'infanticide by Alexandre Soumet. It was first produced at La Scala in Milan on 26 December 1831.",
+  "extract_html": "<p><i><b>Norma</b></i> is a <i>tragedia lirica</i> or opera in two acts by Vincenzo Bellini with libretto by Felice Romani after the play <i>Norma, ou L'infanticide</i> by Alexandre Soumet. It was first produced at La Scala in Milan on 26 December 1831.</p>"
+}

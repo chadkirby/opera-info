@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 10 February 1927<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup><br>Conductor: <a href=\"/wiki/Gustav_Brecher\" title=\"Gustav Brecher\">Gustav Brecher</a>\n</th></tr>\n<tr>\n<td>Anita, <i>an opera singer</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Max, <i>a composer</i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Daniello, <i>a virtuoso violinist</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Jonny, <i>a black jazz band fiddler</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Yvonne, <i>a hotel chambermaid</i>\n</td>\n<td>soprano\n</td>\n</tr>\n<tr>\n<td>Hotel director\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Railway employee\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Artists' manager\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>First policeman\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Second policeman\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Third policeman\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n</tbody></table>",
+  "items": [
+    {
+      "role": "Anita, an opera singer",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Max, a composer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Daniello, a virtuoso violinist",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Jonny, a black jazz band fiddler",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Yvonne, a hotel chambermaid",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hotel director",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Railway employee",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Artists' manager",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "First policeman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Second policeman",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Third policeman",
+      "voiceType": "bass"
+    }
+  ]
+}

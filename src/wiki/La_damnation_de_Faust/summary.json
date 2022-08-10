@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "La damnation de Faust",
+  "displaytitle": "<i>La damnation de Faust</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1144992",
+  "titles": {
+    "canonical": "La_damnation_de_Faust",
+    "normalized": "La damnation de Faust",
+    "display": "<i>La damnation de Faust</i>"
+  },
+  "pageid": 355207,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Berlioz_engraving.jpg/251px-Berlioz_engraving.jpg",
+    "width": 251,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Berlioz_engraving.jpg",
+    "width": 469,
+    "height": 597
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1095362099",
+  "tid": "67a41dd0-1881-11ed-9cb5-edd54af261a3",
+  "timestamp": "2022-06-27T22:55:58Z",
+  "description": "Opera by Hector Berlioz",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/La_damnation_de_Faust",
+      "revisions": "https://en.wikipedia.org/wiki/La_damnation_de_Faust?action=history",
+      "edit": "https://en.wikipedia.org/wiki/La_damnation_de_Faust?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:La_damnation_de_Faust"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/La_damnation_de_Faust",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_damnation_de_Faust",
+      "edit": "https://en.m.wikipedia.org/wiki/La_damnation_de_Faust?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:La_damnation_de_Faust"
+    }
+  },
+  "extract": "La damnation de Faust, Op. 24 is a work for four solo voices, full seven-part chorus, large children's chorus and orchestra by the French composer Hector Berlioz. He called it a \"légende dramatique\". It was first performed at the Opéra-Comique in Paris on 6 December 1846.",
+  "extract_html": "<p><i><b>La damnation de Faust</b></i>, Op. 24 is a work for four solo voices, full seven-part chorus, large children's chorus and orchestra by the French composer Hector Berlioz. He called it a \"<i>légende dramatique</i>\". It was first performed at the Opéra-Comique in Paris on 6 December 1846.</p>"
+}

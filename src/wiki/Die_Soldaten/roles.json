@@ -1,0 +1,89 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a></th>\n<th>Premiere cast, 15 February 1965<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Michael_Gielen\" title=\"Michael Gielen\">Michael Gielen</a>\n</th></tr>\n<tr>\n<td>Wesener, a goods merchant in <a href=\"/wiki/Lille\" title=\"Lille\">Lille</a>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n</tr>\n<tr>\n<td>Marie, his daughter\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Charlotte, his daughter\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Wesener's Old Mother\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n</tr>\n<tr>\n<td>Stolzius, a <a href=\"/wiki/Mercery\" title=\"Mercery\">mercer</a> in <a href=\"/wiki/Armenti%C3%A8res\" title=\"Armentières\">Armentières</a>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Stolzius's Mother\n</td>\n<td>contralto\n</td>\n</tr>\n<tr>\n<td>Obrist (Colonel), Graf (Count) von Spannheim &nbsp;&nbsp;\n</td>\n<td>bass\n</td>\n</tr>\n<tr>\n<td>Desportes, a French nobleman\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Captain Haudy\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Captain Mary\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Captain Pirzel\n</td>\n<td>high tenor\n</td>\n</tr>\n<tr>\n<td>Padre Eisenhardt, a <a href=\"/wiki/Military_chaplain\" title=\"Military chaplain\">military chaplain</a>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Three young officers\n</td>\n<td>tenors\n</td>\n</tr>\n<tr>\n<td>Gräfin (Countess) de la Roche\n</td>\n<td>mezzo-soprano\n</td>\n</tr>\n<tr>\n<td>Gräfin de la Roche's Son (Young Count)\n</td>\n<td>tenor\n</td>\n</tr>\n<tr>\n<td>Gräfin de la Roche's Servant\n</td>\n<td><a href=\"/wiki/Sprechgesang\" title=\"Sprechgesang\">sprechgesang</a>\n</td>\n</tr>\n<tr>\n<td>Desportes's Young Gamekeeper\n</td>\n<td>sprechgesang\n</td>\n</tr>\n<tr>\n<td>Andalusian Waitress\n</td>\n<td>dancer\n</td>\n</tr>\n<tr>\n<td>Madame Roux, coffee-house owner\n</td>\n<td><a href=\"/wiki/Muteness\" title=\"Muteness\">mute</a> role\n</td>\n</tr>\n<tr>\n<td>Civil servants, officers, captains\n</td>\n<td>mute roles\n</td>\n</tr>\n<tr>\n<td>18 officers and ensigns\n</td>\n<td>sprechgesang and <a href=\"/wiki/Percussion_instrument\" title=\"Percussion instrument\">percussion</a> &nbsp;&nbsp;\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Wesener, a goods merchant in Lille",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Marie, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Charlotte, his daughter",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Wesener's Old Mother",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Stolzius, a mercer in Armentières",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Stolzius's Mother",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Obrist (Colonel), Graf (Count) von Spannheim",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Desportes, a French nobleman",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Captain Haudy",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Captain Mary",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Captain Pirzel",
+      "voiceType": "high tenor"
+    },
+    {
+      "role": "Padre Eisenhardt, a military chaplain",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Three young officers",
+      "voiceType": "tenors"
+    },
+    {
+      "role": "Gräfin (Countess) de la Roche",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Gräfin de la Roche's Son (Young Count)",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Gräfin de la Roche's Servant",
+      "voiceType": "sprechgesang"
+    },
+    {
+      "role": "Desportes's Young Gamekeeper",
+      "voiceType": "sprechgesang"
+    },
+    {
+      "role": "Andalusian Waitress",
+      "voiceType": "dancer"
+    },
+    {
+      "role": "Madame Roux, coffee-house owner",
+      "voiceType": "mute role"
+    },
+    {
+      "role": "Civil servants, officers, captains",
+      "voiceType": "mute roles"
+    },
+    {
+      "role": "18 officers and ensigns",
+      "voiceType": "sprechgesang and percussion"
+    }
+  ]
+}

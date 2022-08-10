@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast,<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup> 17 February 1952<br>Conductor: <a href=\"/wiki/Johannes_Sch%C3%BCler\" title=\"Johannes Schüler\">Johannes Schüler</a>\n</th></tr>\n<tr>\n<td>Manon Lescaut\n</td>\n<td>high <a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n</tr>\n<tr>\n<td>Armand des Grieux, <i>a student</i>\n</td>\n<td>lyric <a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n</tr>\n<tr>\n<td>Lescaut, <i>Manon's brother</i>\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">baritone</a>\n</td>\n</tr>\n<tr>\n<td>Francis, <i>Armand's friend</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>Lilaque, <i>père, a rich old gentleman</i>\n</td>\n<td>high buffo tenor\n</td>\n</tr>\n<tr>\n<td>Lilaque, <i>fils</i>\n</td>\n<td>baritone\n</td>\n</tr>\n<tr>\n<td>A prostitute\n</td>\n<td>dancer\n</td>\n</tr>\n<tr>\n<td>Servant to Lilaque, <i>fils</i>\n</td>\n<td>mime\n</td>\n</tr>\n<tr>\n<td>Two drug addicts\n</td>\n<td>dancers\n</td>\n</tr>\n<tr>\n<td>A cigarette boy\n</td>\n<td>dancer\n</td>\n</tr>\n<tr>\n<td colspan=\"3\"><i>Newspaper sellers, beggars, whores, police, students, travellers</i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Manon Lescaut",
+      "voiceType": "high soprano"
+    },
+    {
+      "role": "Armand des Grieux, a student",
+      "voiceType": "lyric tenor"
+    },
+    {
+      "role": "Lescaut, Manon's brother",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Francis, Armand's friend",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "Lilaque, père, a rich old gentleman",
+      "voiceType": "high buffo tenor"
+    },
+    {
+      "role": "Lilaque, fils",
+      "voiceType": "baritone"
+    },
+    {
+      "role": "A prostitute",
+      "voiceType": "dancer"
+    },
+    {
+      "role": "Servant to Lilaque, fils",
+      "voiceType": "mime"
+    },
+    {
+      "role": "Two drug addicts",
+      "voiceType": "dancers"
+    },
+    {
+      "role": "A cigarette boy",
+      "voiceType": "dancer"
+    },
+    {
+      "role": "Newspaper sellers, beggars, whores, police, students, travellers",
+      "voiceType": ""
+    }
+  ]
+}

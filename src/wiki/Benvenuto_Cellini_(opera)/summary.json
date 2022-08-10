@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Benvenuto Cellini (opera)",
+  "displaytitle": "<i>Benvenuto Cellini</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q277846",
+  "titles": {
+    "canonical": "Benvenuto_Cellini_(opera)",
+    "normalized": "Benvenuto Cellini (opera)",
+    "display": "<i>Benvenuto Cellini</i> (opera)"
+  },
+  "pageid": 355327,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Poster_for_1st_performance_%2810_Sept_1838%29_of_Benvenuto_Cellini_by_Berlioz_-_Holoman_p191.jpg/320px-Poster_for_1st_performance_%2810_Sept_1838%29_of_Benvenuto_Cellini_by_Berlioz_-_Holoman_p191.jpg",
+    "width": 320,
+    "height": 219
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Poster_for_1st_performance_%2810_Sept_1838%29_of_Benvenuto_Cellini_by_Berlioz_-_Holoman_p191.jpg",
+    "width": 1382,
+    "height": 947
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103678901",
+  "tid": "e7f30fc0-18ca-11ed-831e-df70a2e55522",
+  "timestamp": "2022-08-10T16:38:41Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Benvenuto_Cellini_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Benvenuto_Cellini_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Benvenuto_Cellini_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Benvenuto_Cellini_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Benvenuto_Cellini_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Benvenuto_Cellini_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Benvenuto_Cellini_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Benvenuto_Cellini_(opera)"
+    }
+  },
+  "extract": "Benvenuto Cellini  is an opera semiseria in two acts with music by Hector Berlioz and libretto by Léon de Wailly and Henri Auguste Barbier. It was the first of Berlioz's operas, premiered at the Académie Royale de Musique on 10 September 1838. The story is inspired by the memoirs of the Florentine sculptor Benvenuto Cellini, although the elements of the plot are largely fictional. The opera is technically very challenging and rarely performed. However, the overture to the opera sometimes features in symphony orchestra programs, as does the concert overture Le carnaval romain which Berlioz composed from material in the opera.",
+  "extract_html": "<p><i><b>Benvenuto Cellini </b></i> is an opera semiseria in two acts with music by Hector Berlioz and libretto by Léon de Wailly and Henri Auguste Barbier. It was the first of Berlioz's operas, premiered at the Académie Royale de Musique on 10 September 1838. The story is inspired by the memoirs of the Florentine sculptor Benvenuto Cellini, although the elements of the plot are largely fictional. The opera is technically very challenging and rarely performed. However, the overture to the opera sometimes features in symphony orchestra programs, as does the concert overture <i>Le carnaval romain</i> which Berlioz composed from material in the opera.</p>"
+}

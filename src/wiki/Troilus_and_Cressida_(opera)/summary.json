@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Troilus and Cressida (opera)",
+  "displaytitle": "<i>Troilus and Cressida</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3539889",
+  "titles": {
+    "canonical": "Troilus_and_Cressida_(opera)",
+    "normalized": "Troilus and Cressida (opera)",
+    "display": "<i>Troilus and Cressida</i> (opera)"
+  },
+  "pageid": 9017373,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sir_William_Turner_Walton.jpg/241px-Sir_William_Turner_Walton.jpg",
+    "width": 241,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sir_William_Turner_Walton.jpg",
+    "width": 602,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1088090472",
+  "tid": "d0fdf390-15f8-11ed-9e2f-a767be2dfb3a",
+  "timestamp": "2022-05-16T04:12:26Z",
+  "description": "Opera by William Walton",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Troilus_and_Cressida_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Troilus_and_Cressida_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Troilus_and_Cressida_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Troilus_and_Cressida_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Troilus_and_Cressida_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Troilus_and_Cressida_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Troilus_and_Cressida_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Troilus_and_Cressida_(opera)"
+    }
+  },
+  "extract": "Troilus and Cressida is the first of the two operas by William Walton, and was premiered in 1954. The libretto was by Christopher Hassall, his own first opera libretto, based on Geoffrey Chaucer's poem Troilus and Criseyde. Walton dedicated the score to his wife, Susana.",
+  "extract_html": "<p><i><b>Troilus and Cressida</b></i> is the first of the two operas by William Walton, and was premiered in 1954. The libretto was by Christopher Hassall, his own first opera libretto, based on Geoffrey Chaucer's poem <i>Troilus and Criseyde</i>. Walton dedicated the score to his wife, Susana.</p>"
+}

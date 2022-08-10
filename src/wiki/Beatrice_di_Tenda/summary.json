@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Beatrice di Tenda",
+  "displaytitle": "<i>Beatrice di Tenda</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q791658",
+  "titles": {
+    "canonical": "Beatrice_di_Tenda",
+    "normalized": "Beatrice di Tenda",
+    "display": "<i>Beatrice di Tenda</i>"
+  },
+  "pageid": 5892528,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Palagi_Beatrice_%26_Orombello_1845.jpg/264px-Palagi_Beatrice_%26_Orombello_1845.jpg",
+    "width": 264,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Palagi_Beatrice_%26_Orombello_1845.jpg",
+    "width": 635,
+    "height": 768
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1054539651",
+  "tid": "e9d27fa0-ff17-11ec-8ba5-4bb5846b5a39",
+  "timestamp": "2021-11-10T16:56:57Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Beatrice_di_Tenda",
+      "revisions": "https://en.wikipedia.org/wiki/Beatrice_di_Tenda?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Beatrice_di_Tenda?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Beatrice_di_Tenda"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Beatrice_di_Tenda",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Beatrice_di_Tenda",
+      "edit": "https://en.m.wikipedia.org/wiki/Beatrice_di_Tenda?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Beatrice_di_Tenda"
+    }
+  },
+  "extract": "Beatrice di Tenda is a tragic opera in two acts by Vincenzo Bellini, from a libretto by Felice Romani, after the play of the same name by Carlo Tedaldi Fores.",
+  "extract_html": "<p><i><b>Beatrice di Tenda</b></i> is a tragic opera in two acts by Vincenzo Bellini, from a libretto by Felice Romani, after the play of the same name by Carlo Tedaldi Fores.</p>"
+}

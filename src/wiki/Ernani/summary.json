@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ernani",
+  "displaytitle": "<i>Ernani</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q211279",
+  "titles": {
+    "canonical": "Ernani",
+    "normalized": "Ernani",
+    "display": "<i>Ernani</i>"
+  },
+  "pageid": 37907,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Silva_sounds_the_horn_to_summon_Hernani-act_4.png/284px-Silva_sounds_the_horn_to_summon_Hernani-act_4.png",
+    "width": 284,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Silva_sounds_the_horn_to_summon_Hernani-act_4.png",
+    "width": 561,
+    "height": 632
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091605547",
+  "tid": "e1627590-119c-11ed-a110-df3bd2ede36d",
+  "timestamp": "2022-06-05T08:23:14Z",
+  "description": "Opera by Giuseppe Verdi",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ernani",
+      "revisions": "https://en.wikipedia.org/wiki/Ernani?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ernani?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ernani"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ernani",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ernani",
+      "edit": "https://en.m.wikipedia.org/wiki/Ernani?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ernani"
+    }
+  },
+  "extract": "Ernani is an operatic dramma lirico in four acts by Giuseppe Verdi to an Italian libretto by Francesco Maria Piave, based on the 1830 play Hernani by Victor Hugo.",
+  "extract_html": "<p><i><b>Ernani</b></i> is an operatic <i>dramma lirico</i> in four acts by Giuseppe Verdi to an Italian libretto by Francesco Maria Piave, based on the 1830 play <i>Hernani</i> by Victor Hugo.</p>"
+}

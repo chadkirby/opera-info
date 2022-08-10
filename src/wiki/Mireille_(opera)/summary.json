@@ -1,0 +1,47 @@
+{
+  "type": "standard",
+  "title": "Mireille (opera)",
+  "displaytitle": "<i>Mireille</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q843042",
+  "titles": {
+    "canonical": "Mireille_(opera)",
+    "normalized": "Mireille (opera)",
+    "display": "<i>Mireille</i> (opera)"
+  },
+  "pageid": 5722149,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caroline_Carvalho_as_Mireille_-_Lemoine_-_Gallica_v2.jpg/191px-Caroline_Carvalho_as_Mireille_-_Lemoine_-_Gallica_v2.jpg",
+    "width": 191,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Caroline_Carvalho_as_Mireille_-_Lemoine_-_Gallica_v2.jpg",
+    "width": 1583,
+    "height": 2652
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1094561279",
+  "tid": "9c7ccff0-f9f2-11ec-a46d-c94716b28475",
+  "timestamp": "2022-06-23T10:53:33Z",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mireille_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Mireille_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mireille_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mireille_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Mireille_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mireille_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Mireille_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Mireille_(opera)"
+    }
+  },
+  "extract": "Mireille is an 1864 opera in five acts by Charles Gounod to a French libretto by Michel Carré after Frédéric Mistral's poem Mirèio. The vocal score is dedicated to George V of Hanover.",
+  "extract_html": "<p><i><b>Mireille</b></i> is an 1864 opera in five acts by Charles Gounod to a French libretto by Michel Carré after Frédéric Mistral's poem Mirèio. The vocal score is dedicated to George V of Hanover.</p>"
+}

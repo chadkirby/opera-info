@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Peter Cornelius",
+  "displaytitle": "Peter Cornelius",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q57257",
+  "titles": {
+    "canonical": "Peter_Cornelius",
+    "normalized": "Peter Cornelius",
+    "display": "Peter Cornelius"
+  },
+  "pageid": 2165431,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Peter_cornelius.jpg",
+    "width": 150,
+    "height": 216
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Peter_cornelius.jpg",
+    "width": 150,
+    "height": 216
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1087856513",
+  "tid": "7a6183d0-0be9-11ed-8e44-4d849f97bc91",
+  "timestamp": "2022-05-14T22:26:55Z",
+  "description": "German composer (1824–1874)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Peter_Cornelius",
+      "revisions": "https://en.wikipedia.org/wiki/Peter_Cornelius?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Peter_Cornelius?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Cornelius"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Peter_Cornelius",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Peter_Cornelius",
+      "edit": "https://en.m.wikipedia.org/wiki/Peter_Cornelius?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Peter_Cornelius"
+    }
+  },
+  "extract": "Carl August Peter Cornelius was a German composer, writer about music, poet and translator.",
+  "extract_html": "<p><b>Carl August Peter Cornelius</b> was a German composer, writer about music, poet and translator.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Eugene Onegin (opera)",
+  "displaytitle": "<i>Eugene Onegin</i> (opera)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q50956",
+  "titles": {
+    "canonical": "Eugene_Onegin_(opera)",
+    "normalized": "Eugene Onegin (opera)",
+    "display": "<i>Eugene Onegin</i> (opera)"
+  },
+  "pageid": 708937,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sobinov_as_Lensky.jpg/201px-Sobinov_as_Lensky.jpg",
+    "width": 201,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sobinov_as_Lensky.jpg",
+    "width": 250,
+    "height": 397
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1091862247",
+  "tid": "7529ec30-12ac-11ed-906d-0b2c29dfb2b5",
+  "timestamp": "2022-06-06T20:53:02Z",
+  "description": "Opera by Pyotr Ilyich Tchaikovsky",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Eugene_Onegin_(opera)",
+      "revisions": "https://en.wikipedia.org/wiki/Eugene_Onegin_(opera)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Eugene_Onegin_(opera)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Eugene_Onegin_(opera)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Eugene_Onegin_(opera)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Eugene_Onegin_(opera)",
+      "edit": "https://en.m.wikipedia.org/wiki/Eugene_Onegin_(opera)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Eugene_Onegin_(opera)"
+    }
+  },
+  "extract": "Eugene Onegin, Op. 24, is an opera in 3 acts, composed by Pyotr Ilyich Tchaikovsky. The libretto, organised by the composer himself, very closely follows certain passages in Alexander Pushkin's 1825-1832 novel in verse, retaining much of his poetry. Tchaikovsky's friend Konstantin Shilovsky contributed M. Triquet's verses in Act 2, Scene 1, while Tchaikovsky himself arranged the text for Lensky's arioso in Act 1, Scene 1, and almost all of Prince Gremin's aria in Act 3, Scene 1.",
+  "extract_html": "<p><i><b>Eugene Onegin</b></i>, Op. 24, is an opera in 3 acts, composed by Pyotr Ilyich Tchaikovsky. The libretto, organised by the composer himself, very closely follows certain passages in Alexander Pushkin's 1825-1832 novel in verse, retaining much of his poetry. Tchaikovsky's friend Konstantin Shilovsky contributed M. Triquet's verses in Act 2, Scene 1, while Tchaikovsky himself arranged the text for Lensky's arioso in Act 1, Scene 1, and almost all of Prince Gremin's aria in Act 3, Scene 1.</p>"
+}

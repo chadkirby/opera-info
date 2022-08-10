@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Alfredo Catalani",
+  "displaytitle": "Alfredo Catalani",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q352722",
+  "titles": {
+    "canonical": "Alfredo_Catalani",
+    "normalized": "Alfredo Catalani",
+    "display": "Alfredo Catalani"
+  },
+  "pageid": 564547,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alfredo_Catalani_2.jpg/312px-Alfredo_Catalani_2.jpg",
+    "width": 312,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Alfredo_Catalani_2.jpg",
+    "width": 900,
+    "height": 922
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1098536719",
+  "tid": "e6757a90-0f81-11ed-ba07-778505a1aa86",
+  "timestamp": "2022-07-16T08:32:31Z",
+  "description": "Italian operatic composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alfredo_Catalani",
+      "revisions": "https://en.wikipedia.org/wiki/Alfredo_Catalani?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alfredo_Catalani?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alfredo_Catalani"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Alfredo_Catalani",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Alfredo_Catalani",
+      "edit": "https://en.m.wikipedia.org/wiki/Alfredo_Catalani?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Alfredo_Catalani"
+    }
+  },
+  "extract": "Alfredo Catalani was an Italian operatic composer. He is best remembered for his operas Loreley (1890) and La Wally (1892). La Wally was composed to a libretto by Luigi Illica, and features Catalani's most famous aria \"Ebben? Ne andrò lontana.\" This aria, sung by American soprano Wilhelmenia Fernandez, was at the heart of Jean-Jacques Beineix's 1981 film Diva. Catalani's other operas were much less successful.",
+  "extract_html": "<p><b>Alfredo Catalani</b> was an Italian operatic composer. He is best remembered for his operas <i>Loreley</i> (1890) and <i>La Wally</i> (1892). <i>La Wally</i> was composed to a libretto by Luigi Illica, and features Catalani's most famous aria \"Ebben? Ne andrò lontana.\" This aria, sung by American soprano Wilhelmenia Fernandez, was at the heart of Jean-Jacques Beineix's 1981 film <i>Diva</i>. Catalani's other operas were much less successful.</p>"
+}

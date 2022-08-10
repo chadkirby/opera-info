@@ -1,0 +1,45 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere casts for Saint Petersburg and Moscow</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Saint Petersburg premiere,<br>27 November<sup>(<a href=\"/wiki/Adoption_of_the_Gregorian_calendar#Adoption_in_Eastern_Europe\" title=\"Adoption of the Gregorian calendar\">Old Style</a>)</sup> 1842<br><a href=\"/wiki/Conducting\" title=\"Conducting\">Conductor</a>: <a href=\"/wiki/Karl_Franzevich_Albrecht\" title=\"Karl Franzevich Albrecht\">Karl Albrecht</a>\n</th>\n<th>Moscow premiere, 1846<br>Conductor: Ivan Iogannis\n</th></tr>\n<tr>\n<td>Svetozar, <i>Great Prince of <a href=\"/wiki/Kievan_Rus%27\" title=\"Kievan Rus'\">Kiev</a></i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<td>Lyudmila, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Ruslan, <i>a Kievan <a href=\"/wiki/Knight\" title=\"Knight\">knight</a>, Lyudmila's betrothed</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Ratmir, <i>a <a href=\"/wiki/Khazars\" title=\"Khazars\">Khazar</a> prince</i>\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n</tr>\n<tr>\n<td>Farlaf, <i>a <a href=\"/wiki/Varangians\" title=\"Varangians\">Varangian</a> knight</i>\n</td>\n<td>bass\n</td>\n\n</tr>\n<tr>\n<td>Gorislava, <i>a captive of Ratmir</i>\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Finn, <i>a good <a href=\"/wiki/Magician_(fantasy)\" title=\"Magician (fantasy)\">sorcerer</a></i>\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td>Naina, <i>an evil sorceress</i>\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Boyan_(bard)\" title=\"Boyan (bard)\">Bayan</a>, <i>a bard</i>\n</td>\n<td>tenor\n</td>\n\n</tr>\n<tr>\n<td colspan=\"4\">Chorus, silent roles: the evil sorcerer Chernomor, the Head, <i>Sons of Svetozar, knights, <a href=\"/wiki/Boyar\" title=\"Boyar\">boyars</a> and boyarynyas, chamber-maids and nurse-maids, page boys, bodyguards, cupbearers, <a href=\"/wiki/Stolnik\" class=\"mw-redirect\" title=\"Stolnik\">stolniks</a>, the Prince's armed force, people, maids of the magic castle, <a href=\"https://en.wiktionary.org/wiki/blackamoor\" class=\"extiw\" title=\"wikt:blackamoor\">blackamoors</a>, dwarves, slaves of Chernomor, <a href=\"/wiki/Nymph\" title=\"Nymph\">nymphs</a>, <a href=\"/wiki/Water_nymph\" class=\"mw-redirect\" title=\"Water nymph\">water nymphs</a></i>\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Svetozar, Great Prince of Kiev",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Lyudmila, his daughter",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ruslan, a Kievan knight, Lyudmila's betrothed",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Ratmir, a Khazar prince",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Farlaf, a Varangian knight",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Gorislava, a captive of Ratmir",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Finn, a good sorcerer",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Naina, an evil sorceress",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Bayan, a bard",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Chorus, silent roles: the evil sorcerer Chernomor, the Head, Sons of Svetozar, knights, boyars and boyarynyas, chamber-maids and nurse-maids, page boys, bodyguards, cupbearers, stolniks, the Prince's armed force, people, maids of the magic castle, blackamoors, dwarves, slaves of Chernomor, nymphs, water nymphs",
+      "voiceType": ""
+    }
+  ]
+}

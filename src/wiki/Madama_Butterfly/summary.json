@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Madama Butterfly",
+  "displaytitle": "<i>Madama Butterfly</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q19005",
+  "titles": {
+    "canonical": "Madama_Butterfly",
+    "normalized": "Madama Butterfly",
+    "display": "<i>Madama Butterfly</i>"
+  },
+  "pageid": 38246,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hohenstein_Madama_Butterfly.jpg/320px-Hohenstein_Madama_Butterfly.jpg",
+    "width": 320,
+    "height": 231
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hohenstein_Madama_Butterfly.jpg",
+    "width": 400,
+    "height": 289
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102275125",
+  "tid": "d0f2d000-15f8-11ed-95d4-21c27e1d046a",
+  "timestamp": "2022-08-04T07:24:47Z",
+  "description": "1904 opera by Giacomo Puccini",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Madama_Butterfly",
+      "revisions": "https://en.wikipedia.org/wiki/Madama_Butterfly?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Madama_Butterfly?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Madama_Butterfly"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Madama_Butterfly",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Madama_Butterfly",
+      "edit": "https://en.m.wikipedia.org/wiki/Madama_Butterfly?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Madama_Butterfly"
+    }
+  },
+  "extract": "Madama Butterfly is an opera in three acts by Giacomo Puccini, with an Italian libretto by Luigi Illica and Giuseppe Giacosa.",
+  "extract_html": "<p><i><b>Madama Butterfly</b></i> is an opera in three acts by Giacomo Puccini, with an Italian libretto by Luigi Illica and Giuseppe Giacosa.</p>"
+}

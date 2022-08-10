@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Francesca Caccini",
+  "displaytitle": "Francesca Caccini",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q232035",
+  "titles": {
+    "canonical": "Francesca_Caccini",
+    "normalized": "Francesca Caccini",
+    "display": "Francesca Caccini"
+  },
+  "pageid": 1146944,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Francesca_Caccini.jpg",
+    "width": 200,
+    "height": 259
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Francesca_Caccini.jpg",
+    "width": 200,
+    "height": 259
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1099981942",
+  "tid": "b9e52570-0aa4-11ed-acb5-35c2cd16dade",
+  "timestamp": "2022-07-23T16:30:09Z",
+  "description": "Italian composer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Francesca_Caccini",
+      "revisions": "https://en.wikipedia.org/wiki/Francesca_Caccini?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Francesca_Caccini?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Francesca_Caccini"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Francesca_Caccini",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Francesca_Caccini",
+      "edit": "https://en.m.wikipedia.org/wiki/Francesca_Caccini?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Francesca_Caccini"
+    }
+  },
+  "extract": "Francesca Caccini was an Italian composer, singer, lutenist, poet, and music teacher of the early Baroque era. She was also known by the nickname \"La Cecchina\" [la tʃekˈkiːna], given to her by the Florentines and probably a diminutive of \"Francesca\". She was the daughter of Giulio Caccini. Her only surviving stage work, La liberazione di Ruggiero, is widely considered the oldest opera by a woman composer. As a female composer she helped to solidify the agency and the cultural and political programs of her female patron.",
+  "extract_html": "<p><b>Francesca Caccini</b> was an Italian composer, singer, lutenist, poet, and music teacher of the early Baroque era. She was also known by the nickname \"La Cecchina\" <small></small><span class=\"IPA\">[la tʃekˈkiːna]</span>, given to her by the Florentines and probably a diminutive of \"Francesca\". She was the daughter of Giulio Caccini. Her only surviving stage work, <i>La liberazione di Ruggiero</i>, is widely considered the oldest opera by a woman composer. As a female composer she helped to solidify the agency and the cultural and political programs of her female patron.</p>"
+}
