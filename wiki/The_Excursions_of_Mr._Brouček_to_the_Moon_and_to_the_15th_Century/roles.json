@@ -1,0 +1,49 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role – In Prague (1888)\n</th>\n<th>Role – On the Moon\n</th>\n<th>Role – In Prague (1420)\n</th>\n<th>Voice type\n</th>\n<th>Premiere Cast, 23 April 1920<br>(Conductor: – <b><a href=\"/wiki/Otakar_Ostr%C4%8Dil\" title=\"Otakar Ostrčil\">Otakar Ostrčil</a></b>)\n</th></tr>\n<tr>\n<td>Matěj Brouček, <i>a landlord</i>\n</td>\n<td>Matěj Brouček\n</td>\n<td>Matěj Brouček\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">Tenor</a>\n</td>\n</tr>\n<tr>\n<td>Mazal, <i>a painter</i>\n</td>\n<td>Blankytný, <i>Azurean</i>\n</td>\n<td>Petřík, <i>Pete</i>\n</td>\n<td>Tenor\n</td>\n</tr>\n<tr>\n<td>Sakristán, <i>Sacristan</i>\n</td>\n<td>Lunobor, <i>Lunigrove</i>\n</td>\n<td>Domšík od Zvonu<br> (<i>Domšík from the Bell</i>)\n</td>\n<td><a href=\"/wiki/Bass-Baritone\" class=\"mw-redirect\" title=\"Bass-Baritone\">Bass-Baritone</a>\n</td>\n</tr>\n<tr>\n<td>Málinka, <i>his daughter</i>\n</td>\n<td>Etherea, <i>lunar goddess</i>\n</td>\n<td>Kunka, <i>his daughter</i>\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">Soprano</a>\n</td>\n</tr>\n<tr>\n<td>Würfl, <i>a bartender</i>\n</td>\n<td>Čaroskvoucí, <i>Wonderglitter</i>\n</td>\n<td>Kostka, konšel, <i>councillor</i>\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">Bass</a>\n</td>\n</tr>\n<tr>\n<td>Číšníček, <i>Young waiter at bar</i>\n</td>\n<td>Zázračné dítě, <i>Child prodigy</i>\n</td>\n<td>Žák, <i>Student</i>\n</td>\n<td>Soprano\n</td>\n</tr>\n<tr>\n<td>Fanny, <i>Housekeeper</i>\n</td>\n<td>Nourishing Minister\n</td>\n<td>Františka / Kedruta\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">Mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Skladatel, <i>Composer</i>\n</td>\n<td>Harfoboj, <i>Harper</i>\n</td>\n<td>Miroslav, zlatník, <i>the goldsmith</i>\n</td>\n<td>Tenor\n</td>\n</tr>\n<tr>\n<td>Básník, <i>Poet</i>\n</td>\n<td>Oblačný, <i>Cloudy</i>\n</td>\n<td>Vacek Bradatý<br> (<i>Vacek the Bearded</i>)\n</td>\n<td><a href=\"/wiki/Baritone\" title=\"Baritone\">Baritone</a>\n</td>\n</tr>\n<tr>\n<td>Guests at \"Vikárka”\n</td>\n<td>Delegates of the Moon\n</td>\n<td>Armed Citizens\n</td>\n<td><a href=\"/wiki/Choir\" title=\"Choir\">Chorus</a>\n</td></tr>\n<tr>\n<td>Spectators\n</td>\n<td>Moonwomen\n</td>\n<td>People, Children\n</td>\n<td>Chorus\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "role": "Matěj Brouček, a landlord",
+      "voiceType": "Tenor"
+    },
+    {
+      "role": "Mazal, a painter",
+      "voiceType": "Tenor"
+    },
+    {
+      "role": "Sakristán, Sacristan",
+      "voiceType": "Bass-Baritone"
+    },
+    {
+      "role": "Málinka, his daughter",
+      "voiceType": "Soprano"
+    },
+    {
+      "role": "Würfl, a bartender",
+      "voiceType": "Bass"
+    },
+    {
+      "role": "Číšníček, Young waiter at bar",
+      "voiceType": "Soprano"
+    },
+    {
+      "role": "Fanny, Housekeeper",
+      "voiceType": "Mezzo-soprano"
+    },
+    {
+      "role": "Skladatel, Composer",
+      "voiceType": "Tenor"
+    },
+    {
+      "role": "Básník, Poet",
+      "voiceType": "Baritone"
+    },
+    {
+      "role": "Guests at \"Vikárka”",
+      "voiceType": "Chorus"
+    },
+    {
+      "role": "Spectators",
+      "voiceType": "Chorus"
+    }
+  ]
+}

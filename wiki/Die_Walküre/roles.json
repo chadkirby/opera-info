@@ -1,0 +1,73 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Role\n</th>\n<th>Description<sup id=\"cite_ref-FOOTNOTEHolman2001179–187,_206–220_6-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEHolman2001179–187,_206–220-6\">[6]</a></sup>\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a><sup id=\"cite_ref-FOOTNOTEHolman200157–58_7-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEHolman200157–58-7\">[7]</a></sup>\n</th>\n<th>Munich premiere cast 26 June 1870<sup id=\"cite_ref-Perfhist_8-0\" class=\"reference\"><a href=\"#cite_note-Perfhist-8\">[8]</a></sup><br> (Conductor: <a href=\"/wiki/Franz_W%C3%BCllner\" title=\"Franz Wüllner\">Franz Wüllner</a>)<sup id=\"cite_ref-FOOTNOTEOsborne1992200_9-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEOsborne1992200-9\">[9]</a></sup>\n</th>\n<th>Cast at premiere of complete cycle 14 August 1876<sup id=\"cite_ref-Perfhist_8-1\" class=\"reference\"><a href=\"#cite_note-Perfhist-8\">[8]</a></sup><br>(Conductor: <a href=\"/wiki/Hans_Richter_(conductor)\" title=\"Hans Richter (conductor)\">Hans Richter</a>)<sup id=\"cite_ref-FOOTNOTEOsborne1992201_10-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTEOsborne1992201-10\">[10]</a></sup>\n</th></tr>\n<tr>\n<th colspan=\"5\">Humans\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Sigmund\" title=\"Sigmund\">Siegmund</a>\n</td>\n<td><a href=\"/wiki/V%C3%B6lsung\" title=\"Völsung\">Völsung</a> son of Wotan, twin brother of Sieglinde\n</td>\n<td><a href=\"/wiki/Tenor\" title=\"Tenor\">tenor</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Signy#In_''Völsunga_saga''\" title=\"Signy\">Sieglinde</a>\n</td>\n<td><a href=\"/wiki/V%C3%B6lsung\" title=\"Völsung\">Völsung</a> daughter of Wotan, twin sister of Siegmund\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a>\n</td>\n\n</tr>\n<tr>\n<td>Hunding\n</td>\n<td>Of the Neiding race; husband of Sieglinde\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a>\n</td>\n\n</tr>\n<tr>\n<th colspan=\"5\">Gods\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Odin\" title=\"Odin\">Wotan</a>\n</td>\n<td>God of battle, and of contracts, ruler of the gods\n</td>\n<td><a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n\n</tr>\n<tr>\n<td><a href=\"/wiki/Frigg\" title=\"Frigg\">Fricka</a>\n</td>\n<td>Goddess of family values; wife to Wotan\n</td>\n<td><a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n\n</tr>\n<tr>\n<th colspan=\"5\">Valkyries\n</th></tr>\n<tr>\n<td><a href=\"/wiki/Brunhild\" title=\"Brunhild\">Brünnhilde</a>\n</td>\n<td>Daughter of Wotan <i>via</i> Erda\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Gerhilde\n</td>\n<td>Daughter of Wotan\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Ortlinde\n</td>\n<td>Daughter of Wotan\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Waltraute\n</td>\n<td>Daughter of Wotan\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Schwertleite\n</td>\n<td>Daughter of Wotan\n</td>\n<td><a href=\"/wiki/Contralto\" title=\"Contralto\">contralto</a>\n</td>\n\n</tr>\n<tr>\n<td>Helmwige\n</td>\n<td>Daughter of Wotan\n</td>\n<td>soprano\n</td>\n\n</tr>\n<tr>\n<td>Siegrune\n</td>\n<td>Daughter of Wotan\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Grimgerde\n</td>\n<td>Daughter of Wotan\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr>\n<tr>\n<td>Roßweiße\n</td>\n<td>Daughter of Wotan\n</td>\n<td>mezzo-soprano\n</td>\n\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Humans",
+      "voiceType": ""
+    },
+    {
+      "role": "Siegmund",
+      "voiceType": "tenor"
+    },
+    {
+      "role": "Sieglinde",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Hunding",
+      "voiceType": "bass"
+    },
+    {
+      "role": "Gods",
+      "voiceType": ""
+    },
+    {
+      "role": "Wotan",
+      "voiceType": "bass-baritone"
+    },
+    {
+      "role": "Fricka",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Valkyries",
+      "voiceType": ""
+    },
+    {
+      "role": "Brünnhilde",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Gerhilde",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Ortlinde",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Waltraute",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Schwertleite",
+      "voiceType": "contralto"
+    },
+    {
+      "role": "Helmwige",
+      "voiceType": "soprano"
+    },
+    {
+      "role": "Siegrune",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Grimgerde",
+      "voiceType": "mezzo-soprano"
+    },
+    {
+      "role": "Roßweiße",
+      "voiceType": "mezzo-soprano"
+    }
+  ]
+}

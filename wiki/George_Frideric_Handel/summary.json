@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "George Frideric Handel",
+  "displaytitle": "George Frideric Handel",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7302",
+  "titles": {
+    "canonical": "George_Frideric_Handel",
+    "normalized": "George Frideric Handel",
+    "display": "George Frideric Handel"
+  },
+  "pageid": 12775,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/265px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 265,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "width": 2400,
+    "height": 2901
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1102716529",
+  "tid": "9a9b2220-1592-11ed-b4b0-6d787f82b14f",
+  "timestamp": "2022-08-06T14:18:05Z",
+  "description": "German-British Baroque composer (1685–1759)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+      "revisions": "https://en.wikipedia.org/wiki/George_Frideric_Handel?action=history",
+      "edit": "https://en.wikipedia.org/wiki/George_Frideric_Handel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:George_Frideric_Handel"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/George_Frideric_Handel",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/George_Frideric_Handel",
+      "edit": "https://en.m.wikipedia.org/wiki/George_Frideric_Handel?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:George_Frideric_Handel"
+    }
+  },
+  "extract": "George Frideric Handel was a German-British Baroque composer well known for his operas, oratorios, anthems, concerti grossi, and organ concertos. Handel received his training in Halle and worked as a composer in Hamburg and Italy before settling in London in 1712, where he spent the bulk of his career and became a naturalised British subject in 1727. He was strongly influenced both by the middle-German polyphonic choral tradition and by composers of the Italian Baroque. In turn, Handel's music forms one of the peaks of the \"high baroque\" style, bringing Italian opera to its highest development, creating the genres of English oratorio and organ concerto, and introducing a new style into English church music. He is consistently recognized as one of the greatest composers of his age.",
+  "extract_html": "<p><b>George Frideric</b> <b>Handel</b> was a German-British Baroque composer well known for his operas, oratorios, anthems, concerti grossi, and organ concertos. Handel received his training in Halle and worked as a composer in Hamburg and Italy before settling in London in 1712, where he spent the bulk of his career and became a naturalised British subject in 1727. He was strongly influenced both by the middle-German polyphonic choral tradition and by composers of the Italian Baroque. In turn, Handel's music forms one of the peaks of the \"high baroque\" style, bringing Italian opera to its highest development, creating the genres of English oratorio and organ concerto, and introducing a new style into English church music. He is consistently recognized as one of the greatest composers of his age.</p>"
+}

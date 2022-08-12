@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "John Gay",
+  "displaytitle": "John Gay",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q321660",
+  "titles": {
+    "canonical": "John_Gay",
+    "normalized": "John Gay",
+    "display": "John Gay"
+  },
+  "pageid": 162329,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Unknown_man%2C_formerly_known_as_John_Gay.jpg/247px-Unknown_man%2C_formerly_known_as_John_Gay.jpg",
+    "width": 247,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Unknown_man%2C_formerly_known_as_John_Gay.jpg",
+    "width": 617,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1101025555",
+  "tid": "83a62e10-0f80-11ed-90f7-77baa3c98d08",
+  "timestamp": "2022-07-28T22:53:11Z",
+  "description": "English poet and playwright (1685–1732)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/John_Gay",
+      "revisions": "https://en.wikipedia.org/wiki/John_Gay?action=history",
+      "edit": "https://en.wikipedia.org/wiki/John_Gay?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_Gay"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/John_Gay",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/John_Gay",
+      "edit": "https://en.m.wikipedia.org/wiki/John_Gay?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:John_Gay"
+    }
+  },
+  "extract": "John Gay was an English poet and dramatist and member of the Scriblerus Club. He is best remembered for The Beggar's Opera (1728), a ballad opera. The characters, including Captain Macheath and Polly Peachum, became household names.",
+  "extract_html": "<p><b>John Gay</b> was an English poet and dramatist and member of the Scriblerus Club. He is best remembered for <i>The Beggar's Opera</i> (1728), a ballad opera. The characters, including Captain Macheath and Polly Peachum, became household names.</p>"
+}

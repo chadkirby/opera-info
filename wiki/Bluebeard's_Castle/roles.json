@@ -1,0 +1,21 @@
+{
+  "html": "<table class=\"wikitable\">\n<caption><style data-mw-deduplicate=\"TemplateStyles:r1015390333\">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class=\"sr-only\">Roles, voice types, premiere cast</span>\n</caption>\n<tbody><tr>\n<th>Role\n</th>\n<th><a href=\"/wiki/Voice_type\" title=\"Voice type\">Voice type</a>\n</th>\n<th>Premiere cast, 24 May 1918<br>Conductor: <a href=\"/wiki/Egisto_Tango\" title=\"Egisto Tango\">Egisto Tango</a>\n</th></tr>\n<tr>\n<td>Prologue of the Bard\n</td>\n<td>spoken\n</td>\n</tr>\n<tr>\n<td>Bluebeard\n</td>\n<td><a href=\"/wiki/Bass_(voice_type)\" title=\"Bass (voice type)\">bass</a> or <a href=\"/wiki/Bass-baritone\" title=\"Bass-baritone\">bass-baritone</a>\n</td>\n</tr>\n<tr>\n<td>Judith\n</td>\n<td><a href=\"/wiki/Soprano\" title=\"Soprano\">soprano</a> or <a href=\"/wiki/Mezzo-soprano\" title=\"Mezzo-soprano\">mezzo-soprano</a>\n</td>\n</tr>\n<tr>\n<td>Bluebeard's wives\n</td>\n<td>silent\n</td>\n</tr></tbody></table>",
+  "items": [
+    {
+      "role": "Prologue of the Bard",
+      "voiceType": "spoken"
+    },
+    {
+      "role": "Bluebeard",
+      "voiceType": "bass or bass-baritone"
+    },
+    {
+      "role": "Judith",
+      "voiceType": "soprano or mezzo-soprano"
+    },
+    {
+      "role": "Bluebeard's wives",
+      "voiceType": "silent"
+    }
+  ]
+}

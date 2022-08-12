@@ -1,30 +1,49 @@
 {
-  "name": "opera-info",
-  "version": "1.0.0",
+  "name": "@ckirby/opera-info",
+  "version": "0.0.0",
   "description": "information about operas",
   "type": "module",
-  "main": "index.js",
+  "main": "dist/node.js",
+  "browser": "./dist/index.js",
   "repository": "https://github.com/chadkirby/opera-info.git",
   "author": "Chad Kirby <chad.kirby@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "init:operas": "node fetchers/fetch-prominent.js src/operas.json",
-    "init:summaries": "node fetchers/fetch-opera-summaries.js src/operas.json",
-    "init:info": "node fetchers/fetch-opera-info.js src/operas.json"
+    "build": "tsc -p .",
+    "init:operas": "node init/fetch-prominent.js operas.json",
+    "init:summaries": "node init/fetch-opera-summaries.js operas.json",
+    "init:info": "node init/fetch-opera-info.js operas.json",
+    "init:languages": "node init/fetch-languages.js languages.json",
+    "prepublishOnly": "yarn zip && yarn build",
+    "test": "tape `find tests -name '*-test.js'`",
+    "zip": "echo \"export default \\`\" > src/wiki.b64.ts && zip --quiet -r - operas.json languages.json wiki | base64 -b 128 >> src/wiki.b64.ts && echo \"\\`;\" >> src/wiki.b64.ts"
   },
   "devDependencies": {
-    "@ckirby/dom-dom-dom-dommmm": "^8.2.0",
+    "@types/jsdom": "^20.0.0",
     "@types/node": "16",
-    "@types/node-fetch": "^2.6.2",
+    "@types/sbd": "^1.0.3",
     "@typescript-eslint/eslint-plugin": "^5.32.0",
     "@typescript-eslint/parser": "^5.32.0",
     "dotenv": "^16.0.1",
     "eslint": "^7.32.0 || ^8.2.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "get-stdin": "^9.0.0",
-    "jsdom": "^20.0.0",
+    "np": "^7.6.2",
     "prettier": "^2.7.1",
+    "tap-difflet": "^0.7.2",
+    "tape": "^5.5.3",
+    "tape-promise": "^4.0.0",
     "typescript": "^4.6.4"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@ckirby/block-re": "^3.0.1",
+    "@ckirby/dom-dom-dom-dommmm": "^8.2.0",
+    "@ckirby/mr-lister": "^3.1.0",
+    "jsdom": "^20.0.0",
+    "jszip": "^3.10.1",
+    "sbd": "^1.0.19"
   }
 }

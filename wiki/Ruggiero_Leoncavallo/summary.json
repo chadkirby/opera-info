@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ruggero Leoncavallo",
+  "displaytitle": "Ruggero Leoncavallo",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q189015",
+  "titles": {
+    "canonical": "Ruggero_Leoncavallo",
+    "normalized": "Ruggero Leoncavallo",
+    "display": "Ruggero Leoncavallo"
+  },
+  "pageid": 37938,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Leonkavallo_Postcard-1910.jpg/215px-Leonkavallo_Postcard-1910.jpg",
+    "width": 215,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Leonkavallo_Postcard-1910.jpg",
+    "width": 571,
+    "height": 851
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1103428910",
+  "tid": "8a458b70-1805-11ed-87bb-3147ac53d1ae",
+  "timestamp": "2022-08-09T17:05:56Z",
+  "description": "Italian composer (1857-1919)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ruggero_Leoncavallo",
+      "revisions": "https://en.wikipedia.org/wiki/Ruggero_Leoncavallo?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ruggero_Leoncavallo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ruggero_Leoncavallo"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Ruggero_Leoncavallo",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ruggero_Leoncavallo",
+      "edit": "https://en.m.wikipedia.org/wiki/Ruggero_Leoncavallo?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Ruggero_Leoncavallo"
+    }
+  },
+  "extract": "Ruggero  Leoncavallo was an Italian opera composer and librettist. Although he produced numerous operas and other songs throughout his career it is his opera Pagliacci (1892) that remained his lasting contribution, despite attempts to escape the shadow of his greatest success.",
+  "extract_html": "<p><b>Ruggero</b> <b> Leoncavallo</b> was an Italian opera composer and librettist. Although he produced numerous operas and other songs throughout his career it is his opera <i>Pagliacci</i> (1892) that remained his lasting contribution, despite attempts to escape the shadow of his greatest success.</p>"
+}
