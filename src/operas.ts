@@ -37,6 +37,11 @@ export class Operas {
   map<T>(fn: (opera: OperaData, index: number, list: OperaData[]) => T): T[] {
     return this.operas.map(fn);
   }
+  filter(
+    fn: (opera: OperaData, index: number, list: OperaData[]) => boolean
+  ): OperaData[] {
+    return this.operas.filter(fn);
+  }
   [Symbol.iterator]() {
     return this.operas[Symbol.iterator]();
   }
