@@ -1,6 +1,6 @@
 {
   "name": "@ckirby/opera-info",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "information about operas",
   "type": "module",
   "main": "dist/node.js",
