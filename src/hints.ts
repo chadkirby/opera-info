@@ -1,9 +1,11 @@
 import sbd from "sbd";
 import { listString } from "@ckirby/mr-lister";
-import type { TargetOpera } from "../typings.js";
+import type { TargetOpera } from "./types.js";
 import { anonymize, anonymizeComposer } from "./anonymizer.js";
 
-export async function makeHints(opera: TargetOpera): Promise<string[]> {
+export type HintlessTarget = Omit<TargetOpera, "hints">;
+
+export async function makeHints(opera: HintlessTarget): Promise<string[]> {
   const composerHints = await makeComposerHints(opera);
   const recordingHints = await makeRecordingHints(opera);
   const rolesHints = await makeRolesHints(opera);
@@ -24,19 +26,19 @@ export async function makeHints(opera: TargetOpera): Promise<string[]> {
   return hints.filter((h) => h && !/Cav\/Pag/.test(h));
 }
 
-export function makeRecordingHints(opera: TargetOpera): string[] {
+export function makeRecordingHints(opera: HintlessTarget): string[] {
   return opera.recordings.map(
     ({ year, cast, conductor }) =>
       `${anonymizeComposer(
         opera.composer,
         conductor
       )} conducted a ${year} recording of this opera that featured ${listString(
-        cast
+        cast.slice()
       )}.`
   );
 }
 
-export function makeRolesHints(opera: TargetOpera): string[] {
+export function makeRolesHints(opera: HintlessTarget): string[] {
   return opera.roles
     .filter((r) => r.voiceType && r.voiceType.split(/\s+/).length < 7)
     .filter((r) => !`${r.role} ${r.voiceType}`.includes(opera.title))
@@ -46,7 +48,9 @@ export function makeRolesHints(opera: TargetOpera): string[] {
     );
 }
 
-export async function makeComposerHints(opera: TargetOpera): Promise<string[]> {
+export async function makeComposerHints(
+  opera: HintlessTarget
+): Promise<string[]> {
   const div = document.createElement("div");
   div.innerHTML = opera.composerSummary.extract_html;
   for (const b of Array.from(div.querySelectorAll("b"))) {
@@ -56,10 +60,14 @@ export async function makeComposerHints(opera: TargetOpera): Promise<string[]> {
   const sentences = sbd.sentences(capitalize(extract, "the composer"), {
     newline_boundaries: true,
   });
-  return sentences;
+  return sentences
+    .map((s) => s.replace(/^He\b/, "The composer"))
+    .map((s) => s.replace(/^His\b/, "The composer's"));
 }
 
-export async function makeExtractHints(opera: TargetOpera): Promise<string[]> {
+export async function makeExtractHints(
+  opera: HintlessTarget
+): Promise<string[]> {
   const div = document.createElement("div");
   div.innerHTML = opera.operaSummary.extract_html;
 

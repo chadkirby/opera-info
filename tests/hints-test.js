@@ -72,8 +72,8 @@ test("can get hints for Billy Budd", async (assert) => {
 
   assert.deepEqual(await makeComposerHints(target), [
     "The composer was an English composer, conductor, and pianist.",
-    "He was a central figure of 20th-century British music, with a range of works including opera, other vocal music, orchestral and chamber pieces.",
-    "His best-known works include another opera (1945), the War Requiem (1962) and the orchestral showpiece The Young Person's Guide to the Orchestra (1945).",
+    "The composer was a central figure of 20th-century British music, with a range of works including opera, other vocal music, orchestral and chamber pieces.",
+    "The composer's best-known works include another opera (1945), the War Requiem (1962) and the orchestral showpiece The Young Person's Guide to the Orchestra (1945).",
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
@@ -138,7 +138,7 @@ test("can get hints for Rake's Progress", async (assert) => {
 
   assert.deepEqual(await makeComposerHints(target), [
     "The composer was a Russian composer, pianist and conductor, later of French and American citizenship.",
-    "He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
+    "The composer is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [

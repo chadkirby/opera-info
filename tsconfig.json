@@ -16,6 +16,7 @@
     "outDir": "dist",
     "rootDir": "src",
     "forceConsistentCasingInFileNames": true,
+    "declaration": true /* Generates corresponding '.d.ts' file. */,
   },
   "include": ["src/**/*"]
 }

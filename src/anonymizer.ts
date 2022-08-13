@@ -1,20 +1,25 @@
 import re from "@ckirby/block-re";
 
-import type { TargetOpera } from "../typings.js";
+import type { OperaData, TargetOpera } from "./types.js";
 import { getTitles } from "./opera-getters.js";
 
-export async function anonymize(hint: string, opera: TargetOpera) {
+export async function anonymize(
+  hint: string,
+  opera: Partial<TargetOpera> & OperaData
+) {
   let anonymized = hint;
   const titles = await getTitles(opera);
   if (titles) anonymized = anonymizeTitle(titles, anonymized);
-  if (opera.otherOperaTitles.length) {
+  if (opera.otherOperaTitles?.length) {
     anonymized = anonymizeTitle(
       opera.otherOperaTitles,
       anonymized,
       "another opera"
     );
   }
-  anonymized = anonymizeComposer(opera.composer, anonymized);
+  if (opera.composer) {
+    anonymized = anonymizeComposer(opera.composer, anonymized);
+  }
   return anonymized;
 }
 

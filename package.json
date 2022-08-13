@@ -1,6 +1,6 @@
 {
   "name": "@ckirby/opera-info",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "information about operas",
   "type": "module",
   "main": "dist/node.js",
@@ -45,5 +45,8 @@
     "jsdom": "^20.0.0",
     "jszip": "^3.10.1",
     "sbd": "^1.0.19"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }

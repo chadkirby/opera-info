@@ -8,7 +8,7 @@ import type {
   RoleData,
   RecordingData,
   OperaSummary,
-} from "../typings.js";
+} from "./types.js";
 
 const wikiZip = await new JSZip().loadAsync(wikiB64, { base64: true });
 export const operaList = await readJson<OperaData[]>("operas.json");

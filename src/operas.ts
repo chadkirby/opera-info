@@ -1,4 +1,4 @@
-import type { OperaData, ListedOpera, TargetOpera } from "../typings.js";
+import type { OperaData, ListedOpera, TargetOpera } from "./types.js";
 
 import {
   operaList,
@@ -10,6 +10,7 @@ import {
   getInfoBox,
   getRoles,
 } from "./opera-getters.js";
+import { makeHints } from "./hints.js";
 
 export class Operas {
   readonly operas: OperaData[];
@@ -22,6 +23,22 @@ export class Operas {
   }
   get length() {
     return this.operas.length;
+  }
+  find(
+    fn: (opera: OperaData, index: number, list: OperaData[]) => boolean
+  ): OperaData | undefined {
+    return this.operas.find(fn);
+  }
+  findIndex(
+    fn: (opera: OperaData, index: number, list: OperaData[]) => boolean
+  ): number {
+    return this.operas.findIndex(fn);
+  }
+  map<T>(fn: (opera: OperaData, index: number, list: OperaData[]) => T): T[] {
+    return this.operas.map(fn);
+  }
+  [Symbol.iterator]() {
+    return this.operas[Symbol.iterator]();
   }
   async getOperaByTitleHref(href: string): Promise<ListedOpera | null> {
     const index = this.operas.findIndex((opera) => opera.titleHref === href);
@@ -68,7 +85,7 @@ export class Operas {
       .filter((o) => o.composerHref === basic.composerHref)
       .map((o) => o.title);
 
-    return {
+    const needsHints = {
       ...basic,
       composer: composerSummary?.title,
       thumbnailUrl: composerSummary?.thumbnail.source,
@@ -78,6 +95,10 @@ export class Operas {
       recordings: (await getRecordings(basic))?.items || [],
       roles: (await getRoles(basic))?.items || [],
       otherOperaTitles,
+    };
+    return {
+      ...needsHints,
+      hints: await makeHints(needsHints),
     };
   }
 }
