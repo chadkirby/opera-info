@@ -27,21 +27,21 @@ export function anonymizeComposer(composer: string, target: string): string {
   const names = composer.split(/\s+/);
   const last = names.pop();
   const optional = names.map((n) => `(?:${n}\\s+)?`).join("");
-  const composerPattern = new RegExp(`\\b${optional}(?:${last})\\b`, "g");
+  const composerPattern = re`/\b${optional}(?:${last})\b/g`;
   target = target.replace(/\bthe\s+composer\b/g, "THE_COMPOSER");
   target = target.replace(composerPattern, "the composer");
   target = target.replace(/(?<=\bthe composer)'s?(?!\w)/, "'s");
   target = target.replace(/(?<!the first )\b(?:composed )?by the composer/, "");
-  target = target.replace(/\bthe composer the composer\b/g, "the composer");
+  target = target.replace(/\b[tT]he composer the composer\b/g, "the composer");
   target = target.replace(
-    /the ([A-Z]\w+) composer the composer(?!')/g,
+    /[tT]he ([A-Z]\w+) composer the composer(?!')/g,
     (_, adjective) =>
       /^[aeiou]/i.test(adjective)
         ? `an ${adjective} composer`
         : `a ${adjective} composer`
   );
   target = target.replace(
-    /(?<!(?:the|an?) )\b([A-Z]\w+) composer the composer(?!')/g,
+    /(?<!(?:[Tt]he|[Aa]n?) )\b([A-Z]\w+) composer the composer(?!')/g,
     (_, adjective) =>
       /^[aeiou]/i.test(adjective)
         ? `an ${adjective} composer`
