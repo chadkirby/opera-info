@@ -1,16 +1,18 @@
 import sbd from "sbd";
 import { listString } from "@ckirby/mr-lister";
-import type { TargetOpera } from "./types.js";
+import type { TargetOpera, Hint } from "./types.js";
 import { anonymize, anonymizeComposer } from "./anonymizer.js";
 
 export type HintlessTarget = Omit<TargetOpera, "hints">;
 
-export async function makeHints(opera: HintlessTarget): Promise<string[]> {
+export async function makeHints(opera: HintlessTarget): Promise<Hint[]> {
   const composerHints = await makeComposerHints(opera);
   const recordingHints = await makeRecordingHints(opera);
   const rolesHints = await makeRolesHints(opera);
   const extractHints = await makeExtractHints(opera);
-  const hints = [await anonymize(opera.factoid, opera)];
+  const hints: Hint[] = [
+    { category: "factoid", hint: await anonymize(opera.factoid, opera) },
+  ];
   while (
     composerHints.length +
       recordingHints.length +
@@ -18,12 +20,18 @@ export async function makeHints(opera: HintlessTarget): Promise<string[]> {
       extractHints.length >
     0
   ) {
-    if (composerHints.length) hints.push(composerHints.shift()!);
-    if (recordingHints.length) hints.push(recordingHints.shift()!);
-    if (extractHints.length) hints.push(extractHints.shift()!);
-    if (rolesHints.length) hints.push(rolesHints.pop()!);
+    if (composerHints.length)
+      hints.push({ category: "composer", hint: composerHints.shift()! });
+    if (recordingHints.length)
+      hints.push({ category: "recording", hint: recordingHints.shift()! });
+    if (extractHints.length)
+      hints.push({ category: "factoid", hint: extractHints.shift()! });
+    if (rolesHints.length)
+      hints.push({ category: "role", hint: rolesHints.pop()! });
   }
-  return hints.filter((h) => h && !/Cav\/Pag/.test(h));
+  return hints
+    .filter((h) => h.hint && !/Cav\/Pag/.test(h.hint))
+    .map((h) => ({ ...h, hint: h.hint.replace(/([,.;])\s+\1/g, "$1") }));
 }
 
 export function makeRecordingHints(opera: HintlessTarget): string[] {
@@ -44,7 +52,9 @@ export function makeRolesHints(opera: HintlessTarget): string[] {
     .filter((r) => !`${r.role} ${r.voiceType}`.includes(opera.title))
     .map(
       ({ role, voiceType }) =>
-        `This opera features a ${voiceType} role ${role}.`
+        `This opera features a ${
+          /,/.test(voiceType) ? `"${voiceType}"` : voiceType
+        } role ${role}.`
     );
 }
 
@@ -74,7 +84,10 @@ export async function makeExtractHints(
   for (const b of Array.from(div.querySelectorAll("b"))) {
     b.textContent = "this opera";
   }
-  const extract = await anonymize(getText(div), opera);
+  const extract = (await anonymize(getText(div), opera)).replace(
+    /, sometimes called this opera,/g,
+    ""
+  );
   const sentences = sbd.sentences(capitalize(extract, "this opera"), {
     newline_boundaries: true,
   });

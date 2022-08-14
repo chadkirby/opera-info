@@ -15,7 +15,12 @@ export interface TargetOpera extends OperaData {
   recordings: RecordingItem[];
   roles: RoleItem[];
   otherOperaTitles: string[];
-  hints: string[];
+  hints: Hint[];
+}
+
+export interface Hint {
+  category: "factoid" | "recording" | "composer" | "role";
+  hint: string;
 }
 
 export interface ListedOpera extends OperaData {
