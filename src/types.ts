@@ -7,17 +7,6 @@ export interface OperaData {
   factoid: string;
 }
 
-export interface TargetOpera extends OperaData {
-  thumbnailUrl: string;
-  infobox: InfoBox | null;
-  composerSummary: ComposerSummary;
-  operaSummary: OperaSummary;
-  recordings: RecordingItem[];
-  roles: RoleItem[];
-  otherOperaTitles: string[];
-  hints: Hint[];
-}
-
 export interface Hint {
   category: "factoid" | "recording" | "composer" | "role";
   hint: string;
@@ -26,6 +15,17 @@ export interface Hint {
 export interface ListedOpera extends OperaData {
   titles: string[];
   language: string;
+}
+
+export interface TargetOpera extends ListedOpera {
+  thumbnailUrl: string;
+  infobox: InfoBox | null;
+  composerSummary: ComposerSummary;
+  operaSummary: OperaSummary;
+  recordings: RecordingItem[];
+  roles: RoleItem[];
+  otherOperaTitles: string[];
+  hints: Hint[];
 }
 
 export interface InfoBox {
