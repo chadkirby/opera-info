@@ -54,7 +54,7 @@ export function makeRolesHints(opera: HintlessTarget): string[] {
       ({ role, voiceType }) =>
         `This opera features a ${
           /,/.test(voiceType) ? `"${voiceType}"` : voiceType
-        } role ${role}.`
+        } role ${role.split(/(?:,\s*)?\n/)[0]}.`
     );
 }
 

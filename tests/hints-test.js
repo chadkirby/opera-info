@@ -140,7 +140,7 @@ test("can get hints for Pagliacci", async (assert) => {
   let target = await operas.getTargetOpera("/wiki/Pagliacci");
   assert.deepEqual(await makeRolesHints(target), [
     "This opera features a tenor role Canio, head of the troupe.",
-    "This opera features a soprano role Nedda, Canio's wife,\nin love with Silvio.",
+    "This opera features a soprano role Nedda, Canio's wife.",
     "This opera features a baritone role Tonio, the fool.",
     "This opera features a tenor role Beppe (Peppe), actor.",
     "This opera features a baritone role Silvio, Nedda's lover.",
