@@ -1,18 +1,18 @@
 // @ts-check
 
-import { loadHtml } from './load-html.js';
-import { wikiFetch } from './wiki-fetch.js';
+import { loadHtml } from "./load-html.js";
+import { wikiFetch } from "./wiki-fetch.js";
 
 export async function getListOfOperas() {
   const html = await wikiFetch(
-    'https://en.wikipedia.org/wiki/List_of_operas_by_title'
+    "https://en.wikipedia.org/wiki/List_of_operas_by_title"
   );
   const $ = loadHtml(html);
-  const content = $.document.getElementById('bodyContent');
+  const content = $.document.getElementById("bodyContent");
   if (!content) return;
 
   let list = [];
-  for (const li of content.querySelectorAll('.mw-parser-output .div-col li')) {
+  for (const li of content.querySelectorAll(".mw-parser-output .div-col li")) {
     // <li>
     //   <i><a href="/wiki/L%27abandon_d%27Ariane" title="L'abandon d'Ariane">L'abandon d'Ariane</a></i>,
     //   <a href="/wiki/Darius_Milhaud" title="Darius Milhaud">Darius Milhaud</a>,
@@ -21,7 +21,7 @@ export async function getListOfOperas() {
     // summaryXHR
     // https://en.wikipedia.org/api/rest_v1/page/summary/L'abandon_d'Ariane
     try {
-      const [titleA, composerA, dateA] = [...li.querySelectorAll('a')];
+      const [titleA, composerA, dateA] = [...li.querySelectorAll("a")];
       list.push({
         title: titleA.textContent,
         titleHref: titleA.href,
