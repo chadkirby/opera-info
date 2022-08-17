@@ -68,6 +68,26 @@ export async function getListOfProminentOperas(outputFile) {
     }
   }
 
+  for (const entry of list) {
+    if (!entry.composerHref) {
+      let otherOpera = list.find(
+        (item) => item.composerHref && item.composer === entry.composer
+      );
+      if (otherOpera) {
+        entry.composerHref = otherOpera.composerHref;
+      } else {
+        otherOpera = list.find(
+          (item) =>
+            item.composerHref &&
+            item.composer?.endsWith(entry.composer || "xxxxxx")
+        );
+        if (otherOpera) {
+          entry.composerHref = otherOpera.composerHref;
+        }
+      }
+    }
+  }
+
   if (outputFile) {
     await fs.writeFile(outputFile, JSON.stringify(list, null, 2));
   }

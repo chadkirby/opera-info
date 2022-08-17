@@ -36,6 +36,7 @@
     "title": "Giasone",
     "titleHref": "/wiki/Giasone",
     "composer": "Cavalli",
+    "composerHref": "/wiki/Francesco_Cavalli",
     "factoid": "In Giasone Cavalli, for the first time, separated aria and recitative. Giasone was the most popular opera of the 17th century."
   },
   {
@@ -43,6 +44,7 @@
     "title": "La Calisto",
     "titleHref": "/wiki/La_Calisto",
     "composer": "Cavalli",
+    "composerHref": "/wiki/Francesco_Cavalli",
     "factoid": "Ninth of the eleven operas that Cavalli wrote with Faustini is noted for its satire of the deities of classical mythology."
   },
   {
@@ -58,6 +60,7 @@
     "title": "The Fairy-Queen",
     "titleHref": "/wiki/The_Fairy-Queen",
     "composer": "Purcell",
+    "composerHref": "/wiki/Henry_Purcell",
     "factoid": "A semi-opera rather than a genuine opera, this is often thought to be Purcell's finest dramatic work."
   },
   {
@@ -89,6 +92,7 @@
     "title": "Tamerlano",
     "titleHref": "/wiki/Tamerlano",
     "composer": "Handel",
+    "composerHref": "/wiki/George_Frideric_Handel",
     "factoid": "Described by Anthony Hicks, writing in Grove Music Online, as possessing a \"taut dramatic power\"."
   },
   {
@@ -120,6 +124,7 @@
     "title": "Orlando",
     "titleHref": "/wiki/Orlando_(opera)",
     "composer": "Handel",
+    "composerHref": "/wiki/George_Frideric_Handel",
     "factoid": "An opera that is described by Anthony Hicks as \"remarkable\" and by Orrey as one of Handel's \"best works\"."
   },
   {
@@ -167,6 +172,7 @@
     "title": "Castor et Pollux",
     "titleHref": "/wiki/Castor_et_Pollux",
     "composer": "Rameau",
+    "composerHref": "/wiki/Jean-Philippe_Rameau",
     "factoid": "Initially only a moderate success, when it was revived in 1754 Castor et Pollux was regarded as Rameau's finest achievement."
   },
   {
@@ -190,6 +196,7 @@
     "title": "Platée",
     "titleHref": "/wiki/Plat%C3%A9e",
     "composer": "Rameau",
+    "composerHref": "/wiki/Jean-Philippe_Rameau",
     "factoid": "Rameau's most famous comic opera. Originally a court entertainment, a 1754 revival proved extremely popular with French audiences."
   },
   {
@@ -237,6 +244,7 @@
     "title": "Mitridate, re di Ponto",
     "titleHref": "/wiki/Mitridate,_re_di_Ponto",
     "composer": "Mozart",
+    "composerHref": "/wiki/Wolfgang_Amadeus_Mozart",
     "factoid": "Composed when Mozart was 14, Mitridate was written for a demanding cast of star singers."
   },
   {
@@ -252,6 +260,7 @@
     "title": "Iphigénie en Aulide",
     "titleHref": "/wiki/Iphig%C3%A9nie_en_Aulide",
     "composer": "Gluck",
+    "composerHref": "/wiki/Christoph_Willibald_Gluck",
     "factoid": "Gluck's first opera for Paris."
   },
   {
@@ -259,6 +268,7 @@
     "title": "La finta giardiniera",
     "titleHref": "/wiki/La_finta_giardiniera",
     "composer": "Mozart",
+    "composerHref": "/wiki/Wolfgang_Amadeus_Mozart",
     "factoid": "Generally recognised as Mozart's first opera buffa of significance."
   },
   {
@@ -266,6 +276,7 @@
     "title": "Il re pastore",
     "titleHref": "/wiki/Il_re_pastore",
     "composer": "Mozart",
+    "composerHref": "/wiki/Wolfgang_Amadeus_Mozart",
     "factoid": "Mozart's last opera of his adolescence was set to a libretto by Metastasio."
   },
   {
@@ -329,6 +340,7 @@
     "title": "Le nozze di Figaro",
     "titleHref": "/wiki/The_Marriage_of_Figaro",
     "composer": "Mozart",
+    "composerHref": "/wiki/Wolfgang_Amadeus_Mozart",
     "factoid": "The first of the famous series of Mozart operas set to libretti by Lorenzo Da Ponte is now Mozart's most popular opera."
   },
   {
@@ -360,6 +372,7 @@
     "title": "Die Zauberflöte",
     "titleHref": "/wiki/The_Magic_Flute",
     "composer": "Mozart",
+    "composerHref": "/wiki/Wolfgang_Amadeus_Mozart",
     "factoid": "Has been described as \"the apotheosis of the Singspiel\", Die Zauberflöte was denigrated during the 19th century as confused and lacking in definition."
   },
   {
@@ -431,6 +444,7 @@
     "title": "Il barbiere di Siviglia",
     "titleHref": "/wiki/The_Barber_of_Seville",
     "composer": "Rossini",
+    "composerHref": "/wiki/Gioachino_Rossini",
     "factoid": "This work has become Rossini's most popular opera buffa."
   },
   {
@@ -462,6 +476,7 @@
     "title": "Mosè in Egitto",
     "titleHref": "/wiki/Mos%C3%A8_in_Egitto",
     "composer": "Rossini",
+    "composerHref": "/wiki/Gioachino_Rossini",
     "factoid": "This work was originally conceived of as a sacred drama suitable for performance during Lent."
   },
   {
@@ -548,6 +563,7 @@
     "title": "La straniera",
     "titleHref": "/wiki/La_straniera",
     "composer": "Bellini",
+    "composerHref": "/wiki/Vincenzo_Bellini",
     "factoid": "La straniera is rare among bel canto operas in that it offers remarkably few opportunities for vocal ostentation."
   },
   {
@@ -555,6 +571,7 @@
     "title": "Guillaume Tell",
     "titleHref": "/wiki/Guillaume_Tell",
     "composer": "Rossini",
+    "composerHref": "/wiki/Gioachino_Rossini",
     "factoid": "Rossini's last opera before his retirement is a tale of liberty set in the Swiss Alps. It helped to establish the genre of French Grand Opera."
   },
   {
@@ -578,6 +595,7 @@
     "title": "I Capuleti e i Montecchi",
     "titleHref": "/wiki/I_Capuleti_e_i_Montecchi",
     "composer": "Bellini",
+    "composerHref": "/wiki/Vincenzo_Bellini",
     "factoid": "Bellini's version of Romeo and Juliet."
   },
   {
@@ -776,6 +794,7 @@
     "title": "Ruslan and Lyudmila",
     "titleHref": "/wiki/Ruslan_and_Lyudmila_(opera)",
     "composer": "Glinka",
+    "composerHref": "/wiki/Mikhail_Glinka",
     "factoid": "This episodic version of a Pushkin fairy tale was a major influence on later Russian composers."
   },
   {
@@ -830,6 +849,7 @@
     "title": "Tannhäuser und der Sängerkrieg auf Wartburg",
     "titleHref": "/wiki/Tannh%C3%A4user_und_der_S%C3%A4ngerkrieg_auf_Wartburg",
     "composer": "Wagner",
+    "composerHref": "/wiki/Richard_Wagner",
     "factoid": "Wagner's \"most medieval work\" depicts the conflict between pagan love and Christian virtue."
   },
   {
@@ -877,6 +897,7 @@
     "title": "Le prophète",
     "titleHref": "/wiki/Le_proph%C3%A8te",
     "composer": "Meyerbeer",
+    "composerHref": "/wiki/Giacomo_Meyerbeer",
     "factoid": "A grand opera about the life of the religious fanatic, John of Leiden."
   },
   {
@@ -1027,6 +1048,7 @@
     "title": "Mireille",
     "titleHref": "/wiki/Mireille_(opera)",
     "composer": "Gounod",
+    "composerHref": "/wiki/Charles_Gounod",
     "factoid": "Gounod's work is based on the epic poem by Frédéric Mistral and makes use of Provençal folk tunes."
   },
   {
@@ -1074,6 +1096,7 @@
     "title": "La jolie fille de Perth",
     "titleHref": "/wiki/La_jolie_fille_de_Perth",
     "composer": "Bizet",
+    "composerHref": "/wiki/Georges_Bizet",
     "factoid": "Bizet turned to a novel by Sir Walter Scott for this opéra comique."
   },
   {
@@ -1105,6 +1128,7 @@
     "title": "Hamlet",
     "titleHref": "/wiki/Hamlet_(Thomas)",
     "composer": "Thomas",
+    "composerHref": "/wiki/Ambroise_Thomas",
     "factoid": "Thomas's opera takes many liberties with its Shakespearean source."
   },
   {
@@ -1112,6 +1136,7 @@
     "title": "La Périchole",
     "titleHref": "/wiki/La_P%C3%A9richole",
     "composer": "Offenbach",
+    "composerHref": "/wiki/Jacques_Offenbach",
     "factoid": "Set in Peru, this operetta mixes comedy and sentimentality."
   },
   {
@@ -1167,6 +1192,7 @@
     "title": "The Two Widows",
     "titleHref": "/wiki/The_Two_Widows",
     "composer": "Smetana",
+    "composerHref": "/wiki/Bed%C5%99ich_Smetana",
     "factoid": "Another comedy by Smetana, the only one of his operas with a non-Czech subject."
   },
   {
@@ -1310,6 +1336,7 @@
     "title": "Le roi malgré lui",
     "titleHref": "/wiki/Le_roi_malgr%C3%A9_lui",
     "composer": "Chabrier",
+    "composerHref": "/wiki/Emmanuel_Chabrier",
     "factoid": "Ravel claimed he would rather have written this comic opera than Wagner's Ring cycle, though the plot is notoriously confused."
   },
   {
@@ -1357,6 +1384,7 @@
     "title": "L'amico Fritz",
     "titleHref": "/wiki/L%27amico_Fritz",
     "composer": "Mascagni",
+    "composerHref": "/wiki/Pietro_Mascagni",
     "factoid": "This work has been thought of as a late example of opera semiseria."
   },
   {
@@ -1364,6 +1392,7 @@
     "title": "Iolanta",
     "titleHref": "/wiki/Iolanta",
     "composer": "Tchaikovsky",
+    "composerHref": "/wiki/Pyotr_Ilyich_Tchaikovsky",
     "factoid": "Tchaikovsky's last lyrical opera set to a libretto by his brother Modest."
   },
   {
@@ -1443,6 +1472,7 @@
     "title": "Königskinder",
     "titleHref": "/wiki/K%C3%B6nigskinder",
     "composer": "Humperdinck",
+    "composerHref": "/wiki/Engelbert_Humperdinck_(composer)",
     "factoid": "Originally a melodrama that blended song and spoken dialogue, the composer adapted the work into an opera proper in 1907."
   },
   {
@@ -1450,6 +1480,7 @@
     "title": "Fedora",
     "titleHref": "/wiki/Fedora_(opera)",
     "composer": "Giordano",
+    "composerHref": "/wiki/Umberto_Giordano",
     "factoid": "Giordano's second most popular opera."
   },
   {
@@ -1561,6 +1592,7 @@
     "title": "Maskarade",
     "titleHref": "/wiki/Maskarade",
     "composer": "Nielsen",
+    "composerHref": "/wiki/Carl_Nielsen",
     "factoid": "Nielsen's high-spirited comedy looks back to the world of The Marriage of Figaro and has become a classic in the composer's native Denmark."
   },
   {
@@ -1768,6 +1800,7 @@
     "title": "Die Frau ohne Schatten",
     "titleHref": "/wiki/Die_Frau_ohne_Schatten",
     "composer": "Strauss",
+    "composerHref": "/wiki/Richard_Strauss",
     "factoid": "The third full collaboration between Strauss and the librettist Hofmannsthal gestated for six years before completion, and another two years passed before the first performance."
   },
   {
@@ -1943,6 +1976,7 @@
     "title": "Rise and Fall of the City of Mahagonny",
     "titleHref": "/wiki/Rise_and_Fall_of_the_City_of_Mahagonny",
     "composer": "Weill",
+    "composerHref": "/wiki/Kurt_Weill",
     "factoid": "The composition of this opera was problematic, due to tension between the composer and his librettist, Bertolt Brecht."
   },
   {
@@ -1982,6 +2016,7 @@
     "title": "Die schweigsame Frau",
     "titleHref": "/wiki/Die_schweigsame_Frau",
     "composer": "Strauss",
+    "composerHref": "/wiki/Richard_Strauss",
     "factoid": "A comic opera based on a play by Ben Jonson."
   },
   {
@@ -2005,6 +2040,7 @@
     "title": "Riders to the Sea",
     "titleHref": "/wiki/Riders_to_the_Sea_(opera)",
     "composer": "Vaughan Williams",
+    "composerHref": "/wiki/Ralph_Vaughan_Williams",
     "factoid": "Often rated as Vaughan Williams's finest opera, this short, fatalistic tragedy is set on the Aran Isles in the west of Ireland."
   },
   {
@@ -2092,6 +2128,7 @@
     "title": "The Rape of Lucretia",
     "titleHref": "/wiki/The_Rape_of_Lucretia",
     "composer": "Britten",
+    "composerHref": "/wiki/Benjamin_Britten",
     "factoid": "Britten's first chamber opera."
   },
   {
@@ -2123,6 +2160,7 @@
     "title": "The Telephone, or L'Amour à trois",
     "titleHref": "/wiki/The_Telephone,_or_L%27Amour_%C3%A0_trois",
     "composer": "Menotti",
+    "composerHref": "/wiki/Gian_Carlo_Menotti",
     "factoid": "An opera buffa just 22 minutes in length."
   },
   {
@@ -2138,6 +2176,7 @@
     "title": "The Consul",
     "titleHref": "/wiki/The_Consul",
     "composer": "Menotti",
+    "composerHref": "/wiki/Gian_Carlo_Menotti",
     "factoid": "This opera contains some of Menotti's most dissonant music."
   },
   {
@@ -2249,6 +2288,7 @@
     "title": "La voix humaine",
     "titleHref": "/wiki/La_voix_humaine",
     "composer": "Poulenc",
+    "composerHref": "/wiki/Francis_Poulenc",
     "factoid": "A short opera with a single character: a despairing woman on the telephone to her lover."
   },
   {
@@ -2264,6 +2304,7 @@
     "title": "Elegy for Young Lovers",
     "titleHref": "/wiki/Elegy_for_Young_Lovers",
     "composer": "Henze",
+    "composerHref": "/wiki/Hans_Werner_Henze",
     "factoid": "Henze asked his librettists, W. H. Auden and Chester Kallman, for a scenario that would inspire him to compose \"tender, beautiful noises\"."
   },
   {
@@ -2271,6 +2312,7 @@
     "title": "King Priam",
     "titleHref": "/wiki/King_Priam",
     "composer": "Tippett",
+    "composerHref": "/wiki/Michael_Tippett",
     "factoid": "Tippett's second opera, set to another of his own \"recondite\" libretti, was inspired by Homer's Iliad."
   },
   {
@@ -2286,6 +2328,7 @@
     "title": "Der junge Lord",
     "titleHref": "/wiki/Der_junge_Lord",
     "composer": "Henze",
+    "composerHref": "/wiki/Hans_Werner_Henze",
     "factoid": "The last composition produced during Henze's dwelling in Italy is considered to be the most Italianate of his dramatic works."
   },
   {
@@ -2301,6 +2344,7 @@
     "title": "Antony and Cleopatra",
     "titleHref": "/wiki/Antony_and_Cleopatra_(opera)",
     "composer": "Barber",
+    "composerHref": "/wiki/Samuel_Barber",
     "factoid": "The first version of the opera was set to a libretto consisting entirely of the words of Shakespeare and deemed a failure. Later it was revised by Gian Carlo Menotti and became a success."
   },
   {
@@ -2308,6 +2352,7 @@
     "title": "The Bassarids",
     "titleHref": "/wiki/The_Bassarids",
     "composer": "Henze",
+    "composerHref": "/wiki/Hans_Werner_Henze",
     "factoid": "Henze's opera is set to a libretto by Auden and Kallman, who required that the composer listen to Götterdämmerung before starting to compose the music."
   },
   {
@@ -2315,6 +2360,7 @@
     "title": "The Bear",
     "titleHref": "/wiki/The_Bear_(opera)",
     "composer": "Walton",
+    "composerHref": "/wiki/William_Walton",
     "factoid": "The libretto for Walton's extravaganza was based on Chekov."
   },
   {
@@ -2330,6 +2376,7 @@
     "title": "The Prodigal Son",
     "titleHref": "/wiki/The_Prodigal_Son_(Britten)",
     "composer": "Britten",
+    "composerHref": "/wiki/Benjamin_Britten",
     "factoid": "The third of Britten's parables for church performance."
   },
   {
@@ -2401,6 +2448,7 @@
     "title": "The Lighthouse",
     "titleHref": "/wiki/The_Lighthouse_(opera)",
     "composer": "Davies",
+    "composerHref": "/wiki/Peter_Maxwell_Davies",
     "factoid": "Davies's second chamber opera was set to his own libretto."
   },
   {
@@ -2456,6 +2504,7 @@
     "title": "Gawain",
     "titleHref": "/wiki/Gawain_(opera)",
     "composer": "Birtwistle",
+    "composerHref": "/wiki/Harrison_Birtwistle",
     "factoid": "Birtwistle's opera is based on the medieval English poem Sir Gawain and the Green Knight."
   },
   {
