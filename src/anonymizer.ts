@@ -53,17 +53,20 @@ export function anonymizeComposer(composer: string, target: string): string {
   return target.replace(/\bTHE_COMPOSER\b/g, "the composer");
 }
 
+export function makeTitlePattern(titles: string[], flags = "g") {
+  const patterns = titles.map((title) => {
+    const [first, ...rest] = title.split(/,\s+/);
+    return re`/(?:\b${first}(?: ${rest.join(", ")})?\b)/`.source;
+  });
+  return RegExp(patterns.join("|"), flags);
+}
+
 export function anonymizeTitle(
   titles: string[],
   target: string,
   replacement = "this opera"
 ): string {
-  const patterns = titles.map((title) => {
-    const [first, ...rest] = title.split(/,\s+/);
-    return re`/(?:\b${first}(?: ${rest.join(", ")})?\b)/`.source;
-  });
-  const composerPattern = RegExp(patterns.join("|"), "g");
-  target = target.replace(composerPattern, replacement);
+  target = target.replace(makeTitlePattern(titles), replacement);
   target = target.replace(re`/(?<=\b${replacement})'s?(?!\w)/`, "'s");
   target = target.replace(re`/(?:an?|the)\sopera\s(?=${replacement})/`, "");
   target = capitalize(target, replacement);

@@ -1,7 +1,11 @@
 import sbd from "sbd";
 import { listString } from "@ckirby/mr-lister";
 import type { TargetOpera, Hint } from "./types.js";
-import { anonymize, anonymizeComposer } from "./anonymizer.js";
+import {
+  anonymize,
+  anonymizeComposer,
+  makeTitlePattern,
+} from "./anonymizer.js";
 
 export type HintlessTarget = Omit<TargetOpera, "hints">;
 
@@ -66,11 +70,20 @@ export async function makeComposerHints(
   for (const b of Array.from(div.querySelectorAll("b"))) {
     b.textContent = "the composer";
   }
-  const extract = await anonymize(getText(div), opera);
-  const sentences = sbd.sentences(capitalize(extract, "the composer"), {
-    newline_boundaries: true,
-  });
-  return sentences
+  const titlePattern = makeTitlePattern(opera.titles);
+  const titleAmongCaps = new RegExp(
+    `[A-Z]\\w+ ${titlePattern.source}|${titlePattern.source} [A-Z]\\w+`
+  );
+
+  const sentences = sbd
+    .sentences(getText(div), {
+      newline_boundaries: true,
+    })
+    .filter((s) => !titleAmongCaps.test(s));
+
+  const hints = await Promise.all(sentences.map((s) => anonymize(s, opera)));
+  return hints
+    .map((s) => s.replace(/^the\b/, "The"))
     .map((s) => s.replace(/^He\b/, "The composer"))
     .map((s) => s.replace(/^His\b/, "The composer's"));
 }
@@ -84,14 +97,22 @@ export async function makeExtractHints(
   for (const b of Array.from(div.querySelectorAll("b"))) {
     b.textContent = "this opera";
   }
-  const extract = (await anonymize(getText(div), opera)).replace(
-    /, sometimes called this opera,/g,
-    ""
+
+  const titlePattern = makeTitlePattern(opera.titles);
+  const titleAmongCaps = new RegExp(
+    `[A-Z]\\w+ ${titlePattern.source}|${titlePattern.source} [A-Z]\\w+`
   );
-  const sentences = sbd.sentences(capitalize(extract, "this opera"), {
-    newline_boundaries: true,
-  });
-  return sentences;
+  const sentences = sbd
+    .sentences(getText(div), {
+      newline_boundaries: true,
+    })
+    .filter((s) => !titleAmongCaps.test(s));
+
+  const hints = await Promise.all(sentences.map((s) => anonymize(s, opera)));
+
+  return hints
+    .map((s) => s.replace(/^this\b/, "This"))
+    .map((s) => s.replace(/, sometimes called this opera,/g, ""));
 }
 
 function getText(el: Element): string {

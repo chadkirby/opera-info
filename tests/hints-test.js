@@ -128,7 +128,7 @@ test("can get hints for Billy Budd", async (assert) => {
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
-    "This opera, Op. 50, is an opera to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel this opera by Herman Melville.",
+    "This opera, Op. 50, is an opera  to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel this opera by Herman Melville.",
     "Originally in four acts, the opera received its premiere at the Royal Opera House (ROH), London, on 1 December 1951.",
     "The composer later revised the work into a two-act opera, with a prologue and an epilogue.",
     "The revised version received its first performance at the ROH, Covent Garden, London, on 9 January 1964.",
@@ -195,5 +195,66 @@ test("can get hints for Rake's Progress", async (assert) => {
   assert.deepEqual(await makeExtractHints(target), [
     "This opera is an English-language opera from 1951 in three acts and an epilogue .",
     "The libretto, written by W. H. Auden and Chester Kallman, is based loosely on the eight paintings and engravings A Rake's Progress (1733–1735) of William Hogarth, which the composer had seen on 2 May 1947, in a Chicago exhibition.",
+  ]);
+});
+
+test("can get hints for Lear", async (assert) => {
+  const operas = new Operas();
+  let target = await operas.getTargetOpera("/wiki/Lear_(opera)");
+  assert.deepEqual(await makeHints(target), [
+    {
+      category: "factoid",
+      hint: "An Expressionist opera based on Shakespeare's tragedy. The title role was specifically written for the famous baritone Dietrich Fischer-Dieskau.",
+    },
+    {
+      category: "composer",
+      hint: "The composer is a German composer, pianist and accompanist, known especially for his literary operas.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a spoken role role Knight.",
+    },
+    {
+      category: "composer",
+      hint: "The composer's opera Medea after Grillparzer's play premiered in 2010 at the Vienna State Opera.",
+    },
+    { category: "role", hint: "This opera features a tenor role Servant." },
+    {
+      category: "composer",
+      hint: "The composer was a professor of contemporary Lied in Hamburg and Berlin.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a tenor role Earl of Kent.",
+    },
+    {
+      category: "composer",
+      hint: "In 2011, he was awarded the Ernst von Siemens Music Prize for his life's work.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a tenor role Edmund, illegitimate son of Gloucester.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a tenor/countertenor role Edgar, son of Gloucester.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a bass-baritone role Duke of Gloucester.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a bass-baritone role King of France.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a tenor role Duke of Cornwall.",
+    },
+    {
+      category: "role",
+      hint: "This opera features a baritone role Duke of Albany.",
+    },
+    { category: "role", hint: "This opera features a spoken role role Fool." },
   ]);
 });
