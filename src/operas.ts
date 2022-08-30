@@ -15,11 +15,9 @@ import { makeHints } from "./hints.js";
 export class Operas {
   readonly operas: OperaData[];
 
-  constructor(ignoreComposers: string[] = []) {
+  constructor(filterFn: (opera: OperaData) => boolean = () => true) {
     if (!operaList) throw new Error("operas.json not found");
-    this.operas = operaList.filter(
-      (opera) => !ignoreComposers.includes(opera.composer)
-    );
+    this.operas = operaList.filter(filterFn);
   }
   get length() {
     return this.operas.length;

@@ -385,3 +385,31 @@ test("can filter operas", async (assert) => {
     ]
   );
 });
+
+test("can ignore operas", async (assert) => {
+  const operas = new Operas((o) => o.year > 1980);
+  assert.deepEqual(
+    operas.map((o) => ({ title: o.title, composer: o.composer, year: o.year })),
+    [
+      {
+        title: "Saint François d'Assise",
+        composer: "Olivier Messiaen",
+        year: 1983,
+      },
+      { title: "Un re in ascolto", composer: "Luciano Berio", year: 1984 },
+      { title: "Akhnaten", composer: "Philip Glass", year: 1984 },
+      {
+        title: "A Night at the Chinese Opera",
+        composer: "Judith Weir",
+        year: 1987,
+      },
+      { title: "Nixon in China", composer: "John Adams", year: 1987 },
+      { title: "Gawain", composer: "Birtwistle", year: 1991 },
+      {
+        title: "A Streetcar Named Desire",
+        composer: "André Previn",
+        year: 1995,
+      },
+    ]
+  );
+});
