@@ -61,11 +61,10 @@ const operasByLanguage = {
     "/wiki/Orphée_aux_Enfers",
     "/wiki/La_belle_Hélène",
     "/wiki/La_Périchole",
-    "/wiki/Andrea_Chénier",
   ],
   German: ["/wiki/Der_Zigeunerbaron", "/wiki/Die_lustige_Witwe"],
   Hungarian: ["/wiki/Bátori_Mária", "/wiki/Hunyadi_László_(opera)"],
-  Italian: ["/wiki/L'incoronazione_di_Poppea"],
+  Italian: ["/wiki/Andrea_Chénier", "/wiki/L'incoronazione_di_Poppea"],
   Various: ["/wiki/Akhnaten_(opera)"],
 };
 
