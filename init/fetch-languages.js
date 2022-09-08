@@ -19,17 +19,6 @@ function getOperaHrefs(document) {
   return operaHrefs;
 }
 
-export async function getOperasByLanguage(languagePage) {
-  const operaHrefs = [];
-  while (languagePage) {
-    const html = await wikiFetch(languagePage);
-    const $ = loadHtml(html);
-    operaHrefs.push(...getOperaHrefs($.document));
-    languagePage = getNextPageUrl($.document);
-  }
-  return operaHrefs;
-}
-
 const languagePages = [
   "https://en.wikipedia.org/wiki/Category:Czech-language_operas",
   "https://en.wikipedia.org/wiki/Category:English-language_operettas",
@@ -78,3 +67,16 @@ for (const page of languagePages) {
 
 const outputFile = process.argv[2];
 await fs.writeFile(outputFile, JSON.stringify(operasByLanguage, null, 2));
+
+export async function getOperasByLanguage(languagePage) {
+  const existing = new Set(Object.values(operasByLanguage).flat());
+  const operaHrefs = [];
+  while (languagePage) {
+    const html = await wikiFetch(languagePage);
+    const $ = loadHtml(html);
+    const hrefs = getOperaHrefs($.document);
+    operaHrefs.push(...hrefs.filter((href) => !existing.has(href)));
+    languagePage = getNextPageUrl($.document);
+  }
+  return operaHrefs;
+}
