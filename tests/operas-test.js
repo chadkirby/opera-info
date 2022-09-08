@@ -200,7 +200,7 @@ test("can get target opera", async (assert) => {
       },
       {
         category: "factoid",
-        hint: "This opera is a late Renaissance/early Baroque favola in musica, or opera, with a libretto by Alessandro Striggio.",
+        hint: '<span class="anonymized">This opera</span>, sometimes called <span class="anonymized">this opera</span>, is a late Renaissance/early Baroque favola in musica, or opera, with a libretto by Alessandro Striggio.',
       },
       {
         category: "role",
@@ -228,7 +228,7 @@ test("can get target opera", async (assert) => {
       },
       {
         category: "factoid",
-        hint: "While Jacopo Peri's Dafne is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's Euridice, this opera is the earliest that is still regularly performed.",
+        hint: "While Jacopo Peri's Dafne is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's Euridice, <span class=\"anonymized\">this opera</span> is the earliest that is still regularly performed.",
       },
       { category: "role", hint: "This opera features a tenor role Apollo." },
       {

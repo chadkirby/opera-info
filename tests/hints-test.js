@@ -23,7 +23,7 @@ test("can get hints for Orfeo", async (assert) => {
     },
     {
       category: "factoid",
-      hint: "This opera is a late Renaissance/early Baroque favola in musica, or opera, with a libretto by Alessandro Striggio.",
+      hint: '<span class="anonymized">This opera</span>, sometimes called <span class="anonymized">this opera</span>, is a late Renaissance/early Baroque favola in musica, or opera, with a libretto by Alessandro Striggio.',
     },
     {
       category: "role",
@@ -48,7 +48,7 @@ test("can get hints for Orfeo", async (assert) => {
     },
     {
       category: "factoid",
-      hint: "While Jacopo Peri's Dafne is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's Euridice, this opera is the earliest that is still regularly performed.",
+      hint: "While Jacopo Peri's Dafne is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's Euridice, <span class=\"anonymized\">this opera</span> is the earliest that is still regularly performed.",
     },
     { category: "role", hint: "This opera features a tenor role Apollo." },
     {
@@ -111,8 +111,8 @@ test("can get hints for Billy Budd", async (assert) => {
   ]);
 
   assert.deepEqual(await makeRecordingHints(target), [
-    "The composer conducted a 1951 recording of this opera that featured Theodor Uppman, Peter Pears, and Frederick Dalberg.",
-    "The composer conducted a 1967 recording of this opera that featured Peter Glossop, Peter Pears, and Michael Langdon.",
+    '<span class="anonymized">The composer</span> conducted a 1951 recording of this opera that featured Theodor Uppman, Peter Pears, and Frederick Dalberg.',
+    '<span class="anonymized">The composer</span> conducted a 1967 recording of this opera that featured Peter Glossop, Peter Pears, and Michael Langdon.',
     "Kent Nagano conducted a 1997 recording of this opera that featured Thomas Hampson, Anthony Rolfe-Johnson, and Eric Halfvarson.",
     "Richard Hickox conducted a 1999 recording of this opera that featured Simon Keenlyside, Philip Langridge, and John Tomlinson.",
     "Donald Runnicles conducted a 2004 recording of this opera that featured Bo Skovhus, Neil Shicoff, and Eric Halfvarson.",
@@ -124,13 +124,13 @@ test("can get hints for Billy Budd", async (assert) => {
   assert.deepEqual(await makeComposerHints(target), [
     "The composer was an English composer, conductor, and pianist.",
     "The composer was a central figure of 20th-century British music, with a range of works including opera, other vocal music, orchestral and chamber pieces.",
-    "The composer's best-known works include another opera (1945), the War Requiem (1962) and the orchestral showpiece The Young Person's Guide to the Orchestra (1945).",
+    "The composer's best-known works include <span class=\"anonymized\">another opera</span> (1945), the War Requiem (1962) and the orchestral showpiece The Young Person's Guide to the Orchestra (1945).",
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
-    "This opera, Op. 50, is an opera  to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel this opera by Herman Melville.",
+    '<span class="anonymized">This opera</span>, Op. 50, is an opera  to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel <span class="anonymized">this opera</span> by Herman Melville.',
     "Originally in four acts, the opera received its premiere at the Royal Opera House (ROH), London, on 1 December 1951.",
-    "The composer later revised the work into a two-act opera, with a prologue and an epilogue.",
+    '<span class="anonymized">The composer</span> later revised the work into a two-act opera, with a prologue and an epilogue.',
     "The revised version received its first performance at the ROH, Covent Garden, London, on 9 January 1964.",
   ]);
 });
@@ -150,15 +150,15 @@ test("can get hints for Pagliacci", async (assert) => {
 
   assert.deepEqual(await makeComposerHints(target), [
     "The composer the composer was an Italian opera composer and librettist.",
-    "Although he produced numerous operas and other songs throughout his career it is his opera this opera (1892) that remained his lasting contribution, despite attempts to escape the shadow of his greatest success.",
+    'Although he produced numerous operas and other songs throughout his career it is his opera <span class="anonymized">this opera</span> (1892) that remained his lasting contribution, despite attempts to escape the shadow of his greatest success.',
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
-    "This opera is an Italian opera in a prologue and two acts, with music and libretto .",
+    '<span class="anonymized">This opera</span> is an Italian opera in a prologue and two acts, with music and libretto .',
     "The opera tells the tale of Canio, actor and leader of a commedia dell'arte theatrical company, who murders his wife Nedda and her lover Silvio on stage during a performance.",
-    "This opera premiered at the Teatro Dal Verme in Milan on 21 May 1892, conducted by Arturo Toscanini, with Adelina Stehle as Nedda, Fiorello Giraud as Canio, Victor Maurel as Tonio, and Mario Ancona as Silvio.",
+    '<span class="anonymized">This opera</span> premiered at the Teatro Dal Verme in Milan on 21 May 1892, conducted by Arturo Toscanini, with Adelina Stehle as Nedda, Fiorello Giraud as Canio, Victor Maurel as Tonio, and Mario Ancona as Silvio.',
     "Soon after its Italian premiere, the opera played in London and in New York.",
-    "This opera is the composer's only opera that is still widely performed.",
+    '<span class="anonymized">This opera</span> is the composer\'s only opera that is still widely performed.',
   ]);
 });
 
@@ -177,8 +177,8 @@ test("can get hints for Rake's Progress", async (assert) => {
   ]);
 
   assert.deepEqual(await makeRecordingHints(target), [
-    "The composer conducted a 1953 recording of this opera that featured Eugene Conley, Hilde Gueden, Mack Harrell, and Blanche Thebom.",
-    "The composer conducted a 1964 recording of this opera that featured Alexander Young, Judith Raskin, John Reardon, and Regina Sarfaty.",
+    '<span class="anonymized">The composer</span> conducted a 1953 recording of this opera that featured Eugene Conley, Hilde Gueden, Mack Harrell, and Blanche Thebom.',
+    '<span class="anonymized">The composer</span> conducted a 1964 recording of this opera that featured Alexander Young, Judith Raskin, John Reardon, and Regina Sarfaty.',
     "Riccardo Chailly conducted a 1983 recording of this opera that featured Philip Langridge, Cathryn Pope, Samuel Ramey, and Sarah Walker.",
     "Robert Craft conducted a 1993 recording of this opera that featured Jon Garrison, Jayne West, John Cheek, and Wendy White.",
     "Kent Nagano conducted a 1995 recording of this opera that featured Jerry Hadley, Dawn Upshaw, Samuel Ramey, and Grace Bumbry.",
@@ -193,8 +193,8 @@ test("can get hints for Rake's Progress", async (assert) => {
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
-    "This opera is an English-language opera from 1951 in three acts and an epilogue .",
-    "The libretto, written by W. H. Auden and Chester Kallman, is based loosely on the eight paintings and engravings A Rake's Progress (1733–1735) of William Hogarth, which the composer had seen on 2 May 1947, in a Chicago exhibition.",
+    '<span class="anonymized">This opera</span> is an English-language opera from 1951 in three acts and an epilogue .',
+    'The libretto, written by W. H. Auden and Chester Kallman, is based loosely on the eight paintings and engravings A Rake\'s Progress (1733–1735) of William Hogarth, which <span class="anonymized">the composer</span> had seen on 2 May 1947, in a Chicago exhibition.',
   ]);
 });
 

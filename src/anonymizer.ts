@@ -49,8 +49,11 @@ export function anonymizeComposer(composer: string, target: string): string {
   );
 
   target = target.replace(/\sby the composer\b/g, "");
+
   target = capitalize(target, "the composer");
-  return target.replace(/\bTHE_COMPOSER\b/g, "the composer");
+  return target
+    .replace(/\b[Tt]he composer\b/g, '<span class="anonymized">$&</span>')
+    .replace(/\bTHE_COMPOSER\b/g, "the composer");
 }
 
 export function makeTitlePattern(titles: string[], flags = "g") {
@@ -70,7 +73,10 @@ export function anonymizeTitle(
   target = target.replace(re`/(?<=\b${replacement})'s?(?!\w)/`, "'s");
   target = target.replace(re`/(?:an?|the)\sopera\s(?=${replacement})/`, "");
   target = capitalize(target, replacement);
-  return target;
+  return target.replace(
+    re`/\b${replacement}\b/gi`,
+    '<span class="anonymized">$&</span>'
+  );
 }
 
 export function capitalize(source: string, target: string): string {
