@@ -413,3 +413,41 @@ test("can ignore operas", async (assert) => {
     ]
   );
 });
+
+test("Gluck operas are in the correct language", async (assert) => {
+  const operas = new Operas(
+    (o) => o.composerHref === "/wiki/Christoph_Willibald_Gluck"
+  );
+  assert.deepEqual(
+    (await Promise.all(operas.map((o) => operas.ensureBasicData(o)))).map(
+      (o) => ({
+        title: o.title,
+        composer: o.composer,
+        year: o.year,
+        language: o.language,
+      })
+    ),
+    [
+      {
+        title: "Orfeo ed Euridice",
+        composer: "Gluck",
+        year: 1762,
+        language: "Italian",
+      },
+      { title: "Alceste", composer: "Gluck", year: 1767, language: "French" },
+      {
+        title: "Iphigénie en Aulide",
+        composer: "Gluck",
+        year: 1774,
+        language: "French",
+      },
+      { title: "Armide", composer: "Gluck", year: 1777, language: "French" },
+      {
+        title: "Iphigénie en Tauride",
+        composer: "Gluck",
+        year: 1779,
+        language: "French",
+      },
+    ]
+  );
+});

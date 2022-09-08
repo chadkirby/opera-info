@@ -43,6 +43,7 @@ const operasByLanguage = {
     "/wiki/The_Lighthouse_(opera)",
   ],
   French: [
+    "/wiki/Alceste_(Gluck)",
     "/wiki/Platée",
     "/wiki/Iphigénie_en_Aulide",
     "/wiki/Iphigénie_en_Tauride",
@@ -53,7 +54,13 @@ const operasByLanguage = {
   ],
   German: ["/wiki/Der_Zigeunerbaron", "/wiki/Die_lustige_Witwe"],
   Hungarian: ["/wiki/Bátori_Mária", "/wiki/Hunyadi_László_(opera)"],
-  Italian: ["/wiki/Andrea_Chénier", "/wiki/L'incoronazione_di_Poppea"],
+  Italian: [
+    "/wiki/Andrea_Chénier",
+    "/wiki/L'incoronazione_di_Poppea",
+    // Orfeo has both Italian and French versions, but the Italian
+    // version is better known?
+    "/wiki/Orfeo_ed_Euridice",
+  ],
   Various: ["/wiki/Akhnaten_(opera)"],
 };
 
