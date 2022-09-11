@@ -6,6 +6,8 @@ import {
   anonymizeComposer,
   makeTitlePattern,
 } from "./anonymizer.js";
+// @ts-expect-error no types
+import Articles from "articles";
 
 export type HintlessTarget = Omit<TargetOpera, "hints">;
 
@@ -56,7 +58,7 @@ export function makeRolesHints(opera: HintlessTarget): string[] {
     .filter((r) => !`${r.role} ${r.voiceType}`.includes(opera.title))
     .map(
       ({ role, voiceType }) =>
-        `This opera features a ${
+        `This opera features ${Articles.find(voiceType)} ${
           /,/.test(voiceType) ? `"${voiceType}"` : voiceType
         } role ${role.split(/(?:,\s*)?\n/)[0]}.`
     );

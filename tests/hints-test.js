@@ -258,3 +258,15 @@ test("can get hints for Lear", async (assert) => {
     { category: "role", hint: "This opera features a spoken role role Fool." },
   ]);
 });
+
+test("can get hints for Rodelinda", async (assert) => {
+  const operas = new Operas();
+  let target = await operas.getTargetOpera("/wiki/Rodelinda_(opera)");
+  assert.deepEqual(await makeRolesHints(target), [
+    "This opera features an alto castrato role Bertarido, usurped King of Lombardy.",
+    "This opera features a tenor role Grimoaldo, Duke of Benevento, Bertarido's usurper.",
+    "This opera features a contralto role Eduige, Bertarido's sister, betrothed to Grimoaldo.",
+    "This opera features an alto castrato role Unulfo, Bertarido's friend and counsellor.",
+    "This opera features a bass role Garibaldo, Grimoaldo's counsellor, duke of Turin.",
+  ]);
+});
