@@ -101,13 +101,20 @@ export async function makeExtractHints(
   const titleAmongCaps = new RegExp(
     `[A-Z]\\w+ ${titlePattern.source}|${titlePattern.source} [A-Z]\\w+`
   );
-  const sentences = sbd
-    .sentences(getText(div), {
-      newline_boundaries: true,
-    })
-    .filter((s) => !titleAmongCaps.test(s));
+  const sentences = sbd.sentences(getText(div), {
+    newline_boundaries: true,
+  });
 
-  const hints = await Promise.all(sentences.map((s) => anonymize(s, opera)));
+  const hints = await Promise.all([
+    // non-spoiler hints first
+    ...sentences
+      .filter((s) => !titleAmongCaps.test(s))
+      .map((s) => anonymize(s, opera)),
+    // spoiler hints last
+    ...sentences
+      .filter((s) => titleAmongCaps.test(s))
+      .map((s) => anonymize(s, opera)),
+  ]);
 
   return hints
     .map((s) => s.replace(/^this\b/, "This"))
