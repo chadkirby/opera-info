@@ -19,11 +19,11 @@ test("can get hints for Orfeo", async (assert) => {
     },
     {
       category: "composer",
-      hint: "The composer was an Italian composer, string player, choirmaster, and priest.",
+      hint: `<span class="anonymized">The composer</span> was an Italian composer, string player, choirmaster, and priest.`,
     },
     {
       category: "factoid",
-      hint: '<span class="anonymized">This opera</span>, sometimes called <span class="anonymized">this opera</span>, is a late Renaissance/early Baroque favola in musica, or opera, with a libretto by Alessandro Striggio.',
+      hint: '<span class="anonymized">This opera</span>, sometimes called <span class="anonymized">this opera</span>, is a late Renaissance/early Baroque favola in musica, or opera with a libretto by Alessandro Striggio.',
     },
     {
       category: "role",
@@ -122,13 +122,13 @@ test("can get hints for Billy Budd", async (assert) => {
   ]);
 
   assert.deepEqual(await makeComposerHints(target), [
-    "The composer was an English composer, conductor, and pianist.",
+    `<span class="anonymized">The composer</span> was an English composer, conductor, and pianist.`,
     "The composer was a central figure of 20th-century British music, with a range of works including opera, other vocal music, orchestral and chamber pieces.",
     "The composer's best-known works include <span class=\"anonymized\">another opera</span> (1945), the War Requiem (1962) and the orchestral showpiece The Young Person's Guide to the Orchestra (1945).",
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
-    '<span class="anonymized">This opera</span>, Op. 50, is an opera  to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel <span class="anonymized">this opera</span> by Herman Melville.',
+    '<span class="anonymized">This opera</span>, Op. 50, is an opera to a libretto by the English novelist E. M. Forster and Eric Crozier, based on the short novel <span class="anonymized">this opera</span> by Herman Melville.',
     "Originally in four acts, the opera received its premiere at the Royal Opera House (ROH), London, on 1 December 1951.",
     '<span class="anonymized">The composer</span> later revised the work into a two-act opera, with a prologue and an epilogue.',
     "The revised version received its first performance at the ROH, Covent Garden, London, on 9 January 1964.",
@@ -149,12 +149,12 @@ test("can get hints for Pagliacci", async (assert) => {
   assert.deepEqual(await makeRecordingHints(target), []);
 
   assert.deepEqual(await makeComposerHints(target), [
-    "The composer the composer was an Italian opera composer and librettist.",
+    `<span class="anonymized">The composer</span> was an Italian opera composer and librettist.`,
     'Although he produced numerous operas and other songs throughout his career it is his opera <span class="anonymized">this opera</span> (1892) that remained his lasting contribution, despite attempts to escape the shadow of his greatest success.',
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
-    '<span class="anonymized">This opera</span> is an Italian opera in a prologue and two acts, with music and libretto .',
+    '<span class="anonymized">This opera</span> is an Italian opera in a prologue and two acts, with music and libretto.',
     "The opera tells the tale of Canio, actor and leader of a commedia dell'arte theatrical company, who murders his wife Nedda and her lover Silvio on stage during a performance.",
     '<span class="anonymized">This opera</span> premiered at the Teatro Dal Verme in Milan on 21 May 1892, conducted by Arturo Toscanini, with Adelina Stehle as Nedda, Fiorello Giraud as Canio, Victor Maurel as Tonio, and Mario Ancona as Silvio.',
     "Soon after its Italian premiere, the opera played in London and in New York.",
@@ -188,12 +188,12 @@ test("can get hints for Rake's Progress", async (assert) => {
   ]);
 
   assert.deepEqual(await makeComposerHints(target), [
-    "The composer was a Russian composer, pianist and conductor, later of French and American citizenship.",
+    `<span class="anonymized">The composer</span> was a Russian composer, pianist and conductor, later of French and American citizenship.`,
     "The composer is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
   ]);
 
   assert.deepEqual(await makeExtractHints(target), [
-    '<span class="anonymized">This opera</span> is an English-language opera from 1951 in three acts and an epilogue .',
+    '<span class="anonymized">This opera</span> is an English-language opera from 1951 in three acts and an epilogue.',
     'The libretto, written by W. H. Auden and Chester Kallman, is based loosely on the eight paintings and engravings A Rake\'s Progress (1733–1735) of William Hogarth, which <span class="anonymized">the composer</span> had seen on 2 May 1947, in a Chicago exhibition.',
   ]);
 });
@@ -208,7 +208,11 @@ test("can get hints for Lear", async (assert) => {
     },
     {
       category: "composer",
-      hint: "The composer is a German composer, pianist and accompanist, known especially for his literary operas.",
+      hint: `<span class="anonymized">The composer</span> is a German composer, pianist and accompanist, known especially for his literary operas.`,
+    },
+    {
+      category: "factoid",
+      hint: '<span class="anonymized">This opera</span> is an opera in two parts with music by a German composer, and a libretto by Claus H. Henneberg, based on Shakespeare\'s tragedy King <span class="anonymized">this opera</span>.',
     },
     {
       category: "role",
@@ -268,5 +272,24 @@ test("can get hints for Rodelinda", async (assert) => {
     "This opera features a contralto role Eduige, Bertarido's sister, betrothed to Grimoaldo.",
     "This opera features an alto castrato role Unulfo, Bertarido's friend and counsellor.",
     "This opera features a bass role Garibaldo, Grimoaldo's counsellor, duke of Turin.",
+  ]);
+});
+
+test("can get hints for Der_Zigeunerbaron", async (assert) => {
+  const operas = new Operas();
+  let target = await operas.getTargetOpera("/wiki/Der_Zigeunerbaron");
+  assert.deepEqual((await makeHints(target)).slice(0, 3), [
+    {
+      category: "factoid",
+      hint: '<span class="anonymized">The composer</span>\'s operetta was intended to soothe tensions between Austrians and Hungarians in the Habsburg empire.',
+    },
+    {
+      category: "composer",
+      hint: '<span class="anonymized">The composer</span>, also known as <span class="anonymized">the composer</span>, the Younger, the Son, was an Austrian composer of light music, particularly dance music and operettas.',
+    },
+    {
+      category: "factoid",
+      hint: '<span class="anonymized">This opera</span> is an operetta in three acts which premiered at the Theater an der Wien on 24 October 1885.',
+    },
   ]);
 });

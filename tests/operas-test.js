@@ -196,11 +196,11 @@ test("can get target opera", async (assert) => {
       },
       {
         category: "composer",
-        hint: "The composer was an Italian composer, string player, choirmaster, and priest.",
+        hint: `<span class="anonymized">The composer</span> was an Italian composer, string player, choirmaster, and priest.`,
       },
       {
         category: "factoid",
-        hint: '<span class="anonymized">This opera</span>, sometimes called <span class="anonymized">this opera</span>, is a late Renaissance/early Baroque favola in musica, or opera, with a libretto by Alessandro Striggio.',
+        hint: '<span class="anonymized">This opera</span>, sometimes called <span class="anonymized">this opera</span>, is a late Renaissance/early Baroque favola in musica, or opera with a libretto by Alessandro Striggio.',
       },
       {
         category: "role",

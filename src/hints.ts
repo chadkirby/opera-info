@@ -69,9 +69,6 @@ export async function makeComposerHints(
 ): Promise<string[]> {
   const div = document.createElement("div");
   div.innerHTML = opera.composerSummary.extract_html;
-  for (const b of Array.from(div.querySelectorAll("b"))) {
-    b.textContent = "the composer";
-  }
   const titlePattern = makeTitlePattern(opera.titles);
   const titleAmongCaps = new RegExp(
     `[A-Z]\\w+ ${titlePattern.source}|${titlePattern.source} [A-Z]\\w+`
