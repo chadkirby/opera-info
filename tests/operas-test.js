@@ -275,7 +275,6 @@ test("can filter operas", async (assert) => {
       .map((o) => ({ title: o.title, composer: o.composer, year: o.year })),
     [
       { title: "Destiny", composer: "Leoš Janáček", year: 1934 },
-      { title: "Hugh the Drover", composer: "Vaughan Williams", year: 1958 },
       { title: "Moses und Aron", composer: "Schoenberg", year: 1957 },
       { title: "Arabella", composer: "Richard Strauss", year: 1933 },
       {
@@ -447,6 +446,28 @@ test("Gluck operas are in the correct language", async (assert) => {
         composer: "Gluck",
         year: 1779,
         language: "French",
+      },
+    ]
+  );
+});
+
+test("Hugh_the_Drover has the correct date", async (assert) => {
+  const operas = new Operas((o) => o.titleHref.includes("Hugh_the_Drover"));
+  assert.deepEqual(
+    (await Promise.all(operas.map((o) => operas.ensureBasicData(o)))).map(
+      (o) => ({
+        title: o.title,
+        composer: o.composer,
+        year: o.year,
+        language: o.language,
+      })
+    ),
+    [
+      {
+        title: "Hugh the Drover",
+        composer: "Vaughan Williams",
+        year: 1924,
+        language: "English",
       },
     ]
   );
