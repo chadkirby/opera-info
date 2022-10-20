@@ -29,7 +29,7 @@ export function makeComposerPattern(composer: string): RegExp {
   const match = re`/\b(?<last>[\w-]+)(?:\s+${suffixPat})?\s*$/`.exec(composer);
   const last = match?.groups?.last || names[names.length - 1];
   // allow any number of names in front of the last name
-  const optional = /\b(?:[A-Z][a-z]+\s+)*/;
+  const optional = /\b(?:[A-Z][a-z]+[-\s]+)*/;
   const suffix = match?.groups?.suffix;
   const composerPattern = suffix
     ? re`/${optional}(?:${last})\b(\s+${suffixPat})?/g`

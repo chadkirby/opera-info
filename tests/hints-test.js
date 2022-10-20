@@ -293,3 +293,18 @@ test("can get hints for Der_Zigeunerbaron", async (assert) => {
     },
   ]);
 });
+
+test("can handle hyphenated composer names", async (assert) => {
+  const operas = new Operas();
+  let target = await operas.getTargetOpera("/wiki/Castor_et_Pollux");
+  assert.deepEqual((await makeHints(target)).slice(0, 2), [
+    {
+      category: "factoid",
+      hint: 'Initially only a moderate success, when it was revived in 1754 <span class="anonymized">this opera</span> was regarded as <span class="anonymized">the composer</span>\'s finest achievement.',
+    },
+    {
+      category: "composer",
+      hint: '<span class="anonymized">The composer</span> was a French composer and music theorist.',
+    },
+  ]);
+});
