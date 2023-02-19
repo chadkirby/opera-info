@@ -91,7 +91,7 @@ export class Operas {
     const needsHints = {
       ...basic,
       composer: composerSummary?.title,
-      thumbnailUrl: composerSummary?.thumbnail.source,
+      thumbnailUrl: composerSummary?.thumbnail?.source,
       composerSummary: composerSummary,
       infobox: await getInfoBox(basic),
       operaSummary,

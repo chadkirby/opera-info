@@ -531,7 +531,8 @@
     "year": 1826,
     "title": "Oberon",
     "titleHref": "/wiki/Oberon_(Weber)",
-    "composer": "von Weber",
+    "composer": "Weber",
+    "composerHref": "/wiki/Carl_Maria_von_Weber",
     "factoid": "Weber's last opera before his early death."
   },
   {
@@ -752,13 +753,6 @@
   },
   {
     "year": 1840,
-    "title": "Bátori Mária",
-    "titleHref": "/wiki/B%C3%A1tori_M%C3%A1ria",
-    "composer": "Erkel",
-    "factoid": "Erkel's first opera was also the first true opera written in Hungarian and is based on the story of Ines de Castro in Camões' Os Lusiadas, the Portuguese national epic."
-  },
-  {
-    "year": 1840,
     "title": "Un giorno di regno",
     "titleHref": "/wiki/Un_giorno_di_regno",
     "composer": "Verdi",
@@ -828,13 +822,6 @@
     "composer": "Michael Balfe",
     "composerHref": "/wiki/Michael_William_Balfe",
     "factoid": "One of the few notable 19th-century English-language operas apart from the works of Gilbert and Sullivan."
-  },
-  {
-    "year": 1844,
-    "title": "Hunyadi László",
-    "titleHref": "/wiki/Hunyadi_L%C3%A1szl%C3%B3_(opera)",
-    "composer": "Erkel",
-    "factoid": "Erkel's second opera is generally considered his best, but is second in popularity to his later opera Bánk Bán which is considered the Hungarian \"National Opera\"."
   },
   {
     "year": 1844,
@@ -1003,13 +990,6 @@
     "composer": "Verdi",
     "composerHref": "/wiki/Giuseppe_Verdi",
     "factoid": "This opera ran into trouble with the censors because it originally dealt with the assassination of a monarch."
-  },
-  {
-    "year": 1861,
-    "title": "Bánk bán",
-    "titleHref": "/wiki/B%C3%A1nk_b%C3%A1n",
-    "composer": "Erkel",
-    "factoid": "Erkel's third opera is considered the Hungarian \"National opera\"."
   },
   {
     "year": 1862,
@@ -2570,13 +2550,6 @@
     "composer": "Blow",
     "composerHref": "/wiki/John_Blow",
     "factoid": "Often considered the first opera in English."
-  },
-  {
-    "year": 1701,
-    "title": "La púrpura de la rosa",
-    "titleHref": "/wiki/La_p%C3%BArpura_de_la_rosa",
-    "composer": "Tomás de Torrejón y Velasco, born in Spain 1644",
-    "factoid": "Earliest known opera composed in the Americas."
   },
   {
     "year": 1711,

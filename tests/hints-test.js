@@ -308,3 +308,18 @@ test("can handle hyphenated composer names", async (assert) => {
     },
   ]);
 });
+
+test("can handle Oberon_(Weber)", async (assert) => {
+  const operas = new Operas();
+  let target = await operas.getTargetOpera("/wiki/Oberon_(Weber)");
+  assert.deepEqual((await makeHints(target)).slice(0, 2), [
+    {
+      category: "factoid",
+      hint: '<span class="anonymized">The composer</span>\'s last opera before his early death.',
+    },
+    {
+      category: "composer",
+      hint: 'Carl Maria Friedrich Ernst von <span class="anonymized">the composer</span> was a German composer, conductor, virtuoso pianist, guitarist, and critic who was one of the first significant composers of the Romantic era.',
+    },
+  ]);
+});

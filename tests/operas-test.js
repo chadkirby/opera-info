@@ -4,7 +4,16 @@ import { Operas } from "../dist/node.js";
 test("operas exists", async (assert) => {
   const operas = new Operas();
   assert.ok(operas instanceof Operas);
-  assert.equal(operas.length, 325);
+  assert.equal(operas.length, 321);
+});
+
+test("every opera has a composerHref", async (assert) => {
+  const operas = new Operas();
+  const missingComposerHrefs = operas.filter((opera) => !opera.composerHref);
+  assert.deepEqual(
+    missingComposerHrefs.map((x) => x.titleHref),
+    []
+  );
 });
 
 test("can get basic opera", async (assert) => {
@@ -495,4 +504,12 @@ test("Damnation of Faust has the correct date", async (assert) => {
       },
     ]
   );
+});
+
+test("can get every opera as a target", async (assert) => {
+  const operas = new Operas();
+  for (let index = 0; index < operas.length; index++) {
+    const opera = await operas.getTargetOpera(index);
+    assert.ok(opera.title, `Opera ${index} has a title: ${opera.title}`);
+  }
 });
