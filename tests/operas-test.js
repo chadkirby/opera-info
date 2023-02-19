@@ -472,3 +472,27 @@ test("Hugh_the_Drover has the correct date", async (assert) => {
     ]
   );
 });
+
+test("Damnation of Faust has the correct date", async (assert) => {
+  const operas = new Operas((o) =>
+    o.titleHref.includes("La_damnation_de_Faust")
+  );
+  assert.deepEqual(
+    (await Promise.all(operas.map((o) => operas.ensureBasicData(o)))).map(
+      (o) => ({
+        title: o.title,
+        composer: o.composer,
+        year: o.year,
+        language: o.language,
+      })
+    ),
+    [
+      {
+        title: "La damnation de Faust",
+        composer: "Berlioz",
+        year: 1845,
+        language: "French",
+      },
+    ]
+  );
+});
