@@ -57,11 +57,12 @@ for (const opera of operas) {
     decodeURIComponent(opera.titleHref),
     "recordings.json"
   );
-  if (!fs.existsSync(recordingsFile)) {
+  const recordingsExist = fs.existsSync(recordingsFile);
+  if (!recordingsExist || recordingsExist) {
     console.log(`fetching ${opera.title} recordings`);
     try {
       let recordings = await getRecordings(href);
-      if (recordings) {
+      if (recordings?.items.length) {
         await mkdir(path.dirname(recordingsFile));
         await fs.promises.writeFile(
           recordingsFile,
@@ -77,19 +78,27 @@ for (const opera of operas) {
 /**
  *
  *
- * @param {HTMLSpanElement | null} headlineSpan
- * @return {Element | null}
+ * @param {Element | null} headlineSpan
+ * @return {HTMLTableElement | null}
  */
 function findTable(headlineSpan) {
   if (headlineSpan) {
     let $h2 = $(headlineSpan).closest("h2");
     for (const el of $h2.nextUntil("h2")) {
-      if (el.matches("table.wikitable")) {
+      if (isTable(el)) {
         return el;
       }
     }
   }
   return null;
+}
+
+/**
+ * @param {Element | null} el
+ *  @return {el is HTMLTableElement}
+ */
+function isTable(el) {
+  return el ? el.matches("table.wikitable") : false;
 }
 
 /**
@@ -139,7 +148,8 @@ async function getRoles(href) {
   const html = await wikiFetch(href);
   const $ = loadHtml(html);
   const doc = $.document;
-  const table = findTable(doc.getElementById("Roles"));
+  const rolesHeadlineSpan = doc.getElementById("Roles");
+  const table = findTable(rolesHeadlineSpan);
   if (!table?.matches("table")) return null;
   let items = [];
   let roleIdx = -1;
@@ -189,24 +199,61 @@ async function getRoles(href) {
 }
 
 async function getRecordings(href) {
-  const html = await wikiFetch(href);
-  const $ = loadHtml(html);
+  const wikiHtml = await wikiFetch(href);
+  const $ = loadHtml(wikiHtml);
   const doc = $.document;
-  const table = findTable(doc.getElementById("Recordings"));
 
-  if (!table?.matches("table")) return null;
-  let items = [];
-  // delete the 3d & 4th columns from each row
-  for (const tr of table.querySelectorAll("tr:not(:first-child)")) {
-    items.push({
-      year: Number(tr.children[0].textContent?.trim().slice(0, 4)),
-      cast: getText(tr.children[1]).split(/,?\n/),
-      conductor: getText(tr.children[2]).split(/,?\n/)[0],
-    });
-    tr.children[2]?.remove();
+  const headlineSpans = [
+    ...doc.querySelectorAll(
+      'span[id="Recordings"], span[id$="_recordings"], span[id="Video"], span[id="Audio"]'
+    ),
+  ];
+
+  if (!headlineSpans.length && !href.endsWith("_discography")) {
+    const discography = await getRecordings(`${href}_discography`);
+    return discography;
+  }
+
+  /** @type {Array<HTMLTableElement | null>} */
+  const recordingTables = [];
+  for (const headlineSpan of headlineSpans) {
+    if (headlineSpan) {
+      const table = findTable(headlineSpan);
+      recordingTables.push(table);
+    } else {
+      recordingTables.push(null);
+    }
+  }
+
+  /**
+   * @type {Array<{year: number, type: 'audio' | 'video', cast: Array<string>, conductor: string}>}
+   */
+  const items = [];
+  let html = "";
+  for (const [i, table] of recordingTables.entries()) {
+    if (!table) continue;
+    const headlineId = headlineSpans[i]?.id;
+    if (!headlineId) continue;
+    const type = headlineId.includes("Video") ? "video" : "audio";
+    html += table.outerHTML;
+
+    // delete the 3d & 4th columns from each row
+    for (const tr of table.querySelectorAll("tr:not(:first-child)")) {
+      items.push({
+        type,
+        year: Number(tr.children[0].textContent?.trim().slice(0, 4)),
+        cast: getText(tr.children[1])
+          .split(/[ ,.]*\n/)
+          .map((s) => s.trim()),
+        conductor: getText(tr.children[2])
+          .split(/[ ,]*\n/)[0]
+          .trim(),
+      });
+      tr.children[2]?.remove();
+    }
   }
   return {
-    html: table.outerHTML,
+    html,
     items,
   };
 }

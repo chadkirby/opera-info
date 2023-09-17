@@ -1,0 +1,61 @@
+{
+  "html": "<table class=\"wikitable\">\n\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>Prologue,<br>Governess,<br>Mrs Grose,<br>Miles,<br>Flora,<br>Peter Quint,<br>Miss Jessel\n</th>\n<th>Conductor,<br>opera house and orchestra\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1955\n</td>\n<td><a href=\"/wiki/Peter_Pears\" title=\"Peter Pears\">Peter Pears</a>,<br><a href=\"/wiki/Jennifer_Vyvyan\" title=\"Jennifer Vyvyan\">Jennifer Vyvyan</a>,<br><a href=\"/wiki/Joan_Cross\" title=\"Joan Cross\">Joan Cross</a>,<br><a href=\"/wiki/David_Hemmings\" title=\"David Hemmings\">David Hemmings</a>,<br>Olive Dyer,<br><a href=\"/wiki/Peter_Pears\" title=\"Peter Pears\">Peter Pears</a>,<br><a href=\"/wiki/Arda_Mandikian\" title=\"Arda Mandikian\">Arda Mandikian</a>\n</td>\n<td><a href=\"/wiki/Benjamin_Britten\" title=\"Benjamin Britten\">Benjamin Britten</a>,<br><a href=\"/wiki/London_Symphony_Orchestra\" title=\"London Symphony Orchestra\">London Symphony Orchestra</a>\n</td>\n<td>Decca,<br>Cat: 425672\n</td></tr>\n<tr>\n<td>1981\n</td>\n<td><a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a>,<br><a href=\"/wiki/Helen_Donath\" title=\"Helen Donath\">Helen Donath</a>,<br><a href=\"/wiki/Ava_June\" title=\"Ava June\">Ava June</a>,<br>Michael Ginn,<br>Lillian Watson,<br><a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a>,<br><a href=\"/wiki/Heather_Harper\" title=\"Heather Harper\">Heather Harper</a>\n</td>\n<td><a href=\"/wiki/Colin_Davis\" title=\"Colin Davis\">Colin Davis</a>,<br><a href=\"/wiki/Covent_Garden_Opera_House\" class=\"mw-redirect\" title=\"Covent Garden Opera House\">Covent Garden Opera House</a> Orchestra\n</td>\n<td>Philips,<br>Cat:446 325-2\n</td></tr>\n<tr>\n<td>1993\n</td>\n<td><a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a>,<br><a href=\"/wiki/Felicity_Lott\" title=\"Felicity Lott\">Felicity Lott</a>,<br>Phyllis Cannan,<br>Sam Pay,<br>Eileen Hulse,<br><a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a>,<br><a href=\"/wiki/Nadine_Secunde\" title=\"Nadine Secunde\">Nadine Secunde</a>\n</td>\n<td><a href=\"/wiki/Steuart_Bedford\" title=\"Steuart Bedford\">Steuart Bedford</a>,<br>Aldeburgh Festival Ensemble\n</td>\n<td>Naxos,<br>Cat: 8.660109-10\n</td></tr>\n<tr>\n<td>2002\n</td>\n<td><a href=\"/wiki/Ian_Bostridge\" title=\"Ian Bostridge\">Ian Bostridge</a>,<br><a href=\"/wiki/Joan_Rodgers\" title=\"Joan Rodgers\">Joan Rodgers</a>,<br><a href=\"/wiki/Jane_Henschel\" title=\"Jane Henschel\">Jane Henschel</a>,<br>Julian Leang,<br>Caroline Wise,<br><a href=\"/wiki/Ian_Bostridge\" title=\"Ian Bostridge\">Ian Bostridge</a>,<br>Vivian Tierney\n</td>\n<td><a href=\"/wiki/Daniel_Harding\" title=\"Daniel Harding\">Daniel Harding</a>,<br><a href=\"/wiki/Mahler_Chamber_Orchestra\" title=\"Mahler Chamber Orchestra\">Mahler Chamber Orchestra</a>\n</td>\n<td>Virgin,<br>Cat: 545521-2\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1955,
+      "cast": [
+        "Peter Pears",
+        "Jennifer Vyvyan",
+        "Joan Cross",
+        "David Hemmings",
+        "Olive Dyer",
+        "Peter Pears",
+        "Arda Mandikian"
+      ],
+      "conductor": "Benjamin Britten"
+    },
+    {
+      "type": "audio",
+      "year": 1981,
+      "cast": [
+        "Philip Langridge",
+        "Helen Donath",
+        "Ava June",
+        "Michael Ginn",
+        "Lillian Watson",
+        "Robert Tear",
+        "Heather Harper"
+      ],
+      "conductor": "Colin Davis"
+    },
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Philip Langridge",
+        "Felicity Lott",
+        "Phyllis Cannan",
+        "Sam Pay",
+        "Eileen Hulse",
+        "Philip Langridge",
+        "Nadine Secunde"
+      ],
+      "conductor": "Steuart Bedford"
+    },
+    {
+      "type": "audio",
+      "year": 2002,
+      "cast": [
+        "Ian Bostridge",
+        "Joan Rodgers",
+        "Jane Henschel",
+        "Julian Leang",
+        "Caroline Wise",
+        "Ian Bostridge",
+        "Vivian Tierney"
+      ],
+      "conductor": "Daniel Harding"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "html": "<table class=\"wikitable\" style=\"font-size:95%;\">\n<caption><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1152813436\"><span class=\"sr-only\"><i>Les Huguenots</i> discography, audio recordings</span>\n</caption>\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"200\">Cast<br>(Marguerite, Valentine,<br>Urbain, Raoul, Marcel,<br>Nevers, Saint-Bris)\n</th>\n<th>Conductor,<br>Opera house and orchestra\n</th>\n<th>Label<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\">[38]</a></sup><sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\">[39]</a></sup>\n</th></tr>\n<tr>\n<td>1969\n</td>\n<td><a href=\"/wiki/Joan_Sutherland\" title=\"Joan Sutherland\">Joan Sutherland</a><br><a href=\"/wiki/Martina_Arroyo\" title=\"Martina Arroyo\">Martina Arroyo</a><br><a href=\"/wiki/Huguette_Tourangeau\" title=\"Huguette Tourangeau\">Huguette Tourangeau</a><br>Anastasios Vrenios<br><a href=\"/wiki/Nicola_Ghiuselev\" title=\"Nicola Ghiuselev\">Nicola Ghiuselev</a><br><a href=\"/wiki/Dominic_Cossa\" title=\"Dominic Cossa\">Dominic Cossa</a><br><a href=\"/wiki/Gabriel_Bacquier\" title=\"Gabriel Bacquier\">Gabriel Bacquier</a>\n</td>\n<td><a href=\"/wiki/Richard_Bonynge\" title=\"Richard Bonynge\">Richard Bonynge</a><br><a href=\"/wiki/Philharmonia_Orchestra\" title=\"Philharmonia Orchestra\">Philharmonia Orchestra</a><br><a href=\"/wiki/Ambrosian_Opera_Chorus\" class=\"mw-redirect\" title=\"Ambrosian Opera Chorus\">Ambrosian Opera Chorus</a>\n</td>\n<td>CD: Decca<br>Cat: 430 549-2\n</td></tr>\n<tr>\n<td>1988\n</td>\n<td>Ghyslaine Raphanel<br><a href=\"/wiki/Fran%C3%A7oise_Pollet\" title=\"Françoise Pollet\">Françoise Pollet</a><br>Danièle Borst<br><a href=\"/wiki/Richard_Leech_(tenor)\" title=\"Richard Leech (tenor)\">Richard Leech</a><br>Nicola Ghiuselev<br><a href=\"/w/index.php?title=Gilles_Cachemaille&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gilles Cachemaille (page does not exist)\">Gilles Cachemaille</a><br>Boris Martinovich\n</td>\n<td><a href=\"/wiki/Cyril_Diederich\" title=\"Cyril Diederich\">Cyril Diederich</a><br><a href=\"/wiki/Orchestre_national_de_Montpellier_Languedoc-Roussillon\" class=\"mw-redirect\" title=\"Orchestre national de Montpellier Languedoc-Roussillon\">Orchestre national de Montpellier Languedoc-Roussillon</a><br><a href=\"/wiki/Op%C3%A9ra_national_de_Montpellier\" title=\"Opéra national de Montpellier\">Opéra national de Montpellier</a> chorus\n</td>\n<td>CD: Erato<br>Cat: 2292-45027-2\n</td></tr>\n<tr>\n<td>2009\n</td>\n<td><a href=\"/wiki/Erin_Morley\" title=\"Erin Morley\">Erin Morley</a><br>Alexandra Deshorties<br>Marie Lenormand<br><a href=\"/wiki/Michael_Spyres\" title=\"Michael Spyres\">Michael Spyres</a><br>Andrew Schroeder<br>Peter Volpe<br>\n</td>\n<td><a href=\"/wiki/Leon_Botstein\" title=\"Leon Botstein\">Leon Botstein</a><br><a href=\"/wiki/American_Symphony_Orchestra\" title=\"American Symphony Orchestra\">American Symphony Orchestra</a>\n</td>\n<td>CD: American Symphony Orchestra<br>Cat:ASO093\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1969,
+      "cast": [
+        "Joan Sutherland",
+        "Martina Arroyo",
+        "Huguette Tourangeau",
+        "Anastasios Vrenios",
+        "Nicola Ghiuselev",
+        "Dominic Cossa",
+        "Gabriel Bacquier"
+      ],
+      "conductor": "Richard Bonynge"
+    },
+    {
+      "type": "audio",
+      "year": 1988,
+      "cast": [
+        "Ghyslaine Raphanel",
+        "Françoise Pollet",
+        "Danièle Borst",
+        "Richard Leech",
+        "Nicola Ghiuselev",
+        "Gilles Cachemaille",
+        "Boris Martinovich"
+      ],
+      "conductor": "Cyril Diederich"
+    },
+    {
+      "type": "audio",
+      "year": 2009,
+      "cast": [
+        "Erin Morley",
+        "Alexandra Deshorties",
+        "Marie Lenormand",
+        "Michael Spyres",
+        "Andrew Schroeder",
+        "Peter Volpe"
+      ],
+      "conductor": "Leon Botstein"
+    }
+  ]
+}

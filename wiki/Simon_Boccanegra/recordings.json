@@ -1,7 +1,8 @@
 {
-  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"190\">Cast<br>(Boccanegra, Maria, Adorno, Fiesco)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-Operadis_36-0\" class=\"reference\"><a href=\"#cite_note-Operadis-36\">[36]</a></sup>\n</th></tr>\n<tr>\n<td>1975</td>\n<td><a href=\"/wiki/Sesto_Bruscantini\" title=\"Sesto Bruscantini\">Sesto Bruscantini</a>,<br>Josella Ligi,<br><a href=\"/wiki/Andr%C3%A9_Turp\" title=\"André Turp\">André Turp</a>,<br><a href=\"/wiki/Gwynne_Howell\" title=\"Gwynne Howell\">Gwynne Howell</a></td>\n\n<td>CD: <a href=\"/wiki/Opera_Rara\" title=\"Opera Rara\">Opera Rara</a><br>Cat: ORCV 302\n</td></tr>\n<tr>\n<td>1999</td>\n<td>Vitorio Vitelli,<br>Annalisa Raspagliosi,<br>Warren Mok,<br>Francesco Ellero d'Artegna</td>\n\n<td>CD: Dynamic,<br>268/1-2\n</td></tr>\n</tbody></table>",
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"190\">Cast<br>(Boccanegra, Maria, Adorno, Fiesco)\n</th>\n<th>Conductor,<br>Opera House and Orchestra\n</th>\n<th>Label<sup id=\"cite_ref-Operadis_36-0\" class=\"reference\"><a href=\"#cite_note-Operadis-36\">[36]</a></sup>\n</th></tr>\n<tr>\n<td>1975</td>\n<td><a href=\"/wiki/Sesto_Bruscantini\" title=\"Sesto Bruscantini\">Sesto Bruscantini</a>,<br>Josella Ligi,<br><a href=\"/wiki/Andr%C3%A9_Turp\" title=\"André Turp\">André Turp</a>,<br><a href=\"/wiki/Gwynne_Howell\" title=\"Gwynne Howell\">Gwynne Howell</a></td>\n<td><a href=\"/wiki/John_Matheson\" title=\"John Matheson\">John Matheson</a>,<br><a href=\"/wiki/BBC_Concert_Orchestra\" title=\"BBC Concert Orchestra\">BBC Concert Orchestra</a> and the BBC Singers<br>(Recording of a concert performance in the Golders Green Hippodrome on 2 August; broadcast on 1 January 1976)</td>\n<td>CD: <a href=\"/wiki/Opera_Rara\" title=\"Opera Rara\">Opera Rara</a><br>Cat: ORCV 302\n</td></tr>\n<tr>\n<td>1999</td>\n<td>Vitorio Vitelli,<br>Annalisa Raspagliosi,<br>Warren Mok,<br>Francesco Ellero d'Artegna</td>\n<td>Renato Palumbo,<br>Orchestra Internationale d'Italia<br>(Recording made at performances at the <a href=\"/wiki/Festival_della_Valle_d%27Itria\" title=\"Festival della Valle d'Itria\">Festival della Valle d'Itria</a>, Martina Franca, 4, 6, 8 August)</td>\n<td>CD: Dynamic,<br>268/1-2\n</td></tr>\n</tbody></table>",
   "items": [
     {
+      "type": "audio",
       "year": 1975,
       "cast": [
         "Sesto Bruscantini",
@@ -12,6 +13,7 @@
       "conductor": "John Matheson"
     },
     {
+      "type": "audio",
       "year": 1999,
       "cast": [
         "Vitorio Vitelli",

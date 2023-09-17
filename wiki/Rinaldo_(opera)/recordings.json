@@ -1,0 +1,44 @@
+{
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th>Cast:<br>(Rinaldo,<br>Almirena,<br>Armida,<br>Goffredo,<br>Argante),<br>Eustazio<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[6]</a></sup>\n</th>\n<th>Conductor,<br>orchestra\n</th>\n<th>Stage director\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>2001</td>\n<td><a href=\"/wiki/David_Daniels_(countertenor)\" title=\"David Daniels (countertenor)\">David Daniels</a>,<br>Deborah York,<br><a href=\"/wiki/No%C3%ABmi_Nadelmann\" title=\"Noëmi Nadelmann\">Noëmi Nadelmann</a>,<br>David Walker,<br>Egils Silins,<br>Axel Köhler,<br>\n</td>\n<td><a href=\"/wiki/Harry_Bicket\" title=\"Harry Bicket\">Harry Bicket</a><br><a href=\"/wiki/Bavarian_State_Opera\" title=\"Bavarian State Opera\">Bavarian State Opera</a> Orchestra\n</td>\n<td><a href=\"/wiki/David_Alden\" title=\"David Alden\">David Alden</a>\n</td>\n<td>DVD:Arthaus Musik<br>Cat:100389\n</td></tr>\n<tr>\n<td>2011</td>\n<td><a href=\"/wiki/Sonia_Prina\" title=\"Sonia Prina\">Sonia Prina</a>,<br>Anett Fritsch,<br><a href=\"/wiki/Brenda_Rae\" title=\"Brenda Rae\">Brenda Rae</a>,<br>Varduhi Abrahamyan,<br><a href=\"/wiki/Luca_Pisaroni\" title=\"Luca Pisaroni\">Luca Pisaroni</a>,<br><a href=\"/wiki/Tim_Mead\" title=\"Tim Mead\">Tim Mead</a>\n</td>\n<td><a href=\"/wiki/Ottavio_Dantone\" title=\"Ottavio Dantone\">Ottavio Dantone</a>,<br><a href=\"/wiki/Orchestra_of_the_Age_of_Enlightenment\" title=\"Orchestra of the Age of Enlightenment\">Orchestra of the Age of Enlightenment</a>\n</td>\n<td><a href=\"/wiki/Robert_Carsen\" title=\"Robert Carsen\">Robert Carsen</a><br>(<a href=\"/wiki/Glyndebourne_Festival_Opera\" title=\"Glyndebourne Festival Opera\">Glyndebourne Festival Opera</a>)\n</td>\n<td>DVD:Opus Arte Glyndebourne<br>Cat:OA1081D\n</td></tr>\n<tr>\n<td>2021</td>\n<td><a href=\"/w/index.php?title=Raffaele_Pe&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Raffaele Pe (page does not exist)\">Raffaele Pe</a>,<br>Francesca Aspromonte,<br><a href=\"/wiki/Carmela_Remigio\" title=\"Carmela Remigio\">Carmela Remigio</a>,<br>Leonardo Cortellazzi,<br>Andrea Patucelli,<br>(unperformed)\n</td>\n<td><a href=\"/wiki/Federico_Maria_Sardelli\" title=\"Federico Maria Sardelli\">Federico Maria Sardelli</a>,<br>Orchestra del <a href=\"/wiki/Maggio_Musicale_Fiorentino\" title=\"Maggio Musicale Fiorentino\">Maggio Musicale Fiorentino</a>\n</td>\n<td><a href=\"/wiki/Pier_Luigi_Pizzi\" title=\"Pier Luigi Pizzi\">Pier Luigi Pizzi</a><br>\n</td>\n<td>DVD:Dynamic<br>Cat:37896\n</td></tr></tbody></table>",
+  "items": [
+    {
+      "type": "video",
+      "year": 2001,
+      "cast": [
+        "David Daniels",
+        "Deborah York",
+        "Noëmi Nadelmann",
+        "David Walker",
+        "Egils Silins",
+        "Axel Köhler,"
+      ],
+      "conductor": "Harry Bicket"
+    },
+    {
+      "type": "video",
+      "year": 2011,
+      "cast": [
+        "Sonia Prina",
+        "Anett Fritsch",
+        "Brenda Rae",
+        "Varduhi Abrahamyan",
+        "Luca Pisaroni",
+        "Tim Mead"
+      ],
+      "conductor": "Ottavio Dantone"
+    },
+    {
+      "type": "video",
+      "year": 2021,
+      "cast": [
+        "Raffaele Pe",
+        "Francesca Aspromonte",
+        "Carmela Remigio",
+        "Leonardo Cortellazzi",
+        "Andrea Patucelli",
+        "(unperformed)"
+      ],
+      "conductor": "Federico Maria Sardelli"
+    }
+  ]
+}

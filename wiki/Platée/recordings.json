@@ -1,11 +1,12 @@
 {
-  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"140\">Cast<br>(Platée, La Folie, Thespis/Mercure, Cithéron, Jupiter)\n</th>\n<th>Orchestra, Conductor\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1956</td>\n<td><a href=\"/wiki/Michel_S%C3%A9n%C3%A9chal\" title=\"Michel Sénéchal\">Michel Sénéchal</a>,<br><a href=\"/wiki/Jeanine_Micheau\" class=\"mw-redirect\" title=\"Jeanine Micheau\">Jeanine Micheau</a>,<br><a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>,<br><a href=\"/wiki/Jacques_Jansen\" title=\"Jacques Jansen\">Jacques Jansen</a>,<br>Huc Santana</td>\n\n<td>Audio CD: <a href=\"/wiki/EMI\" title=\"EMI\">EMI</a><br>Cat: EMI Pathé Marconi CMS 7 69861-2\n</td></tr>\n<tr>\n<td>1989</td>\n<td>Gilles Ragon,<br><a href=\"/wiki/Jennifer_Smith_(opera_singer)\" class=\"mw-redirect\" title=\"Jennifer Smith (opera singer)\">Jennifer Smith</a>,<br><a href=\"/wiki/Guy_de_Mey\" title=\"Guy de Mey\">Guy de Mey</a>,<br><a href=\"/wiki/Bernard_Deletr%C3%A9\" title=\"Bernard Deletré\">Bernard Deletré</a>,<br>Vincent Le Texier</td>\n\n<td>Audio CD: WEA International <br>Erato 2292 45028-2\n</td></tr>\n<tr>\n<td>2003</td>\n<td><a href=\"/wiki/Paul_Agnew\" title=\"Paul Agnew\">Paul Agnew</a>,<br><a href=\"/wiki/Mireille_Delunsch\" title=\"Mireille Delunsch\">Mireille Delunsch</a>,<br><a href=\"/wiki/Yann_Beuron\" title=\"Yann Beuron\">Yann Beuron</a>,<br><a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a>,<br>Vincent Le Texier</td>\n\n<td>DVD: Kultur<br>Cat: D2919\n</td></tr></tbody></table>",
+  "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Year\n</th>\n<th width=\"140\">Cast<br>(Platée, La Folie, Thespis/Mercure, Cithéron, Jupiter)\n</th>\n<th>Orchestra, conductor\n</th>\n<th>Label\n</th></tr>\n<tr>\n<td>1956</td>\n<td><a href=\"/wiki/Michel_S%C3%A9n%C3%A9chal\" title=\"Michel Sénéchal\">Michel Sénéchal</a>,<br><a href=\"/wiki/Janine_Micheau\" title=\"Janine Micheau\">Janine Micheau</a>,<br><a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>,<br><a href=\"/wiki/Jacques_Jansen\" title=\"Jacques Jansen\">Jacques Jansen</a>,<br>Huc Santana</td>\n<td><a href=\"/wiki/Hans_Rosbaud\" title=\"Hans Rosbaud\">Hans Rosbaud</a>,<br><a href=\"/wiki/Orchestre_de_la_Soci%C3%A9t%C3%A9_des_Concerts_du_Conservatoire\" title=\"Orchestre de la Société des Concerts du Conservatoire\">Orchestre de la Société des Concerts du Conservatoire</a>, Choeurs du <a href=\"/wiki/Festival_d%27Aix-en-Provence\" class=\"mw-redirect\" title=\"Festival d'Aix-en-Provence\">Festival d'Aix-en-Provence</a></td>\n<td>CD: <a href=\"/wiki/EMI\" title=\"EMI\">EMI</a><br>Cat: EMI Pathé Marconi CMS 7 69861-2\n</td></tr>\n<tr>\n<td>1989</td>\n<td>Gilles Ragon,<br><a href=\"/wiki/Jennifer_Smith_(soprano)\" title=\"Jennifer Smith (soprano)\">Jennifer Smith</a>,<br><a href=\"/wiki/Guy_de_Mey\" title=\"Guy de Mey\">Guy de Mey</a>,<br><a href=\"/wiki/Bernard_Deletr%C3%A9\" title=\"Bernard Deletré\">Bernard Deletré</a>,<br>Vincent Le Texier</td>\n<td><a href=\"/wiki/Marc_Minkowski\" title=\"Marc Minkowski\">Marc Minkowski</a>,<br><a href=\"/wiki/Les_Musiciens_du_Louvre\" title=\"Les Musiciens du Louvre\">Les Musiciens du Louvre</a></td>\n<td>CD: WEA International <br>Erato 2292 45028-2\n</td></tr>\n<tr>\n<td>2003</td>\n<td><a href=\"/wiki/Paul_Agnew\" title=\"Paul Agnew\">Paul Agnew</a>,<br><a href=\"/wiki/Mireille_Delunsch\" title=\"Mireille Delunsch\">Mireille Delunsch</a>,<br><a href=\"/wiki/Yann_Beuron\" title=\"Yann Beuron\">Yann Beuron</a>,<br><a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a>,<br>Vincent Le Texier</td>\n<td>Marc Minkowski,<br><a href=\"/wiki/Paris_Opera\" title=\"Paris Opera\">Paris Opera</a>,<br>Orchestra and Chorus of <a href=\"/wiki/Les_Musiciens_du_Louvre\" title=\"Les Musiciens du Louvre\">Les Musiciens du Louvre</a> – Grenoble</td>\n<td>DVD: Kultur<br>Cat: D2919\n</td></tr></tbody></table>",
   "items": [
     {
+      "type": "audio",
       "year": 1956,
       "cast": [
         "Michel Sénéchal",
-        "Jeanine Micheau",
+        "Janine Micheau",
         "Nicolai Gedda",
         "Jacques Jansen",
         "Huc Santana"
@@ -13,6 +14,7 @@
       "conductor": "Hans Rosbaud"
     },
     {
+      "type": "audio",
       "year": 1989,
       "cast": [
         "Gilles Ragon",
@@ -24,6 +26,7 @@
       "conductor": "Marc Minkowski"
     },
     {
+      "type": "audio",
       "year": 2003,
       "cast": [
         "Paul Agnew",
