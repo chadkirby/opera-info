@@ -1,0 +1,55 @@
+{
+  "html": "<ul><li>1964 <a href=\"/wiki/Bruno_Bartoletti\" title=\"Bruno Bartoletti\">Bruno Bartoletti</a>, Fonit Cetra – live in Florence, in Italian, with Formichini, Capecchi and Tajo (as Ivan the servant, tenor; Kovalyov, baritone; and Yakovlevich, bass)</li>\n<li>1975 <a href=\"/wiki/Gennady_Rozhdestvensky\" title=\"Gennady Rozhdestvensky\">Gennady Rozhdestvensky</a>, Melodiya – studio recording made in Moscow and overseen by the composer, with Druzhinin, Akimov and Belykh in the main roles</li>\n<li>2001 <a href=\"/wiki/Armin_Jordan\" title=\"Armin Jordan\">Armin Jordan</a>, Cascavelle – live in Lausanne, in French, with Matiakh, Schroeder and Matorin</li>\n<li>2008 <a href=\"/wiki/Valery_Gergiev\" title=\"Valery Gergiev\">Valery Gergiev</a>, Mariinsky label – studio recording made in St Petersburg with Skorokhodov, Sulimsky and Tanovitski in the main roles and full Russian and English librettos</li>\n<li>2010 Gergiev, Sirius radio stream – live in New York on March 5, with Skorokhodov, Szot and Ognovenko</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1964,
+      "cast": [
+        "Formichini",
+        "Capecchi",
+        "Tajo"
+      ],
+      "conductor": "Bruno Bartoletti"
+    },
+    {
+      "type": "audio",
+      "year": 1975,
+      "cast": [
+        "Druzhinin",
+        "Akimov",
+        "Belykh"
+      ],
+      "conductor": "Gennady Rozhdestvensky"
+    },
+    {
+      "type": "audio",
+      "year": 2001,
+      "cast": [
+        "Matiakh",
+        "Schroeder",
+        "Matorin"
+      ],
+      "conductor": "Armin Jordan"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Skorokhodov",
+        "Sulimsky",
+        "Tanovitski"
+      ],
+      "conductor": "Valery Gergiev"
+    },
+    {
+      "type": "audio",
+      "year": 2010,
+      "cast": [
+        "Skorokhodov",
+        "Szot",
+        "Ognovenko"
+      ],
+      "conductor": "Gergiev"
+    }
+  ]
+}

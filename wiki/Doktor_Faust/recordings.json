@@ -1,0 +1,43 @@
+{
+  "html": "<ul><li>1959: <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a> (Faust), <a href=\"/wiki/Richard_Lewis_(tenor)\" title=\"Richard Lewis (tenor)\">Richard Lewis</a> (Mephistopheles), <a href=\"/wiki/Heather_Harper\" title=\"Heather Harper\">Heather Harper</a> (Duchess of Parma), <a href=\"/wiki/John_Cameron_(singer)\" class=\"mw-redirect\" title=\"John Cameron (singer)\">John Cameron</a> (Duke of Parma), <a href=\"/wiki/Ian_Wallace_(singer)\" class=\"mw-redirect\" title=\"Ian Wallace (singer)\">Ian Wallace</a> (Wagner); <a href=\"/wiki/London_Philharmonic_Orchestra\" title=\"London Philharmonic Orchestra\">London Philharmonic Orchestra</a>, <a href=\"/wiki/Royal_Academy_of_Music\" title=\"Royal Academy of Music\">Royal Academy of Music</a> Chorus; <a href=\"/wiki/Adrian_Boult\" title=\"Adrian Boult\">Sir Adrian Boult</a>, conductor (Jarnach version with about 20 minutes of music omitted; complete radio broadcast, 205 minutes [includes 1954 Glyndebourne <i><a href=\"/wiki/Arlecchino_(opera)\" title=\"Arlecchino (opera)\">Arlecchino</a></i>]: <a rel=\"nofollow\" class=\"external text\" href=\"http://immortalperformances.org/\">Immortal Performances</a> IPCD 1017-3; abridged recording of the radio broadcast, 74 minutes: LPO 0056).<sup id=\"cite_ref-24\" class=\"reference\"><a href=\"#cite_note-24\">[17]</a></sup></li>\n<li>1969: <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a> (Faust), <a href=\"/wiki/William_Cochran_(tenor)\" title=\"William Cochran (tenor)\">William Cochran</a> (Mephistopheles), <a href=\"/wiki/Hildegard_Hillebrecht\" title=\"Hildegard Hillebrecht\">Hildegard Hillebrecht</a> (Duchess of Parma), Anton de Ridder (Duke of Parma), <a href=\"/wiki/Karl-Christian_Kohn\" title=\"Karl-Christian Kohn\">Karl-Christian Kohn</a> (Wagner); <a href=\"/wiki/Bavarian_Radio_Symphony_Orchestra\" title=\"Bavarian Radio Symphony Orchestra\">Bavarian Radio Symphony Orchestra and Chorus</a>; <a href=\"/wiki/Ferdinand_Leitner\" title=\"Ferdinand Leitner\">Ferdinand Leitner</a>, conductor (Deutsche Grammophon; Jarnach version, a studio performance for radio broadcast by Bavarian Radio with European Union funding, from first edition liner notes, with cuts to the score;<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\">[18]</a></sup><sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\">[19]</a></sup> see additional details <a href=\"/wiki/List_of_compositions_by_Ferruccio_Busoni#DG_427_4132\" title=\"List of compositions by Ferruccio Busoni\">here</a>).</li>\n<li>1998: <a href=\"/wiki/Dietrich_Henschel\" title=\"Dietrich Henschel\">Dietrich Henschel</a> (Faust), Kim Begley (Mephistopheles), Torsten Kerl (Duke of Parma)), Eva Jenisova (Duchess of Parma), Markus Hollop (Wagner/The Master of Ceremonies), <a href=\"/wiki/Detlef_Roth\" title=\"Detlef Roth\">Detlef Roth</a> (The girl's brother), <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a> (speaker); Orchestre et Choeur de l'<a href=\"/wiki/Op%C3%A9ra_National_de_Lyon\" title=\"Opéra National de Lyon\">Opéra National de Lyon</a>; <a href=\"/wiki/Kent_Nagano\" title=\"Kent Nagano\">Kent Nagano</a>, conductor (Erato; Beaumont edition, with choice of Jarnach or Beaumont final scene via CD player programming; (<a href=\"/wiki/Grammy_Award_for_Best_Opera_Recording\" title=\"Grammy Award for Best Opera Recording\">Grammy Award for Best Opera Recording</a> of 2001); see additional details <a href=\"/wiki/List_of_compositions_by_Ferruccio_Busoni#Erato_3984-25501-2\" title=\"List of compositions by Ferruccio Busoni\">here</a>).</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1959,
+      "cast": [
+        "Dietrich Fischer-Dieskau",
+        "Richard Lewis",
+        "Heather Harper",
+        "John Cameron",
+        "Ian Wallace"
+      ],
+      "conductor": "Sir Adrian Boult"
+    },
+    {
+      "type": "audio",
+      "year": 1969,
+      "cast": [
+        "Dietrich Fischer-Dieskau",
+        "William Cochran",
+        "Hildegard Hillebrecht",
+        "Anton de Ridder",
+        "Karl-Christian Kohn"
+      ],
+      "conductor": "Ferdinand Leitner"
+    },
+    {
+      "type": "audio",
+      "year": 1998,
+      "cast": [
+        "Dietrich Henschel",
+        "Kim Begley",
+        "Torsten Kerl",
+        "Eva Jenisova",
+        "Markus Hollop",
+        "Detlef Roth",
+        "Dietrich Fischer-Dieskau"
+      ],
+      "conductor": "Kent Nagano"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "html": "<ul><li>Mercury SR 2-9010: Graziella Sciutti, Nicola Monti, Rolando Panerai, Renato Capecchi, Mario Petri; Virtuosi di Roma; Renato Fasano, conductor<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[7]</a></sup></li>\n<li>Hungaroton SLPD MZS-27: Dénes Gulyas, <a href=\"/wiki/Krisztina_Laki\" title=\"Krisztina Laki\">Krisztina Laki</a>, József Gregor, István Gáti, Sándor Sólyom-Nagy, Csaba Réti, Miklós Mersei, Gábor Vághelyi, Attila Fülöp; Hungarian State Orchestra; <a href=\"/wiki/%C3%81d%C3%A1m_Fischer\" title=\"Ádám Fischer\">Ádám Fischer</a>, conductor<sup id=\"cite_ref-Law_2-1\" class=\"reference\"><a href=\"#cite_note-Law-2\">[2]</a></sup></li>\n<li>Dynamic S417: Stefano Consolini, <a href=\"/wiki/Pietro_Spagnoli\" title=\"Pietro Spagnoli\">Pietro Spagnoli</a>, Anna Maria Dell'Oste, Angelo Nardinocchi, Luciano Di Pasquale; Orchestra del Teatro Lirico G.Verdi di Trieste; Giuliano Carella, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Graziella Sciutti",
+        "Nicola Monti",
+        "Rolando Panerai",
+        "Renato Capecchi",
+        "Mario Petri"
+      ],
+      "conductor": "Renato Fasano"
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Dénes Gulyas",
+        "Krisztina Laki",
+        "József Gregor",
+        "István Gáti",
+        "Sándor Sólyom-Nagy",
+        "Csaba Réti",
+        "Miklós Mersei",
+        "Gábor Vághelyi",
+        "Attila Fülöp"
+      ],
+      "conductor": "Ádám Fischer"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Stefano Consolini",
+        "Pietro Spagnoli",
+        "Anna Maria Dell'Oste",
+        "Angelo Nardinocchi",
+        "Luciano Di Pasquale"
+      ],
+      "conductor": "Giuliano Carella"
+    }
+  ]
+}

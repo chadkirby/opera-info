@@ -1,0 +1,30 @@
+{
+  "html": "<ul><li>Decca 436 631-2: <a href=\"/wiki/Alessandra_Marc\" title=\"Alessandra Marc\">Alessandra Marc</a>, Krister St. Hill, <a href=\"/wiki/Michael_Kraus_(baritone)\" title=\"Michael Kraus (baritone)\">Michael Kraus</a>, Maria Posselt, Andreas Korn, Gunar Kaltofen, Roald Reinecke, Dieter Scholz; <a href=\"/wiki/Leipzig_Gewandhaus\" class=\"mw-redirect\" title=\"Leipzig Gewandhaus\">Leipzig Gewandhaus</a> Orchestra; <a href=\"/wiki/Lothar_Zagrosek\" title=\"Lothar Zagrosek\">Lothar Zagrosek</a>, conductor<sup id=\"cite_ref-Rickards_4-1\" class=\"reference\"><a href=\"#cite_note-Rickards-4\">[4]</a></sup></li>\n<li>Vanguard Classics: <a href=\"/wiki/Lucia_Popp\" title=\"Lucia Popp\">Lucia Popp</a>, Gerd Feldhoff, <a href=\"/wiki/Thomas_Stewart_(bass-baritone)\" title=\"Thomas Stewart (bass-baritone)\">Thomas Stewart</a>, Leo Heppe, <a href=\"/wiki/Evelyn_Lear\" title=\"Evelyn Lear\">Evelyn Lear</a>; <a href=\"/wiki/Vienna_State_Opera\" title=\"Vienna State Opera\">Vienna State Opera</a> Orchestra; <a href=\"/wiki/Heinrich_Hollreiser\" title=\"Heinrich Hollreiser\">Heinrich Hollreiser</a>, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Alessandra Marc",
+        "Krister St. Hill",
+        "Michael Kraus",
+        "Maria Posselt",
+        "Andreas Korn",
+        "Gunar Kaltofen",
+        "Roald Reinecke",
+        "Dieter Scholz"
+      ],
+      "conductor": "Lothar Zagrosek"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Lucia Popp",
+        "Gerd Feldhoff",
+        "Thomas Stewart",
+        "Leo Heppe",
+        "Evelyn Lear"
+      ],
+      "conductor": "Heinrich Hollreiser"
+    }
+  ]
+}

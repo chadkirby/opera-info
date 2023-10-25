@@ -1,0 +1,35 @@
+{
+  "html": "<ul><li><b>1967</b>: <a href=\"/wiki/Monica_Sinclair\" title=\"Monica Sinclair\">Monica Sinclair</a>, John Shaw, <a href=\"/wiki/Norman_Lumsden\" title=\"Norman Lumsden\">Norman Lumsden</a>; <a href=\"/wiki/English_Chamber_Orchestra\" title=\"English Chamber Orchestra\">English Chamber Orchestra</a>; James Lockhart, conductor. Audio CD: EMI Classics, Cat:&nbsp;?? . Original cast recording.</li>\n<li><b>1982</b>: Daphne Harris, Gregory Yurisich, Noël Mangin; Melbourne Symphony Orchestra; Vanco Cavdarski, conductor (analogue recording) Audio CD: Chandos, Cat: ABR 1052.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup></li>\n<li><b>1993</b>: <a href=\"/wiki/Della_Jones\" title=\"Della Jones\">Della Jones</a>, <a href=\"/wiki/Alan_Opie\" title=\"Alan Opie\">Alan Opie</a>, <a href=\"/wiki/John_Shirley-Quirk\" title=\"John Shirley-Quirk\">John Shirley-Quirk</a>; <a href=\"/wiki/Northern_Sinfonia\" class=\"mw-redirect\" title=\"Northern Sinfonia\">Northern Sinfonia</a>; <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>, conductor. Audio CD: Chandos, Cat: #9245</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1967,
+      "cast": [
+        "Monica Sinclair",
+        "John Shaw",
+        "Norman Lumsden"
+      ],
+      "conductor": "James Lockhart"
+    },
+    {
+      "type": "audio",
+      "year": 1982,
+      "cast": [
+        "Daphne Harris",
+        "Gregory Yurisich",
+        "Noël Mangin"
+      ],
+      "conductor": "Vanco Cavdarski"
+    },
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Della Jones",
+        "Alan Opie",
+        "John Shirley-Quirk"
+      ],
+      "conductor": "Richard Hickox"
+    }
+  ]
+}

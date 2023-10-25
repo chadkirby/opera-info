@@ -1,0 +1,23 @@
+{
+  "html": "<ul><li>Conductor: <a href=\"/wiki/Kent_Nagano\" title=\"Kent Nagano\">Kent Nagano</a></li>\n<li>Principal singers: Ernst Theo Richter (Arlecchino); Susanne Mentzer (Colombina); <a href=\"/wiki/Thomas_Mohr_(tenor)\" title=\"Thomas Mohr (tenor)\">Thomas Mohr</a> (Ser Matteo del Sarto); <a href=\"/wiki/Wolfgang_Holzmair\" title=\"Wolfgang Holzmair\">Wolfgang Holzmair</a> (Abbate Cospicuo); Philippe Huttenlocher (Dottor Bombasto); Stefan Dahlberg (Leandro)</li>\n<li>Label: <a href=\"/wiki/List_of_recorded_compositions_by_Ferruccio_Busoni#Virgin_Classics_VCD7_59313-2\" class=\"mw-redirect\" title=\"List of recorded compositions by Ferruccio Busoni\">Virgin Classics VCD7 59313-2</a>  (2 <a href=\"/wiki/Compact_Disc\" class=\"mw-redirect\" title=\"Compact Disc\">CDs</a>)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "conductor": "Kent Nagano"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Ernst Theo Richter",
+        "Susanne Mentzer",
+        "Thomas Mohr",
+        "Wolfgang Holzmair",
+        "Philippe Huttenlocher",
+        "Stefan Dahlberg"
+      ]
+    },
+    {
+      "type": "audio"
+    }
+  ]
+}

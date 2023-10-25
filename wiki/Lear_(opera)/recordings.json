@@ -1,0 +1,44 @@
+{
+  "html": "<ul><li>1978: <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a>, Karl Helm, Hans Wilbrink, Georg Paskuda, Richard Holm, Hans Günter Nöcker, David Knutson, Werner Götz, <a href=\"/wiki/Helga_Dernesch\" title=\"Helga Dernesch\">Helga Dernesch</a>, <a href=\"/wiki/Colette_Lorand\" title=\"Colette Lorand\">Colette Lorand</a>, <a href=\"/wiki/J%C3%BAlia_V%C3%A1rady\" title=\"Júlia Várady\">Júlia Várady</a>, Rolf Boysen, Markus Gortizki, Gerhard Auer; <a href=\"/wiki/Bavarian_State_Orchestra\" title=\"Bavarian State Orchestra\">Bavarian State Orchestra</a>, Chorus of the <a href=\"/wiki/Bavarian_State_Opera\" title=\"Bavarian State Opera\">Bavarian State Opera</a>; <a href=\"/wiki/Gerd_Albrecht\" title=\"Gerd Albrecht\">Gerd Albrecht</a>, conductor. <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a> 463 480-2 (CD reissue)<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup><sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup></li>\n<li>2008: Wolfgang Koch, Magnus Baldvinsson, Dietrich Volle, <a href=\"/wiki/Michael_McCown\" title=\"Michael McCown\">Michael McCown</a>, Hans-Jürgen Lazar, <a href=\"/wiki/Johannes_Martin_Kr%C3%A4nzle\" title=\"Johannes Martin Kränzle\">Johannes Martin Kränzle</a>, Martin Wölfel, Frank van Aken, Jeanne-Michèle Charbonnet, Caroline Whisnant, <a href=\"/wiki/Britta_Stallmeister\" title=\"Britta Stallmeister\">Britta Stallmeister</a>; <a href=\"/wiki/Frankfurter_Opern-_und_Museumsorchester\" title=\"Frankfurter Opern- und Museumsorchester\">Frankfurter Opern- und Museumsorchester</a>, Chorus of the <a href=\"/wiki/Opern-_und_Schauspielhaus_Frankfurt\" class=\"mw-redirect\" title=\"Opern- und Schauspielhaus Frankfurt\">Frankfurt Opera</a>, <a href=\"/wiki/Sebastian_Weigle\" title=\"Sebastian Weigle\">Sebastian Weigle</a>, conductor. <a href=\"/wiki/Oehms_Classics\" title=\"Oehms Classics\">Oehms Classics</a> OC 921<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1978,
+      "cast": [
+        "Dietrich Fischer-Dieskau",
+        "Karl Helm",
+        "Hans Wilbrink",
+        "Georg Paskuda",
+        "Richard Holm",
+        "Hans Günter Nöcker",
+        "David Knutson",
+        "Werner Götz",
+        "Helga Dernesch",
+        "Colette Lorand",
+        "Júlia Várady",
+        "Rolf Boysen",
+        "Markus Gortizki",
+        "Gerhard Auer"
+      ],
+      "conductor": "Gerd Albrecht"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Wolfgang Koch",
+        "Magnus Baldvinsson",
+        "Dietrich Volle",
+        "Michael McCown",
+        "Hans-Jürgen Lazar",
+        "Johannes Martin Kränzle",
+        "Martin Wölfel",
+        "Frank van Aken",
+        "Jeanne-Michèle Charbonnet",
+        "Caroline Whisnant",
+        "Britta Stallmeister"
+      ],
+      "conductor": "Sebastian Weigle"
+    }
+  ]
+}

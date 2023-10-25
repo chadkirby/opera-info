@@ -1,0 +1,33 @@
+{
+  "html": "<ul><li>Decca: Dame <a href=\"/wiki/Janet_Baker\" title=\"Janet Baker\">Janet Baker</a>, <a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a>, Thomas Hemsley; Purcell Singers; <a href=\"/wiki/English_Chamber_Orchestra\" title=\"English Chamber Orchestra\">English Chamber Orchestra</a>; <a href=\"/wiki/Imogen_Holst\" title=\"Imogen Holst\">Imogen Holst</a>, conductor</li>\n<li>Hyperion CDH55042 (Helios reissue): <a href=\"/wiki/Felicity_Palmer\" title=\"Felicity Palmer\">Felicity Palmer</a>, <a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a>, <a href=\"/wiki/Stephen_Varcoe\" title=\"Stephen Varcoe\">Stephen Varcoe</a>; The Richard Hickox Singers; <a href=\"/wiki/City_of_London_Sinfonia\" title=\"City of London Sinfonia\">City of London Sinfonia</a>; <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>, conductor (1983)</li>\n<li>Phoenix PHCD 14: Jessica Miller, <a href=\"/wiki/Simon_O%27Neill\" title=\"Simon O'Neill\">Simon O'Neill</a>, <a href=\"/wiki/Kyu_Won_Han\" title=\"Kyu Won Han\">Kyu Won Han</a>; <a href=\"/wiki/Manhattan_School_of_Music\" title=\"Manhattan School of Music\">Manhattan School of Music</a> Opera Theater; Manhattan Chamber Sinfonia; Glen Barton Cortese, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Dame Janet Baker",
+        "Robert Tear",
+        "Thomas Hemsley"
+      ],
+      "conductor": "Imogen Holst"
+    },
+    {
+      "type": "audio",
+      "year": 1983,
+      "cast": [
+        "Felicity Palmer",
+        "Philip Langridge",
+        "Stephen Varcoe"
+      ],
+      "conductor": "Richard Hickox"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Jessica Miller",
+        "Simon O'Neill",
+        "Kyu Won Han"
+      ],
+      "conductor": "Glen Barton Cortese"
+    }
+  ]
+}

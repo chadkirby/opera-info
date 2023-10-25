@@ -1,0 +1,96 @@
+{
+  "html": "<ul><li>1939: <b>Leonhardt</b> – Eipperle/Waldenau/Osswald/Ludwig-W/Welitsch/Hann – Koch Schwann (live in Stuttgart)</li>\n<li>1951: <b>Keilberth</b> – <a href=\"/wiki/Anny_Schlemm\" title=\"Anny Schlemm\">Schlemm</a>/Roesler/Offermanns/<a href=\"/wiki/Rudolf_Schock\" title=\"Rudolf Schock\">Schock</a>/Schmitt-Walter/Böhme – Gebhardt</li>\n<li>1952: <b>Hollreiser</b> – <a href=\"/wiki/Sena_Jurinac\" title=\"Sena Jurinac\">Jurinac</a>/<a href=\"/wiki/Hilde_R%C3%B6ssl-Majdan\" class=\"mw-redirect\" title=\"Hilde Rössl-Majdan\">Rössl-Majdan</a>/Majkut/<a href=\"/wiki/Rudolf_Schock\" title=\"Rudolf Schock\">Schock</a>/Poell/Frick – Melodram (live in Vienna, mono)</li>\n<li>1956: <b>Leinsdorf</b> – <a href=\"/wiki/Elisabeth_Schwarzkopf\" title=\"Elisabeth Schwarzkopf\">Schwarzkopf</a>/Hoffmann/Unger/Gedda/Prey/Czerwenka – EMI</li>\n<li>1957: <b>Matzerath</b> -  <a href=\"/wiki/Helmut_Krebs\" title=\"Helmut Krebs\">Helmut Krebs</a>, <a href=\"/wiki/Benno_Kusche\" title=\"Benno Kusche\">Benno Kusche</a>, <a href=\"/wiki/Anneliese_Rothenberger\" title=\"Anneliese Rothenberger\">Anneliese Rothenberger</a>, <a href=\"/wiki/Josef_Greindl\" title=\"Josef Greindl\">Josef Greindl</a>, <a href=\"/wiki/Richard_Holm_(tenor)\" title=\"Richard Holm (tenor)\">Richard Holm</a> &amp; <a href=\"/wiki/Gisela_Litz\" title=\"Gisela Litz\">Gisela Litz</a> - Walhall Eternity Series</li>\n<li>1973: <b>Hollreiser</b> – Geszty/Schmidt-T/Unger/Kraus-Ad/Weikl/<a href=\"/wiki/Karl_Ridderbusch\" title=\"Karl Ridderbusch\">Ridderbusch</a>, Bavarian Radio Chorus and <a href=\"/wiki/Bavarian_Radio_Symphony_Orchestra\" title=\"Bavarian Radio Symphony Orchestra\">Bavarian Radio Symphony Orchestra</a> – Eurodisc (live in Munich), <a href=\"/wiki/Preiser_Records\" title=\"Preiser Records\">Preiser Records</a>, CD Cat: MONO 20035 2CD</li>\n<li>1974: <b>Leitner</b> – <a href=\"/wiki/Helen_Donath\" title=\"Helen Donath\">Donath</a>/<a href=\"/wiki/Marga_Schiml\" title=\"Marga Schiml\">Schiml</a>/Peter/Laubenthal/Duesing/Sotin; <a href=\"/wiki/K%C3%B6lner_Rundfunk-Sinfonie-Orchester\" class=\"mw-redirect\" title=\"Kölner Rundfunk-Sinfonie-Orchester\">Kölner Rundfunk-Sinfonie-Orchester</a> und Chor – Profil, CD Cat: PH08037</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1939,
+      "cast": [
+        "Eipperle",
+        "Waldenau",
+        "Osswald",
+        "Ludwig-W",
+        "Welitsch",
+        "Hann"
+      ],
+      "conductor": "Leonhardt"
+    },
+    {
+      "type": "audio",
+      "year": 1951,
+      "cast": [
+        "Schlemm",
+        "Roesler",
+        "Offermanns",
+        "Schock",
+        "Schmitt-Walter",
+        "Böhme",
+        "Gebhardt"
+      ],
+      "conductor": "Keilberth"
+    },
+    {
+      "type": "audio",
+      "year": 1952,
+      "cast": [
+        "Jurinac",
+        "Rössl-Majdan",
+        "Majkut",
+        "Schock",
+        "Poell",
+        "Frick"
+      ],
+      "conductor": "Hollreiser"
+    },
+    {
+      "type": "audio",
+      "year": 1956,
+      "cast": [
+        "Schwarzkopf",
+        "Hoffmann",
+        "Unger",
+        "Gedda",
+        "Prey",
+        "Czerwenka"
+      ],
+      "conductor": "Leinsdorf"
+    },
+    {
+      "type": "audio",
+      "year": 1957,
+      "cast": [
+        "Helmut Krebs",
+        "Benno Kusche",
+        "Anneliese Rothenberger",
+        "Josef Greindl",
+        "Richard Holm",
+        "Gisela Litz"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 1973,
+      "cast": [
+        "Geszty",
+        "Schmidt-T",
+        "Unger",
+        "Kraus-Ad",
+        "Weikl",
+        "Ridderbusch"
+      ],
+      "conductor": "Hollreiser"
+    },
+    {
+      "type": "audio",
+      "year": 1974,
+      "cast": [
+        "Donath",
+        "Schiml",
+        "Peter",
+        "Laubenthal",
+        "Duesing",
+        "Sotin"
+      ],
+      "conductor": "Leitner"
+    }
+  ]
+}

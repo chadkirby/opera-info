@@ -1,0 +1,34 @@
+{
+  "html": "<ul><li>The first was recorded in 1957, conducted by <a href=\"/wiki/Charles_Bruck\" title=\"Charles Bruck\">Charles Bruck</a> with the Orchestra of the <a href=\"/wiki/Op%C3%A9ra_National_de_Paris\" class=\"mw-redirect\" title=\"Opéra National de Paris\">Paris Opera</a>. The opera was performed in French with <a href=\"/wiki/Xavier_Depraz\" title=\"Xavier Depraz\">Xavier Depraz</a> and <a href=\"/wiki/Jane_Rhodes\" title=\"Jane Rhodes\">Jane Rhodes</a> in the leading roles.</li>\n<li>The first Russian-language recording was released in 1990, conducted by Prokofiev specialist <a href=\"/wiki/Neeme_J%C3%A4rvi\" title=\"Neeme Järvi\">Neeme Järvi</a> with the <a href=\"/wiki/Gothenburg_Symphony_Orchestra\" title=\"Gothenburg Symphony Orchestra\">Gothenburg Symphony Orchestra</a>, starring <a href=\"/wiki/Nadine_Secunde\" title=\"Nadine Secunde\">Nadine Secunde</a> and <a href=\"/wiki/Siegfried_Lorenz_(baritone)\" title=\"Siegfried Lorenz (baritone)\">Siegfried Lorenz</a> as Renata and Ruprecht with <a href=\"/wiki/Bryn_Terfel\" title=\"Bryn Terfel\">Bryn Terfel</a>, <a href=\"/wiki/Heinz_Zednik\" title=\"Heinz Zednik\">Heinz Zednik</a> and <a href=\"/wiki/Kurt_Moll\" title=\"Kurt Moll\">Kurt Moll</a> in supporting roles.</li>\n<li><a href=\"/wiki/Valery_Gergiev\" title=\"Valery Gergiev\">Valery Gergiev</a>, who has recorded a wide array of Russian operas with the <a href=\"/wiki/Kirov_Opera\" class=\"mw-redirect\" title=\"Kirov Opera\">Kirov Opera</a>, released a recording taped from a series of performances at the Kirov opera, with <a href=\"/wiki/Sergei_Leiferkus\" title=\"Sergei Leiferkus\">Sergei Leiferkus</a> and <a href=\"/wiki/Galina_Gorchakova\" title=\"Galina Gorchakova\">Galina Gorchakova</a> as Ruprecht and Renata.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1957,
+      "cast": [
+        "Xavier Depraz",
+        "Jane Rhodes"
+      ],
+      "conductor": "Charles Bruck"
+    },
+    {
+      "type": "audio",
+      "year": 1990,
+      "cast": [
+        "Nadine Secunde",
+        "Siegfried Lorenz",
+        "Bryn Terfel",
+        "Heinz Zednik",
+        "Kurt Moll"
+      ],
+      "conductor": "Neeme Järvi"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Sergei Leiferkus",
+        "Galina Gorchakova"
+      ],
+      "conductor": "Valery Gergiev"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "html": "<ul><li>1950, <a href=\"/wiki/Nikolai_Golovanov\" title=\"Nikolai Golovanov\">Nikolai Golovanov</a> (conductor), USSR Bolshoi Theatre Soloists, Chorus and Orchestra, Georgi Nalepp (Sadko), Yelizaveta Shumskaya (Volkhova), Vera Davydova (Lyubava), Sergei Krasovsky (King of the Sea), Yelizaveta Antonova (gusli-player), Sergei Koltypin (Buffoon 1), Alexei Peregudov (Buffoon 2), Tikhon Chernyakov (Novgorod head), Stephan Nikolau (voyvode), <a href=\"/wiki/Mark_Reizen\" title=\"Mark Reizen\">Mark Reizen</a> (Viking merchant), <a href=\"/wiki/Ivan_Kozlovsky\" title=\"Ivan Kozlovsky\">Ivan Kozlovsky</a> (Indian merchant), Pavel Lisitsian (Venetian merchant), Ilya Bogdanov (Mighty Old Man). (Melodiya LP M10 01480, 4 records; Preiser Mono 90655, 3 discs; Naxos Classical Archives 9.80931-33).</li>\n<li>1994, <a href=\"/wiki/Valery_Gergiev\" title=\"Valery Gergiev\">Valery Gergiev</a> (conductor), Kirov Orchestra and Chorus of the Marijinski Theater, St. Petersburg, <a href=\"/wiki/Vladimir_Galouzine\" title=\"Vladimir Galouzine\">Vladimir Galouzine</a> (Sadko), Valentina Tsidipova (Volkhova), Marianna Tarassova (Lyubava), Sergei Aleksashkin (King of the Sea). (Philips CD 442 138–2, 3 discs; reissued as part of Decca set <i>Rimsky-Korsakov: 5 Operas</i> 478 2705, 11 discs, but without text or translation).</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1950,
+      "cast": [
+        "Georgi Nalepp",
+        "Yelizaveta Shumskaya",
+        "Vera Davydova",
+        "Sergei Krasovsky",
+        "Yelizaveta Antonova",
+        "Sergei Koltypin",
+        "Alexei Peregudov",
+        "Tikhon Chernyakov",
+        "Stephan Nikolau",
+        "Mark Reizen",
+        "Ivan Kozlovsky",
+        "Pavel Lisitsian",
+        "Ilya Bogdanov"
+      ],
+      "conductor": "Nikolai Golovanov"
+    },
+    {
+      "type": "audio",
+      "year": 1994,
+      "cast": [
+        "Vladimir Galouzine",
+        "Valentina Tsidipova",
+        "Marianna Tarassova",
+        "Sergei Aleksashkin"
+      ],
+      "conductor": "Valery Gergiev"
+    }
+  ]
+}

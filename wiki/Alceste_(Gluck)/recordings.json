@@ -1,0 +1,75 @@
+{
+  "html": "<ul><li><i>Alceste</i> (Original Italian version edited by Geraint Jones), <a href=\"/wiki/Kirsten_Flagstad\" title=\"Kirsten Flagstad\">Kirsten Flagstad</a>, Raoul Jobin, <a href=\"/wiki/Alexander_Young_(tenor)\" title=\"Alexander Young (tenor)\">Alexander Young</a>, Marion Lowe, Thomas Hemsley, Joan Clark, Rosemary Thayer, Geraint Jones Orchestra and singers, Geraint Jones (Decca LP LXT 5273–5276;. c. 1952)</li>\n<li><i>Alceste</i> with <a href=\"/wiki/Conducting\" title=\"Conducting\">conductor</a> <a href=\"/wiki/Serge_Baudo\" title=\"Serge Baudo\">Serge Baudo</a> and the <a href=\"/wiki/Bavarian_Radio_Symphony_Orchestra\" title=\"Bavarian Radio Symphony Orchestra\">Bavarian Radio Symphony Orchestra</a>. Released on CD in 1995 on the Orfeo label. Cast includes: <a href=\"/wiki/Jessye_Norman\" title=\"Jessye Norman\">Jessye Norman</a>, <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>, <a href=\"/wiki/Peter_Lika\" title=\"Peter Lika\">Peter Lika</a>, <a href=\"/wiki/Robert_Gambill\" title=\"Robert Gambill\">Robert Gambill</a>, Roland Bracht, <a href=\"/wiki/Kurt_Rydl\" title=\"Kurt Rydl\">Kurt Rydl</a>, and <a href=\"/wiki/Bernd_Weikl\" title=\"Bernd Weikl\">Bernd Weikl</a>.</li>\n<li><i>Alceste</i> (Vienna version) Ringholz/Lavender/Degerfeldt/Treichl, <a href=\"/wiki/Drottningholm_Theatre\" class=\"mw-redirect\" title=\"Drottningholm Theatre\">Drottningholm Theatre</a> Chorus and Orchestra, <a href=\"/wiki/Arnold_%C3%96stman\" title=\"Arnold Östman\">Arnold Östman</a> (Naxos, 1999)</li>\n<li><i>Alceste</i> with conductor Sir <a href=\"/wiki/John_Eliot_Gardiner\" title=\"John Eliot Gardiner\">John Eliot Gardiner</a>, the <a href=\"/wiki/English_Baroque_Soloists\" title=\"English Baroque Soloists\">English Baroque Soloists</a>, and the <a href=\"/wiki/Monteverdi_Choir\" title=\"Monteverdi Choir\">Monteverdi Choir</a>. Released on CD and DVD on the Philips label in 2002. Cast includes <a href=\"/wiki/Anne_Sofie_von_Otter\" title=\"Anne Sofie von Otter\">Anne Sofie von Otter</a>, <a href=\"/wiki/Dietrich_Henschel\" title=\"Dietrich Henschel\">Dietrich Henschel</a>, <a href=\"/wiki/Paul_Groves_(tenor)\" title=\"Paul Groves (tenor)\">Paul Groves</a>, <a href=\"/wiki/Yann_Beuron\" title=\"Yann Beuron\">Yann Beuron</a>, <a href=\"/wiki/Joanne_Lunn\" title=\"Joanne Lunn\">Joanne Lunn</a>, Katherine Fuge, <a href=\"/wiki/Nicolas_Test%C3%A9\" title=\"Nicolas Testé\">Nicolas Testé</a>, and <a href=\"/wiki/Ludovic_Tezier\" class=\"mw-redirect\" title=\"Ludovic Tezier\">Ludovic Tezier</a> among others.</li>\n<li><i>Alceste</i> with conductor <a href=\"/wiki/Charles_Mackerras\" title=\"Charles Mackerras\">Charles Mackerras</a> and <a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera</a> at Covent Garden. Released on CD on the Ponto label in 2005. Cast includes: Elaine Mary Hall, <a href=\"/wiki/Janet_Baker\" title=\"Janet Baker\">Janet Baker</a>, Janice Hooper-Roe, <a href=\"/wiki/John_Shirley-Quirk\" title=\"John Shirley-Quirk\">John Shirley-Quirk</a>, <a href=\"/wiki/Jonathan_Summers\" title=\"Jonathan Summers\">Jonathan Summers</a>, Mark Curtis, <a href=\"/wiki/Matthew_Best_(conductor)\" title=\"Matthew Best (conductor)\">Matthew Best</a>, Philip Gelling, and <a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a> among others.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": "c. 1952",
+      "cast": [
+        "Kirsten Flagstad",
+        "Raoul Jobin",
+        "Alexander Young",
+        "Marion Lowe",
+        "Thomas Hemsley",
+        "Joan Clark",
+        "Rosemary Thayer"
+      ],
+      "conductor": "Geraint Jones"
+    },
+    {
+      "type": "audio",
+      "year": 1995,
+      "cast": [
+        "Jessye Norman",
+        "Nicolai Gedda",
+        "Peter Lika",
+        "Robert Gambill",
+        "Roland Bracht",
+        "Kurt Rydl",
+        "Bernd Weikl"
+      ],
+      "conductor": "Serge Baudo"
+    },
+    {
+      "type": "audio",
+      "year": 1999,
+      "cast": [
+        "Ringholz",
+        "Lavender",
+        "Degerfeldt",
+        "Treichl"
+      ],
+      "conductor": "Arnold Östman"
+    },
+    {
+      "type": "audio",
+      "year": 2002,
+      "cast": [
+        "Anne Sofie von Otter",
+        "Dietrich Henschel",
+        "Paul Groves",
+        "Yann Beuron",
+        "Joanne Lunn",
+        "Katherine Fuge",
+        "Nicolas Testé",
+        "Ludovic Tezier"
+      ],
+      "conductor": "Sir John Eliot Gardiner"
+    },
+    {
+      "type": "audio",
+      "year": 2005,
+      "cast": [
+        "Elaine Mary Hall",
+        "Janet Baker",
+        "Janice Hooper-Roe",
+        "John Shirley-Quirk",
+        "Jonathan Summers",
+        "Mark Curtis",
+        "Matthew Best",
+        "Philip Gelling",
+        "Robert Tear"
+      ],
+      "conductor": "Charles Mackerras"
+    }
+  ]
+}

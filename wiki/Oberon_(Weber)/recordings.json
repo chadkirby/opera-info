@@ -1,0 +1,17 @@
+{
+  "html": "<ul><li>The first commercial recording was in German, and was conducted by <a href=\"/wiki/Rafael_Kubel%C3%ADk\" title=\"Rafael Kubelík\">Rafael Kubelík</a>, whose cast featured <a href=\"/wiki/Birgit_Nilsson\" title=\"Birgit Nilsson\">Birgit Nilsson</a> as Reiza and <a href=\"/wiki/Pl%C3%A1cido_Domingo\" title=\"Plácido Domingo\">Plácido Domingo</a> as Sir Huon of Bordeaux (<a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a>, Cat.# J306, Bavarian Radio Symphony Orchestra, Herkulessaal, Munich, 1970, studio recording.)<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (August 2019)\">citation needed</span></a></i>]</sup></li>\n<li>There have been several other recordings, such as those by <a href=\"/wiki/James_Conlon\" title=\"James Conlon\">James Conlon</a> (Mahler's version) on EMI, <a href=\"/wiki/Marek_Janowski\" title=\"Marek Janowski\">Marek Janowski</a> (a note-complete recording) for RCA, and Sir <a href=\"/wiki/John_Eliot_Gardiner\" title=\"John Eliot Gardiner\">John Eliot Gardiner</a> (the original English version on period instruments) for <a href=\"/wiki/Philips\" title=\"Philips\">Philips</a>.<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (August 2019)\">citation needed</span></a></i>]</sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1970,
+      "cast": [
+        "Birgit Nilsson",
+        "Plácido Domingo"
+      ],
+      "conductor": "Rafael Kubelík"
+    },
+    {
+      "type": "audio"
+    }
+  ]
+}

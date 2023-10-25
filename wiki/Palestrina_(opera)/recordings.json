@@ -1,0 +1,71 @@
+{
+  "html": "<ul><li>(Studio recording, <a href=\"/wiki/Munich\" title=\"Munich\">Munich</a>, 1973), <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a> 427 417-2 (CD reissue): <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>, <a href=\"/wiki/Karl_Ridderbusch\" title=\"Karl Ridderbusch\">Karl Ridderbusch</a>, <a href=\"/wiki/Bernd_Weikl\" title=\"Bernd Weikl\">Bernd Weikl</a>, Herbert Steinbach, <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a>, <a href=\"/wiki/Victor_von_Halem\" title=\"Victor von Halem\">Victor von Halem</a>, <a href=\"/wiki/John_van_Kesteren\" title=\"John van Kesteren\">John van Kesteren</a>, <a href=\"/wiki/Peter_Meven\" title=\"Peter Meven\">Peter Meven</a>, <a href=\"/wiki/Hermann_Prey\" title=\"Hermann Prey\">Hermann Prey</a>, Friedrich Lenz, <a href=\"/wiki/Adalbert_Kraus\" title=\"Adalbert Kraus\">Adalbert Kraus</a>, <a href=\"/wiki/Franz_Mazura\" title=\"Franz Mazura\">Franz Mazura</a>, <a href=\"/wiki/Helen_Donath\" title=\"Helen Donath\">Helen Donath</a>, <a href=\"/wiki/Brigitte_Fassbaender\" title=\"Brigitte Fassbaender\">Brigitte Fassbaender</a>, <a href=\"/wiki/Gerd_Nienstedt\" title=\"Gerd Nienstedt\">Gerd Nienstedt</a>; Bavarian Radio Chorus; <a href=\"/wiki/T%C3%B6lzer_Knabenchor\" title=\"Tölzer Knabenchor\">Tölzer Knabenchor</a>; <a href=\"/wiki/Bavarian_Radio_Symphony_Orchestra\" title=\"Bavarian Radio Symphony Orchestra\">Bavarian Radio Symphony Orchestra</a>, <a href=\"/wiki/Rafael_Kubel%C3%ADk\" title=\"Rafael Kubelík\">Rafael Kubelík</a>, conductor</li>\n<li>(Live off-air performance 1951), Opera D'Oro 3MCD 975.170 (CD reissue): <a href=\"/wiki/Julius_Patzak\" title=\"Julius Patzak\">Julius Patzak</a>, <a href=\"/wiki/Hans_Hotter\" title=\"Hans Hotter\">Hans Hotter</a>, <a href=\"/wiki/Ferdinand_Frantz\" title=\"Ferdinand Frantz\">Ferdinand Frantz</a>, <a href=\"/wiki/Georg_Wieter\" title=\"Georg Wieter\">Georg Wieter</a>, <a href=\"/wiki/Franz_Klarwein\" title=\"Franz Klarwein\">Franz Klarwein</a>, Katja Sabo, Kathe Neuburg, <a href=\"/wiki/Bavarian_State_Opera\" title=\"Bavarian State Opera\">Bavarian State Opera</a> Chorus and Orchestra (<a href=\"/wiki/Prinzregententheater\" title=\"Prinzregententheater\">Prinzregententheater</a>), <a href=\"/wiki/Robert_Heger\" title=\"Robert Heger\">Robert Heger</a>, conductor</li>\n<li>(Studio recording, Cologne 1952), Mytho Records 3CD 021.H060 (CD reissue): <a href=\"/wiki/Julius_Patzak\" title=\"Julius Patzak\">Julius Patzak</a>, <a href=\"/wiki/Hans_Hotter\" title=\"Hans Hotter\">Hans Hotter</a>, <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a>, <a href=\"/wiki/Gottlob_Frick\" title=\"Gottlob Frick\">Gottlob Frick</a>, <a href=\"/wiki/Anny_Schlemm\" title=\"Anny Schlemm\">Anny Schlemm</a>, <a href=\"/w/index.php?title=Richard_Kraus_(conductor)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Richard Kraus (conductor) (page does not exist)\">Richard Kraus</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://de.wikipedia.org/wiki/Richard_Kraus\" class=\"extiw\" title=\"de:Richard Kraus\">de</a>]</span>, conductor</li>\n<li>(Live recording, Berlin 1986, 1988), Berlin Classics 3CD 0310001: <a href=\"/wiki/Peter_Schreier\" title=\"Peter Schreier\">Peter Schreier</a>, Siegfried Lorenz, <a href=\"/wiki/Ekkehard_Wlaschiha\" title=\"Ekkehard Wlaschiha\">Ekkehard Wlaschiha</a>, Fritz Hübner, Hans-Joachim Ketelsen, Peter-Jürgen Schmitd, <a href=\"/wiki/Carola_Nossek\" title=\"Carola Nossek\">Carola Nossek</a>, <a href=\"/wiki/Rosemarie_Lang\" title=\"Rosemarie Lang\">Rosemarie Lang</a>; Chorus of the <a href=\"/wiki/Berlin_State_Opera\" title=\"Berlin State Opera\">Berlin State Opera</a>; <a href=\"/wiki/Staatskapelle_Berlin\" title=\"Staatskapelle Berlin\">Staatskapelle Berlin</a>; <a href=\"/wiki/Otmar_Suitner\" title=\"Otmar Suitner\">Otmar Suitner</a>, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1973,
+      "cast": [
+        "Nicolai Gedda",
+        "Karl Ridderbusch",
+        "Bernd Weikl",
+        "Herbert Steinbach",
+        "Dietrich Fischer-Dieskau",
+        "Victor von Halem",
+        "John van Kesteren",
+        "Peter Meven",
+        "Hermann Prey",
+        "Friedrich Lenz",
+        "Adalbert Kraus",
+        "Franz Mazura",
+        "Helen Donath",
+        "Brigitte Fassbaender",
+        "Gerd Nienstedt"
+      ],
+      "conductor": "Rafael Kubelík"
+    },
+    {
+      "type": "audio",
+      "year": 1951,
+      "cast": [
+        "Julius Patzak",
+        "Hans Hotter",
+        "Ferdinand Frantz",
+        "Georg Wieter",
+        "Franz Klarwein",
+        "Katja Sabo",
+        "Kathe Neuburg"
+      ],
+      "conductor": "Robert Heger"
+    },
+    {
+      "type": "audio",
+      "year": 1952,
+      "cast": [
+        "Julius Patzak",
+        "Hans Hotter",
+        "Dietrich Fischer-Dieskau",
+        "Gottlob Frick",
+        "Anny Schlemm"
+      ],
+      "conductor": "Richard Kraus"
+    },
+    {
+      "type": "audio",
+      "year": [
+        "1986",
+        "1988"
+      ],
+      "cast": [
+        "Peter Schreier",
+        "Siegfried Lorenz",
+        "Ekkehard Wlaschiha",
+        "Fritz Hübner",
+        "Hans-Joachim Ketelsen",
+        "Peter-Jürgen Schmitd",
+        "Carola Nossek",
+        "Rosemarie Lang"
+      ],
+      "conductor": "Otmar Suitner"
+    }
+  ]
+}

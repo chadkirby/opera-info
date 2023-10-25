@@ -1,0 +1,76 @@
+{
+  "html": "<ul><li>1973 – <a href=\"/wiki/Richard_Tucker_(tenor)\" class=\"mw-redirect\" title=\"Richard Tucker (tenor)\">Richard Tucker</a> (Eléazar), Yasuko Hayashi (Rachel), Michèle Le Bris (Eudoxie), Juan Sabate (Léopold), David Gwynne (Brogni) – live concert performance, London, cond. <a href=\"/wiki/Anton_Guadagno\" title=\"Anton Guadagno\">Anton Guadagno</a> – Opera d'Oro CD: OPD-1333.</li>\n<li>1974 (Highlights) – Richard Tucker (Eléazar), <a href=\"/wiki/Martina_Arroyo\" title=\"Martina Arroyo\">Martina Arroyo</a> (Rachel), <a href=\"/wiki/Anna_Moffo\" title=\"Anna Moffo\">Anna Moffo</a> (Eudoxie), Juan Sabate (Léopold), <a href=\"/wiki/Bonaldo_Giaiotti\" title=\"Bonaldo Giaiotti\">Bonaldo Giaiotti</a> (Brogni) –  Ambrosian Opera Chorus, <a href=\"/wiki/Philharmonia_Orchestra\" title=\"Philharmonia Orchestra\">New Philharmonia Orchestra</a>, cond. <a href=\"/wiki/Antonio_de_Almeida_(conductor)\" title=\"Antonio de Almeida (conductor)\">Antonio de Almeida</a> – <a href=\"/wiki/RCA_Red_Seal\" class=\"mw-redirect\" title=\"RCA Red Seal\">RCA Red Seal</a> LP: ARL1-0447 CD: 886446206530</li>\n<li>1989 – <a href=\"/wiki/Jos%C3%A9_Carreras\" title=\"José Carreras\">José Carreras</a> (Eléazar), <a href=\"/wiki/J%C3%BAlia_V%C3%A1rady\" title=\"Júlia Várady\">Júlia Várady</a> (Rachel), <a href=\"/wiki/June_Anderson\" title=\"June Anderson\">June Anderson</a> (Eudoxie), Dalmacio Gonzalez (Léopold), <a href=\"/wiki/Ferruccio_Furlanetto\" title=\"Ferruccio Furlanetto\">Ferruccio Furlanetto</a> (Brogni) – Ambrosian Opera Chorus, <a href=\"/wiki/Philharmonia_Orchestra\" title=\"Philharmonia Orchestra\">Philharmonia Orchestra</a>, cond. Antonio de Almeida – Philips CD: 420 190–2.</li>\n<li>2003 – <a href=\"/wiki/Neil_Shicoff\" title=\"Neil Shicoff\">Neil Shicoff</a> (Eléazar),  <a href=\"/wiki/Soile_Isokoski\" title=\"Soile Isokoski\">Soile Isokoski</a> (Rachel), <a href=\"/wiki/Regina_Sch%C3%B6rg\" title=\"Regina Schörg\">Regina Schörg</a> (Eudoxie), <a href=\"/wiki/Zoran_Todorovic\" class=\"mw-redirect\" title=\"Zoran Todorovic\">Zoran Todorovic</a> (Léopold), <a href=\"/wiki/Alastair_Miles\" title=\"Alastair Miles\">Alastair Miles</a> (Brogni) –  <a href=\"/wiki/Vienna_State_Opera\" title=\"Vienna State Opera\">Chor und Orchester der Wiener Staatsoper</a>, Cond. Simone Young – <a href=\"/wiki/RCA_Red_Seal\" class=\"mw-redirect\" title=\"RCA Red Seal\">RCA Red Seal</a> CD: 74321795962</li>\n<li>2003 – <a href=\"/wiki/Neil_Shicoff\" title=\"Neil Shicoff\">Neil Shicoff</a> (Eléazar), Krassimira Stoyanova (Rachel), Simina Ivan (Eudoxie), <a href=\"/wiki/Jianyi_Zhang\" title=\"Jianyi Zhang\">Jianyi Zhang</a> (Léopold), Walter Fink (Cardinal Brogni) – <a href=\"/wiki/Vienna_State_Opera\" title=\"Vienna State Opera\">Chor und Orchester der Wiener Staatsoper</a>, cond. <a href=\"/wiki/Vjekoslav_%C5%A0utej\" title=\"Vjekoslav Šutej\">Vjekoslav Šutej</a> – Deutsche Grammophon DVD: 00440 073 4001</li>\n<li>The opera's best known aria, \"Rachel! Quand du seigneur\", has been recorded by numerous renowned tenors, including <a href=\"/wiki/Enrico_Caruso\" title=\"Enrico Caruso\">Enrico Caruso</a>, <a href=\"/wiki/Giovanni_Martinelli\" title=\"Giovanni Martinelli\">Giovanni Martinelli</a>, <a href=\"/wiki/Beniamino_Gigli\" title=\"Beniamino Gigli\">Beniamino Gigli</a>, <a href=\"/wiki/Placido_Domingo\" class=\"mw-redirect\" title=\"Placido Domingo\">Placido Domingo</a>, <a href=\"/wiki/Jonas_Kaufmann\" title=\"Jonas Kaufmann\">Jonas Kaufmann</a> and <a href=\"/wiki/L%C3%A9on_Escala%C3%AFs\" title=\"Léon Escalaïs\">Léon Escalaïs</a>.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1973,
+      "cast": [
+        "Richard Tucker",
+        "Yasuko Hayashi",
+        "Michèle Le Bris",
+        "Juan Sabate",
+        "David Gwynne"
+      ],
+      "conductor": "Anton Guadagno"
+    },
+    {
+      "type": "audio",
+      "year": 1974,
+      "cast": [
+        "Richard Tucker",
+        "Martina Arroyo",
+        "Anna Moffo",
+        "Juan Sabate",
+        "Bonaldo Giaiotti"
+      ],
+      "conductor": "Antonio de Almeida"
+    },
+    {
+      "type": "audio",
+      "year": 1989,
+      "cast": [
+        "José Carreras",
+        "Júlia Várady",
+        "June Anderson",
+        "Dalmacio Gonzalez",
+        "Ferruccio Furlanetto"
+      ],
+      "conductor": "Antonio de Almeida"
+    },
+    {
+      "type": "audio",
+      "year": 2003,
+      "cast": [
+        "Neil Shicoff",
+        "Soile Isokoski",
+        "Regina Schörg",
+        "Zoran Todorovic",
+        "Alastair Miles"
+      ],
+      "conductor": "Simone Young"
+    },
+    {
+      "type": "audio",
+      "year": 2003,
+      "cast": [
+        "Neil Shicoff",
+        "Krassimira Stoyanova",
+        "Simina Ivan",
+        "Jianyi Zhang",
+        "Walter Fink"
+      ],
+      "conductor": "Vjekoslav Šutej"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Enrico Caruso",
+        "Giovanni Martinelli",
+        "Beniamino Gigli",
+        "Placido Domingo",
+        "Jonas Kaufmann",
+        "Léon Escalaïs"
+      ]
+    }
+  ]
+}

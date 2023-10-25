@@ -1,0 +1,31 @@
+{
+  "html": "<ul><li>Urania URLP-204: <a href=\"/wiki/Irma_Beilke\" title=\"Irma Beilke\">Irma Beilke</a>, Marie Louise Schlip, Hans Hopf, Lorenz Fehenberger, Karl Wessly, Arno Schellenberg, <a href=\"/wiki/Gottlob_Frick\" title=\"Gottlob Frick\">Gottlob Frick</a>, <a href=\"/wiki/Kurt_B%C3%B6hme\" title=\"Kurt Böhme\">Kurt Böhme</a>; Chorus of the Dresden State Opera; <a href=\"/wiki/S%C3%A4chsische_Staatskapelle_Dresden\" class=\"mw-redirect\" title=\"Sächsische Staatskapelle Dresden\">Staatskapelle Dresden</a>; Karl Elmendorff, conductor<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup></li>\n<li>EMI Classics: <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>, <a href=\"/wiki/Mady_Mespl%C3%A9\" title=\"Mady Mesplé\">Mady Mesplé</a>, <a href=\"/wiki/Jane_Berbi%C3%A9\" title=\"Jane Berbié\">Jane Berbié</a>, <a href=\"/wiki/Jules_Bastin\" title=\"Jules Bastin\">Jules Bastin</a>, Ensemble Choral Jean Laforge, <a href=\"/wiki/Monte-Carlo_Philharmonic_Orchestra\" title=\"Monte-Carlo Philharmonic Orchestra\">Monte-Carlo Philharmonic Orchestra</a>; <a href=\"/wiki/Marc_Soustrot\" title=\"Marc Soustrot\">Marc Soustrot</a>, conductor (1984)<sup id=\"cite_ref-Macdonald_2-1\" class=\"reference\"><a href=\"#cite_note-Macdonald-2\">[2]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Irma Beilke",
+        "Marie Louise Schlip",
+        "Hans Hopf",
+        "Lorenz Fehenberger",
+        "Karl Wessly",
+        "Arno Schellenberg",
+        "Gottlob Frick",
+        "Kurt Böhme"
+      ],
+      "conductor": "Karl Elmendorff"
+    },
+    {
+      "type": "audio",
+      "year": 1984,
+      "cast": [
+        "Nicolai Gedda",
+        "Mady Mesplé",
+        "Jane Berbié",
+        "Jules Bastin"
+      ],
+      "conductor": "Marc Soustrot"
+    }
+  ]
+}

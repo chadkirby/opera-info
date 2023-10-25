@@ -1,0 +1,44 @@
+{
+  "html": "<ul><li>1956, Jaroslav Krombholc (conductor), <a href=\"/wiki/National_Theatre_(Prague)\" title=\"National Theatre (Prague)\">Prague National Theatre Orchestra and Chorus</a>; Drahomíra Tikalová, <a href=\"/wiki/Ivo_%C5%BD%C3%ADdek\" title=\"Ivo Žídek\">Ivo Žídek</a>, <a href=\"/wiki/Maria_Tauberov%C3%A1\" title=\"Maria Tauberová\">Maria Tauberová</a>, Miloslava Fidlerová, Antonín Zlesák, <a href=\"/wiki/Eduard_Haken\" title=\"Eduard Haken\">Eduard Haken</a></li>\n<li>1974, Jaroslav Krombholc (conductor), Symphony Orchestra and Chorus of the Prague Radio; <a href=\"/wiki/Jana_Jon%C3%A1%C5%A1ov%C3%A1\" title=\"Jana Jonášová\">Jana Jonášová</a>, Marcela Machotková, Miroslav Švejda, Dalibor Jedlička, Alfred Hampel, Daniela Šounová-Brouková<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup><sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup></li>\n<li>1975, <a href=\"/wiki/Franti%C5%A1ek_J%C3%ADlek\" title=\"František Jílek\">František Jílek</a> (conductor), Prague National Theatre Chorus and Orchestra; Naďa Šormová, Marcela Machotková, Jiří Zahradníček, Jaroslav Horáček, Zdeněk Švehla, Daniela Šounová</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1956,
+      "cast": [
+        "Drahomíra Tikalová",
+        "Ivo Žídek",
+        "Maria Tauberová",
+        "Miloslava Fidlerová",
+        "Antonín Zlesák",
+        "Eduard Haken"
+      ],
+      "conductor": "Jaroslav Krombholc"
+    },
+    {
+      "type": "audio",
+      "year": 1974,
+      "cast": [
+        "Jana Jonášová",
+        "Marcela Machotková",
+        "Miroslav Švejda",
+        "Dalibor Jedlička",
+        "Alfred Hampel",
+        "Daniela Šounová-Brouková"
+      ],
+      "conductor": "Jaroslav Krombholc"
+    },
+    {
+      "type": "audio",
+      "year": 1975,
+      "cast": [
+        "Naďa Šormová",
+        "Marcela Machotková",
+        "Jiří Zahradníček",
+        "Jaroslav Horáček",
+        "Zdeněk Švehla",
+        "Daniela Šounová"
+      ],
+      "conductor": "František Jílek"
+    }
+  ]
+}

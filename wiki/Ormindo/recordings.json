@@ -1,0 +1,29 @@
+{
+  "html": "<ul><li><b>Cavalli:</b> <i><b>L'Ormindo</b></i> (John Wakefield, tenor; Peter-Christoph Runge, baritone; Hanneke van Bork, soprano; <a href=\"/wiki/Anne_Howells\" title=\"Anne Howells\">Anne Howells</a>, mezzo-soprano; Federico Davia, bass; <a href=\"/wiki/Jean_Allister\" title=\"Jean Allister\">Jean Allister</a>, contralto <a href=\"/wiki/London_Philharmonic_Orchestra\" title=\"London Philharmonic Orchestra\">London Philharmonic Orchestra</a>; <a href=\"/wiki/Raymond_Leppard\" title=\"Raymond Leppard\">Raymond Leppard</a>, conductor). Recorded at the Glyndebourne Festival Opera House. Label: (1967) Argo</li>\n<li><b>Cavalli:</b> <i><b>L'Ormindo</b></i> (<a href=\"/wiki/Howard_Crook\" title=\"Howard Crook\">Howard Crook</a>, tenor; <a href=\"/wiki/Dominique_Visse\" title=\"Dominique Visse\">Dominique Visse</a>, countertenor; <a href=\"/wiki/Sandrine_Piau\" title=\"Sandrine Piau\">Sandrine Piau</a>, soprano; Martin Oro, countertenor; <a href=\"/wiki/Les_Paladins_(music_ensemble)\" title=\"Les Paladins (music ensemble)\">Les Paladins</a>, ensemble; <a href=\"/wiki/J%C3%A9r%C3%B4me_Correas\" title=\"Jérôme Correas\">Jérôme Correas</a>, harpsichord and conductor). Label: (studio, June 2006) <a href=\"/wiki/Pan_Classics\" title=\"Pan Classics\">Pan Classics</a></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1967,
+      "cast": [
+        "John Wakefield",
+        "Peter-Christoph Runge",
+        "Hanneke van Bork",
+        "Anne Howells",
+        "Federico Davia",
+        "Jean Allister"
+      ],
+      "conductor": "Raymond Leppard"
+    },
+    {
+      "type": "audio",
+      "year": 2006,
+      "cast": [
+        "Howard Crook",
+        "Dominique Visse",
+        "Sandrine Piau",
+        "Martin Oro"
+      ],
+      "conductor": "Jérôme Correas"
+    }
+  ]
+}

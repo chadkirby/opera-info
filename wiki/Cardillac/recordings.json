@@ -1,0 +1,67 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Joseph_Keilberth\" title=\"Joseph Keilberth\">Joseph Keilberth</a>, conductor; <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a>, <a href=\"/wiki/Leonore_Kirschstein\" title=\"Leonore Kirschstein\">Leonore Kirschstein</a>, <a href=\"/wiki/Donald_Grobe\" title=\"Donald Grobe\">Donald Grobe</a>, <a href=\"/wiki/Karl-Christian_Kohn\" title=\"Karl-Christian Kohn\">Karl-Christian Kohn</a>, Eberhard Katz, <a href=\"/wiki/Elisabeth_S%C3%B6derstr%C3%B6m\" title=\"Elisabeth Söderström\">Elisabeth Söderström</a>, Willi Nett; Cologne Radio Choir; <a href=\"/wiki/WDR_Symphony_Orchestra_Cologne\" title=\"WDR Symphony Orchestra Cologne\">Cologne Radio Symphony Orchestra</a>; (<a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a>). This recording is of the original 1926 version.</li>\n<li><a href=\"/wiki/Gerd_Albrecht\" title=\"Gerd Albrecht\">Gerd Albrecht</a>, conductor; <a href=\"/wiki/Siegmund_Nimsgern\" title=\"Siegmund Nimsgern\">Siegmund Nimsgern</a>, Verena Schweizer, <a href=\"/wiki/Robert_Schunk\" title=\"Robert Schunk\">Robert Schunk</a>, <a href=\"/wiki/Harald_Stamm\" title=\"Harald Stamm\">Harald Stamm</a>, <a href=\"/wiki/Josef_Protschka\" title=\"Josef Protschka\">Josef Protschka</a>, <a href=\"/wiki/Gabriele_Schnaut\" title=\"Gabriele Schnaut\">Gabriele Schnaut</a>, <a href=\"/wiki/Andreas_Schmidt_(baritone)\" title=\"Andreas Schmidt (baritone)\">Andreas Schmidt</a>; backed-up <a href=\"/wiki/RIAS_Chamber_Choir\" class=\"mw-redirect\" title=\"RIAS Chamber Choir\">RIAS Chamber Choir</a>; <a href=\"/wiki/German_Symphony_Orchestra,_Berlin\" class=\"mw-redirect\" title=\"German Symphony Orchestra, Berlin\">Berlin Radio Symphony Orchestra</a>; (<a href=\"/wiki/Wergo\" class=\"mw-redirect\" title=\"Wergo\">Wergo</a>, (1988)). This recording is of the original 1926 version.</li>\n<li><a href=\"/wiki/Kent_Nagano\" title=\"Kent Nagano\">Kent Nagano</a>, conductor; Alan Held, <a href=\"/wiki/Angela_Denoke\" title=\"Angela Denoke\">Angela Denoke</a>, <a href=\"/wiki/Christopher_Ventris\" title=\"Christopher Ventris\">Christopher Ventris</a>, Hannah Esther Minutillo, Charles Workman; orchestra and chorus of the <a href=\"/wiki/Paris_Opera\" title=\"Paris Opera\">Opera National de Paris</a>; Bel Air Classiques, (2007). This recording is of the original 1926 version.</li>\n<li><a href=\"/wiki/Wolfgang_Sawallisch\" title=\"Wolfgang Sawallisch\">Wolfgang Sawallisch</a>, conductor; <a href=\"/wiki/Donald_McIntyre\" title=\"Donald McIntyre\">Donald McIntyre</a>, Robert Schunk, <a href=\"/wiki/Maria_de_Francesca-Cavazza\" title=\"Maria de Francesca-Cavazza\">Maria de Francesca-Cavazza</a>, Hans Günther Nöcker; Chorus of the <a href=\"/wiki/Bavarian_State_Opera\" title=\"Bavarian State Opera\">Bavarian State Opera</a>, <a href=\"/wiki/Bavarian_State_Orchestra\" title=\"Bavarian State Orchestra\">Bavarian State Orchestra</a>; Staged and designed by <a href=\"/wiki/Jean-Pierre_Ponnelle\" title=\"Jean-Pierre Ponnelle\">Jean-Pierre Ponnelle</a>; DVD (2008). This recording is of the original 1926 version.</li>\n<li><a href=\"/wiki/Stefan_Soltesz\" class=\"mw-redirect\" title=\"Stefan Soltesz\">Stefan Soltesz</a>: 2013 live performance at <a href=\"/wiki/Prinzregententheater\" title=\"Prinzregententheater\">Prinzregententheater</a> Munich. <a href=\"/wiki/Juliane_Banse\" title=\"Juliane Banse\">Juliane Banse</a>, Michaela Selinger, Torsten Kerl, Oliver Ringelhahn, Jan-Hendrik Rootering, Prague Philharmonic Choir, Münchner Rundfunkorchester issued on CD by BRKlassik July 2023<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Dietrich Fischer-Dieskau",
+        "Leonore Kirschstein",
+        "Donald Grobe",
+        "Karl-Christian Kohn",
+        "Eberhard Katz",
+        "Elisabeth Söderström",
+        "Willi Nett"
+      ],
+      "conductor": "Joseph Keilberth"
+    },
+    {
+      "type": "audio",
+      "year": 1988,
+      "cast": [
+        "Siegmund Nimsgern",
+        "Verena Schweizer",
+        "Robert Schunk",
+        "Harald Stamm",
+        "Josef Protschka",
+        "Gabriele Schnaut",
+        "Andreas Schmidt"
+      ],
+      "conductor": "Gerd Albrecht"
+    },
+    {
+      "type": "audio",
+      "year": 2007,
+      "cast": [
+        "Alan Held",
+        "Angela Denoke",
+        "Christopher Ventris",
+        "Hannah Esther Minutillo",
+        "Charles Workman"
+      ],
+      "conductor": "Kent Nagano"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Donald McIntyre",
+        "Robert Schunk",
+        "Maria de Francesca-Cavazza",
+        "Hans Günther Nöcker"
+      ],
+      "conductor": "Wolfgang Sawallisch"
+    },
+    {
+      "type": "audio",
+      "year": 2013,
+      "cast": [
+        "Juliane Banse",
+        "Michaela Selinger",
+        "Torsten Kerl",
+        "Oliver Ringelhahn",
+        "Jan-Hendrik Rootering"
+      ],
+      "conductor": "Stefan Soltesz"
+    }
+  ]
+}

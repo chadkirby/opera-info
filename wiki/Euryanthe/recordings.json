@@ -1,0 +1,36 @@
+{
+  "html": "<ul><li>2002 DVD videorecording from the <a href=\"/wiki/Teatro_Lirico_di_Cagliari\" title=\"Teatro Lirico di Cagliari\">Teatro Lirico di Cagliari</a> conducted by <a href=\"/wiki/G%C3%A9rard_Korsten\" title=\"Gérard Korsten\">Gérard Korsten</a>; cast: <a href=\"/w/index.php?title=Elena_Prokina&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Elena Prokina (page does not exist)\">Elena Prokina</a>, <a href=\"/wiki/Jolana_Fogasova\" class=\"mw-redirect\" title=\"Jolana Fogasova\">Jolana Fogasova</a>, <a href=\"/w/index.php?title=Yikun_Chung&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yikun Chung (page does not exist)\">Yikun Chung</a>, <a href=\"/w/index.php?title=Andreas_Scheibner&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Andreas Scheibner (page does not exist)\">Andreas Scheibner</a> – <a href=\"/wiki/Dynamic_(record_label)\" title=\"Dynamic (record label)\">Dynamic (record label)</a> – Cat. 33408</li>\n<li>1974 EMI premiere studio recording of the complete score with <a href=\"/wiki/Jessye_Norman\" title=\"Jessye Norman\">Jessye Norman</a>, <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>, <a href=\"/wiki/Tom_Krause\" title=\"Tom Krause\">Tom Krause</a> and <a href=\"/wiki/Rita_Hunter\" title=\"Rita Hunter\">Rita Hunter</a>; the <a href=\"/wiki/Staatskapelle_Dresden\" title=\"Staatskapelle Dresden\">Staatskapelle Dresden</a> conducted by <a href=\"/wiki/Marek_Janowski\" title=\"Marek Janowski\">Marek Janowski</a></li>\n<li>1949 radio recording from Austrian Radio conducted by <a href=\"/wiki/Meinhard_von_Zallinger\" title=\"Meinhard von Zallinger\">Meinhard von Zallinger</a> with <a href=\"/wiki/Maria_Reining\" title=\"Maria Reining\">Maria Reining</a>, <a href=\"/wiki/Walter_Berry_(bass-baritone)\" title=\"Walter Berry (bass-baritone)\">Walter Berry</a> – Aura LRC 1121, 2002</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 2002,
+      "cast": [
+        "Elena Prokina",
+        "Jolana Fogasova",
+        "Yikun Chung",
+        "Andreas Scheibner"
+      ],
+      "conductor": "Gérard Korsten"
+    },
+    {
+      "type": "audio",
+      "year": 1974,
+      "cast": [
+        "Jessye Norman",
+        "Nicolai Gedda",
+        "Tom Krause",
+        "Rita Hunter"
+      ],
+      "conductor": "Marek Janowski"
+    },
+    {
+      "type": "audio",
+      "year": 1949,
+      "cast": [
+        "Maria Reining",
+        "Walter Berry"
+      ],
+      "conductor": "Meinhard von Zallinger"
+    }
+  ]
+}

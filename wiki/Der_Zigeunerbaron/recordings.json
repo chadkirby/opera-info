@@ -1,0 +1,54 @@
+{
+  "html": "<ul><li>1986: <a href=\"/wiki/Willi_Boskovsky\" title=\"Willi Boskovsky\">Willi Boskovsky</a> (cond.), <a href=\"/wiki/M%C3%BCnchner_Rundfunkorchester\" class=\"mw-redirect\" title=\"Münchner Rundfunkorchester\">Münchner Rundfunkorchester</a> and <a href=\"/wiki/Bayerischer_Rundfunk#Musical_organizations\" title=\"Bayerischer Rundfunk\">Bayerischer Rundfunk chorus</a>. Cast: Graf Homonay: <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a>; Conte Carnero: <a href=\"/wiki/Klaus_Hirte\" title=\"Klaus Hirte\">Klaus Hirte</a>; Sandor Barinkay: <a href=\"/wiki/Josef_Protschka\" title=\"Josef Protschka\">Josef Protschka</a>; Kalman Zsupan: <a href=\"/wiki/Walter_Berry_(bass-baritone)\" title=\"Walter Berry (bass-baritone)\">Walter Berry</a>; Arsena: Brigitte Lindner; Mirabella: <a href=\"/wiki/Ilse_Gramatzki\" title=\"Ilse Gramatzki\">Ilse Gramatzki</a>; Ottokar: Martin Finke; Czipra: <a href=\"/wiki/Hanna_Schwarz\" title=\"Hanna Schwarz\">Hanna Schwarz</a>; Saffi: <a href=\"/wiki/J%C3%BAlia_V%C3%A1rady\" title=\"Júlia Várady\">Júlia Várady</a>; Pali: Ralf Lukas. CD: EMI Cat: CDS 7 49231-8</li>\n<li>2004: <a href=\"/wiki/Armin_Jordan\" title=\"Armin Jordan\">Armin Jordan</a> (cond): Orchestre National de France and Choeur de Radio France. Cast: Graf Homonay: Béla Perencz; Conte Carnero: Paul Kong; Sandor Barinkay: <a href=\"/wiki/Zoran_Todorovich\" title=\"Zoran Todorovich\">Zoran Todorovich</a> (Todorovic); Kalman Zsupan: Rudolf Wasserlof; Arsena: Jeannette Fischer; Mirabella: Hanna Schaer; Ottokar: Martin Homrich; Czipra: Ewa Wolak; and Saffi: Natalia Ushakova. CD: Naïve Cat: V 5002 (Recorded at the Festival de Radio France et Montpellier)</li>\n<li>2016. <a href=\"/wiki/Lawrence_Foster\" title=\"Lawrence Foster\">Lawrence Foster</a> (cond.). <a href=\"/wiki/Nikolai_Schukoff\" title=\"Nikolai Schukoff\">Nikolai Schukoff</a>, Jochen Schmeckenbecher, Markus Brück, Jasmina Sakr, <a href=\"/wiki/Claudia_Barainsky\" title=\"Claudia Barainsky\">Claudia Barainsky</a>, <a href=\"/wiki/Heinz_Zednik\" title=\"Heinz Zednik\">Heinz Zednik</a>, Paul Kaufmann, Khatuna Mikaberidze, Renate Pitscheider, <a href=\"/wiki/NDR_Symphony_Orchestra\" class=\"mw-redirect\" title=\"NDR Symphony Orchestra\">NDR Philharmonie</a>, <a href=\"/wiki/NDR_Chor\" title=\"NDR Chor\">NDR Chor</a>. <a href=\"/wiki/Pentatone_(record_label)\" title=\"Pentatone (record label)\">PENTATONE</a> PTC 5186482 (1886 version)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1986,
+      "cast": [
+        "Dietrich Fischer-Dieskau",
+        "Klaus Hirte",
+        "Josef Protschka",
+        "Walter Berry",
+        "Brigitte Lindner",
+        "Ilse Gramatzki",
+        "Martin Finke",
+        "Hanna Schwarz",
+        "Júlia Várady",
+        "Ralf Lukas"
+      ],
+      "conductor": "Willi Boskovsky"
+    },
+    {
+      "type": "audio",
+      "year": 2004,
+      "cast": [
+        "Béla Perencz",
+        "Paul Kong",
+        "Zoran Todorovich",
+        "Rudolf Wasserlof",
+        "Jeannette Fischer",
+        "Hanna Schaer",
+        "Martin Homrich",
+        "Ewa Wolak",
+        "Natalia Ushakova"
+      ],
+      "conductor": "Armin Jordan"
+    },
+    {
+      "type": "audio",
+      "year": 2016,
+      "cast": [
+        "Nikolai Schukoff",
+        "Jochen Schmeckenbecher",
+        "Markus Brück",
+        "Jasmina Sakr",
+        "Claudia Barainsky",
+        "Heinz Zednik",
+        "Paul Kaufmann",
+        "Khatuna Mikaberidze",
+        "Renate Pitscheider"
+      ],
+      "conductor": "Lawrence Foster"
+    }
+  ]
+}

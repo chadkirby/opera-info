@@ -1,0 +1,39 @@
+{
+  "html": "<ul><li>1971: The original commercial recording of the opera is the Decca recording with the same cast, chorus and orchestra as in the first performance.<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\">[21]</a></sup></li>\n<li>2005: DVD recording of a newer TV production on Kultur, with the setting updated to the 1950s at the time of the Suez crisis. The cast credits are as follows: <a href=\"/wiki/Gerald_Finley\" title=\"Gerald Finley\">Gerald Finley</a> (Owen Wingrave), <a href=\"/wiki/Charlotte_Hellekant\" title=\"Charlotte Hellekant\">Charlotte Hellekant</a> (Kate), Peter Savidge (Coyle), Hilton Marlton (Lechmere), <a href=\"/wiki/Josephine_Barstow\" title=\"Josephine Barstow\">Josephine Barstow</a> (Miss Wingrave), Anne Dawson (Mrs Coyle), Elizabeth Gale (Mrs Julian), <a href=\"/wiki/Martyn_Hill\" title=\"Martyn Hill\">Martyn Hill</a> (General Sir Philip Wingrave); <a href=\"/wiki/Deutsches_Symphonie-Orchester_Berlin\" title=\"Deutsches Symphonie-Orchester Berlin\">Deutsches Symphonie-Orchester Berlin</a>; <a href=\"/wiki/Kent_Nagano\" title=\"Kent Nagano\">Kent Nagano</a>, conductor; Margaret Williams, director.</li>\n<li>2008: Chandos CHAN 10473(2); <a href=\"/wiki/Peter_Coleman-Wright\" title=\"Peter Coleman-Wright\">Peter Coleman-Wright</a> (Owen Wingrave), <a href=\"/wiki/Pamela_Helen_Stephen\" title=\"Pamela Helen Stephen\">Pamela Helen Stephen</a> (Kate), <a href=\"/wiki/Alan_Opie\" title=\"Alan Opie\">Alan Opie</a> (Coyle), James Gilchrist (Lechmere), <a href=\"/wiki/Elizabeth_Connell\" title=\"Elizabeth Connell\">Elizabeth Connell</a> (Miss Wingrave), Janice Watson (Mrs Coyle), Sarah Fox (Mrs Julian), Robin Leggate (General Sir Philip Wingrave and Narrator); Tiffin Boys Choir; <a href=\"/wiki/City_of_London_Sinfonia\" title=\"City of London Sinfonia\">City of London Sinfonia</a>; <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>, conductor.<sup id=\"cite_ref-22\" class=\"reference\"><a href=\"#cite_note-22\">[22]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1971
+    },
+    {
+      "type": "audio",
+      "year": 2005,
+      "cast": [
+        "Gerald Finley",
+        "Charlotte Hellekant",
+        "Peter Savidge",
+        "Hilton Marlton",
+        "Josephine Barstow",
+        "Anne Dawson",
+        "Elizabeth Gale",
+        "Martyn Hill"
+      ],
+      "conductor": "Kent Nagano"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Peter Coleman-Wright",
+        "Pamela Helen Stephen",
+        "Alan Opie",
+        "James Gilchrist",
+        "Elizabeth Connell",
+        "Janice Watson",
+        "Sarah Fox",
+        "Robin Leggate"
+      ],
+      "conductor": "Richard Hickox"
+    }
+  ]
+}

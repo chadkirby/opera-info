@@ -1,0 +1,59 @@
+{
+  "html": "<ul><li>1952 – Ester Orel, Mario Borriello; <a href=\"/wiki/RAI_National_Symphony_Orchestra\" title=\"RAI National Symphony Orchestra\">Orchestra Sinfonica di Torino</a>, Alfredo Simonetto – <a href=\"/wiki/Cetra_Records\" title=\"Cetra Records\">Cetra Records</a> (LP), later licensed to <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a></li>\n<li>1954 – <a href=\"/w/index.php?title=Elena_Rizzieri&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Elena Rizzieri (page does not exist)\">Elena Rizzieri</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://it.wikipedia.org/wiki/Elena_Rizzieri\" class=\"extiw\" title=\"it:Elena Rizzieri\">it</a>]</span>, <a href=\"/wiki/Giuseppe_Valdengo\" title=\"Giuseppe Valdengo\">Giuseppe Valdengo</a>; <a href=\"/wiki/RAI_National_Symphony_Orchestra\" title=\"RAI National Symphony Orchestra\">Italian Radio Symphony Orchestra</a> Turin, <a href=\"/w/index.php?title=Angelo_Questa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Angelo Questa (page does not exist)\">Angelo Questa</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://ca.wikipedia.org/wiki/Angelo_Questa\" class=\"extiw\" title=\"ca:Angelo Questa\">ca</a>]</span> – Cetra Records</li>\n<li>1976 – <a href=\"/wiki/Maria_Chiara\" title=\"Maria Chiara\">Maria Chiara</a>, <a href=\"/wiki/Bernd_Weikl\" title=\"Bernd Weikl\">Bernd Weikl</a>; Orchestra of the <a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera House</a>, <a href=\"/wiki/Lamberto_Gardelli\" title=\"Lamberto Gardelli\">Lamberto Gardelli</a> – Decca (LP)</li>\n<li>1980 – <a href=\"/wiki/Renata_Scotto\" title=\"Renata Scotto\">Renata Scotto</a>, <a href=\"/wiki/Renato_Bruson\" title=\"Renato Bruson\">Renato Bruson</a>; <a href=\"/wiki/Philharmonia_Orchestra\" title=\"Philharmonia Orchestra\">Philharmonia Orchestra</a>, <a href=\"/wiki/John_Pritchard_(conductor)\" title=\"John Pritchard (conductor)\">John Pritchard</a> – CBS (LP and CD)</li>\n<li>2006 – <a href=\"/w/index.php?title=Judith_Howarth&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Judith Howarth (page does not exist)\">Judith Howarth</a>, <a href=\"/wiki/%C3%80ngel_%C3%92dena\" title=\"Àngel Òdena\">Àngel Òdena</a>; <a href=\"/w/index.php?title=Oviedo_Filarmonia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oviedo Filarmonia (page does not exist)\">Oviedo Filarmonia</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://ast.wikipedia.org/wiki/Uvi%C3%A9u_Filarmon%C3%ADa\" class=\"extiw\" title=\"ast:Uviéu Filarmonía\">ast</a>]</span>, <a href=\"/wiki/Friedrich_Haider\" title=\"Friedrich Haider\">Friedrich Haider</a> – live in Oviedo<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup></li>\n<li>2008 – Dora Rodrigues, Marc Canturri, <a href=\"/wiki/Royal_Liverpool_Philharmonic\" title=\"Royal Liverpool Philharmonic\">Royal Liverpool Philharmonic</a>, <a href=\"/wiki/Vasily_Petrenko\" title=\"Vasily Petrenko\">Vasily Petrenko</a> (conductor) – live in Liverpool, <a href=\"/wiki/Avie_Records\" title=\"Avie Records\">Avie Records</a>, issued in cooperation with the European Commission<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1952,
+      "cast": [
+        "Ester Orel",
+        "Mario Borriello"
+      ],
+      "conductor": "Alfredo Simonetto"
+    },
+    {
+      "type": "audio",
+      "year": 1954,
+      "cast": [
+        "Elena Rizzieri",
+        "Giuseppe Valdengo"
+      ],
+      "conductor": "Angelo Questa"
+    },
+    {
+      "type": "audio",
+      "year": 1976,
+      "cast": [
+        "Maria Chiara",
+        "Bernd Weikl"
+      ],
+      "conductor": "Lamberto Gardelli"
+    },
+    {
+      "type": "audio",
+      "year": 1980,
+      "cast": [
+        "Renata Scotto",
+        "Renato Bruson"
+      ],
+      "conductor": "John Pritchard"
+    },
+    {
+      "type": "audio",
+      "year": 2006,
+      "cast": [
+        "Judith Howarth",
+        "Àngel Òdena"
+      ],
+      "conductor": "Friedrich Haider"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Dora Rodrigues",
+        "Marc Canturri"
+      ],
+      "conductor": "Vasily Petrenko"
+    }
+  ]
+}

@@ -41,15 +41,17 @@ export async function makeHints(opera: HintlessTarget): Promise<Hint[]> {
 }
 
 export function makeRecordingHints(opera: HintlessTarget): string[] {
-  return opera.recordings.map(
-    ({ year, cast, conductor }) =>
-      `${anonymizeComposer(
-        opera.composer,
-        conductor
-      )} conducted a ${year} recording of this opera that featured ${listString(
-        cast.slice()
-      )}.`
-  );
+  return opera.recordings
+    .filter(({ year, cast, conductor }) => year && cast && conductor)
+    .map(
+      ({ year, cast, conductor }) =>
+        `${anonymizeComposer(
+          opera.composer,
+          conductor
+        )} conducted a ${year} recording of this opera that featured ${listString(
+          cast.slice()
+        )}.`
+    );
 }
 
 export function makeRolesHints(opera: HintlessTarget): string[] {

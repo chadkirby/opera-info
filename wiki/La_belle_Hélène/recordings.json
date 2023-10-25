@@ -1,0 +1,41 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Felicity_Lott\" title=\"Felicity Lott\">Felicity Lott</a>, <a href=\"/wiki/Yann_Beuron\" title=\"Yann Beuron\">Yann Beuron</a>, <a href=\"/wiki/Michel_S%C3%A9n%C3%A9chal\" title=\"Michel Sénéchal\">Michel Sénéchal</a>, <a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a>, <a href=\"/wiki/Fran%C3%A7ois_le_Roux\" class=\"mw-redirect\" title=\"François le Roux\">François le Roux</a>, <a href=\"/wiki/Marie-Ange_Todorovitch\" title=\"Marie-Ange Todorovitch\">Marie-Ange Todorovitch</a>. Musical direction <a href=\"/wiki/Marc_Minkowski\" title=\"Marc Minkowski\">Marc Minkowski</a> (version given at the <a href=\"/wiki/Th%C3%A9%C3%A2tre_du_Ch%C3%A2telet\" title=\"Théâtre du Châtelet\">Théâtre du Châtelet</a> in 2000).</li>\n<li><a href=\"/wiki/Jessye_Norman\" title=\"Jessye Norman\">Jessye Norman</a>, <a href=\"/wiki/John_Aler\" title=\"John Aler\">John Aler</a>, Charles Burles, <a href=\"/wiki/Gabriel_Bacquier\" title=\"Gabriel Bacquier\">Gabriel Bacquier</a>, Jean-Philippe Lafont. Musical direction, <a href=\"/wiki/Michel_Plasson\" title=\"Michel Plasson\">Michel Plasson</a>.</li>\n<li><a href=\"/wiki/Jane_Rhodes\" title=\"Jane Rhodes\">Jane Rhodes</a>, Rémy Corazza, Jacques Martin, <a href=\"/wiki/Jules_Bastin\" title=\"Jules Bastin\">Jules Bastin</a>, <a href=\"/wiki/Michel_Trempont\" title=\"Michel Trempont\">Michel Trempont</a>, with the Orchestre philharmonique de Strasbourg under Alain Lombard, and the chorus of the <a href=\"/wiki/Op%C3%A9ra_national_du_Rhin\" title=\"Opéra national du Rhin\">Opéra national du Rhin</a> under Gunter Wagner (1978).</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 2000,
+      "cast": [
+        "Felicity Lott",
+        "Yann Beuron",
+        "Michel Sénéchal",
+        "Laurent Naouri",
+        "François le Roux",
+        "Marie-Ange Todorovitch"
+      ],
+      "conductor": "Marc Minkowski"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Jessye Norman",
+        "John Aler",
+        "Charles Burles",
+        "Gabriel Bacquier",
+        "Jean-Philippe Lafont"
+      ],
+      "conductor": "Michel Plasson"
+    },
+    {
+      "type": "audio",
+      "year": 1978,
+      "cast": [
+        "Jane Rhodes",
+        "Rémy Corazza",
+        "Jacques Martin",
+        "Jules Bastin",
+        "Michel Trempont"
+      ],
+      "conductor": "Alain Lombard"
+    }
+  ]
+}

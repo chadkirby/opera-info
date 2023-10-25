@@ -1,0 +1,75 @@
+{
+  "html": "<ul><li>Friedrich Pleyer/Sigune Von Osten/Werner Götz/Heinz Jürgen Demitz, <a href=\"/wiki/Fonit_Cetra\" title=\"Fonit Cetra\">Fonit Cetra</a> (1980, live at <a href=\"/wiki/La_Fenice\" title=\"La Fenice\">La Fenice</a>)</li>\n<li><a href=\"/wiki/Gerd_Albrecht\" title=\"Gerd Albrecht\">Gerd Albrecht</a>/<a href=\"/wiki/Doris_Soffel\" title=\"Doris Soffel\">Doris Soffel</a>/<a href=\"/wiki/Kenneth_Riegel\" title=\"Kenneth Riegel\">Kenneth Riegel</a>/Guillermo Sarabia, Schwann (1984)</li>\n<li><a href=\"/wiki/Riccardo_Chailly\" title=\"Riccardo Chailly\">Riccardo Chailly</a>/<a href=\"/wiki/Iris_Vermillion\" title=\"Iris Vermillion\">Iris Vermillion</a>/<a href=\"/wiki/Heinz_Kruse\" title=\"Heinz Kruse\">Heinz Kruse</a>/<a href=\"/wiki/Albert_Dohmen\" title=\"Albert Dohmen\">Albert Dohmen</a>, Decca (1996)<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[N 1]</a></sup></li>\n<li><a href=\"/wiki/James_Conlon\" title=\"James Conlon\">James Conlon</a>/<a href=\"/wiki/Deborah_Voigt\" title=\"Deborah Voigt\">Deborah Voigt</a>/David Kuebler/<a href=\"/wiki/Donnie_Ray_Albert\" title=\"Donnie Ray Albert\">Donnie Ray Albert</a>, EMI (1997, live in Cologne)</li>\n<li><a href=\"/wiki/Armin_Jordan\" title=\"Armin Jordan\">Armin Jordan</a>/<a href=\"/wiki/Iris_Vermillion\" title=\"Iris Vermillion\">Iris Vermillion</a>/Victor Lutsiuk/Albert Dohmen, Naive (2004)<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[N 2]</a></sup></li>\n<li><a href=\"/wiki/Vladimir_Jurowski\" title=\"Vladimir Jurowski\">Vladimir Jurowski</a>/Heike Wessels/Sergey Skorokhodov/<a href=\"/wiki/Albert_Dohmen\" title=\"Albert Dohmen\">Albert Dohmen</a>, LPO (2014)<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\">[N 3]</a></sup></li>\n<li><a href=\"/wiki/Bertrand_de_Billy\" title=\"Bertrand de Billy\">Bertrand de Billy</a>/Heidi Brunner/Charles Reid/Wolfgang Koch, Capriccio (2018)<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[N 4]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1980,
+      "cast": [
+        "Sigune Von Osten",
+        "Werner Götz",
+        "Heinz Jürgen Demitz"
+      ],
+      "conductor": "Friedrich Pleyer"
+    },
+    {
+      "type": "audio",
+      "year": 1984,
+      "cast": [
+        "Doris Soffel",
+        "Kenneth Riegel",
+        "Guillermo Sarabia"
+      ],
+      "conductor": "Gerd Albrecht"
+    },
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Iris Vermillion",
+        "Heinz Kruse",
+        "Albert Dohmen"
+      ],
+      "conductor": "Riccardo Chailly"
+    },
+    {
+      "type": "audio",
+      "year": 1997,
+      "cast": [
+        "Deborah Voigt",
+        "David Kuebler",
+        "Donnie Ray Albert"
+      ],
+      "conductor": "James Conlon"
+    },
+    {
+      "type": "audio",
+      "year": 2004,
+      "cast": [
+        "Iris Vermillion",
+        "Victor Lutsiuk",
+        "Albert Dohmen"
+      ],
+      "conductor": "Armin Jordan"
+    },
+    {
+      "type": "audio",
+      "year": 2014,
+      "cast": [
+        "Heike Wessels",
+        "Sergey Skorokhodov",
+        "Albert Dohmen"
+      ],
+      "conductor": "Vladimir Jurowski"
+    },
+    {
+      "type": "audio",
+      "year": 2018,
+      "cast": [
+        "Heidi Brunner",
+        "Charles Reid",
+        "Wolfgang Koch"
+      ],
+      "conductor": "Bertrand de Billy"
+    }
+  ]
+}

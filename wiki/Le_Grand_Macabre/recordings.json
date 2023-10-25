@@ -1,0 +1,64 @@
+{
+  "html": "<ul><li>Ligeti, György. <i>Szenen und Zwischenspiele aus der Oper Le Grand Macabre</i>. Recorded 1979. <a href=\"/wiki/Inga_Nielsen\" title=\"Inga Nielsen\">Inga Nielsen</a> (soprano), Olive Fredricks (mezzo), Peter Haage (tenor), Dieter Weller (baritone), Chorus and Orchester of the Danish Radio, Copenhagen, conducted by <a href=\"/wiki/Elgar_Howarth\" title=\"Elgar Howarth\">Elgar Howarth</a>. LP recording. Wergo WER 60 085, Mainz: Wergo, 1980.</li>\n<li>Ligeti, György. <i>Scènes et interludes du Grand Macabre</i> (1978 version, part 1). Inga Nielsen (soprano), Olive Fredricks (mezzosoprano), Peter Haage (tenor), Dieter Weller (baritone), Nouvel Orchestre philharmonique de Radio France, conducted by Gilbert Amy. In <i>Musique de notre temps: repères 1945–1975</i>, CD no. 4, track 3. Adès 14.122–2. [N.p.]: Adès, 1988.</li>\n<li>Ligeti, György. <i>Le Grand Macabre: Oper in zwei Akten (vier Bildern): (1974–1977)</i>. Recorded 16 October 1987, sung in German. Dieter Weller (baritone), Penelope Walmsley-Clark (soprano), Olive Fredricks (mezzosoprano), Peter Haage (tenor), the ORF-Choir, Arnold Schoenberg Choir (<a href=\"/wiki/Erwin_Ortner\" title=\"Erwin Ortner\">Erwin Ortner</a>, choir-master), the Gumpoldskirchner Spatzen (Elisabeth Ziegler, choir-master), and the ORF Symphony Orchestra, conducted by Elgar Howarth. Wergo 2-CD set WER 286 170–2 (box); WER 6170-2 (CD 1); WER 6171-2 (CD 2). Mainz: Wergo, 1991.</li>\n<li>Ligeti, György. <i>Le Grand Macabre</i> (1997 version, in four scenes). Recorded live at the Théâtre du Châtelet, Paris, France, 5–13 February 1998. Sibylle Ehlert and <a href=\"/wiki/Laura_Claycomb\" title=\"Laura Claycomb\">Laura Claycomb</a> (sopranos), <a href=\"/wiki/Charlotte_Hellekant\" title=\"Charlotte Hellekant\">Charlotte Hellekant</a> and Jard van Nes (mezzosopranos), <a href=\"/wiki/Derek_Lee_Ragin\" title=\"Derek Lee Ragin\">Derek Lee Ragin</a> (countertenor), Graham Clark and <a href=\"/wiki/Steven_Cole_(tenor)\" title=\"Steven Cole (tenor)\">Steven Cole</a> (tenors), <a href=\"/wiki/Richard_Suart\" title=\"Richard Suart\">Richard Suart</a>, Martin Winkler, Marc Campbell-Griffiths, and Michael Lessiter (baritones), <a href=\"/wiki/Willard_White\" title=\"Willard White\">Willard White</a> and Frode Olsen (basses), <a href=\"/wiki/London_Sinfonietta\" title=\"London Sinfonietta\">London Sinfonietta</a> Voices, Philharmonia Orchestra, conducted by <a href=\"/wiki/Esa-Pekka_Salonen\" title=\"Esa-Pekka Salonen\">Esa-Pekka Salonen</a>. 2-CD set. Sony S2K 62312. György-Ligeti-Edition 8. [N.p.]: Sony Music Entertainment, 1999.</li>\n<li><a href=\"/wiki/Deutscher_Musikrat\" title=\"Deutscher Musikrat\">Deutscher Musikrat</a>. <i>Musik in Deutschland 1950–2000, Musiktheater 7: Experimentelles Musiktheater</i>, CD 2: <i>Meta-Oper</i>. Experimentelles Musiktheater. 1 CD recording. RCA Red Seal BMG Classics 74321 73675 2. Munich: BMG-Ariola, 2004.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1979,
+      "cast": [
+        "Inga Nielsen",
+        "Olive Fredricks",
+        "Peter Haage",
+        "Dieter Weller"
+      ],
+      "conductor": "Elgar Howarth"
+    },
+    {
+      "type": "audio",
+      "year": 1988,
+      "cast": [
+        "Inga Nielsen",
+        "Olive Fredricks",
+        "Peter Haage",
+        "Dieter Weller"
+      ],
+      "conductor": "Gilbert Amy"
+    },
+    {
+      "type": "audio",
+      "year": 1987,
+      "cast": [
+        "Dieter Weller",
+        "Penelope Walmsley-Clark",
+        "Olive Fredricks",
+        "Peter Haage"
+      ],
+      "conductor": "Elgar Howarth"
+    },
+    {
+      "type": "audio",
+      "year": 1998,
+      "cast": [
+        "Sibylle Ehlert",
+        "Laura Claycomb",
+        "Charlotte Hellekant",
+        "Jard van Nes",
+        "Derek Lee Ragin",
+        "Graham Clark",
+        "Steven Cole",
+        "Richard Suart",
+        "Martin Winkler",
+        "Marc Campbell-Griffiths",
+        "Michael Lessiter",
+        "Willard White",
+        "Frode Olsen"
+      ],
+      "conductor": "Esa-Pekka Salonen"
+    },
+    {
+      "type": "audio",
+      "year": 2004,
+      "cast": null,
+      "conductor": null
+    }
+  ]
+}

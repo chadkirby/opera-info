@@ -138,6 +138,7 @@ export interface RecordingData {
 }
 
 export interface RecordingItem {
+  type: "audio" | "video";
   year: number;
   cast: string[];
   conductor: string;

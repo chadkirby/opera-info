@@ -1,0 +1,100 @@
+{
+  "html": "<ul><li>1950, <a href=\"/wiki/Jaroslav_Krombholc\" title=\"Jaroslav Krombholc\">Jaroslav Krombholc</a> (conductor), <a href=\"/wiki/National_Theatre_(Prague)\" title=\"National Theatre (Prague)\">Prague National Theatre Chorus and Orchestra</a>; Václav Bednář, <a href=\"/wiki/Beno_Blachut\" title=\"Beno Blachut\">Beno Blachut</a>, Teodor Šrubař, <a href=\"/wiki/Karel_Kala%C5%A1\" title=\"Karel Kalaš\">Karel Kalaš</a>, Antonín Votava, <a href=\"/wiki/Marie_Podvalov%C3%A1\" title=\"Marie Podvalová\">Marie Podvalová</a>, Štefa Petrová, Jan Hadraba, Jaroslav Kubala, Josef Loskot, Ferdinand Kotas, František Trnka</li>\n<li>1967, Jaroslav Krombholc, (conductor), Prague National Theatre Chorus and Orchestra; Jindřich Jindrák, <a href=\"/wiki/Vil%C3%A9m_P%C5%99ibyl\" title=\"Vilém Přibyl\">Vilém Přibyl</a>, <a href=\"/wiki/Anton%C3%ADn_%C5%A0vorc\" title=\"Antonín Švorc\">Antonín Švorc</a>, Jaroslav Horáček, Zdeněk Švehla, <a href=\"/wiki/Nad%C4%9B%C5%BEda_Kniplov%C3%A1\" title=\"Naděžda Kniplová\">Naděžda Kniplová</a>, Svobodová-Janků, Jedlička</li>\n<li>1977, <a href=\"/wiki/Eve_Queler\" title=\"Eve Queler\">Eve Queler</a>, (conductor), <a href=\"/wiki/Opera_Orchestra_of_New_York\" title=\"Opera Orchestra of New York\">Opera Orchestra of New York</a> and New York Choral Society; Allan Monk, <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>, Harlan Foss, Paul Plishka, John Carpenter, Teresa Kubiak, Nadia Šormová, Raymond Gniewek</li>\n<li>1995, <a href=\"/wiki/Zden%C4%9Bk_Ko%C5%A1ler\" title=\"Zdeněk Košler\">Zdeněk Košler</a> (conductor), Prague National Theatre Chorus and Orchestra; <a href=\"/wiki/Eva_Urbanov%C3%A1\" title=\"Eva Urbanová\">Eva Urbanová</a>, Jiřina Marková, <a href=\"/wiki/Leo_Marian_Vodi%C4%8Dka\" title=\"Leo Marian Vodička\">Leo Marian Vodička</a>, Ivan Kusnjer, Miroslav Kopp, Vratislav Kříž, Jiří Kalendovský, Bohuslav Maršík<sup id=\"cite_ref-Jellinek_2-3\" class=\"reference\"><a href=\"#cite_note-Jellinek-2\">[2]</a></sup></li>\n<li>1999, Yoram David (conductor), Orchestra e Coro del Teatro Lirico di Cagliari; <a href=\"/wiki/Eva_Urbanov%C3%A1\" title=\"Eva Urbanová\">Eva Urbanová</a>, Valerij Popov, Valeri Alexejev, Dagmar Schellenberger, Jiri Kalendovsky, Damir Basyrov, Valentin Prolat, Carmine Monaco, Alexandr Blagodarnyi, Bruno Pestarino</li>\n<li>2015, <a href=\"/wiki/Ji%C5%99%C3%AD_B%C4%9Blohl%C3%A1vek\" title=\"Jiří Bělohlávek\">Jiří Bělohlávek</a> (conductor), BBC Singers, BBC Symphony Orchestra; Dana Burašová, Alžběta Poláčková, Richard Samek, Aleš Voráček, Ivan Kusnjer, Svatopluk Sem, Jan Stava</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1950,
+      "cast": [
+        "Václav Bednář",
+        "Beno Blachut",
+        "Teodor Šrubař",
+        "Karel Kalaš",
+        "Antonín Votava",
+        "Marie Podvalová",
+        "Štefa Petrová",
+        "Jan Hadraba",
+        "Jaroslav Kubala",
+        "Josef Loskot",
+        "Ferdinand Kotas",
+        "František Trnka"
+      ],
+      "conductor": "Jaroslav Krombholc"
+    },
+    {
+      "type": "audio",
+      "year": 1967,
+      "cast": [
+        "Jindřich Jindrák",
+        "Vilém Přibyl",
+        "Antonín Švorc",
+        "Jaroslav Horáček",
+        "Zdeněk Švehla",
+        "Naděžda Kniplová",
+        "Svobodová-Janků",
+        "Jedlička"
+      ],
+      "conductor": "Jaroslav Krombholc"
+    },
+    {
+      "type": "audio",
+      "year": 1977,
+      "cast": [
+        "Allan Monk",
+        "Nicolai Gedda",
+        "Harlan Foss",
+        "Paul Plishka",
+        "John Carpenter",
+        "Teresa Kubiak",
+        "Nadia Šormová",
+        "Raymond Gniewek"
+      ],
+      "conductor": "Eve Queler"
+    },
+    {
+      "type": "audio",
+      "year": 1995,
+      "cast": [
+        "Eva Urbanová",
+        "Jiřina Marková",
+        "Leo Marian Vodička",
+        "Ivan Kusnjer",
+        "Miroslav Kopp",
+        "Vratislav Kříž",
+        "Jiří Kalendovský",
+        "Bohuslav Maršík"
+      ],
+      "conductor": "Zdeněk Košler"
+    },
+    {
+      "type": "audio",
+      "year": 1999,
+      "cast": [
+        "Eva Urbanová",
+        "Valerij Popov",
+        "Valeri Alexejev",
+        "Dagmar Schellenberger",
+        "Jiri Kalendovsky",
+        "Damir Basyrov",
+        "Valentin Prolat",
+        "Carmine Monaco",
+        "Alexandr Blagodarnyi",
+        "Bruno Pestarino"
+      ],
+      "conductor": "Yoram David"
+    },
+    {
+      "type": "audio",
+      "year": 2015,
+      "cast": [
+        "Dana Burašová",
+        "Alžběta Poláčková",
+        "Richard Samek",
+        "Aleš Voráček",
+        "Ivan Kusnjer",
+        "Svatopluk Sem",
+        "Jan Stava"
+      ],
+      "conductor": "Jiří Bělohlávek"
+    }
+  ]
+}

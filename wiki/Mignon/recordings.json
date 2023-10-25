@@ -1,0 +1,60 @@
+{
+  "html": "<ul><li>1945 - <a href=\"/wiki/Ris%C3%AB_Stevens\" title=\"Risë Stevens\">Risë Stevens</a> (Mignon), <a href=\"/wiki/Mimi_Benzell\" title=\"Mimi Benzell\">Mimi Benzell</a> (Philine), <a href=\"/wiki/James_Melton\" title=\"James Melton\">James Melton</a> (Wilhelm Meister), <a href=\"/wiki/Ezio_Pinza\" title=\"Ezio Pinza\">Ezio Pinza</a> (Lothario), Donald Dame (Laerte), Lucielle Browning (Frédéric) - Metropolitan Opera Chorus and Orchestra, Wilfred Pelletier - Broadcast January 27, 1945 - (Sony)</li>\n<li>1953 - Geneviève Moizan (Mignon), <a href=\"/wiki/Janine_Micheau\" title=\"Janine Micheau\">Janine Micheau</a> (Philine), <a href=\"/wiki/Libero_de_Luca\" title=\"Libero de Luca\">Libero de Luca</a> (Wilhelm Meister), <a href=\"/wiki/Ren%C3%A9_Bianco\" title=\"René Bianco\">René Bianco</a> (Lothario), Robert Destaing (Laerte), François Louis Deschamps (Frédéric), Noël Pierotte (Jarno) - Choeur et Orchestre du Théâtre National de Belgique, <a href=\"/wiki/Georges_S%C3%A9bastian\" title=\"Georges Sébastian\">Georges Sébastian</a> - (Preiser)</li>\n<li>1977 - <a href=\"/wiki/Huguette_Tourangeau\" title=\"Huguette Tourangeau\">Huguette Tourangeau</a> (Mignon), Noelle Rogers (Philine), Henri Wilden (Wilhelm Meister), Pierre Charbonneau (Lothario), Antonio de Almeida Santos (Laerte), Michael Philip Davis (Frédéric), Edgar Hanson (Jarno) - Vancouver Opera Chorus and Orchestra, <a href=\"/wiki/Richard_Bonynge\" title=\"Richard Bonynge\">Richard Bonynge</a> - CBC Broadcast January 29, 1977 - (BJR Enterprises Inc. - Bella Voce Records)</li>\n<li><a href=\"/wiki/Mignon_(Antonio_de_Almeida_recording)\" title=\"Mignon (Antonio de Almeida recording)\">1977</a> - <a href=\"/wiki/Marilyn_Horne\" title=\"Marilyn Horne\">Marilyn Horne</a> (Mignon), <a href=\"/wiki/Ruth_Welting\" title=\"Ruth Welting\">Ruth Welting</a> (Philine), <a href=\"/wiki/Alain_Vanzo\" title=\"Alain Vanzo\">Alain Vanzo</a> (Wilhelm Meister), <a href=\"/wiki/Nicola_Zaccaria\" title=\"Nicola Zaccaria\">Nicola Zaccaria</a> (Lothario), André Battedou (Laerte), <a href=\"/wiki/Frederica_von_Stade\" title=\"Frederica von Stade\">Frederica von Stade</a> (Frédéric), <a href=\"/wiki/Claude_M%C3%A9loni\" title=\"Claude Méloni\">Claude Méloni</a> (Jarno) - Ambrosian Opera Chorus, Philharmonia Orchestra, <a href=\"/wiki/Antonio_de_Almeida_(conductor)\" title=\"Antonio de Almeida (conductor)\">Antonio de Almeida</a> - (CBS) For details, see <a href=\"/wiki/Mignon_(Antonio_de_Almeida_recording)\" title=\"Mignon (Antonio de Almeida recording)\">here</a></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1945,
+      "cast": [
+        "Risë Stevens",
+        "Mimi Benzell",
+        "James Melton",
+        "Ezio Pinza",
+        "Donald Dame",
+        "Lucielle Browning"
+      ],
+      "conductor": "Wilfred Pelletier"
+    },
+    {
+      "type": "audio",
+      "year": 1953,
+      "cast": [
+        "Geneviève Moizan",
+        "Janine Micheau",
+        "Libero de Luca",
+        "René Bianco",
+        "Robert Destaing",
+        "François Louis Deschamps",
+        "Noël Pierotte"
+      ],
+      "conductor": "Georges Sébastian"
+    },
+    {
+      "type": "audio",
+      "year": 1977,
+      "cast": [
+        "Huguette Tourangeau",
+        "Noelle Rogers",
+        "Henri Wilden",
+        "Pierre Charbonneau",
+        "Antonio de Almeida Santos",
+        "Michael Philip Davis",
+        "Edgar Hanson"
+      ],
+      "conductor": "Richard Bonynge"
+    },
+    {
+      "type": "audio",
+      "year": 1977,
+      "cast": [
+        "Marilyn Horne",
+        "Ruth Welting",
+        "Alain Vanzo",
+        "Nicola Zaccaria",
+        "André Battedou",
+        "Frederica von Stade",
+        "Claude Méloni"
+      ],
+      "conductor": "Antonio de Almeida"
+    }
+  ]
+}

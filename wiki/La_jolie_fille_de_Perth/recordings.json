@@ -1,0 +1,40 @@
+{
+  "html": "<ul><li>1943 (live radio broadcast) Toscanini and the NBC Symphony Orchestra 19 September 1943.</li>\n<li>1949 <a href=\"/wiki/Gwen_Catley\" title=\"Gwen Catley\">Gwen Catley</a> – Catherine Glover; <a href=\"/wiki/Richard_Lewis_(tenor)\" title=\"Richard Lewis (tenor)\">Richard Lewis</a> – Harry Smith; <a href=\"/w/index.php?title=Trefor_Jones&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Trefor Jones (page does not exist)\">Trefor Jones</a> – Duke of Rothsay; <a href=\"/wiki/Norman_Walker_(bass)\" title=\"Norman Walker (bass)\">Norman Walker</a> – Ralph; Lorely Dyer – Mab, Queen of the Gypsies; <a href=\"/wiki/Owen_Brannigan\" title=\"Owen Brannigan\">Owen Brannigan</a> – Simon Glover; David Holman – A Nobleman; <a href=\"/wiki/British_Broadcasting_Corporation\" class=\"mw-redirect\" title=\"British Broadcasting Corporation\">BBC</a> Theatre Chorus, Chorus Master John Clements; <a href=\"/wiki/Royal_Philharmonic_Orchestra\" title=\"Royal Philharmonic Orchestra\">Royal Philharmonic Orchestra</a> conducted by <a href=\"/wiki/Sir_Thomas_Beecham\" class=\"mw-redirect\" title=\"Sir Thomas Beecham\">Sir Thomas Beecham</a>. (An English version, (trans. by <a href=\"/wiki/Paul_England_(actor)\" title=\"Paul England (actor)\">Paul England</a>, broadcast live on 5–6 June 1949 by the <a href=\"/wiki/British_Broadcasting_Corporation\" class=\"mw-redirect\" title=\"British Broadcasting Corporation\">BBC</a>, issued by <i>Beulah</i> (1-2PD23) in 2000.)<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup></li>\n<li>1985 <a href=\"/wiki/June_Anderson\" title=\"June Anderson\">June Anderson</a> – Cathérine Glover; <a href=\"/wiki/Alfredo_Kraus\" title=\"Alfredo Kraus\">Alfredo Kraus</a> – Henri Smith; <a href=\"/wiki/Gino_Quilico\" title=\"Gino Quilico\">Gino Quilico</a> – Le Duc de Rothsay; <a href=\"/wiki/Jos%C3%A9_van_Dam\" title=\"José van Dam\">José van Dam</a> – Ralph; Chœurs de Radio-France, Nouvel Orchestre Philharmonique, conductor <a href=\"/wiki/Georges_Pr%C3%AAtre\" title=\"Georges Prêtre\">Georges Prêtre</a>. <i>EMI</i> 747 559-8</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1943,
+      "cast": [],
+      "conductor": "Toscanini"
+    },
+    {
+      "type": "audio",
+      "year": 1949,
+      "cast": [
+        "Gwen Catley",
+        "Richard Lewis",
+        "Trefor Jones",
+        "Norman Walker",
+        "Lorely Dyer",
+        "Owen Brannigan",
+        "David Holman"
+      ],
+      "conductor": "Sir Thomas Beecham"
+    },
+    {
+      "type": "audio",
+      "year": 1985,
+      "cast": [
+        "June Anderson",
+        "Cathérine Glover",
+        "Alfredo Kraus",
+        "Henri Smith",
+        "Gino Quilico",
+        "Le Duc de Rothsay",
+        "José van Dam",
+        "Ralph"
+      ],
+      "conductor": "Georges Prêtre"
+    }
+  ]
+}

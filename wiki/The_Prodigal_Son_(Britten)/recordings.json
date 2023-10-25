@@ -1,0 +1,52 @@
+{
+  "html": "<ul><li>Tempter/Abbot: <a href=\"/wiki/Peter_Pears\" title=\"Peter Pears\">Peter Pears</a></li>\n<li>The Father: <a href=\"/wiki/John_Shirley-Quirk\" title=\"John Shirley-Quirk\">John Shirley-Quirk</a></li>\n<li>The Younger Son: <a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a></li>\n<li>The Elder Son: Bryan Drake</li>\n<li>Chorus of Servants, Parasites and Beggars: Paschal Allen, Carl Duggan, David Hartley, Philip Hooper, Peter Leeming, John McKenzie, Clive Molloy, Paul Wade</li>\n<li>Young Servants and Distant Voices: Gerald Beauchamp, Michael Butler, Jonathan Fox, Richard Hopkins, David Rookwood</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Peter Pears"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "John Shirley-Quirk"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Robert Tear"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Bryan Drake"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Paschal Allen",
+        "Carl Duggan",
+        "David Hartley",
+        "Philip Hooper",
+        "Peter Leeming",
+        "John McKenzie",
+        "Clive Molloy",
+        "Paul Wade"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Gerald Beauchamp",
+        "Michael Butler",
+        "Jonathan Fox",
+        "Richard Hopkins",
+        "David Rookwood"
+      ]
+    }
+  ]
+}

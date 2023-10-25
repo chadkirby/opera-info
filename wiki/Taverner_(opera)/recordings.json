@@ -1,0 +1,14 @@
+{
+  "html": "<ul><li>NMC D157 (2 CDs). Cast includes <a href=\"/wiki/Martyn_Hill\" title=\"Martyn Hill\">Martyn Hill</a> (John Taverner) and <a href=\"/wiki/David_Wilson-Johnson\" title=\"David Wilson-Johnson\">David Wilson-Johnson</a> (Jester). <a href=\"/wiki/BBC_Symphony_Orchestra\" title=\"BBC Symphony Orchestra\">BBC Symphony Orchestra</a>, <a href=\"/wiki/Fretwork_(music_group)\" title=\"Fretwork (music group)\">Fretwork</a>, His Majesty's Sagbutts and Cornetts, and London Voices, conducted by <a href=\"/wiki/Oliver_Knussen\" title=\"Oliver Knussen\">Oliver Knussen</a>. Taken from a 1996 BBC studio recording.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Martyn Hill",
+        "David Wilson-Johnson"
+      ],
+      "conductor": "Oliver Knussen"
+    }
+  ]
+}

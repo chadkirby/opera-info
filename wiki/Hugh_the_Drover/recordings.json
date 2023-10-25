@@ -1,0 +1,38 @@
+{
+  "html": "<ul><li>HMV SLS 5162: <a href=\"/wiki/Sheila_Armstrong_(singer)\" title=\"Sheila Armstrong (singer)\">Sheila Armstrong</a>, <a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a>, <a href=\"/wiki/Helen_Watts\" title=\"Helen Watts\">Helen Watts</a>, Michael Rippon; Ambrosian Opera Chorus; <a href=\"/wiki/Royal_Philharmonic_Orchestra\" title=\"Royal Philharmonic Orchestra\">Royal Philharmonic Orchestra</a>; Sir <a href=\"/wiki/Charles_Groves\" title=\"Charles Groves\">Charles Groves</a>, conductor (first recording)<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup></li>\n<li>Hyperion (original code CDA66901/2, reissue code CDD22049): Rebecca Evans, <a href=\"/wiki/Bonaventura_Bottone\" title=\"Bonaventura Bottone\">Bonaventura Bottone</a>, <a href=\"/wiki/Sarah_Walker_(mezzo-soprano)\" title=\"Sarah Walker (mezzo-soprano)\">Sarah Walker</a>, <a href=\"/wiki/Richard_Van_Allan\" title=\"Richard Van Allan\">Richard Van Allan</a>, <a href=\"/wiki/Alan_Opie\" title=\"Alan Opie\">Alan Opie</a>, Neil Jenkins, Harry Nicoll, Karl Morgan Daymond, Adrian Hutton, Julia Gooding, <a href=\"/wiki/Wynford_Evans\" title=\"Wynford Evans\">Wynford Evans</a>, Jenny Saunders, <a href=\"/wiki/Alice_Coote\" title=\"Alice Coote\">Alice Coote</a>, Lynton Atkinson, Paul Robinson, John Pearce, Paul Im Thurm, Robert Poulton; Corydon Singers; The New London Children's Choir; Corydon Orchestra; <a href=\"/wiki/Matthew_Best_(conductor)\" title=\"Matthew Best (conductor)\">Matthew Best</a>, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Sheila Armstrong",
+        "Robert Tear",
+        "Helen Watts",
+        "Michael Rippon"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Rebecca Evans",
+        "Bonaventura Bottone",
+        "Sarah Walker",
+        "Richard Van Allan",
+        "Alan Opie",
+        "Neil Jenkins",
+        "Harry Nicoll",
+        "Karl Morgan Daymond",
+        "Adrian Hutton",
+        "Julia Gooding",
+        "Wynford Evans",
+        "Jenny Saunders",
+        "Alice Coote",
+        "Lynton Atkinson",
+        "Paul Robinson",
+        "John Pearce",
+        "Paul Im Thurm",
+        "Robert Poulton"
+      ],
+      "conductor": "Matthew Best"
+    }
+  ]
+}

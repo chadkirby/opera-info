@@ -1,0 +1,61 @@
+{
+  "html": "<ul><li>Sung in Italian – <a href=\"/w/index.php?title=Maria_Vitale&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Maria Vitale (page does not exist)\">Maria Vitale</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://it.wikipedia.org/wiki/Maria_Vitale\" class=\"extiw\" title=\"it:Maria Vitale\">it</a>]</span>, <a href=\"/wiki/Elena_Nicolai\" title=\"Elena Nicolai\">Elena Nicolai</a>, Renato Gavarini, Alfredo Fineschi, Giuliano Ferrein, Albino Gagi – Chorus and Orchestra della Rai di Roma, conducted by <a href=\"/wiki/Fernando_Previtali\" title=\"Fernando Previtali\">Fernando Previtali</a> (Warner Fonit, 1951)<sup id=\"cite_ref-OPDIS_17-0\" class=\"reference\"><a href=\"#cite_note-OPDIS-17\">[17]</a></sup></li>\n<li>Sung in Italian – <a href=\"/wiki/Maria_Callas\" title=\"Maria Callas\">Maria Callas</a>, <a href=\"/wiki/Ebe_Stignani\" title=\"Ebe Stignani\">Ebe Stignani</a>, <a href=\"/wiki/Franco_Corelli\" title=\"Franco Corelli\">Franco Corelli</a>, Rossi-Lemeni, Sordello – Teatro alla Scala Chorus and Orchestra, Milano, conducted by <a href=\"/wiki/Antonino_Votto\" title=\"Antonino Votto\">Antonino Votto</a> (Warner Classics, 1954)<sup id=\"cite_ref-Siff_11-1\" class=\"reference\"><a href=\"#cite_note-Siff-11\">[11]</a></sup></li>\n<li>Sung in Italian – <a href=\"/wiki/Leyla_Gencer\" title=\"Leyla Gencer\">Leyla Gencer</a>, <a href=\"/wiki/Franca_Mattiucci\" title=\"Franca Mattiucci\">Franca Mattiucci</a>, Robleto Merolla, Teatro Massimo di Palermo orchestra and chorus conducted by Fernando Previtali (1969 various labels)<sup id=\"cite_ref-Kaminski_10-3\" class=\"reference\"><a href=\"#cite_note-Kaminski-10\">[10]</a></sup></li>\n<li>Sung in French – <a href=\"/wiki/Rosalind_Plowright\" title=\"Rosalind Plowright\">Rosalind Plowright</a>, Gisella Pasino, <a href=\"/wiki/Francisco_Araiza\" title=\"Francisco Araiza\">Francisco Araiza</a>, Bavarian Radio Chorus, Munich Radio Orchestra, conducted by <a href=\"/wiki/Gustav_Kuhn\" title=\"Gustav Kuhn\">Gustav Kuhn</a> (Orfeo, 1991)<sup id=\"cite_ref-OPDIS_17-1\" class=\"reference\"><a href=\"#cite_note-OPDIS-17\">[17]</a></sup></li>\n<li>Sung in French – Karen Huffstodt, <a href=\"/wiki/Denyce_Graves\" title=\"Denyce Graves\">Denyce Graves</a>, <a href=\"/wiki/Anthony_Michaels-Moore\" title=\"Anthony Michaels-Moore\">Anthony Michaels-Moore</a>, Dimitri Kavrakos, Chorus and Orchestra of <a href=\"/wiki/La_Scala\" title=\"La Scala\">La Scala</a>, conducted by <a href=\"/wiki/Riccardo_Muti\" title=\"Riccardo Muti\">Riccardo Muti</a> (Sony, 1993)<sup id=\"cite_ref-OPDIS_17-2\" class=\"reference\"><a href=\"#cite_note-OPDIS-17\">[17]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1951,
+      "cast": [
+        "Maria Vitale",
+        "Elena Nicolai",
+        "Renato Gavarini",
+        "Alfredo Fineschi",
+        "Giuliano Ferrein",
+        "Albino Gagi"
+      ],
+      "conductor": "Fernando Previtali"
+    },
+    {
+      "type": "audio",
+      "year": 1954,
+      "cast": [
+        "Maria Callas",
+        "Ebe Stignani",
+        "Franco Corelli",
+        "Rossi-Lemeni",
+        "Sordello"
+      ],
+      "conductor": "Antonino Votto"
+    },
+    {
+      "type": "audio",
+      "year": 1969,
+      "cast": [
+        "Leyla Gencer",
+        "Franca Mattiucci",
+        "Robleto Merolla"
+      ],
+      "conductor": "Fernando Previtali"
+    },
+    {
+      "type": "audio",
+      "year": 1991,
+      "cast": [
+        "Rosalind Plowright",
+        "Gisella Pasino",
+        "Francisco Araiza"
+      ],
+      "conductor": "Gustav Kuhn"
+    },
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Karen Huffstodt",
+        "Denyce Graves",
+        "Anthony Michaels-Moore",
+        "Dimitri Kavrakos"
+      ],
+      "conductor": "Riccardo Muti"
+    }
+  ]
+}

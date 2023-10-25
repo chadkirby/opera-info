@@ -1,0 +1,55 @@
+{
+  "html": "<ul><li>1951 – <a href=\"/wiki/Margaret_Ritchie_(soprano)\" title=\"Margaret Ritchie (soprano)\">Margaret Ritchie</a> (Venus), <a href=\"/wiki/Gordon_S._Clinton\" title=\"Gordon S. Clinton\">Gordon Clinton</a> (Adonis), <a href=\"/w/index.php?title=Margaret_Field-Hyde&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Margaret Field-Hyde (page does not exist)\">Margaret Field-Hyde</a> (Cupid) – <a href=\"/w/index.php?title=Ensemble_Orchestral_de_L%27Oiseau-Lyre&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ensemble Orchestral de L'Oiseau-Lyre (page does not exist)\">Ensemble Orchestral de L'Oiseau-Lyre</a>, <a href=\"/wiki/Anthony_Lewis_(musician)\" title=\"Anthony Lewis (musician)\">Anthony Lewis</a> (<a href=\"/wiki/%C3%89ditions_de_l%27Oiseau-Lyre\" title=\"Éditions de l'Oiseau-Lyre\">L'Oiseau-Lyre</a>)</li>\n<li>1988 – <a href=\"/wiki/Lynne_Dawson\" title=\"Lynne Dawson\">Lynne Dawson</a> (Venus), <a href=\"/wiki/Stephen_Varcoe\" title=\"Stephen Varcoe\">Stephen Varcoe</a> (Adonis), <a href=\"/wiki/Nancy_Argenta\" title=\"Nancy Argenta\">Nancy Argenta</a> (Cupid) – <a href=\"/wiki/London_Baroque\" title=\"London Baroque\">London Baroque</a>, <a href=\"/wiki/Charles_Medlam\" title=\"Charles Medlam\">Charles Medlam</a> (<a href=\"/wiki/Harmonia_Mundi\" title=\"Harmonia Mundi\">Harmonia Mundi</a>)</li>\n<li>1994 – <a href=\"/wiki/Catherine_Bott\" title=\"Catherine Bott\">Catherine Bott</a> (Venus), <a href=\"/wiki/Michael_George_(disambiguation)\" class=\"mw-redirect mw-disambig\" title=\"Michael George (disambiguation)\">Michael George</a> (Adonis), <a href=\"/w/index.php?title=Libby_Crabtree&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Libby Crabtree (page does not exist)\">Libby Crabtree</a> (Cupid) – <a href=\"/wiki/New_London_Consort\" title=\"New London Consort\">New London Consort</a>, <a href=\"/wiki/Philip_Pickett\" title=\"Philip Pickett\">Philip Pickett</a> (L'Oiseau-Lyre)</li>\n<li>1999 – <a href=\"/wiki/Rosemary_Joshua\" title=\"Rosemary Joshua\">Rosemary Joshua</a> (Venus), <a href=\"/wiki/Gerald_Finley\" title=\"Gerald Finley\">Gerald Finley</a> (Adonis), <a href=\"/wiki/Robin_Blaze\" title=\"Robin Blaze\">Robin Blaze</a> (Cupid) – <a href=\"/wiki/Orchestra_of_the_Age_of_Enlightenment\" title=\"Orchestra of the Age of Enlightenment\">Orchestra of the Age of Enlightenment</a>, <a href=\"/wiki/Ren%C3%A9_Jacobs\" title=\"René Jacobs\">René Jacobs</a> (<a href=\"/wiki/Harmonia_Mundi\" title=\"Harmonia Mundi\">Harmonia Mundi</a>)</li>\n<li>2009 – <a href=\"/wiki/Amanda_Forsythe\" title=\"Amanda Forsythe\">Amanda Forsythe</a> (Venus), Tyler Duncan (Adonis), <a href=\"/wiki/Mireille_Lebel\" title=\"Mireille Lebel\">Mireille Lebel</a> (Cupid) – <a href=\"/wiki/Boston_Early_Music_Festival\" title=\"Boston Early Music Festival\">Boston Early Music Festival Orchestra</a>, <a href=\"/wiki/Paul_O%27Dette\" title=\"Paul O'Dette\">Paul O'Dette</a> (<a href=\"/wiki/Classic_Produktion_Osnabr%C3%BCck\" title=\"Classic Produktion Osnabrück\">cpo</a>)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1951,
+      "cast": [
+        "Margaret Ritchie",
+        "Gordon Clinton",
+        "Margaret Field-Hyde"
+      ],
+      "conductor": "Anthony Lewis"
+    },
+    {
+      "type": "audio",
+      "year": 1988,
+      "cast": [
+        "Lynne Dawson",
+        "Stephen Varcoe",
+        "Nancy Argenta"
+      ],
+      "conductor": "Charles Medlam"
+    },
+    {
+      "type": "audio",
+      "year": 1994,
+      "cast": [
+        "Catherine Bott",
+        "Michael George",
+        "Libby Crabtree"
+      ],
+      "conductor": "Philip Pickett"
+    },
+    {
+      "type": "audio",
+      "year": 1999,
+      "cast": [
+        "Rosemary Joshua",
+        "Gerald Finley",
+        "Robin Blaze"
+      ],
+      "conductor": "René Jacobs"
+    },
+    {
+      "type": "audio",
+      "year": 2009,
+      "cast": [
+        "Amanda Forsythe",
+        "Tyler Duncan",
+        "Mireille Lebel"
+      ],
+      "conductor": "Paul O'Dette"
+    }
+  ]
+}

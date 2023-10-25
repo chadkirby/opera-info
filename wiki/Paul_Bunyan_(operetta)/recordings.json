@@ -1,0 +1,17 @@
+{
+  "html": "<ul><li><i>Paul Bunyan</i> – Plymouth Music Series Orchestra and Chorus conducted by <a href=\"/wiki/Philip_Brunelle\" title=\"Philip Brunelle\">Philip Brunelle</a>. Studio recording, 1988. Label: <a href=\"/wiki/Virgin_Classics\" title=\"Virgin Classics\">Virgin Classics</a></li>\n<li><i>Paul Bunyan</i> – <a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera House</a> Orchestra and Chorus conducted by <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>. Recorded live from performances at <a href=\"/wiki/Sadler%27s_Wells_Theatre\" title=\"Sadler's Wells Theatre\">Sadler's Wells Theatre</a> in London on 23, 24, and 28 April 1999. Label: <a href=\"/wiki/Chandos_Records\" title=\"Chandos Records\">Chandos Records</a></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1988,
+      "cast": [],
+      "conductor": "Philip Brunelle"
+    },
+    {
+      "type": "audio",
+      "year": 1999,
+      "cast": [],
+      "conductor": "Richard Hickox"
+    }
+  ]
+}

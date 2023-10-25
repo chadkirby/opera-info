@@ -1,0 +1,66 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Capriccio_(record_label)\" title=\"Capriccio (record label)\">Capriccio</a> 60094: Franz Hawlata, <a href=\"/wiki/Dietrich_Henschel\" title=\"Dietrich Henschel\">Dietrich Henschel</a>, <a href=\"/wiki/Heinz_Zednik\" title=\"Heinz Zednik\">Heinz Zednik</a>, <a href=\"/wiki/Juliane_Banse\" title=\"Juliane Banse\">Juliane Banse</a>, Regina Klepper; Landesjugendchor NRW; <a href=\"/wiki/WDR_Rundfunkorchester_K%C3%B6ln\" class=\"mw-redirect\" title=\"WDR Rundfunkorchester Köln\">WDR Rundfunkorchester Köln</a>; <a href=\"/wiki/Helmuth_Froschauer\" title=\"Helmuth Froschauer\">Helmuth Froschauer</a>, conductor</li>\n<li><a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a> 2740 159: <a href=\"/wiki/Edith_Mathis\" title=\"Edith Mathis\">Edith Mathis</a>, <a href=\"/wiki/Hanna_Schwarz\" title=\"Hanna Schwarz\">Hanna Schwarz</a>, <a href=\"/wiki/Kurt_Moll\" title=\"Kurt Moll\">Kurt Moll</a>, <a href=\"/wiki/Bernd_Weikl\" title=\"Bernd Weikl\">Bernd Weikl</a>, <a href=\"/wiki/Siegfried_Vogel\" title=\"Siegfried Vogel\">Siegfried Vogel</a>, <a href=\"/wiki/Peter_Schreier\" title=\"Peter Schreier\">Peter Schreier</a>, Claude Dormoy; Chorus of the Staatsoper; <a href=\"/wiki/Berlin_Staatskapelle\" class=\"mw-redirect\" title=\"Berlin Staatskapelle\">Berlin Staatskapelle</a>; <a href=\"/wiki/Bernhard_Klee\" title=\"Bernhard Klee\">Bernhard Klee</a>, conductor, 1976<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup></li>\n<li><a href=\"/wiki/Decca_Label_Group\" class=\"mw-redirect\" title=\"Decca Label Group\">Decca</a> D86D 3: <a href=\"/wiki/Helen_Donath\" title=\"Helen Donath\">Helen Donath</a>, <a href=\"/wiki/Karl_Ridderbusch\" title=\"Karl Ridderbusch\">Karl Ridderbusch</a>, <a href=\"/wiki/Wolfgang_Brendel\" title=\"Wolfgang Brendel\">Wolfgang Brendel</a>, <a href=\"/wiki/Lilian_Sukis\" title=\"Lilian Sukis\">Lilian Sukis</a>; Bavarian Radio Chorus; <a href=\"/wiki/Bavarian_Radio_Symphony_Orchestra\" title=\"Bavarian Radio Symphony Orchestra\">Bavarian Radio Symphony Orchestra</a>; <a href=\"/wiki/Rafael_Kubel%C3%ADk\" title=\"Rafael Kubelík\">Rafael Kubelík</a>, conductor<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup></li>\n<li><a href=\"/wiki/EMI\" title=\"EMI\">EMI</a> 29 0940 3: <a href=\"/wiki/Gottlob_Frick\" title=\"Gottlob Frick\">Gottlob Frick</a>, <a href=\"/wiki/Ernst_Gutstein\" title=\"Ernst Gutstein\">Ernst Gutstein</a>, <a href=\"/wiki/Kieth_Engen\" title=\"Kieth Engen\">Kieth Engen</a>, <a href=\"/wiki/Fritz_Wunderlich\" title=\"Fritz Wunderlich\">Fritz Wunderlich</a>, <a href=\"/wiki/Edith_Mathis\" title=\"Edith Mathis\">Edith Mathis</a>; Chorus and orchestra of the <a href=\"/wiki/Bavarian_State_Opera\" title=\"Bavarian State Opera\">Bavarian State Opera</a>; <a href=\"/wiki/Robert_Heger\" title=\"Robert Heger\">Robert Heger</a>, conductor</li>\n<li>Preiser PR90208, Cantus Classics, Aura LRC 1118, Wilhelm Strienz, <a href=\"/wiki/Georg_Hann\" title=\"Georg Hann\">Georg Hann</a>, Ludwig Windisch, Walter Ludwig, Lore Hoffmann, <a href=\"/wiki/Irma_Beilke\" title=\"Irma Beilke\">Irma Beilke</a>, Marie Luise Schilp, <a href=\"/wiki/Berlin_Radio_Symphony_Orchestra\" title=\"Berlin Radio Symphony Orchestra\">Berlin Radio Symphony Orchestra</a>, Choir of the <a href=\"/wiki/St%C3%A4dtische_Oper_Berlin\" class=\"mw-redirect\" title=\"Städtische Oper Berlin\">Städtische Oper Berlin</a>, <a href=\"/wiki/Artur_Rother\" title=\"Artur Rother\">Artur Rother</a>, conductor, 1943.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Franz Hawlata",
+        "Dietrich Henschel",
+        "Heinz Zednik",
+        "Juliane Banse",
+        "Regina Klepper"
+      ],
+      "conductor": "Helmuth Froschauer"
+    },
+    {
+      "type": "audio",
+      "year": 1976,
+      "cast": [
+        "Edith Mathis",
+        "Hanna Schwarz",
+        "Kurt Moll",
+        "Bernd Weikl",
+        "Siegfried Vogel",
+        "Peter Schreier",
+        "Claude Dormoy"
+      ],
+      "conductor": "Bernhard Klee"
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Helen Donath",
+        "Karl Ridderbusch",
+        "Wolfgang Brendel",
+        "Lilian Sukis"
+      ],
+      "conductor": "Rafael Kubelík"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Gottlob Frick",
+        "Ernst Gutstein",
+        "Kieth Engen",
+        "Fritz Wunderlich",
+        "Edith Mathis"
+      ],
+      "conductor": "Robert Heger"
+    },
+    {
+      "type": "audio",
+      "year": 1943,
+      "cast": [
+        "Wilhelm Strienz",
+        "Georg Hann",
+        "Ludwig Windisch",
+        "Walter Ludwig",
+        "Lore Hoffmann",
+        "Irma Beilke",
+        "Marie Luise Schilp"
+      ],
+      "conductor": "Artur Rother"
+    }
+  ]
+}

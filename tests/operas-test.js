@@ -152,7 +152,359 @@ test("can get target opera", async (assert) => {
       extract_html:
         "<p><i><b>L'Orfeo</b></i>, sometimes called <i><b>La favola d'Orfeo</b></i> <small></small><span class=\"IPA\">[la ˈfaːvola dorˈfɛːo]</span>, is a late Renaissance/early Baroque <i>favola in musica</i>, or opera, by Claudio Monteverdi, with a libretto by Alessandro Striggio. It is based on the Greek legend of Orpheus, and tells the story of his descent to Hades and his fruitless attempt to bring his dead bride Eurydice back to the living world. It was written in 1607 for a court performance during the annual Carnival at Mantua. While Jacopo Peri's <i>Dafne</i> is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's <i>Euridice</i>, <i>L'Orfeo</i> is the earliest that is still regularly performed.</p>",
     },
-    recordings: [],
+    recordings: [
+      {
+        type: "audio",
+        year: 1939,
+        cast: [
+          "Enrico de Franceschi",
+          "Ginevra Vivante (Euridice and La musica)",
+          "Elena Nicolai",
+          "Vittoria Palombini",
+        ],
+        conductor: "Orchestra of La Scala Milan",
+      },
+      {
+        type: "audio",
+        year: 1949,
+        cast: [
+          "Max Meili",
+          "Elfriede Trötschel",
+          "Eva Fleischer",
+          "Gerda Lammers (Messenger and Proserpina)",
+        ],
+        conductor: "Orchester des Berliner Rundfunks",
+      },
+      {
+        type: "audio",
+        year: 1954,
+        cast: ["Gino Sinimberghi", "Uta Graf", "Patricia Brinton (La musica)"],
+        conductor: "Wiener Singakedemie and Vienna Symphony Orchestra",
+      },
+      {
+        type: "audio",
+        year: 1955,
+        cast: [
+          "Helmut Krebs",
+          "Hanni Mack-Cosack",
+          "Margot Guilleaume (La musica and Proserpina)",
+          "Jeanne Deroubaix",
+        ],
+        conductor: "Orchester der Sommerlichen Musiktage Hitzacker, Hamburg",
+      },
+      {
+        type: "audio",
+        year: 1960,
+        cast: [
+          "Gérard Souzay",
+          "Judith Raskin",
+          "Doris Yarick",
+          "Regina Sarfaty",
+          "Evelyn Sachs",
+        ],
+        conductor: "New York City Opera",
+      },
+      {
+        type: "audio",
+        year: 1968,
+        cast: [
+          "Eric Tappy",
+          "Magali Schwartz",
+          "Wally Staempfli",
+          "Laura Sarti",
+          "Juliette Bise",
+        ],
+        conductor: "Ensemble Vocal et Instrumental de Lausanne",
+      },
+      {
+        type: "audio",
+        year: 1969,
+        cast: [
+          "Lajos Kozma",
+          "Rotraud Hansmann (Euridice and La musica)",
+          "Cathy Berberian",
+          "Eiko Katanosaka",
+        ],
+        conductor: "Concentus Musicus Wien",
+      },
+      {
+        type: "audio",
+        year: 1973,
+        cast: [
+          "Nigel Rogers",
+          "Emilia Petrescu (Euridice and La musica)",
+          "Anna Reynolds (Messenger and Proserpina)",
+        ],
+        conductor: "Instralmentalsolisten Camerata Accademica Hamburg",
+      },
+      {
+        type: "audio",
+        year: 1978,
+        cast: [
+          "Philippe Huttenlocher",
+          "Dietlinde Turban",
+          "Trudeliese Schmidt",
+          "Glenys Linos (Messenger and Proserpina)",
+        ],
+        conductor: "Monteverdi Ensemble der Zürcher Oper",
+      },
+      {
+        type: "audio",
+        year: 1980,
+        cast: [
+          "Joachim Seipp",
+          "Melinda Liebermann",
+          "Rosemarie Bühler",
+          "Heide Blanca-Roeser",
+          "Rochelle Travis",
+        ],
+        conductor: "Bad Hersfeld Festival 1980",
+      },
+      {
+        type: "audio",
+        year: 1983,
+        cast: [
+          "Nigel Rogers",
+          "Patrizia Kwella",
+          "Emma Kirkby",
+          "Guillemette Laurens",
+          "Jennifer Smith",
+        ],
+        conductor: "London Baroque Ensemble",
+      },
+      {
+        type: "audio",
+        year: 1985,
+        cast: [
+          "Gino Quilico",
+          "Audrey Michael",
+          "Colette Alliot-Lugaz",
+          "Carolyn Watkinson",
+          "Danièle Borst",
+        ],
+        conductor: "Opéra National de Lyon",
+      },
+      {
+        type: "audio",
+        year: 1986,
+        cast: [
+          "Anthony Rolfe-Johnson",
+          "Julianne Baird",
+          "Lynne Dawson",
+          "Anne Sofie von Otter",
+          "Diana Montague",
+        ],
+        conductor: "English Baroque Soloists, Monteverdi Choir",
+      },
+      {
+        type: "audio",
+        year: 1991,
+        cast: [
+          "John Mark Ainsley",
+          "Julia Gooding",
+          "Catherine Bott (La musica, Messenger, Proserpina)",
+        ],
+        conductor: "New London Consort",
+      },
+      {
+        type: "audio",
+        year: 1993,
+        cast: [
+          "Jeffrey Thomas",
+          "Dana Hanchard (Euridice and La musica)",
+          "Jennifer Lane",
+          "Jessica Tanzillo",
+        ],
+        conductor: "Art of the Early Keyboard",
+      },
+      {
+        type: "audio",
+        year: 1995,
+        cast: [
+          "Laurence Dale",
+          "Efrat Ben-Nun (Euridice and La musica)",
+          "Jennifer Larmore",
+          "Bernarda Fink",
+        ],
+        conductor: "Concerto Vocale",
+      },
+      {
+        type: "audio",
+        year: 1996,
+        cast: [
+          "Alessandro Carmignani",
+          "Marinella Pannicchi (Euridice and La musica)",
+          "Rosita Frisani (Messenger and Proserpina)",
+        ],
+        conductor: "Capella Musicale di San Petronio di Bologna",
+      },
+      {
+        type: "audio",
+        year: 1996,
+        cast: [
+          "Victor Torres",
+          "Adriana Fernández",
+          "María Cristina Kiehr",
+          "Gloria Banditelli",
+          "Roberta Invernizzi",
+        ],
+        conductor: "Ensemble Elyma",
+      },
+      {
+        type: "audio",
+        year: 2000,
+        cast: [
+          "Gareth Morell",
+          "Sandra Simon (Euridice and La musica)",
+          "Meredith Hall (Messenger and Proserpina)",
+        ],
+        conductor: "Apollo's Fire",
+      },
+      {
+        type: "audio",
+        year: 2003,
+        cast: [
+          "Ian Bostridge",
+          "Patrizia Ciofi",
+          "Natalie Dessay",
+          "Alice Coote",
+          "Véronique Gens",
+        ],
+        conductor: "Le Concert d'Astrée",
+      },
+      {
+        type: "audio",
+        year: 2004,
+        cast: [
+          "Kobie van Rensburg",
+          "Cyrille Gerstenhaber",
+          "Estelle Kaïque (Messenger)",
+          "Delphine Gillot (Proserpina)",
+        ],
+        conductor: "La Grande Ecurie et la Chambre du Roy",
+      },
+      {
+        type: "audio",
+        year: 2006,
+        cast: [
+          "William Matteuzzi",
+          "Sylva Pozzer (Euridice and La musica)",
+          "Sara Mingardo (Messenger and Proserpina)",
+        ],
+        conductor: "Ensemble Instrumental",
+      },
+      {
+        type: "audio",
+        year: 2006,
+        cast: [
+          "Mirko Guadagnini",
+          "Emanuela Galli (Euridice and La musica)",
+          "Marina De Liso",
+          "Christina Calzolari",
+        ],
+        conductor: "La Venexiana",
+      },
+      {
+        type: "audio",
+        year: 2006,
+        cast: [
+          "Frank Kelley",
+          "Roberta Anderson",
+          "Laurie Monahan (La musica and Messenger)",
+          "Sharon Baker",
+        ],
+        conductor: "Aston Magna",
+      },
+      {
+        type: "audio",
+        year: 2007,
+        cast: [
+          "Furio Zanasi",
+          "Anna Simboli (Eurydice and Prosperina)",
+          "Monica Piccinini",
+          "Sara Mingardo",
+        ],
+        conductor: "Concerto Italiano",
+      },
+      {
+        type: "audio",
+        year: 2013,
+        cast: [
+          "Charles Daniels",
+          "Faye Newton",
+          "David Hurley",
+          "Emily Van Evera (Messenger and Proserpina)",
+        ],
+        conductor: "Taverner Consort and Players, Andrew Parrott",
+      },
+      {
+        type: "video",
+        year: 1978,
+        cast: [
+          "Philippe Huttenlocher",
+          "Dietlinde Turban",
+          "Trudeliese Schmidt",
+          "Glenys Linos (Messenger and Proserpina)",
+        ],
+        conductor: "Monteverdi Ensemble der Zürcher Oper",
+      },
+      {
+        type: "video",
+        year: 1997,
+        cast: [
+          "John Mark Ainsley",
+          "Juanita Lascarro",
+          "David Cordier",
+          "Brigitte Balleys",
+          "Bernarda Fink",
+        ],
+        conductor: "Concerto Palatino, Tragicomedia",
+      },
+      {
+        type: "video",
+        year: 1998,
+        cast: [
+          "Simon Keenlyside",
+          "Juanita Lascarro (Euridice and La musica)",
+          "Graciela Oddone",
+          "Martina Dike",
+        ],
+        conductor: "Concerto Vocale, Collegium Vocale Gent",
+      },
+      {
+        type: "video",
+        year: 2002,
+        cast: [
+          "Furio Zanasi",
+          "Arianna Savall",
+          "Montserrat Figueras",
+          "Sara Mingardo",
+          "Adriana Fernández",
+        ],
+        conductor: "Le Concert des Nations",
+      },
+      {
+        type: "video",
+        year: 2004,
+        cast: [
+          "Kobie van Rensburg",
+          "Cyrille Gerstenhaber",
+          "Estelle Kaïque (Messenger)",
+          "Delphine Gillot (Proserpina)",
+        ],
+        conductor: "La Grande Ecurie et la Chambre du Roy",
+      },
+      {
+        type: "video",
+        year: 2008,
+        cast: [
+          "Dietrich Henschel",
+          "Maria Grazia Schiavo (Euridice, La musica and Prosperina)",
+          "Sonia Prina",
+        ],
+        conductor: "Les Arts Florissants - Les Sacqueboutiers",
+      },
+    ],
     roles: [
       {
         role: "La Musica (Music)",
@@ -205,7 +557,11 @@ test("can get target opera", async (assert) => {
       },
       {
         category: "composer",
-        hint: `<span class="anonymized">The composer</span> was an Italian composer, string player, choirmaster, and priest.`,
+        hint: '<span class="anonymized">The composer</span> was an Italian composer, string player, choirmaster, and priest.',
+      },
+      {
+        category: "recording",
+        hint: "Orchestra of La Scala Milan conducted a 1939 recording of this opera that featured Enrico de Franceschi, Ginevra Vivante (Euridice and La musica), Elena Nicolai, and Vittoria Palombini.",
       },
       {
         category: "factoid",
@@ -220,12 +576,20 @@ test("can get target opera", async (assert) => {
         hint: "A composer of both secular and sacred music, and a pioneer in the development of opera, he is considered a crucial transitional figure between the Renaissance and Baroque periods of music history.",
       },
       {
+        category: "recording",
+        hint: "Orchester des Berliner Rundfunks conducted a 1949 recording of this opera that featured Max Meili, Elfriede Trötschel, Eva Fleischer, and Gerda Lammers (Messenger and Proserpina).",
+      },
+      {
         category: "factoid",
         hint: "It is based on the Greek legend of Orpheus, and tells the story of his descent to Hades and his fruitless attempt to bring his dead bride Eurydice back to the living world.",
       },
       {
         category: "role",
         hint: "This opera features a tenor role Eco (Echo).",
+      },
+      {
+        category: "recording",
+        hint: "Wiener Singakedemie and Vienna Symphony Orchestra conducted a 1954 recording of this opera that featured Gino Sinimberghi, Uta Graf, and Patricia Brinton (La musica).",
       },
       {
         category: "factoid",
@@ -236,41 +600,157 @@ test("can get target opera", async (assert) => {
         hint: "This opera features a mezzo-soprano castrato (en travesti) role Ninfa (Nymph).",
       },
       {
+        category: "recording",
+        hint: "Orchester der Sommerlichen Musiktage Hitzacker, Hamburg conducted a 1955 recording of this opera that featured Helmut Krebs, Hanni Mack-Cosack, Margot Guilleaume (La musica and Proserpina), and Jeanne Deroubaix.",
+      },
+      {
         category: "factoid",
         hint: "While Jacopo Peri's Dafne is generally recognised as the first work in the opera genre, and the earliest surviving opera is Peri's Euridice, <span class=\"anonymized\">this opera</span> is the earliest that is still regularly performed.",
       },
       { category: "role", hint: "This opera features a tenor role Apollo." },
       {
+        category: "recording",
+        hint: "New York City Opera conducted a 1960 recording of this opera that featured Gérard Souzay, Judith Raskin, Doris Yarick, Regina Sarfaty, and Evelyn Sachs.",
+      },
+      {
         category: "role",
         hint: "This opera features a bass role Plutone (Pluto).",
+      },
+      {
+        category: "recording",
+        hint: "Ensemble Vocal et Instrumental de Lausanne conducted a 1968 recording of this opera that featured Eric Tappy, Magali Schwartz, Wally Staempfli, Laura Sarti, and Juliette Bise.",
       },
       {
         category: "role",
         hint: "This opera features a mezzo-soprano castrato (en travesti) role Proserpina (Proserpine).",
       },
       {
+        category: "recording",
+        hint: "Concentus Musicus Wien conducted a 1969 recording of this opera that featured Lajos Kozma, Rotraud Hansmann (Euridice and La musica), Cathy Berberian, and Eiko Katanosaka.",
+      },
+      {
         category: "role",
         hint: "This opera features a bass role Caronte (Charon).",
+      },
+      {
+        category: "recording",
+        hint: "Instralmentalsolisten Camerata Accademica Hamburg conducted a 1973 recording of this opera that featured Nigel Rogers, Emilia Petrescu (Euridice and La musica), and Anna Reynolds (Messenger and Proserpina).",
       },
       {
         category: "role",
         hint: "This opera features a mezzo-soprano castrato (en travesti) role La Speranza (Hope).",
       },
       {
+        category: "recording",
+        hint: '<span class="anonymized">The composer</span> Ensemble der Zürcher Oper conducted a 1978 recording of this opera that featured Philippe Huttenlocher, Dietlinde Turban, Trudeliese Schmidt, and Glenys Linos (Messenger and Proserpina).',
+      },
+      {
         category: "role",
         hint: "This opera features a mezzo-soprano castrato (en travesti) role La messaggera (The Messenger).",
+      },
+      {
+        category: "recording",
+        hint: "Bad Hersfeld Festival 1980 conducted a 1980 recording of this opera that featured Joachim Seipp, Melinda Liebermann, Rosemarie Bühler, Heide Blanca-Roeser, and Rochelle Travis.",
       },
       {
         category: "role",
         hint: "This opera features a mezzo-soprano castrato (en travesti) role Euridice (Eurydice).",
       },
       {
+        category: "recording",
+        hint: "London Baroque Ensemble conducted a 1983 recording of this opera that featured Nigel Rogers, Patrizia Kwella, Emma Kirkby, Guillemette Laurens, and Jennifer Smith.",
+      },
+      {
         category: "role",
         hint: "This opera features a tenor or high baritone role Orfeo (Orpheus).",
       },
       {
+        category: "recording",
+        hint: "Opéra National de Lyon conducted a 1985 recording of this opera that featured Gino Quilico, Audrey Michael, Colette Alliot-Lugaz, Carolyn Watkinson, and Danièle Borst.",
+      },
+      {
         category: "role",
         hint: "This opera features a mezzo-soprano castrato (en travesti) role La Musica (Music).",
+      },
+      {
+        category: "recording",
+        hint: 'English Baroque Soloists, <span class="anonymized">the composer</span> Choir conducted a 1986 recording of this opera that featured Anthony Rolfe-Johnson, Julianne Baird, Lynne Dawson, Anne Sofie von Otter, and Diana Montague.',
+      },
+      {
+        category: "recording",
+        hint: "New London Consort conducted a 1991 recording of this opera that featured John Mark Ainsley; Julia Gooding; and Catherine Bott (La musica, Messenger, Proserpina).",
+      },
+      {
+        category: "recording",
+        hint: "Art of the Early Keyboard conducted a 1993 recording of this opera that featured Jeffrey Thomas, Dana Hanchard (Euridice and La musica), Jennifer Lane, and Jessica Tanzillo.",
+      },
+      {
+        category: "recording",
+        hint: "Concerto Vocale conducted a 1995 recording of this opera that featured Laurence Dale, Efrat Ben-Nun (Euridice and La musica), Jennifer Larmore, and Bernarda Fink.",
+      },
+      {
+        category: "recording",
+        hint: "Capella Musicale di San Petronio di Bologna conducted a 1996 recording of this opera that featured Alessandro Carmignani, Marinella Pannicchi (Euridice and La musica), and Rosita Frisani (Messenger and Proserpina).",
+      },
+      {
+        category: "recording",
+        hint: "Ensemble Elyma conducted a 1996 recording of this opera that featured Victor Torres, Adriana Fernández, María Cristina Kiehr, Gloria Banditelli, and Roberta Invernizzi.",
+      },
+      {
+        category: "recording",
+        hint: "Apollo's Fire conducted a 2000 recording of this opera that featured Gareth Morell, Sandra Simon (Euridice and La musica), and Meredith Hall (Messenger and Proserpina).",
+      },
+      {
+        category: "recording",
+        hint: "Le Concert d'Astrée conducted a 2003 recording of this opera that featured Ian Bostridge, Patrizia Ciofi, Natalie Dessay, Alice Coote, and Véronique Gens.",
+      },
+      {
+        category: "recording",
+        hint: "La Grande Ecurie et la Chambre du Roy conducted a 2004 recording of this opera that featured Kobie van Rensburg, Cyrille Gerstenhaber, Estelle Kaïque (Messenger), and Delphine Gillot (Proserpina).",
+      },
+      {
+        category: "recording",
+        hint: "Ensemble Instrumental conducted a 2006 recording of this opera that featured William Matteuzzi, Sylva Pozzer (Euridice and La musica), and Sara Mingardo (Messenger and Proserpina).",
+      },
+      {
+        category: "recording",
+        hint: "La Venexiana conducted a 2006 recording of this opera that featured Mirko Guadagnini, Emanuela Galli (Euridice and La musica), Marina De Liso, and Christina Calzolari.",
+      },
+      {
+        category: "recording",
+        hint: "Aston Magna conducted a 2006 recording of this opera that featured Frank Kelley, Roberta Anderson, Laurie Monahan (La musica and Messenger), and Sharon Baker.",
+      },
+      {
+        category: "recording",
+        hint: "Concerto Italiano conducted a 2007 recording of this opera that featured Furio Zanasi, Anna Simboli (Eurydice and Prosperina), Monica Piccinini, and Sara Mingardo.",
+      },
+      {
+        category: "recording",
+        hint: "Taverner Consort and Players, Andrew Parrott conducted a 2013 recording of this opera that featured Charles Daniels, Faye Newton, David Hurley, and Emily Van Evera (Messenger and Proserpina).",
+      },
+      {
+        category: "recording",
+        hint: '<span class="anonymized">The composer</span> Ensemble der Zürcher Oper conducted a 1978 recording of this opera that featured Philippe Huttenlocher, Dietlinde Turban, Trudeliese Schmidt, and Glenys Linos (Messenger and Proserpina).',
+      },
+      {
+        category: "recording",
+        hint: "Concerto Palatino, Tragicomedia conducted a 1997 recording of this opera that featured John Mark Ainsley, Juanita Lascarro, David Cordier, Brigitte Balleys, and Bernarda Fink.",
+      },
+      {
+        category: "recording",
+        hint: "Concerto Vocale, Collegium Vocale Gent conducted a 1998 recording of this opera that featured Simon Keenlyside, Juanita Lascarro (Euridice and La musica), Graciela Oddone, and Martina Dike.",
+      },
+      {
+        category: "recording",
+        hint: "Le Concert des Nations conducted a 2002 recording of this opera that featured Furio Zanasi, Arianna Savall, Montserrat Figueras, Sara Mingardo, and Adriana Fernández.",
+      },
+      {
+        category: "recording",
+        hint: "La Grande Ecurie et la Chambre du Roy conducted a 2004 recording of this opera that featured Kobie van Rensburg, Cyrille Gerstenhaber, Estelle Kaïque (Messenger), and Delphine Gillot (Proserpina).",
+      },
+      {
+        category: "recording",
+        hint: "Les Arts Florissants - Les Sacqueboutiers conducted a 2008 recording of this opera that featured Dietrich Henschel; Maria Grazia Schiavo (Euridice, La musica and Prosperina); and Sonia Prina.",
       },
     ],
   });

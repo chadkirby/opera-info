@@ -1,0 +1,64 @@
+{
+  "html": "<ul><li>1960: <a href=\"/wiki/Renata_Tebaldi\" title=\"Renata Tebaldi\">Renata Tebaldi</a>, <a href=\"/wiki/Giacinto_Prandelli\" title=\"Giacinto Prandelli\">Giacinto Prandelli</a>, Silvio Majonica, <a href=\"/w/index.php?title=Pinuccia_Perotti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pinuccia Perotti (page does not exist)\">Pinuccia Perotti</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://www.wikidata.org/wiki/Special:EntityPage/Q61481224#sitelinks-wikipedia\" class=\"extiw\" title=\"d:Special:EntityPage/Q61481224\"><span title=\"&quot;Pinuccia Perotti&quot; in other languages\">Wikidata</span></a>]</span>, conducted by <a href=\"/wiki/Arturo_Basile\" title=\"Arturo Basile\">Arturo Basile</a> (CD, Hommage GmbH Musikproduktion und Verlag)</li>\n<li>1968: <a href=\"/wiki/Renata_Tebaldi\" title=\"Renata Tebaldi\">Renata Tebaldi</a>, <a href=\"/wiki/Mario_Del_Monaco\" title=\"Mario Del Monaco\">Mario Del Monaco</a>, <a href=\"/wiki/Piero_Cappuccilli\" title=\"Piero Cappuccilli\">Piero Cappuccilli</a>, <a href=\"/wiki/Justino_D%C3%ADaz\" title=\"Justino Díaz\">Justino Díaz</a>, conducted by <a href=\"/wiki/Fausto_Cleva\" title=\"Fausto Cleva\">Fausto Cleva</a> (CD, Decca)</li>\n<li>1972: <a href=\"/wiki/Magda_Olivero\" title=\"Magda Olivero\">Magda Olivero</a>, <a href=\"/wiki/Nicola_Zaccaria\" title=\"Nicola Zaccaria\">Nicola Zaccaria</a>, Laura Zanini, Ida Farina, Amadeo Zambon, <a href=\"/wiki/Silvano_Carroli\" title=\"Silvano Carroli\">Silvano Carroli</a>, <a href=\"/w/index.php?title=Giovanni_Foiani&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Giovanni Foiani (page does not exist)\">Giovanni Foiani</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://www.wikidata.org/wiki/Special:EntityPage/Q61475896#sitelinks-wikipedia\" class=\"extiw\" title=\"d:Special:EntityPage/Q61475896\"><span title=\"&quot;Giovanni Foiani&quot; in other languages\">Wikidata</span></a>]</span>, conducted by <a href=\"/w/index.php?title=Ferruccio_Scaglia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ferruccio Scaglia (page does not exist)\">Ferruccio Scaglia</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://it.wikipedia.org/wiki/Ferruccio_Scaglia\" class=\"extiw\" title=\"it:Ferruccio Scaglia\">it</a>]</span> Orchestra and Chorus <a href=\"/wiki/Teatro_Donizetti\" title=\"Teatro Donizetti\">Teatro Donizetti</a>, Bergamo, Italy, 1972 (CD, Opera D'Oro, 2006)</li>\n<li>1989: <a href=\"/wiki/%C3%89va_Marton\" title=\"Éva Marton\">Éva Marton</a>, <a href=\"/wiki/Francisco_Araiza\" title=\"Francisco Araiza\">Francisco Araiza</a>, <a href=\"/wiki/Alan_Titus\" title=\"Alan Titus\">Alan Titus</a>, <a href=\"/w/index.php?title=Francesco_Ellero_d%27Artegna&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Francesco Ellero d'Artegna (page does not exist)\">Francesco Ellero d'Artegna</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://it.wikipedia.org/wiki/Francesco_Ellero_d%27Artegna\" class=\"extiw\" title=\"it:Francesco Ellero d'Artegna\">it</a>]</span>, conducted by <a href=\"/wiki/Pinchas_Steinberg\" title=\"Pinchas Steinberg\">Pinchas Steinberg</a> (CD, Eurodisc)</li>\n<li>2014: Susanna von der Burg, Paulo Ferreira, Marc Kugel, Bernd Valentin, Susanne Langbein, Chor des <a href=\"/wiki/Tiroler_Landestheater_Innsbruck\" class=\"mw-redirect\" title=\"Tiroler Landestheater Innsbruck\">Tiroler Landestheater Innsbruck</a>, Tiroler Symphonieorchester Innsbruck, conducted by <a href=\"/w/index.php?title=Alexander_Rumpf_(conductor,_1958)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Alexander Rumpf (conductor, 1958) (page does not exist)\">Alexander Rumpf</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://de.wikipedia.org/wiki/Alexander_Rumpf_(Dirigent,_1958)\" class=\"extiw\" title=\"de:Alexander Rumpf (Dirigent, 1958)\">de</a>]</span> (DVD Video, Capriccio, C95000)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1960,
+      "cast": [
+        "Renata Tebaldi",
+        "Giacinto Prandelli",
+        "Silvio Majonica",
+        "Pinuccia Perotti"
+      ],
+      "conductor": "Arturo Basile"
+    },
+    {
+      "type": "audio",
+      "year": 1968,
+      "cast": [
+        "Renata Tebaldi",
+        "Mario Del Monaco",
+        "Piero Cappuccilli",
+        "Justino Díaz"
+      ],
+      "conductor": "Fausto Cleva"
+    },
+    {
+      "type": "audio",
+      "year": 1972,
+      "cast": [
+        "Magda Olivero",
+        "Nicola Zaccaria",
+        "Laura Zanini",
+        "Ida Farina",
+        "Amadeo Zambon",
+        "Silvano Carroli",
+        "Giovanni Foiani"
+      ],
+      "conductor": "Ferruccio Scaglia"
+    },
+    {
+      "type": "audio",
+      "year": 1989,
+      "cast": [
+        "Éva Marton",
+        "Francisco Araiza",
+        "Alan Titus",
+        "Francesco Ellero d'Artegna"
+      ],
+      "conductor": "Pinchas Steinberg"
+    },
+    {
+      "type": "audio",
+      "year": 2014,
+      "cast": [
+        "Susanna von der Burg",
+        "Paulo Ferreira",
+        "Marc Kugel",
+        "Bernd Valentin",
+        "Susanne Langbein"
+      ],
+      "conductor": "Alexander Rumpf"
+    }
+  ]
+}

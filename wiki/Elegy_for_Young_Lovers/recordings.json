@@ -1,0 +1,43 @@
+{
+  "html": "<ul><li>Liane Dubin (Elisabeth Zimmer), <a href=\"/wiki/Catherine_Gayer\" title=\"Catherine Gayer\">Catherine Gayer</a> (Hilda Mack), <a href=\"/wiki/Martha_M%C3%B6dl\" title=\"Martha Mödl\">Martha Mödl</a> (Carolina Gräfin von Kirchstetten), <a href=\"/wiki/Loren_Driscoll\" title=\"Loren Driscoll\">Loren Driscoll</a> (Toni Reischmann), <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a> (Gregor Mittenhofer), <a href=\"/wiki/Deutsches_Symphonie-Orchester_Berlin\" title=\"Deutsches Symphonie-Orchester Berlin\">Radio-Symphonie-Orchester Berlin</a>, Henze conducting, in German, 1963 <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">DG</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.musiquecontemporaine.fr/record/oai:bnf.fr:catalogue/ark:/12148/cb383925221\">[1]</a></li>\n<li>Richard Lloyd-Morgan (Mittenhofer), Regina Schudel (Hilda Mack), Aurelia Hajek (Carolina), <a href=\"/wiki/Silvia_Weiss\" title=\"Silvia Weiss\">Silvia Weiss</a> (Elisabeth), Bruno Fath (Toni Reischmann), Orchestra of the <a href=\"/wiki/Berliner_Kammeroper\" title=\"Berliner Kammeroper\">Berliner Kammeroper</a>, Brynmor Llewelyn Jones, conductor, 1989 Deutsche Schallplatten DS (live in Berlin)<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\">[8]</a></sup></li>\n<li><a href=\"/wiki/Lisa_Saffer\" title=\"Lisa Saffer\">Lisa Saffer</a> (Hilda Mack), Rosemary Hardy (Elizabeth Zimmer), Mary King (Carolina von Kirchstetten), Christopher Gillett (Toni Reischmann), Roderick Kennedy (Dr. Wilhelm Reischmann), <a href=\"/wiki/David_Wilson-Johnson\" title=\"David Wilson-Johnson\">David Wilson-Johnson</a> (Gregor Mittenhofer), Adrian Brine (Josef Mauer), Schönberg ensemble, Live recording Concertgebouw Amsterdam, 27 September 2000, conductor: <a href=\"/wiki/Oliver_Knussen\" title=\"Oliver Knussen\">Oliver Knussen</a>. 2CD is part of the Schönberg Ensemble Edition box (a century of music in perspective).</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1963,
+      "cast": [
+        "Liane Dubin",
+        "Catherine Gayer",
+        "Martha Mödl",
+        "Loren Driscoll",
+        "Dietrich Fischer-Dieskau"
+      ],
+      "conductor": "Henze"
+    },
+    {
+      "type": "audio",
+      "year": 1989,
+      "cast": [
+        "Richard Lloyd-Morgan",
+        "Regina Schudel",
+        "Aurelia Hajek",
+        "Silvia Weiss",
+        "Bruno Fath"
+      ],
+      "conductor": "Brynmor Llewelyn Jones"
+    },
+    {
+      "type": "audio",
+      "year": 2000,
+      "cast": [
+        "Lisa Saffer",
+        "Rosemary Hardy",
+        "Mary King",
+        "Christopher Gillett",
+        "Roderick Kennedy",
+        "David Wilson-Johnson",
+        "Adrian Brine"
+      ],
+      "conductor": "Oliver Knussen"
+    }
+  ]
+}

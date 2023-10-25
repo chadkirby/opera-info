@@ -1,0 +1,53 @@
+{
+  "html": "<ul><li>1961: <a href=\"/wiki/J%C3%A9sus_Etcheverry\" title=\"Jésus Etcheverry\">Jésus Etcheverry</a> conducting the Orchestre Lyrique de Paris with Michèle Le Bris (Salomé), <a href=\"/wiki/Denise_Scharley\" title=\"Denise Scharley\">Denise Scharley</a> (Hérodiade), <a href=\"/wiki/Guy_Chauvet\" title=\"Guy Chauvet\">Guy Chauvet</a> (Jean), <a href=\"/wiki/Robert_Massard\" title=\"Robert Massard\">Robert Massard</a> (Hérode), and Adrien Legros (Phanuel).(Accord Musidisc) (excerpts)</li>\n<li>1963: <a href=\"/wiki/Georges_Pr%C3%AAtre\" title=\"Georges Prêtre\">Georges Prêtre</a> conducting the Théâtre National de l'Opéra de Paris with <a href=\"/wiki/R%C3%A9gine_Crespin\" title=\"Régine Crespin\">Régine Crespin</a> (Salomé), <a href=\"/wiki/Rita_Gorr\" title=\"Rita Gorr\">Rita Gorr</a> (Hérodiade), <a href=\"/wiki/Albert_Lance\" title=\"Albert Lance\">Albert Lance</a> (Jean), <a href=\"/wiki/Michel_Dens\" title=\"Michel Dens\">Michel Dens</a> (Hérode), and Jacques Mars (Phanuel).(La Voix de son Maître) (excerpts)</li>\n<li>1995: <a href=\"/wiki/Michel_Plasson\" title=\"Michel Plasson\">Michel Plasson</a> conducting the <a href=\"/wiki/Choeur_et_Orchestre_du_Capitole_de_Toulouse\" class=\"mw-redirect\" title=\"Choeur et Orchestre du Capitole de Toulouse\">Choeur et Orchestre du Capitole de Toulouse</a> with <a href=\"/wiki/Cheryl_Studer\" title=\"Cheryl Studer\">Cheryl Studer</a> (Salomé), <a href=\"/wiki/Nadine_Denize\" title=\"Nadine Denize\">Nadine Denize</a> (Hérodiade), <a href=\"/wiki/Ben_Heppner\" title=\"Ben Heppner\">Ben Heppner</a> (Jean), <a href=\"/wiki/Thomas_Hampson\" title=\"Thomas Hampson\">Thomas Hampson</a> (Hérode), and <a href=\"/wiki/Jos%C3%A9_van_Dam\" title=\"José van Dam\">José van Dam</a> (Phanuel).(EMI)</li>\n<li>1995: <a href=\"/wiki/Valery_Gergiev\" title=\"Valery Gergiev\">Valery Gergiev</a> conducting the <a href=\"/wiki/San_Francisco_Opera\" title=\"San Francisco Opera\">San Francisco Opera Orchestra and Chorus</a> with <a href=\"/wiki/Ren%C3%A9e_Fleming\" title=\"Renée Fleming\">Renée Fleming</a> (Salomé), <a href=\"/wiki/Dolora_Zajick\" title=\"Dolora Zajick\">Dolora Zajick</a> (Hérodiade), <a href=\"/wiki/Pl%C3%A1cido_Domingo\" title=\"Plácido Domingo\">Plácido Domingo</a> (Jean), <a href=\"/wiki/Juan_Pons\" title=\"Juan Pons\">Juan Pons</a> (Hérode), Kenneth Cox (Phanuel). (<a href=\"/wiki/Sony_Classical\" class=\"mw-redirect\" title=\"Sony Classical\">Sony Classical</a>)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1961,
+      "cast": [
+        "Michèle Le Bris",
+        "Denise Scharley",
+        "Guy Chauvet",
+        "Robert Massard",
+        "Adrien Legros"
+      ],
+      "conductor": "Jésus Etcheverry"
+    },
+    {
+      "type": "audio",
+      "year": 1963,
+      "cast": [
+        "Régine Crespin",
+        "Rita Gorr",
+        "Albert Lance",
+        "Michel Dens",
+        "Jacques Mars"
+      ],
+      "conductor": "Georges Prêtre"
+    },
+    {
+      "type": "audio",
+      "year": 1995,
+      "cast": [
+        "Cheryl Studer",
+        "Nadine Denize",
+        "Ben Heppner",
+        "Thomas Hampson",
+        "José van Dam"
+      ],
+      "conductor": "Michel Plasson"
+    },
+    {
+      "type": "audio",
+      "year": 1995,
+      "cast": [
+        "Renée Fleming",
+        "Dolora Zajick",
+        "Plácido Domingo",
+        "Juan Pons",
+        "Kenneth Cox"
+      ],
+      "conductor": "Valery Gergiev"
+    }
+  ]
+}

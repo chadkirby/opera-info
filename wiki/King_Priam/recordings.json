@@ -1,0 +1,38 @@
+{
+  "html": "<ul><li>1980: <a href=\"/wiki/Norman_Bailey_(bass-baritone)\" title=\"Norman Bailey (bass-baritone)\">Norman Bailey</a> (Priam), <a href=\"/wiki/Heather_Harper\" title=\"Heather Harper\">Heather Harper</a> (Hecuba), <a href=\"/wiki/Thomas_Allen_(baritone)\" title=\"Thomas Allen (baritone)\">Thomas Allen</a> (Hector), <a href=\"/wiki/Felicity_Palmer\" title=\"Felicity Palmer\">Felicity Palmer</a> (Andromache), <a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a> (Paris), <a href=\"/wiki/Yvonne_Minton\" title=\"Yvonne Minton\">Yvonne Minton</a> (Helen), <a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a> (Achilles), Stephen Roberts, <a href=\"/wiki/Ann_Murray\" title=\"Ann Murray\">Ann Murray</a>, <a href=\"/wiki/David_Wilson-Johnson\" title=\"David Wilson-Johnson\">David Wilson-Johnson</a>, Peter Hall, Kenneth Bowen, recorded by <a href=\"/wiki/Decca_Records\" title=\"Decca Records\">Decca Records</a> (LDR 73006), with the <a href=\"/wiki/London_Sinfonietta\" title=\"London Sinfonietta\">London Sinfonietta</a> conducted by <a href=\"/wiki/David_Atherton\" title=\"David Atherton\">David Atherton</a>. The recording won the <i><a href=\"/wiki/Gramophone_(magazine)\" title=\"Gramophone (magazine)\">Gramophone</a></i> magazine's award for contemporary music recordings that year and was re-released on compact disc by <a href=\"/wiki/Chandos_Records\" title=\"Chandos Records\">Chandos</a> (CHAN 9406/7) in 1995.<sup id=\"cite_ref-MacdonaldHugh_5-0\" class=\"reference\"><a href=\"#cite_note-MacdonaldHugh-5\">[5]</a></sup><sup id=\"cite_ref-Rimer_6-0\" class=\"reference\"><a href=\"#cite_note-Rimer-6\">[6]</a></sup></li>\n<li>1985: Rodney Macann (Priam), <a href=\"/wiki/Janet_Price\" title=\"Janet Price\">Janet Price</a> (Hecuba), <a href=\"/wiki/Omar_Ebrahim\" title=\"Omar Ebrahim\">Omar Ebrahim</a> (Hector), <a href=\"/wiki/Sarah_Walker_(opera_singer)\" class=\"mw-redirect\" title=\"Sarah Walker (opera singer)\">Sarah Walker</a> (Andromache), Howard Haskin (Paris), Anne Mason (Helen), and Neil Jenkins (Achilles), with <a href=\"/wiki/Kent_Opera\" title=\"Kent Opera\">Kent Opera</a> production directed by <a href=\"/wiki/Nicholas_Hytner\" title=\"Nicholas Hytner\">Nicholas Hytner</a> conducted by <a href=\"/wiki/Roger_Norrington\" title=\"Roger Norrington\">Roger Norrington</a>. Directed for <a href=\"/wiki/Channel_4\" title=\"Channel 4\">Channel 4</a> by Robert Lough; released on VHS by Virgin Classics in 1990 and the Kultur label in 1997, and on DVD by Arthaus Musik in 2007.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1980,
+      "cast": [
+        "Norman Bailey",
+        "Heather Harper",
+        "Thomas Allen",
+        "Felicity Palmer",
+        "Philip Langridge",
+        "Yvonne Minton",
+        "Robert Tear",
+        "Stephen Roberts",
+        "Ann Murray",
+        "David Wilson-Johnson",
+        "Peter Hall",
+        "Kenneth Bowen"
+      ],
+      "conductor": "David Atherton"
+    },
+    {
+      "type": "audio",
+      "year": 1985,
+      "cast": [
+        "Rodney Macann",
+        "Janet Price",
+        "Omar Ebrahim",
+        "Sarah Walker",
+        "Howard Haskin",
+        "Anne Mason",
+        "Neil Jenkins"
+      ],
+      "conductor": "Roger Norrington"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Hans_M%C3%BCller-Kray\" title=\"Hans Müller-Kray\">Hans Müller-Kray</a>/Wissmann/Nentwig/Münch/Fehringer/Rehfuss/<a href=\"/wiki/Kurt_B%C3%B6hme\" title=\"Kurt Böhme\">Kurt Böhme</a> - 1954, Süddeutscher Rundfunk</li>\n<li>Wallberg/Seefried/Holm/Rössl-Majdan/Kmentt/Völker/Dönch - 1960, live in Vienna, Orfeo</li>\n<li><a href=\"/wiki/Robert_Heger\" title=\"Robert Heger\">Robert Heger</a>/<a href=\"/wiki/Anneliese_Rothenberger\" title=\"Anneliese Rothenberger\">Anneliese Rothenberger</a>/<a href=\"/wiki/Lotte_Sch%C3%A4dle\" title=\"Lotte Schädle\">Lotte Schädle</a>/Litz/<a href=\"/wiki/Fritz_Wunderlich\" title=\"Fritz Wunderlich\">Fritz Wunderlich</a>/<a href=\"/wiki/Hermann_Prey\" title=\"Hermann Prey\">Hermann Prey</a>/<a href=\"/w/index.php?title=Fritz_Ollendorff&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fritz Ollendorff (page does not exist)\">Fritz Ollendorff</a>, <a href=\"/wiki/Bavarian_State_Orchestra\" title=\"Bavarian State Orchestra\">Bavarian State Orchestra</a> - 1963, EMI CMS 7 63205 2, reed. 0946-3-81837-2-3</li>\n<li><a href=\"/wiki/Bernhard_Klee\" title=\"Bernhard Klee\">Bernhard Klee</a>/<a href=\"/wiki/Edith_Mathis\" title=\"Edith Mathis\">Edith Mathis</a>/Georgine Resick/<a href=\"/wiki/Doris_Soffel\" title=\"Doris Soffel\">Doris Soffel</a>/<a href=\"/wiki/Peter_Schreier\" title=\"Peter Schreier\">Peter Schreier</a>/<a href=\"/wiki/Gottfried_Hornik\" title=\"Gottfried Hornik\">Gottfried Hornik</a>/<a href=\"/wiki/Hans_Sotin\" title=\"Hans Sotin\">Hans Sotin</a>, <a href=\"/wiki/Staatskapelle_Berlin\" title=\"Staatskapelle Berlin\">Staatskapelle Berlin</a> - 1982, Deutsche Grammophon 2740-271</li>\n<li>Eschwé/Dorn/Ullrich/Brohm/Davislim/Roth/Zeppenfeld - 2015, live in Dresden</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1954,
+      "cast": [
+        "Wissmann",
+        "Nentwig",
+        "Münch",
+        "Fehringer",
+        "Rehfuss",
+        "Kurt Böhme"
+      ],
+      "conductor": "Hans Müller-Kray"
+    },
+    {
+      "type": "audio",
+      "year": 1960,
+      "cast": [
+        "Seefried",
+        "Holm",
+        "Rössl-Majdan",
+        "Kmentt",
+        "Völker",
+        "Dönch"
+      ],
+      "conductor": "Wallberg"
+    },
+    {
+      "type": "audio",
+      "year": 1963,
+      "cast": [
+        "Anneliese Rothenberger",
+        "Lotte Schädle",
+        "Litz",
+        "Fritz Wunderlich",
+        "Hermann Prey",
+        "Fritz Ollendorff"
+      ],
+      "conductor": "Robert Heger"
+    },
+    {
+      "type": "audio",
+      "year": 1982,
+      "cast": [
+        "Edith Mathis",
+        "Georgine Resick",
+        "Doris Soffel",
+        "Peter Schreier",
+        "Gottfried Hornik",
+        "Hans Sotin"
+      ],
+      "conductor": "Bernhard Klee"
+    },
+    {
+      "type": "audio",
+      "year": 2015,
+      "cast": [],
+      "conductor": "Eschwé/Dorn/Ullrich/Brohm/Davislim/Roth/Zeppenfeld"
+    }
+  ]
+}

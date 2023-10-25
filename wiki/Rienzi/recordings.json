@@ -1,0 +1,74 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Winfried_Zillig\" title=\"Winfried Zillig\">Winfried Zillig</a> conducting the <a href=\"/wiki/Sinfonieorchester_des_Hessischen_Rundfunks\" class=\"mw-redirect\" title=\"Sinfonieorchester des Hessischen Rundfunks\">Sinfonieorchester des Hessischen Rundfunks</a>. <a href=\"/wiki/G%C3%BCnther_Treptow\" title=\"Günther Treptow\">Günther Treptow</a>, <a href=\"/wiki/Trude_Eipperle\" title=\"Trude Eipperle\">Trude Eipperle</a>, Helmut Fehn, <a href=\"/wiki/Erna_Schl%C3%BCter\" title=\"Erna Schlüter\">Erna Schlüter</a>, Rudolf Gonszar, Heinz Prybit. Frankfurt, 1950.</li>\n<li><a href=\"/wiki/Josef_Krips\" title=\"Josef Krips\">Josef Krips</a> conducting the <a href=\"/wiki/Vienna_Symphony_Orchestra\" class=\"mw-redirect\" title=\"Vienna Symphony Orchestra\">Vienna Symphony Orchestra</a>. <a href=\"/wiki/Set_Svanholm\" title=\"Set Svanholm\">Set Svanholm</a>, <a href=\"/wiki/Walter_Berry_(bass-baritone)\" title=\"Walter Berry (bass-baritone)\">Walter Berry</a>, <a href=\"/wiki/Christa_Ludwig\" title=\"Christa Ludwig\">Christa Ludwig</a>, <a href=\"/wiki/Alois_Pernerstorfer\" title=\"Alois Pernerstorfer\">Alois Pernerstorfer</a>, <a href=\"/wiki/Paul_Sch%C3%B6ffler\" title=\"Paul Schöffler\">Paul Schöffler</a>. 1960 (Melodram).</li>\n<li><a href=\"/wiki/Heinrich_Hollreiser\" title=\"Heinrich Hollreiser\">Heinrich Hollreiser</a> conducting the <a href=\"/wiki/Dresden_Staatskapelle\" class=\"mw-redirect\" title=\"Dresden Staatskapelle\">Dresden Staatskapelle</a>. <a href=\"/wiki/Ren%C3%A9_Kollo\" title=\"René Kollo\">René Kollo</a>, Siv Wennberg, <a href=\"/wiki/Janis_Martin_(soprano)\" title=\"Janis Martin (soprano)\">Janis Martin</a>, <a href=\"/wiki/Theo_Adam\" title=\"Theo Adam\">Theo Adam</a>. 1976 (EMI). (Complete recording of Wagner's shortened 1843 version)</li>\n<li><a href=\"/wiki/Edward_Downes\" title=\"Edward Downes\">Edward Downes</a> conducting the <a href=\"/wiki/BBC_Northern_Symphony_Orchestra\" class=\"mw-redirect\" title=\"BBC Northern Symphony Orchestra\">BBC Northern Symphony Orchestra</a>. <a href=\"/wiki/John_Mitchinson_(tenor)\" title=\"John Mitchinson (tenor)\">John Mitchinson</a>, Lorna Haywood, <a href=\"/wiki/Michael_Langdon\" title=\"Michael Langdon\">Michael Langdon</a>, <a href=\"/wiki/Raimund_Herincx\" title=\"Raimund Herincx\">Raimund Herincx</a>. 1976 (Ponto POCD1040) (<i>Complete and uncut recording of Wagner's \"original\" 1842 version</i>)</li>\n<li><a href=\"/wiki/Wolfgang_Sawallisch\" title=\"Wolfgang Sawallisch\">Wolfgang Sawallisch</a> conducting the <a href=\"/wiki/Bavarian_State_Opera\" title=\"Bavarian State Opera\">Bavarian State Opera</a> Orchestra. René Kollo, <a href=\"/wiki/Jan-Hendrik_Rootering\" title=\"Jan-Hendrik Rootering\">Jan-Hendrik Rootering</a>, <a href=\"/wiki/Cheryl_Studer\" title=\"Cheryl Studer\">Cheryl Studer</a>, John Janssen. 1983 (Orfeo d'Oro)</li>\n<li><a href=\"/wiki/Sebastian_Weigle\" title=\"Sebastian Weigle\">Sebastian Weigle</a> conducting the Frankfurter Opern- und Museumorchester. Peter Bronder, Christiane Libor, Falk Struckmann, <a href=\"/wiki/Claudia_Mahnke\" title=\"Claudia Mahnke\">Claudia Mahnke</a>. 2013 (Oehms Classics)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1950,
+      "cast": [
+        "Günther Treptow",
+        "Trude Eipperle",
+        "Helmut Fehn",
+        "Erna Schlüter",
+        "Rudolf Gonszar",
+        "Heinz Prybit"
+      ],
+      "conductor": "Winfried Zillig"
+    },
+    {
+      "type": "audio",
+      "year": 1960,
+      "cast": [
+        "Set Svanholm",
+        "Walter Berry",
+        "Christa Ludwig",
+        "Alois Pernerstorfer",
+        "Paul Schöffler"
+      ],
+      "conductor": "Josef Krips"
+    },
+    {
+      "type": "audio",
+      "year": 1976,
+      "cast": [
+        "René Kollo",
+        "Siv Wennberg",
+        "Janis Martin",
+        "Theo Adam"
+      ],
+      "conductor": "Heinrich Hollreiser"
+    },
+    {
+      "type": "audio",
+      "year": 1976,
+      "cast": [
+        "John Mitchinson",
+        "Lorna Haywood",
+        "Michael Langdon",
+        "Raimund Herincx"
+      ],
+      "conductor": "Edward Downes"
+    },
+    {
+      "type": "audio",
+      "year": 1983,
+      "cast": [
+        "René Kollo",
+        "Jan-Hendrik Rootering",
+        "Cheryl Studer",
+        "John Janssen"
+      ],
+      "conductor": "Wolfgang Sawallisch"
+    },
+    {
+      "type": "audio",
+      "year": 2013,
+      "cast": [
+        "Peter Bronder",
+        "Christiane Libor",
+        "Falk Struckmann",
+        "Claudia Mahnke"
+      ],
+      "conductor": "Sebastian Weigle"
+    }
+  ]
+}

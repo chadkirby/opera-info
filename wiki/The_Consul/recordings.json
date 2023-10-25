@@ -1,0 +1,48 @@
+{
+  "html": "<ul><li>Newport Classic NPD 85645/2</li>\n<li>Chandos CHAN 9706: <a href=\"/wiki/Susan_Bullock\" title=\"Susan Bullock\">Susan Bullock</a>, <a href=\"/wiki/Louis_Otey\" title=\"Louis Otey\">Louis Otey</a>, Jacalyn Kreitzer, Charles Austin, Victoria Livengood, Herbert Eckhoff, Giovanna Manci, Robin Blitch Wiper, Malin Fritz, John Horton Murray, Graeme Broadbent; <a href=\"/wiki/Festival_dei_Due_Mondi\" title=\"Festival dei Due Mondi\">Spoleto Festival</a> Orchestra; <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>, conductor<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup></li>\n<li><a href=\"/wiki/Naxos_Records\" class=\"mw-redirect\" title=\"Naxos Records\">Naxos</a> Historical 8.112023-24: <a href=\"/wiki/Patricia_Neway\" title=\"Patricia Neway\">Patricia Neway</a> (Magda), <a href=\"/wiki/Cornell_MacNeil\" title=\"Cornell MacNeil\">Cornell MacNeil</a> (John) and <a href=\"/wiki/Marie_Powers\" title=\"Marie Powers\">Marie Powers</a> (Mother), conductor: <a href=\"/wiki/Lehman_Engel\" title=\"Lehman Engel\">Lehman Engel</a>.<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup> This recording was made a month after the premiere with the original cast and conductor.</li>\n<li>Video: Neway, <a href=\"/wiki/Chester_Ludgin\" title=\"Chester Ludgin\">Ludgin</a>; <a href=\"/wiki/Werner_Torkanowsky\" title=\"Werner Torkanowsky\">Torkanowsky</a> (conductor), Jean Dalrymple (producer), 1960 (<a href=\"/wiki/Video_Artists_International\" title=\"Video Artists International\">VAI</a>)<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\">[13]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [],
+      "conductor": null
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Susan Bullock",
+        "Louis Otey",
+        "Jacalyn Kreitzer",
+        "Charles Austin",
+        "Victoria Livengood",
+        "Herbert Eckhoff",
+        "Giovanna Manci",
+        "Robin Blitch Wiper",
+        "Malin Fritz",
+        "John Horton Murray",
+        "Graeme Broadbent"
+      ],
+      "conductor": "Richard Hickox"
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Patricia Neway",
+        "Cornell MacNeil",
+        "Marie Powers"
+      ],
+      "conductor": "Lehman Engel"
+    },
+    {
+      "type": "audio",
+      "year": 1960,
+      "cast": [
+        "Neway",
+        "Ludgin"
+      ],
+      "conductor": "Torkanowsky"
+    }
+  ]
+}

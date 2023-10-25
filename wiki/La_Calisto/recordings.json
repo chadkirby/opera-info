@@ -1,0 +1,31 @@
+{
+  "html": "<ul><li>Soloists including <a href=\"/wiki/Janet_Baker\" title=\"Janet Baker\">Janet Baker</a>, <a href=\"/wiki/James_Bowman_(countertenor)\" title=\"James Bowman (countertenor)\">James Bowman</a> and <a href=\"/wiki/Ileana_Cotruba%C8%99\" title=\"Ileana Cotrubaș\">Ileana Cotrubaș</a>, Glyndebourne Festival Chorus, <a href=\"/wiki/London_Philharmonic_Orchestra\" title=\"London Philharmonic Orchestra\">LPO</a>, Raymond Leppard (<a href=\"/wiki/Decca_Records\" title=\"Decca Records\">Decca</a>, 1971)</li>\n<li><a href=\"/wiki/Concerto_Vocale\" title=\"Concerto Vocale\">Concerto Vocale</a>, <a href=\"/wiki/Ren%C3%A9_Jacobs\" title=\"René Jacobs\">René Jacobs</a>, Marcelo Lippi, Maria Bayo, etc. (<a href=\"/wiki/Harmonia_Mundi\" title=\"Harmonia Mundi\">Harmonia Mundi</a>, 1996)</li>\n<li><a href=\"/wiki/Glimmerglass_Opera\" class=\"mw-redirect\" title=\"Glimmerglass Opera\">Glimmerglass Opera</a>, Jane Glover (BBC Music, 1996) - extracts from a live performance</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1971,
+      "cast": [
+        "Janet Baker",
+        "James Bowman",
+        "Ileana Cotrubaș"
+      ],
+      "conductor": "Raymond Leppard"
+    },
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Concerto Vocale",
+        "Marcelo Lippi",
+        "Maria Bayo"
+      ],
+      "conductor": "René Jacobs"
+    },
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [],
+      "conductor": "Jane Glover"
+    }
+  ]
+}

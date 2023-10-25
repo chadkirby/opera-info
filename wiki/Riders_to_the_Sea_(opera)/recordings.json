@@ -1,0 +1,39 @@
+{
+  "html": "<ul><li>EMI Classics CDM7647302 (CD reissue of the first recording): <a href=\"/wiki/Norma_Burrowes\" title=\"Norma Burrowes\">Norma Burrowes</a>, <a href=\"/wiki/Margaret_Price\" title=\"Margaret Price\">Margaret Price</a>, <a href=\"/wiki/Helen_Watts\" title=\"Helen Watts\">Helen Watts</a>, <a href=\"/wiki/Benjamin_Luxon\" title=\"Benjamin Luxon\">Benjamin Luxon</a>, Pauline Stevens; <a href=\"/wiki/Ambrosian_Singers\" title=\"Ambrosian Singers\">Ambrosian Singers</a>; Orchestra Nova; <a href=\"/wiki/Meredith_Davies_(conductor)\" class=\"mw-redirect\" title=\"Meredith Davies (conductor)\">Meredith Davies</a>, conductor</li>\n<li>Chandos CHAN 9392: <a href=\"/wiki/Linda_Finnie\" title=\"Linda Finnie\">Linda Finnie</a>, Ingrid Attrot, <a href=\"/wiki/Lynne_Dawson\" title=\"Lynne Dawson\">Lynne Dawson</a>, Karl Morgan Daymond, <a href=\"/wiki/Pamela_Helen_Stephen\" title=\"Pamela Helen Stephen\">Pamela Helen Stephen</a>; Sinfonia Chorus; <a href=\"/wiki/Northern_Sinfonia\" class=\"mw-redirect\" title=\"Northern Sinfonia\">Northern Sinfonia</a>; <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>, conductor</li>\n<li>Kultur D4390 (DVD reissue of the 1988 Kultur VHS recording D20475): <a href=\"/wiki/Sarah_Walker_(mezzo-soprano)\" title=\"Sarah Walker (mezzo-soprano)\">Sarah Walker</a>, Yvonne Brennan, Kathleen Tynan, Hugh Mackey, [Mary Sheridan de Bruin, Martin Murphy; Radio Telefís Éireann Chamber Choir and Concert Orchestra; <a href=\"/wiki/Bryden_Thomson\" title=\"Bryden Thomson\">Bryden Thomson</a>, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Norma Burrowes",
+        "Margaret Price",
+        "Helen Watts",
+        "Benjamin Luxon",
+        "Pauline Stevens"
+      ],
+      "conductor": "Meredith Davies"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Linda Finnie",
+        "Ingrid Attrot",
+        "Lynne Dawson",
+        "Karl Morgan Daymond",
+        "Pamela Helen Stephen"
+      ],
+      "conductor": "Richard Hickox"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Sarah Walker",
+        "Yvonne Brennan",
+        "Kathleen Tynan",
+        "Hugh Mackey",
+        "Mary Sheridan de Bruin",
+        "Martin Murphy"
+      ],
+      "conductor": "Bryden Thomson"
+    }
+  ]
+}

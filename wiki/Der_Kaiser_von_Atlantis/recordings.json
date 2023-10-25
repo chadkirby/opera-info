@@ -1,0 +1,45 @@
+{
+  "html": "<ul><li>1993: <a href=\"/wiki/Michael_Kraus_(baritone)\" title=\"Michael Kraus (baritone)\">Michael Kraus</a>, <a href=\"/wiki/Franz_Mazura\" title=\"Franz Mazura\">Franz Mazura</a>, <a href=\"/wiki/Martin_Petzold\" title=\"Martin Petzold\">Martin Petzold</a>, <a href=\"/wiki/Herbert_Lippert\" title=\"Herbert Lippert\">Herbert Lippert</a>, <a href=\"/wiki/Christiane_Oelze\" title=\"Christiane Oelze\">Christiane Oelze</a>, <a href=\"/wiki/Walter_Berry_(bass-baritone)\" title=\"Walter Berry (bass-baritone)\">Walter Berry</a>, <a href=\"/wiki/Iris_Vermillion\" title=\"Iris Vermillion\">Iris Vermillion</a>; <a href=\"/wiki/Leipzig_Gewandhaus_Orchestra\" title=\"Leipzig Gewandhaus Orchestra\">Leipzig Gewandhaus Orchestra</a>; <a href=\"/wiki/Lothar_Zagrosek\" title=\"Lothar Zagrosek\">Lothar Zagrosek</a>, conductor. Decca 440 854-2.<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\">[32]</a></sup> This recording uses expanded orchestration and replaces the harpsichord with piano.</li>\n<li>1997: Stephen Swanson, <a href=\"/wiki/Rupert_Bergmann\" title=\"Rupert Bergmann\">Rupert Bergmann</a>, Johannes Strasser, Stefani Kahl, Krassimir Tassev, Ingrid Niedermayr; <a href=\"/wiki/ARBOS_%E2%80%93_Company_for_Music_and_Theatre\" class=\"mw-redirect\" title=\"ARBOS – Company for Music and Theatre\">ARBOS – Company for Music and Theatre</a> Gesellschaft für Musik und Theater/Ensemble Kreativ; Alexander Drčar, conductor; <a href=\"/wiki/Herbert_Gantschacher\" title=\"Herbert Gantschacher\">Herbert Gantschacher</a>, producer. Studio Matouš 0022-2 631. This recording uses the original instrumentation.<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\">[33]</a></sup><sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\">[34]</a></sup></li>\n<li>2022: <a href=\"/wiki/Adrian_Er%C3%B6d\" title=\"Adrian Eröd\">Adrian Eröd</a>, <a href=\"/wiki/Lars_Woldt\" title=\"Lars Woldt\">Lars Woldt</a>, <a href=\"/wiki/Johannes_Chum\" title=\"Johannes Chum\">Johannes Chum</a>, Juliana Zara, Tareq Nazmi, <a href=\"/wiki/Christel_Loetzsch\" title=\"Christel Loetzsch\">Christel Loetzsch</a>; <a href=\"/wiki/Munich_Radio_Orchestra\" title=\"Munich Radio Orchestra\">Munich Radio Orchestra</a>; <a href=\"/wiki/Patrick_Hahn\" title=\"Patrick Hahn\">Patrick Hahn</a>, conductor. BR-Klassik 900339.<sup id=\"cite_ref-35\" class=\"reference\"><a href=\"#cite_note-35\">[35]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Michael Kraus",
+        "Franz Mazura",
+        "Martin Petzold",
+        "Herbert Lippert",
+        "Christiane Oelze",
+        "Walter Berry",
+        "Iris Vermillion"
+      ],
+      "conductor": "Lothar Zagrosek"
+    },
+    {
+      "type": "audio",
+      "year": 1997,
+      "cast": [
+        "Stephen Swanson",
+        "Rupert Bergmann",
+        "Johannes Strasser",
+        "Stefani Kahl",
+        "Krassimir Tassev",
+        "Ingrid Niedermayr"
+      ],
+      "conductor": "Alexander Drčar"
+    },
+    {
+      "type": "audio",
+      "year": 2022,
+      "cast": [
+        "Adrian Eröd",
+        "Lars Woldt",
+        "Johannes Chum",
+        "Juliana Zara",
+        "Tareq Nazmi",
+        "Christel Loetzsch"
+      ],
+      "conductor": "Patrick Hahn"
+    }
+  ]
+}

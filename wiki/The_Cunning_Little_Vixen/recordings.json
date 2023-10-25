@@ -1,0 +1,38 @@
+{
+  "html": "<ul><li>Prague National Theatre Chorus and Orchestra/<a href=\"/wiki/Bohumil_Gregor\" title=\"Bohumil Gregor\">Bohumil Gregor</a> (Supraphon SU 3071-2612)</li>\n<li>Royal Opera House Chorus and Orchestra/<a href=\"/wiki/Simon_Rattle\" title=\"Simon Rattle\">Simon Rattle</a>, recorded 1991 (Chandos 3101(2), sung in English)</li>\n<li>Wiener Staatsopernchor &amp; Philharmoniker/<a href=\"/wiki/Charles_Mackerras\" title=\"Charles Mackerras\">Charles Mackerras</a>, recorded 1981 (Decca 417 129-2)</li>\n<li>Orchestre de Paris/Charles Mackerras, video recorded 1995 (Kultur D4544, <style data-mw-deduplicate=\"TemplateStyles:r1133582631\">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:\"\\\"\"\"\\\"\"\"'\"\"'\"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url(\"//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url(\"//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url(\"//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url(\"//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg\")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href=\"/wiki/OCLC_(identifier)\" class=\"mw-redirect\" title=\"OCLC (identifier)\">OCLC</a>&nbsp;<a rel=\"nofollow\" class=\"external text\" href=\"https://www.worldcat.org/oclc/698051148\">698051148</a>; Medici Arts, <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r1133582631\"><a href=\"/wiki/OCLC_(identifier)\" class=\"mw-redirect\" title=\"OCLC (identifier)\">OCLC</a>&nbsp;<a rel=\"nofollow\" class=\"external text\" href=\"https://www.worldcat.org/oclc/698051148\">698051148</a>)</li>\n<li>London Symphony Orchestra/<a href=\"/wiki/Simon_Rattle\" title=\"Simon Rattle\">Simon Rattle</a>, 2020 (LSO Live, LSO0850)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [],
+      "conductor": "Bohumil Gregor"
+    },
+    {
+      "type": "audio",
+      "year": 1991,
+      "cast": [],
+      "conductor": "Simon Rattle"
+    },
+    {
+      "type": "audio",
+      "year": 1981,
+      "cast": [
+        "Wiener Staatsopernchor",
+        "Philharmoniker"
+      ],
+      "conductor": "Charles Mackerras"
+    },
+    {
+      "type": "audio",
+      "year": 1995,
+      "cast": [],
+      "conductor": "Charles Mackerras"
+    },
+    {
+      "type": "audio",
+      "year": 2020,
+      "cast": [],
+      "conductor": "Simon Rattle"
+    }
+  ]
+}

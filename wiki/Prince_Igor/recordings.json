@@ -1,0 +1,108 @@
+{
+  "html": "<ul><li>1936-38, <a href=\"/wiki/Lev_Steinberg\" title=\"Lev Steinberg\">Lev Steinberg</a>, <a href=\"/wiki/Aleksander_Orlov\" title=\"Aleksander Orlov\">Aleksander Orlov</a> and <a href=\"/wiki/Alexander_Melik-Pashayev\" class=\"mw-redirect\" title=\"Alexander Melik-Pashayev\">Alexander Melik-Pashayev</a> (conductor), Bolshoi Theatre Orchestra and Chorus, Alexander Baturin (Igor), Xenia Derzhinskaya (Yaroslavna), <a href=\"/wiki/Ivan_Kozlovsky\" title=\"Ivan Kozlovsky\">Ivan Kozlovsky</a> (Vladimir), <a href=\"/wiki/Alexander_Pirogov\" title=\"Alexander Pirogov\">Aleksandr Pirogov</a> (Galitsky), <a href=\"/wiki/Maxim_Mikhailov\" title=\"Maxim Mikhailov\">Maxim Mikhailov</a> (Konchak), Elizaveta Antonova (Konchakovna)(abridged over 32 sides)</li>\n<li>1941, <a href=\"/wiki/Alexander_Melik-Pashayev\" class=\"mw-redirect\" title=\"Alexander Melik-Pashayev\">Aleksandr Melik-Pashayev</a> (conductor), Bolshoi Theatre Orchestra and Chorus, Alexander Baturin (Igor), Sofia Panova (Yaroslavna), <a href=\"/wiki/Ivan_Kozlovsky\" title=\"Ivan Kozlovsky\">Ivan Kozlovsky</a> (Vladimir), <a href=\"/wiki/Alexander_Pirogov\" title=\"Alexander Pirogov\">Aleksandr Pirogov</a> (Galitsky), <a href=\"/wiki/Maxim_Mikhailov\" title=\"Maxim Mikhailov\">Maxim Mikhailov</a> (Konchak), Nadezhda Obukhova (Konchakovna)</li>\n<li>1952, <a href=\"/wiki/Alexander_Melik-Pashayev\" class=\"mw-redirect\" title=\"Alexander Melik-Pashayev\">Aleksandr Melik-Pashayev</a> (conductor), Bolshoy Theatre Orchestra and Chorus, Andrey Ivanov (Igor), Yelena Smolenskaya (Yaroslavna), <a href=\"/wiki/Sergey_Lemeshev\" class=\"mw-redirect\" title=\"Sergey Lemeshev\">Sergey Lemeshev</a> (Vladimir), <a href=\"/wiki/Alexander_Pirogov\" title=\"Alexander Pirogov\">Aleksandr Pirogov</a> (Galitsky), <a href=\"/wiki/Mark_Reizen\" title=\"Mark Reizen\">Mark Reyzen</a> (Konchak), Vera Borisenko (Konchakovna)</li>\n<li>1955, Oskar Danon (conductor), Belgrade National Opera Orchestra and Chorus; Dušan Popović (Igor), Valerija Heybalova (Yaroslavna), Noni Zunec (Vladimir), Žarko Cvejić (Galitsky, Konchak), Melanija Bugarinović (Konchakovna)</li>\n<li>1966, <a href=\"/wiki/Jerzy_Semkow\" title=\"Jerzy Semkow\">Jerzy Semkow</a> (conductor), National Opera Theatre of Sofia; Constantin Chekerliiski (Igor), Julia Wiener (Yaroslavna), Todor Todorov (Vladimir), <a href=\"/wiki/Boris_Christoff\" title=\"Boris Christoff\">Boris Christoff</a> (Galitsky, Konchak), Reni Penkova (Konchakovna)</li>\n<li>1969, <a href=\"/wiki/Mark_Ermler\" title=\"Mark Ermler\">Mark Ermler</a> (conductor), Bolshoy Theatre Orchestra and Chorus; Ivan Petrov (Igor), Tatyana Tugarinova (Yaroslavna), Vladimir Atlantov (Vladimir), Artur Eisen (Galitsky), Aleksandr Vedernikov (Konchak), Yelena Obraztsova (Konchakovna)</li>\n<li>1990, <a href=\"/wiki/Emil_Tchakarov\" title=\"Emil Tchakarov\">Emil Tchakarov</a> (conductor), Sofia Festival Orchestra and National Opera Chorus, Boris Martinovich (Igor), <a href=\"/wiki/Stefka_Evstatieva\" title=\"Stefka Evstatieva\">Stefka Evstatieva</a> (Yaroslavna), Kaludi Kaludov (Vladimir), <a href=\"/wiki/Nicola_Ghiuselev\" title=\"Nicola Ghiuselev\">Nicola Ghiuselev</a> (Galitsky), <a href=\"/wiki/Nicolai_Ghiaurov\" title=\"Nicolai Ghiaurov\">Nicolai Ghiaurov</a> (Konchak), Alexandrina Milcheva-Nonova (Konchakovna) Sony 44878</li>\n<li>1993, <a href=\"/wiki/Valery_Gergiev\" title=\"Valery Gergiev\">Valery Gergiev</a> (conductor), Kirov Opera Orchestra and Chorus; Mikhail Kit (Igor), Galina Gorchakova (Yaroslavna), <a href=\"/wiki/Gegham_Grigoryan\" title=\"Gegham Grigoryan\">Gegham Grigoryan</a> (Vladimir), Vladimir Ognovienko (Galitsky), Bulat Minjelkiev (Konchak), Olga Borodina (Konchakovna), Philips 442–537–2.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": "1936-38",
+      "cast": [
+        "Alexander Baturin",
+        "Xenia Derzhinskaya",
+        "Ivan Kozlovsky",
+        "Aleksandr Pirogov",
+        "Maxim Mikhailov",
+        "Elizaveta Antonova"
+      ],
+      "conductor": "Lev Steinberg, Aleksander Orlov, and Alexander Melik-Pashayev"
+    },
+    {
+      "type": "audio",
+      "year": 1941,
+      "cast": [
+        "Alexander Baturin",
+        "Sofia Panova",
+        "Ivan Kozlovsky",
+        "Aleksandr Pirogov",
+        "Maxim Mikhailov",
+        "Nadezhda Obukhova"
+      ],
+      "conductor": "Aleksandr Melik-Pashayev"
+    },
+    {
+      "type": "audio",
+      "year": 1952,
+      "cast": [
+        "Andrey Ivanov",
+        "Yelena Smolenskaya",
+        "Sergey Lemeshev",
+        "Aleksandr Pirogov",
+        "Mark Reyzen",
+        "Vera Borisenko"
+      ],
+      "conductor": "Aleksandr Melik-Pashayev"
+    },
+    {
+      "type": "audio",
+      "year": 1955,
+      "cast": [
+        "Igor",
+        "Yaroslavna",
+        "Vladimir",
+        "Galitsky",
+        "Konchak",
+        "Konchakovna"
+      ],
+      "conductor": "Oskar Danon"
+    },
+    {
+      "type": "audio",
+      "year": 1966,
+      "cast": [
+        "Constantin Chekerliiski",
+        "Julia Wiener",
+        "Todor Todorov",
+        "Boris Christoff",
+        "Reni Penkova"
+      ],
+      "conductor": "Jerzy Semkow"
+    },
+    {
+      "type": "audio",
+      "year": 1969,
+      "cast": [
+        "Ivan Petrov",
+        "Tatyana Tugarinova",
+        "Vladimir Atlantov",
+        "Artur Eisen",
+        "Aleksandr Vedernikov",
+        "Yelena Obraztsova"
+      ],
+      "conductor": "Mark Ermler"
+    },
+    {
+      "type": "audio",
+      "year": 1990,
+      "cast": [
+        "Boris Martinovich",
+        "Stefka Evstatieva",
+        "Kaludi Kaludov",
+        "Nicola Ghiuselev",
+        "Nicolai Ghiaurov",
+        "Alexandrina Milcheva-Nonova"
+      ],
+      "conductor": "Emil Tchakarov"
+    },
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Mikhail Kit",
+        "Galina Gorchakova",
+        "Gegham Grigoryan",
+        "Vladimir Ognovienko",
+        "Bulat Minjelkiev",
+        "Olga Borodina"
+      ],
+      "conductor": "Valery Gergiev"
+    }
+  ]
+}

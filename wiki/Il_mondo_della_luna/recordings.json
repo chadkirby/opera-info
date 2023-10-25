@@ -1,0 +1,33 @@
+{
+  "html": "<ul><li>1977 – <a href=\"/wiki/Domenico_Trimarchi\" title=\"Domenico Trimarchi\">Domenico Trimarchi</a> (Buonafede), <a href=\"/wiki/Edith_Mathis\" title=\"Edith Mathis\">Edith Mathis</a> (Clarice), <a href=\"/wiki/Arleen_Auger\" title=\"Arleen Auger\">Arleen Augér</a> (Flaminia), <a href=\"/wiki/Frederica_von_Stade\" title=\"Frederica von Stade\">Frederica von Stade</a> (Lisetta), <a href=\"/wiki/Lucia_Valentini_Terrani\" title=\"Lucia Valentini Terrani\">Lucia Valentini Terrani</a> (Ernesto), <a href=\"/wiki/Luigi_Alva\" title=\"Luigi Alva\">Luigi Alva</a> (Ecclitico), <a href=\"/wiki/Anthony_Rolfe_Johnson\" title=\"Anthony Rolfe Johnson\">Anthony Rolfe Johnson</a> (Cecco) – <a href=\"/wiki/Radio_Suisse_Romande\" title=\"Radio Suisse Romande\">Chœurs de la Radio Suisse Romande</a>, <a href=\"/wiki/Orchestre_de_Chambre_de_Lausanne\" title=\"Orchestre de Chambre de Lausanne\">Orchestre de Chambre de Lausanne</a>, <a href=\"/wiki/Antal_Dor%C3%A1ti\" title=\"Antal Doráti\">Antal Doráti</a> – 3 CDs (<a href=\"/wiki/Philips_Records\" title=\"Philips Records\">Philips Records</a>). For more information, see <a href=\"/wiki/Il_mondo_della_luna_(Antal_Dor%C3%A1ti_recording)\" title=\"Il mondo della luna (Antal Doráti recording)\">Il mondo della luna (Antal Doráti recording)</a></li>\n<li>2009 – <a href=\"/wiki/Dietrich_Henschel\" title=\"Dietrich Henschel\">Dietrich Henschel</a> (Buonafede), <a href=\"/wiki/Christina_Landshamer\" title=\"Christina Landshamer\">Christina Landshamer</a> (Clarice), <a href=\"/wiki/Anja-Nina_Bahrmann\" title=\"Anja-Nina Bahrmann\">Anja-Nina Bahrmann</a> (Flaminia), <a href=\"/w/index.php?title=Maite_Beaumont&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Maite Beaumont (page does not exist)\">Maite Beaumont</a> (Lisetta), <a href=\"/wiki/Vivica_Genaux\" title=\"Vivica Genaux\">Vivica Genaux</a> (Ernesto), <a href=\"/w/index.php?title=Bernard_Richter&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bernard Richter (page does not exist)\">Bernard Richter</a> (Ecclitico), <a href=\"/wiki/Markus_Sch%C3%A4fer\" title=\"Markus Schäfer\">Markus Schäfer</a> (Cecco), <a href=\"/wiki/Concentus_Musicus_Wien\" title=\"Concentus Musicus Wien\">Concentus Musicus Wien</a>, <a href=\"/wiki/Nikolaus_Harnoncourt\" title=\"Nikolaus Harnoncourt\">Nikolaus Harnoncourt</a> – DVD (Unitel Classica)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1977,
+      "cast": [
+        "Domenico Trimarchi",
+        "Edith Mathis",
+        "Arleen Augér",
+        "Frederica von Stade",
+        "Lucia Valentini Terrani",
+        "Luigi Alva",
+        "Anthony Rolfe Johnson"
+      ],
+      "conductor": "Antal Doráti"
+    },
+    {
+      "type": "audio",
+      "year": 2009,
+      "cast": [
+        "Dietrich Henschel",
+        "Christina Landshamer",
+        "Anja-Nina Bahrmann",
+        "Maite Beaumont",
+        "Vivica Genaux",
+        "Bernard Richter",
+        "Markus Schäfer"
+      ],
+      "conductor": "Nikolaus Harnoncourt"
+    }
+  ]
+}

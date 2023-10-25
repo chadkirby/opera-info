@@ -1,0 +1,18 @@
+{
+  "html": "<ul><li>Erato, 1984: <a href=\"/wiki/Gino_Quilico\" title=\"Gino Quilico\">Gino Quilico</a> (Henri de Valois), Peter Jeffes (Comte de Nangis), <a href=\"/wiki/Barbara_Hendricks\" title=\"Barbara Hendricks\">Barbara Hendricks</a> (Minka), Isabel Garcisanz (Alexina), <a href=\"/wiki/Jean-Philippe_Lafont\" title=\"Jean-Philippe Lafont\">Jean-Philippe Lafont</a> (Fritelli), Chris de Moor (Laski); Choeur de Radio France, <a href=\"/wiki/Orchestre_Philharmonique_de_Radio_France\" class=\"mw-redirect\" title=\"Orchestre Philharmonique de Radio France\">Nouvel Orchestre Philharmonique de Radio France</a> conducted by <a href=\"/wiki/Charles_Dutoit\" title=\"Charles Dutoit\">Charles Dutoit</a>, réf. 2292-45792-2.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1984,
+      "cast": [
+        "Gino Quilico",
+        "Peter Jeffes",
+        "Barbara Hendricks",
+        "Isabel Garcisanz",
+        "Jean-Philippe Lafont",
+        "Chris de Moor"
+      ],
+      "conductor": "Charles Dutoit"
+    }
+  ]
+}

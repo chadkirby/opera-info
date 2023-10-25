@@ -1,4 +1,62 @@
 {
-  "html": "<table class=\"plainlinks metadata ambox mbox-small-left ambox-notice\" role=\"presentation\" style=\"width: auto;\"><tbody><tr><td class=\"mbox-image\"><img alt=\"\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/20px-Information_icon4.svg.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/30px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png 2x\" data-file-width=\"620\" data-file-height=\"620\"></td><td class=\"mbox-text\" style=\"width: auto;\"><div class=\"mbox-text-span\">This list is <a href=\"/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists\" title=\"Wikipedia:WikiProject Lists\">incomplete</a>; you can help by <a class=\"external text\" href=\"https://en.wikipedia.org/w/index.php?title=K%C3%A1%C5%A5a_Kabanov%C3%A1&amp;action=edit\">adding missing items</a>.  <span class=\"date-container\"><i>(<span class=\"date\">July 2022</span>)</i></span></div></td></tr></tbody></table>",
-  "items": []
+  "html": "<ul><li>1989/2006: Decca Classics 475 7518 (2006 CD reissue of the 1989 recording, also available as download); <a href=\"/wiki/Elisabeth_S%C3%B6derstr%C3%B6m\" title=\"Elisabeth Söderström\">Elisabeth Söderström</a>, Petr Dvorský, Dalibor Jedlička, <a href=\"/wiki/Nad%C4%9B%C5%BEda_Kniplov%C3%A1\" title=\"Naděžda Kniplová\">Naděžda Kniplová</a>; Vladimír Krejčík, Zdenĕk Švehla, <a href=\"/wiki/Libu%C5%A1e_M%C3%A1rov%C3%A1\" title=\"Libuše Márová\">Libuše Márová</a>, <a href=\"/wiki/Jaroslav_Sou%C4%8Dek\" title=\"Jaroslav Souček\">Jaroslav Souček</a>, Jitka Pavlová, Gertrude Jahn, Adolf Tomaschek, Hedwig Drechsler; <a href=\"/wiki/Vienna_Philharmonic\" title=\"Vienna Philharmonic\">Vienna Philharmonic</a>; Chorus of the <a href=\"/wiki/Vienna_State_Opera\" title=\"Vienna State Opera\">Vienna State Opera</a>; Sir <a href=\"/wiki/Charles_Mackerras\" title=\"Charles Mackerras\">Charles Mackerras</a>, conductor</li>\n<li>1994: <a href=\"/wiki/Supraphon\" title=\"Supraphon\">Supraphon</a> 10 8016-2 612: Drahomíra Tikalová, Ludmila Komancová, <a href=\"/wiki/Beno_Blachut\" title=\"Beno Blachut\">Beno Blachut</a>, Viktor Kočí, <a href=\"/wiki/Zden%C4%9Bk_Kroupa\" title=\"Zdeněk Kroupa\">Zdeněk Kroupa</a>; <a href=\"/wiki/National_Theatre_(Prague)\" title=\"National Theatre (Prague)\">Prague National Theatre Orchestra and Chorus</a>; <a href=\"/wiki/Jaroslav_Krombholc\" title=\"Jaroslav Krombholc\">Jaroslav Krombholc</a>, conductor</li>\n<li>1997: Supraphon SU 3291-2 632: <a href=\"/wiki/Gabriela_Be%C5%88a%C4%8Dkov%C3%A1\" title=\"Gabriela Beňačková\">Gabriela Beňačková</a>, <a href=\"/wiki/Dagmar_Peckov%C3%A1\" title=\"Dagmar Pecková\">Dagmar Pecková</a>, Erika Bauerová, Dana Burešová, <a href=\"/wiki/Eva_Randov%C3%A1\" title=\"Eva Randová\">Eva Randová</a>, Miroslav Kopp, Jozef Kundlák, Peter Straka, Zdeněk Harvánek; <a href=\"/wiki/Czech_Philharmonic\" title=\"Czech Philharmonic\">Czech Philharmonic</a>; Prague National Theatre Chorus; Sir <a href=\"/wiki/Charles_Mackerras\" title=\"Charles Mackerras\">Charles Mackerras</a>, conductor</li>\n<li>2007: <a href=\"/wiki/Chandos_Records\" title=\"Chandos Records\">Chandos</a> B00119PUQS: <a href=\"/wiki/Cheryl_Barker\" title=\"Cheryl Barker\">Cheryl Barker</a>, <a href=\"/wiki/Jane_Henschel\" title=\"Jane Henschel\">Jane Henschel</a>, <a href=\"/wiki/Robert_Brubaker_(tenor)\" title=\"Robert Brubaker (tenor)\">Robert Brubaker</a>; Chorus and Orchestra <a href=\"/wiki/Welsh_National_Opera\" title=\"Welsh National Opera\">Welsh National Opera</a>; <a href=\"/wiki/Carlo_Rizzi_(conductor)\" title=\"Carlo Rizzi (conductor)\">Carlo Rizzi</a>, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": "1989/2006",
+      "cast": [
+        "Elisabeth Söderström",
+        "Petr Dvorský",
+        "Dalibor Jedlička",
+        "Naděžda Kniplová",
+        "Vladimír Krejčík",
+        "Zdenĕk Švehla",
+        "Libuše Márová",
+        "Jaroslav Souček",
+        "Jitka Pavlová",
+        "Gertrude Jahn",
+        "Adolf Tomaschek",
+        "Hedwig Drechsler"
+      ],
+      "conductor": "Sir Charles Mackerras"
+    },
+    {
+      "type": "audio",
+      "year": 1994,
+      "cast": [
+        "Drahomíra Tikalová",
+        "Ludmila Komancová",
+        "Beno Blachut",
+        "Viktor Kočí",
+        "Zdeněk Kroupa"
+      ],
+      "conductor": "Jaroslav Krombholc"
+    },
+    {
+      "type": "audio",
+      "year": 1997,
+      "cast": [
+        "Gabriela Beňačková",
+        "Dagmar Pecková",
+        "Erika Bauerová",
+        "Dana Burešová",
+        "Eva Randová",
+        "Miroslav Kopp",
+        "Jozef Kundlák",
+        "Peter Straka",
+        "Zdeněk Harvánek"
+      ],
+      "conductor": "Sir Charles Mackerras"
+    },
+    {
+      "type": "audio",
+      "year": 2007,
+      "cast": [
+        "Cheryl Barker",
+        "Jane Henschel",
+        "Robert Brubaker"
+      ],
+      "conductor": "Carlo Rizzi"
+    }
+  ]
 }

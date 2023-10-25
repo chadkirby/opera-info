@@ -1,0 +1,33 @@
+{
+  "html": "<ul><li><a href=\"/wiki/James_McCracken\" title=\"James McCracken\">James McCracken</a> (Jean de Leyde), <a href=\"/wiki/Marilyn_Horne\" title=\"Marilyn Horne\">Marilyn Horne</a> (Fidès), <a href=\"/wiki/Renata_Scotto\" title=\"Renata Scotto\">Renata Scotto</a> (Berthe), Jean Dupouy (Jonas), Christian Du Plessis (Mathisen), <a href=\"/wiki/Jerome_Hines\" title=\"Jerome Hines\">Jerome Hines</a> (Zacharie), <a href=\"/wiki/Jules_Bastin\" title=\"Jules Bastin\">Jules Bastin</a> (Oberthal); <a href=\"/wiki/Ambrosian_Opera_Chorus\" class=\"mw-redirect\" title=\"Ambrosian Opera Chorus\">Ambrosian Opera Chorus</a>, <a href=\"/wiki/Royal_Philharmonic_Orchestra\" title=\"Royal Philharmonic Orchestra\">Royal Philharmonic Orchestra</a>, <a href=\"/wiki/Henry_Lewis_(musician)\" title=\"Henry Lewis (musician)\">Henry Lewis</a>, conductor. Recorded 1976. Sony CD Cat:88875194782.</li>\n<li>First recording of the new critical edition: <a href=\"/wiki/John_Osborn_(tenor)\" title=\"John Osborn (tenor)\">John Osborn</a> (Jean), <a href=\"/wiki/Marianne_Cornetti\" title=\"Marianne Cornetti\">Marianne Cornetti</a> (Fides), Lynette Tapia (Berthe), Albrecht Kludszuweit (Jonas), Pierre Doyen (Mathisen), <a href=\"/wiki/Tijl_Faveyts\" title=\"Tijl Faveyts\">Tijl Faveyts</a> (Zacharie), Karel Martin Ludvik, (Oberthal). Essener Philharmoniker, Giuliano Carella, conductor. Recorded 2017. <a href=\"/wiki/Oehms_Classics\" title=\"Oehms Classics\">Oehms</a> CD Cat:OC971.<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\">[16]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1976,
+      "cast": [
+        "James McCracken",
+        "Marilyn Horne",
+        "Renata Scotto",
+        "Jean Dupouy",
+        "Christian Du Plessis",
+        "Jerome Hines",
+        "Jules Bastin"
+      ],
+      "conductor": "Henry Lewis"
+    },
+    {
+      "type": "audio",
+      "year": 2017,
+      "cast": [
+        "John Osborn",
+        "Marianne Cornetti",
+        "Lynette Tapia",
+        "Albrecht Kludszuweit",
+        "Pierre Doyen",
+        "Tijl Faveyts",
+        "Karel Martin Ludvik"
+      ],
+      "conductor": "Giuliano Carella"
+    }
+  ]
+}

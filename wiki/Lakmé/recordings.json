@@ -1,0 +1,71 @@
+{
+  "html": "<ul><li>1940: <a href=\"/wiki/Lily_Pons\" title=\"Lily Pons\">Lily Pons</a> (Lakmé), <a href=\"/wiki/Armand_Tokatyan\" title=\"Armand Tokatyan\">Armand Tokatyan</a> (Gérald), <a href=\"/wiki/Ezio_Pinza\" title=\"Ezio Pinza\">Ezio Pinza</a> (Nilakantha), Ira Petina (Mallika), New York <a href=\"/wiki/Metropolitan_Opera\" title=\"Metropolitan Opera\">Metropolitan Opera</a> Chorus and Orchestra, <a href=\"/wiki/Wilfrid_Pelletier\" title=\"Wilfrid Pelletier\">Wilfrid Pelletier</a> (conductor) (The Golden Age; live)</li>\n<li>1952: <a href=\"/wiki/Mado_Robin\" title=\"Mado Robin\">Mado Robin</a> (Lakmé), <a href=\"/wiki/Libero_de_Luca\" title=\"Libero de Luca\">Libero de Luca</a> (Gérald), <a href=\"/wiki/Jacques_Jansen\" title=\"Jacques Jansen\">Jacques Jansen</a> (Frédéric), <a href=\"/wiki/Jean_Borthayre\" title=\"Jean Borthayre\">Jean Borthayre</a> (Nilakantha), Agnés Disney (Mallika), Chœurs et Orchestre du <a href=\"/wiki/Th%C3%A9%C3%A2tre_National_de_l%27Op%C3%A9ra-Comique\" class=\"mw-redirect\" title=\"Théâtre National de l'Opéra-Comique\">Théâtre National de l'Opéra-Comique</a>, <a href=\"/wiki/Georges_S%C3%A9bastian\" title=\"Georges Sébastian\">Georges Sébastian</a> (conductor) (Decca)</li>\n<li>1967: <a href=\"/wiki/Joan_Sutherland\" title=\"Joan Sutherland\">Joan Sutherland</a> (Lakmé), <a href=\"/wiki/Alain_Vanzo\" title=\"Alain Vanzo\">Alain Vanzo</a> (Gérald), <a href=\"/wiki/Gabriel_Bacquier\" title=\"Gabriel Bacquier\">Gabriel Bacquier</a> (Nilakantha), <a href=\"/wiki/Jane_Berbi%C3%A9\" title=\"Jane Berbié\">Jane Berbié</a> (Mallika), Chœurs et Orchestre National de l'<a href=\"/wiki/Op%C3%A9ra_de_Monte-Carlo\" title=\"Opéra de Monte-Carlo\">Opéra de Monte-Carlo</a>, <a href=\"/wiki/Richard_Bonynge\" title=\"Richard Bonynge\">Richard Bonynge</a> (conductor) (Decca)</li>\n<li>1970: <a href=\"/wiki/Mady_Mespl%C3%A9\" title=\"Mady Mesplé\">Mady Mesplé</a> (Lakmé), <a href=\"/wiki/Charles_Burles\" title=\"Charles Burles\">Charles Burles</a> (Gérald), <a href=\"/wiki/Roger_Soyer\" title=\"Roger Soyer\">Roger Soyer</a> (Nilakantha), Danielle Millet (Mallika), Chœurs et Orchestre du Théâtre National de l'Opéra-Comique, <a href=\"/wiki/Alain_Lombard\" title=\"Alain Lombard\">Alain Lombard</a> (conductor) (EMI)</li>\n<li>1998: <a href=\"/wiki/Natalie_Dessay\" title=\"Natalie Dessay\">Natalie Dessay</a> (Lakmé), <a href=\"/wiki/Gregory_Kunde\" title=\"Gregory Kunde\">Gregory Kunde</a> (Gérald), <a href=\"/wiki/Jos%C3%A9_van_Dam\" title=\"José van Dam\">José van Dam</a> (Nilakantha), <a href=\"/wiki/Delphine_Haidan\" title=\"Delphine Haidan\">Delphine Haidan</a> (Mallika), Chœur et <a href=\"/wiki/Orchestre_du_Capitole_de_Toulouse\" class=\"mw-redirect\" title=\"Orchestre du Capitole de Toulouse\">Orchestre du Capitole de Toulouse</a>, <a href=\"/wiki/Michel_Plasson\" title=\"Michel Plasson\">Michel Plasson</a> (conductor) (EMI)</li>\n<li>2012: <a href=\"/wiki/Emma_Matthews\" title=\"Emma Matthews\">Emma Matthews</a> (Lakmé), Aldo di Toro (Gérald), Stephen Bennett (Nilakantha), <a href=\"/wiki/Opera_Australia\" title=\"Opera Australia\">Opera Australia Chorus and Australian Opera and Ballet Orchestra</a>, Emmanuel Joel-Hornak (conductor) (Opera Australia OPOZ56021BD (Blu-ray), OPOZ56020DVD (DVD), OPOZ56022CD)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1940,
+      "cast": [
+        "Lily Pons",
+        "Armand Tokatyan",
+        "Ezio Pinza",
+        "Ira Petina"
+      ],
+      "conductor": "Wilfrid Pelletier"
+    },
+    {
+      "type": "audio",
+      "year": 1952,
+      "cast": [
+        "Mado Robin",
+        "Libero de Luca",
+        "Jacques Jansen",
+        "Jean Borthayre",
+        "Agnés Disney"
+      ],
+      "conductor": "Georges Sébastian"
+    },
+    {
+      "type": "audio",
+      "year": 1967,
+      "cast": [
+        "Joan Sutherland",
+        "Alain Vanzo",
+        "Gabriel Bacquier",
+        "Jane Berbié"
+      ],
+      "conductor": "Richard Bonynge"
+    },
+    {
+      "type": "audio",
+      "year": 1970,
+      "cast": [
+        "Mady Mesplé",
+        "Charles Burles",
+        "Roger Soyer",
+        "Danielle Millet"
+      ],
+      "conductor": "Alain Lombard"
+    },
+    {
+      "type": "audio",
+      "year": 1998,
+      "cast": [
+        "Natalie Dessay",
+        "Gregory Kunde",
+        "José van Dam",
+        "Delphine Haidan"
+      ],
+      "conductor": "Michel Plasson"
+    },
+    {
+      "type": "audio",
+      "year": 2012,
+      "cast": [
+        "Emma Matthews",
+        "Aldo di Toro",
+        "Stephen Bennett"
+      ],
+      "conductor": "Emmanuel Joel-Hornak"
+    }
+  ]
+}

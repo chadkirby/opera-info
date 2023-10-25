@@ -1,0 +1,124 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Ernesto_Halffter\" title=\"Ernesto Halffter\">Halffter</a> / <a href=\"/wiki/Victoria_de_los_%C3%81ngeles\" title=\"Victoria de los Ángeles\">Victoria de los Ángeles</a>, Rosario Gómez, Pablo Civil, Emilio Payá - <a href=\"/wiki/HMV\" title=\"HMV\">HMV</a>, 1954</li>\n<li><a href=\"/wiki/Eduard_Toldr%C3%A0\" title=\"Eduard Toldrà\">Toldrà</a> / <a href=\"/wiki/Victoria_de_los_%C3%81ngeles\" title=\"Victoria de los Ángeles\">Victoria de los Ángeles</a>, Rosario Gómez, Bernabé Martí, Joaquín Deus - Ediciones FVdA, 1958, live in Edinburgh</li>\n<li><a href=\"/wiki/Rafael_Fr%C3%BChbeck_de_Burgos\" title=\"Rafael Frühbeck de Burgos\">Frühbeck de Burgos</a> / <a href=\"/wiki/Victoria_de_los_%C3%81ngeles\" title=\"Victoria de los Ángeles\">Victoria de los Ángeles</a>, Ines Rivadeneira, <a href=\"/wiki/Carlo_Cossutta\" title=\"Carlo Cossutta\">Carlo Cossutta</a>, Victor de Narké - EMI, 1965</li>\n<li><a href=\"/wiki/Luis_Antonio_Garc%C3%ADa_Navarro\" title=\"Luis Antonio García Navarro\">García Navarro</a> / <a href=\"/wiki/Teresa_Berganza\" title=\"Teresa Berganza\">Teresa Berganza</a>, <a href=\"/wiki/Alicia_Naf%C3%A9\" title=\"Alicia Nafé\">Alicia Nafé</a>, <a href=\"/wiki/Jos%C3%A9_Carreras\" title=\"José Carreras\">José Carreras</a>, <a href=\"/wiki/Juan_Pons\" title=\"Juan Pons\">Juan Pons</a> - <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a>, 1978</li>\n<li><a href=\"/wiki/Jes%C3%BAs_L%C3%B3pez-Cobos\" class=\"mw-redirect\" title=\"Jesús López-Cobos\">López Cobos</a> / <a href=\"/wiki/Alicia_Naf%C3%A9\" title=\"Alicia Nafé\">Alicia Nafé</a>, Catherine Keen, Antonio Ordóñez, Michael Wadsworth - <a href=\"/wiki/Telarc_International_Corporation\" title=\"Telarc International Corporation\">Telarc</a>, 1992</li>\n<li><a href=\"/wiki/Eduardo_Mata\" title=\"Eduardo Mata\">Mata</a> / Martha Senn, Cecilia Angell, <a href=\"/wiki/Fernando_de_la_Mora_(tenor)\" title=\"Fernando de la Mora (tenor)\">Fernando de la Mora</a>, William Alvarado - Dorian, 1993</li>\n<li><a href=\"/wiki/Luis_Antonio_Garc%C3%ADa_Navarro\" title=\"Luis Antonio García Navarro\">García Navarro</a> / María José Montiel, Alicia Nafé, <a href=\"/wiki/Giacomo_Aragall\" title=\"Giacomo Aragall\">Giacomo Aragall</a>, Alfonso Echeverría - RTVE (DVD), 1997, live in Madrid</li>\n<li><a href=\"/wiki/Josep_Pons\" title=\"Josep Pons\">Josep Pons</a> / Inmaculada Egido, Mabel Perelstein, Antonio Ordóñez, Enrique Baquerizo - <a href=\"/wiki/Harmonia_Mundi\" title=\"Harmonia Mundi\">Harmonia Mundi</a>, 1997</li>\n<li><a href=\"/wiki/Rafael_Fr%C3%BChbeck_de_Burgos\" title=\"Rafael Frühbeck de Burgos\">Frühbeck de Burgos</a> / Maria Rodríguez, Paola Pelliciari, César Hernández, Marcello Lippi - Dynamic, 2001, live in <a href=\"/wiki/Cagliari\" title=\"Cagliari\">Cagliari</a></li>\n<li><a href=\"/wiki/Maximiano_Vald%C3%A9s\" title=\"Maximiano Valdés\">Valdés</a> / Ana María Sánchez, Alicia Nafé, Vicente Ombuena Valls, Alfonso Echeverría - <a href=\"/wiki/Naxos\" title=\"Naxos\">Naxos</a>, 2002, live in <a href=\"/wiki/Oviedo\" title=\"Oviedo\">Oviedo</a></li>\n<li><a href=\"/wiki/Lorin_Maazel\" title=\"Lorin Maazel\">Maazel</a> / <a href=\"/wiki/Cristina_Gallardo-Dom%C3%A2s\" title=\"Cristina Gallardo-Domâs\">Cristina Gallardo-Domâs</a>, María Luisa Corbacho, Jorge de León Paco, Felipe Bou - C Major (DVD), 2010, live in <a href=\"/wiki/Valencia\" title=\"Valencia\">Valencia</a></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1954,
+      "cast": [
+        "Victoria de los Ángeles",
+        "Rosario Gómez",
+        "Pablo Civil",
+        "Emilio Payá"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 1958,
+      "cast": [
+        "Victoria de los Ángeles",
+        "Rosario Gómez",
+        "Bernabé Martí",
+        "Joaquín Deus"
+      ],
+      "conductor": "Unknown"
+    },
+    {
+      "type": "audio",
+      "year": 1965,
+      "cast": [
+        "Victoria de los Ángeles",
+        "Ines Rivadeneira",
+        "Carlo Cossutta",
+        "Victor de Narké"
+      ],
+      "conductor": "Frühbeck de Burgos"
+    },
+    {
+      "type": "audio",
+      "year": 1978,
+      "cast": [
+        "Teresa Berganza",
+        "Alicia Nafé",
+        "José Carreras",
+        "Juan Pons"
+      ],
+      "conductor": "García Navarro"
+    },
+    {
+      "type": "audio",
+      "year": 1992,
+      "cast": [
+        "Alicia Nafé",
+        "Catherine Keen",
+        "Antonio Ordóñez",
+        "Michael Wadsworth"
+      ],
+      "conductor": "López Cobos"
+    },
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Mata",
+        "Martha Senn",
+        "Cecilia Angell",
+        "Fernando de la Mora",
+        "William Alvarado"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 1997,
+      "cast": [
+        "María José Montiel",
+        "Alicia Nafé",
+        "Giacomo Aragall",
+        "Alfonso Echeverría"
+      ],
+      "conductor": "García Navarro"
+    },
+    {
+      "type": "audio",
+      "year": 1997,
+      "cast": [
+        "Inmaculada Egido",
+        "Mabel Perelstein",
+        "Antonio Ordóñez",
+        "Enrique Baquerizo"
+      ],
+      "conductor": "Josep Pons"
+    },
+    {
+      "type": "audio",
+      "year": 2001,
+      "cast": [
+        "Maria Rodríguez",
+        "Paola Pelliciari",
+        "César Hernández",
+        "Marcello Lippi"
+      ],
+      "conductor": "Frühbeck de Burgos"
+    },
+    {
+      "type": "audio",
+      "year": 2002,
+      "cast": [
+        "Ana María Sánchez",
+        "Alicia Nafé",
+        "Vicente Ombuena Valls",
+        "Alfonso Echeverría"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 2010,
+      "cast": [
+        "Cristina Gallardo-Domâs",
+        "María Luisa Corbacho",
+        "Jorge de León Paco",
+        "Felipe Bou"
+      ],
+      "conductor": "Maazel"
+    }
+  ]
+}

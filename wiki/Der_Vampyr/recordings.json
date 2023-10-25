@@ -1,0 +1,83 @@
+{
+  "html": "<ul><li>Gisela Rathauscher, Traute Skladal, <a href=\"/wiki/Liane_Synek\" title=\"Liane Synek\">Liane Synek</a>, Maria Nussbaumer, <a href=\"/wiki/Kurt_Equiluz\" title=\"Kurt Equiluz\">Kurt Equiluz</a>, Erich Kuchar, Fritz Sperlbauer, Großes Wiener Rundfunkorchester (Viennese Radio Orchestra), conductor Kurt Tenner. Recording from Vienna, 1951. Line Music/Cantus Classics CACD 5.00269 F (supposedly not the revised version by Pfitzner)</li>\n<li>Ursula Boecke, Albert Kunz, Bruno Manazza, Charles Gillig, Chloe Owen, Erich Arberle, <a href=\"/wiki/Ernst_Gutstein\" title=\"Ernst Gutstein\">Ernst Gutstein</a>, Gottfried Fehr, Hans Eberg, Nelde Clavel, Bern Radio Orchestra, conductor Hans Haug. Recording from 1963 edited in 1971 on a 4-LP box set together with Hans Heiling, no label, ref. MRF-70-S.</li>\n<li><a href=\"/wiki/Roland_Hermann\" title=\"Roland Hermann\">Roland Hermann</a>, <a href=\"/wiki/Arleen_Auger\" title=\"Arleen Auger\">Arleen Auger</a>, <a href=\"/wiki/Anna_Tomowa-Sintow\" title=\"Anna Tomowa-Sintow\">Anna Tomowa-Sintow</a>, <a href=\"/wiki/Donald_Grobe\" title=\"Donald Grobe\">Donald Grobe</a>, <a href=\"/wiki/Kurt_B%C3%B6hme\" title=\"Kurt Böhme\">Kurt Böhme</a>, Jane Marsch, <a href=\"/wiki/Nikolaus_Hillebrand\" title=\"Nikolaus Hillebrand\">Nikolaus Hillebrand</a>, Bavarian Radio Symphony Orchestra, conductor Fritz Rieger.  Live recording from Munich, 1974. OPD-Opera d'Oro 1186</li>\n<li><a href=\"/wiki/Siegmund_Nimsgern\" title=\"Siegmund Nimsgern\">Siegmund Nimsgern</a> (Ruthven), <a href=\"/wiki/Carole_Farley\" title=\"Carole Farley\">Carole Farley</a> (Malvina Davenaut), Anastasia Tomaszewska-Schepis, <a href=\"/wiki/Josef_Protschka\" title=\"Josef Protschka\">Josef Protschka</a> (Aubry), Armando Caforio, <a href=\"/wiki/Galina_Pisarenko\" title=\"Galina Pisarenko\">Galina Pisarenko</a>, Martin Engel, Chorus and Orchestra Sinfonica of Radio Italiana, conductor Günter Neuhold.  Live recording from Rome, 1980. HOMMAGE 7001834-HOM (revised version by Pfitzner)</li>\n<li><a href=\"/w/index.php?title=Franz_Hawlata&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Franz Hawlata (page does not exist)\">Franz Hawlata</a> (Ruthwen), <a href=\"/wiki/Jonas_Kaufmann\" title=\"Jonas Kaufmann\">Jonas Kaufmann</a> (Aubry), Regina Klepper, Thomas Dewald, Yoo-Chang Nah, Anke Hoffmann, Hein Heidbüchel, Kay Immer, Franz Gerihsen, Josef Otten, Marietta Schwittay-Niedzwicki, Dirk Schortemeier, <a href=\"/wiki/WDR_Rundfunkchor_K%C3%B6ln\" title=\"WDR Rundfunkchor Köln\">WDR Rundfunkchor Köln</a> and <a href=\"/wiki/WDR_Rundfunkorchester_K%C3%B6ln\" class=\"mw-redirect\" title=\"WDR Rundfunkorchester Köln\">WDR Rundfunkorchester Köln</a>, conductor <a href=\"/wiki/Helmuth_Froschauer\" title=\"Helmuth Froschauer\">Helmuth Froschauer</a>. Recording from Cologne, 1999. <a href=\"/wiki/Capriccio_(record_label)\" title=\"Capriccio (record label)\">Capriccio</a> C5184, UPC 845221051840</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1951,
+      "cast": [
+        "Gisela Rathauscher",
+        "Traute Skladal",
+        "Liane Synek",
+        "Maria Nussbaumer",
+        "Kurt Equiluz",
+        "Erich Kuchar",
+        "Fritz Sperlbauer"
+      ],
+      "conductor": "Kurt Tenner"
+    },
+    {
+      "type": "audio",
+      "year": 1963,
+      "cast": [
+        "Ursula Boecke",
+        "Albert Kunz",
+        "Bruno Manazza",
+        "Charles Gillig",
+        "Chloe Owen",
+        "Erich Arberle",
+        "Ernst Gutstein",
+        "Gottfried Fehr",
+        "Hans Eberg",
+        "Nelde Clavel"
+      ],
+      "conductor": "Hans Haug"
+    },
+    {
+      "type": "audio",
+      "year": 1974,
+      "cast": [
+        "Roland Hermann",
+        "Arleen Auger",
+        "Anna Tomowa-Sintow",
+        "Donald Grobe",
+        "Kurt Böhme",
+        "Jane Marsch",
+        "Nikolaus Hillebrand"
+      ],
+      "conductor": "Fritz Rieger"
+    },
+    {
+      "type": "audio",
+      "year": 1980,
+      "cast": [
+        "Siegmund Nimsgern",
+        "Carole Farley",
+        "Anastasia Tomaszewska-Schepis",
+        "Josef Protschka",
+        "Armando Caforio",
+        "Galina Pisarenko",
+        "Martin Engel"
+      ],
+      "conductor": "Günter Neuhold"
+    },
+    {
+      "type": "audio",
+      "year": 1999,
+      "cast": [
+        "Franz Hawlata",
+        "Jonas Kaufmann",
+        "Regina Klepper",
+        "Thomas Dewald",
+        "Yoo-Chang Nah",
+        "Anke Hoffmann",
+        "Hein Heidbüchel",
+        "Kay Immer",
+        "Franz Gerihsen",
+        "Josef Otten",
+        "Marietta Schwittay-Niedzwicki",
+        "Dirk Schortemeier"
+      ],
+      "conductor": "Helmuth Froschauer"
+    }
+  ]
+}

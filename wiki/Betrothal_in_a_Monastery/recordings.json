@@ -1,0 +1,41 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Stanislavsky_Musical_Theatre\" class=\"mw-redirect\" title=\"Stanislavsky Musical Theatre\">Stanislavsky Musical Theatre</a>. With N. Korshunov (Don Jerome), Y. Kratov (Ferdinand), V. Kayevchenko (Louise), T. Yanko (Louise's Duenna), N. Issakova (Clara), E. Bulavin (Mendoza), S. Ilyinsky (Don Carlos), I. Petrov (Padre Augustin) cond.  <a href=\"/w/index.php?title=K._Abdullayev&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"K. Abdullayev (page does not exist)\">K. Abdullayev</a> (<a href=\"/w/index.php?title=Melodyia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Melodyia (page does not exist)\">Melodyia</a>, 1963)</li>\n<li>Orchestra  and chorus of the <a href=\"/wiki/Bolshoi_Theatre\" title=\"Bolshoi Theatre\">Bolshoi Theatre</a> cond. <a href=\"/wiki/Alexander_Lazarev\" title=\"Alexander Lazarev\">Alexander Lazarev</a>, (<a href=\"/wiki/Bertelsmann_Music_Group\" title=\"Bertelsmann Music Group\">BMG Classics</a>, 1990)<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup></li>\n<li><a href=\"/wiki/Kirov_Orchestra\" class=\"mw-redirect\" title=\"Kirov Orchestra\">Kirov Orchestra</a> and <a href=\"/wiki/Kirov_Opera\" class=\"mw-redirect\" title=\"Kirov Opera\">Kirov Opera</a>. With Evgeny Akimov, Marianna Tarassova, <a href=\"/wiki/Anna_Netrebko\" title=\"Anna Netrebko\">Anna Netrebko</a>, Alexandr Gergalov, Nikolai Gassiev, Larissa Diadkova, Sergey Aleksashkin, Yury Shkliar.  Chorus cond. <a href=\"/wiki/Valery_Gergiev\" title=\"Valery Gergiev\">Valery Gergiev</a> (<a href=\"/wiki/Philips\" title=\"Philips\">Philips</a>, 1998)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1963,
+      "cast": [
+        "N. Korshunov",
+        "Y. Kratov",
+        "V. Kayevchenko",
+        "T. Yanko",
+        "N. Issakova",
+        "E. Bulavin",
+        "S. Ilyinsky",
+        "I. Petrov"
+      ],
+      "conductor": "K. Abdullayev"
+    },
+    {
+      "type": "audio",
+      "year": 1990,
+      "cast": [],
+      "conductor": "Alexander Lazarev"
+    },
+    {
+      "type": "audio",
+      "year": 1998,
+      "cast": [
+        "Evgeny Akimov",
+        "Marianna Tarassova",
+        "Anna Netrebko",
+        "Alexandr Gergalov",
+        "Nikolai Gassiev",
+        "Larissa Diadkova",
+        "Sergey Aleksashkin",
+        "Yury Shkliar"
+      ],
+      "conductor": "Valery Gergiev"
+    }
+  ]
+}

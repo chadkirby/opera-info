@@ -1,0 +1,59 @@
+{
+  "html": "<ul><li>Audio conducted by Rossi, with McKnight/Gardino/Picchi/Mollet (Melodram, recorded live in Torino in 1958)</li>\n<li>Armide (<a href=\"/wiki/Felicity_Palmer\" title=\"Felicity Palmer\">Felicity Palmer</a>), Renaud (<a href=\"/wiki/Anthony_Rolfe_Johnson\" title=\"Anthony Rolfe Johnson\">Anthony Rolfe Johnson</a>), La Haine (<a href=\"/wiki/Linda_Finnie\" title=\"Linda Finnie\">Linda Finnie</a>), Hidraot (<a href=\"/wiki/Raimund_Herincx\" title=\"Raimund Herincx\">Raimund Herincx</a>); <a href=\"/wiki/City_of_London_Sinfonia\" title=\"City of London Sinfonia\">City of London Sinfonia</a>, <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a> (EMI, recorded live in London in June 1982)</li>\n<li>Video conducted by Ramin, with <a href=\"/wiki/Montserrat_Caball%C3%A9\" title=\"Montserrat Caballé\">Caballé</a>/Szirmay/Lindroos/Baquerizo (YouTube, filmed in Madrid on April 16, 1985)</li>\n<li>Armide (<a href=\"/wiki/Mireille_Delunsch\" title=\"Mireille Delunsch\">Mireille Delunsch</a>), Renaud (<a href=\"/wiki/Charles_H._Workman\" title=\"Charles H. Workman\">Charles Workman</a>), La Haine (<a href=\"/wiki/Ewa_Podle%C5%9B\" title=\"Ewa Podleś\">Ewa Podleś</a>), Hidraot (<a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a>); <a href=\"/wiki/Les_Musiciens_du_Louvre\" title=\"Les Musiciens du Louvre\">Les Musiciens du Louvre</a>, <a href=\"/wiki/Marc_Minkowski\" title=\"Marc Minkowski\">Marc Minkowski</a> (Archiv, recorded live in Paris in November and December 1996)</li>\n<li>Audio conducted by <a href=\"/wiki/Riccardo_Muti\" title=\"Riccardo Muti\">Muti</a>, with <a href=\"/wiki/Anna_Caterina_Antonacci\" title=\"Anna Caterina Antonacci\">Antonacci</a>/Urmana/Cole/<a href=\"/wiki/Donnie_Ray_Albert\" title=\"Donnie Ray Albert\">Albert</a> (House of Opera, recorded live in Milan on December 7, 1996)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1958,
+      "cast": [
+        "McKnight",
+        "Gardino",
+        "Picchi",
+        "Mollet"
+      ],
+      "conductor": "Rossi"
+    },
+    {
+      "type": "audio",
+      "year": 1982,
+      "cast": [
+        "Felicity Palmer",
+        "Anthony Rolfe Johnson",
+        "Linda Finnie",
+        "Raimund Herincx"
+      ],
+      "conductor": "Richard Hickox"
+    },
+    {
+      "type": "audio",
+      "year": 1985,
+      "cast": [
+        "Caballé",
+        "Szirmay",
+        "Lindroos",
+        "Baquerizo"
+      ],
+      "conductor": "Ramin"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Mireille Delunsch",
+        "Charles Workman",
+        "Ewa Podleś",
+        "Laurent Naouri"
+      ],
+      "conductor": "Marc Minkowski"
+    },
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Antonacci",
+        "Urmana",
+        "Cole",
+        "Albert"
+      ],
+      "conductor": "Muti"
+    }
+  ]
+}

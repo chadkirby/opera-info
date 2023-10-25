@@ -1,0 +1,35 @@
+{
+  "html": "<ul><li>Unicorn RHS 343/5: <a href=\"/wiki/Boris_Christoff\" title=\"Boris Christoff\">Boris Christoff</a>, Willy Hartmann, <a href=\"/wiki/Elisabeth_S%C3%B6derstr%C3%B6m\" title=\"Elisabeth Söderström\">Elisabeth Söderström</a>, <a href=\"/wiki/Alexander_Young_(tenor)\" title=\"Alexander Young (tenor)\">Alexander Young</a>, <a href=\"/wiki/Michael_Langdon\" title=\"Michael Langdon\">Michael Langdon</a>, <a href=\"/wiki/Kim_Borg\" title=\"Kim Borg\">Kim Borg</a>, Bodil Gobel, <a href=\"/wiki/Sylvia_Fisher\" title=\"Sylvia Fisher\">Sylvia Fisher</a>, Mogens Berg, Kirsten Buhl-Moller; <a href=\"/wiki/Danish_Radio_Symphony_Orchestra\" class=\"mw-redirect\" title=\"Danish Radio Symphony Orchestra\">Danish Radio Symphony Orchestra</a> and Chorus; <a href=\"/wiki/John_Alldis\" title=\"John Alldis\">John Alldis</a> Choir; <a href=\"/wiki/Jascha_Horenstein\" title=\"Jascha Horenstein\">Jascha Horenstein</a>, conductor (sung in English)<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup></li>\n<li>Chandos 8911(2): Aage Haugland, Anne Gjevang, Christian Christiansen, Jurgen Klint, Kurt Westi, <a href=\"/wiki/Peter_Lindroos\" title=\"Peter Lindroos\">Peter Lindroos</a>, Tina Kiberg; Danish National Choir; Danish National Symphony Orchestra; <a href=\"/wiki/Neeme_J%C3%A4rvi\" title=\"Neeme Järvi\">Neeme Järvi</a>, conductor (sung in Danish, 1990)<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[6]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Boris Christoff",
+        "Willy Hartmann",
+        "Elisabeth Söderström",
+        "Alexander Young",
+        "Michael Langdon",
+        "Kim Borg",
+        "Bodil Gobel",
+        "Sylvia Fisher",
+        "Mogens Berg",
+        "Kirsten Buhl-Moller"
+      ],
+      "conductor": "Jascha Horenstein"
+    },
+    {
+      "type": "audio",
+      "year": 1990,
+      "cast": [
+        "Aage Haugland",
+        "Anne Gjevang",
+        "Christian Christiansen",
+        "Jurgen Klint",
+        "Kurt Westi",
+        "Peter Lindroos",
+        "Tina Kiberg"
+      ],
+      "conductor": "Neeme Järvi"
+    }
+  ]
+}

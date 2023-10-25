@@ -1,0 +1,57 @@
+{
+  "html": "<ul><li>1956: <a href=\"/wiki/Lotte_Lenya\" title=\"Lotte Lenya\">Lotte Lenya</a>, <a href=\"/wiki/Wilhelm_Br%C3%BCckner-R%C3%BCggeberg\" title=\"Wilhelm Brückner-Rüggeberg\">Wilhelm Brückner-Rüggeberg</a> (Sony 1990; originally recorded 1956)</li>\n<li>1979: DVD, <a href=\"/wiki/James_Levine\" title=\"James Levine\">James Levine</a>; <a href=\"/wiki/John_Dexter\" title=\"John Dexter\">John Dexter</a>, stage director; <a href=\"/wiki/Teresa_Stratas\" title=\"Teresa Stratas\">Teresa Stratas</a>, <a href=\"/wiki/Astrid_Varnay\" title=\"Astrid Varnay\">Astrid Varnay</a>, <a href=\"/wiki/Richard_Cassilly\" title=\"Richard Cassilly\">Richard Cassilly</a>; <a href=\"/wiki/Metropolitan_Opera\" title=\"Metropolitan Opera\">Metropolitan Opera</a></li>\n<li>1985: <a href=\"/wiki/Anja_Silja\" title=\"Anja Silja\">Anja Silja</a>, <a href=\"/wiki/Jan_Latham-Koenig\" title=\"Jan Latham-Koenig\">Jan Latham-Koenig</a> (Capriccio 1988; recorded in 1985)</li>\n<li>1997: DVD 1997, <a href=\"/wiki/Salzburg_Festival\" title=\"Salzburg Festival\">Salzburg Festival</a></li>\n<li>2007: DVD <a href=\"/wiki/Los_Angeles_Opera\" title=\"Los Angeles Opera\">Los Angeles Opera</a>, starring <a href=\"/wiki/Audra_McDonald\" title=\"Audra McDonald\">Audra McDonald</a>, <a href=\"/wiki/Patti_LuPone\" title=\"Patti LuPone\">Patti LuPone</a>, and <a href=\"/wiki/Anthony_Dean_Griffey\" title=\"Anthony Dean Griffey\">Anthony Dean Griffey</a>. This recording won two 2009 <a href=\"/wiki/Grammy_Award\" class=\"mw-redirect\" title=\"Grammy Award\">Grammy Awards</a> for Best Opera Recording and Best Classical Album. It was screened on TV as part of <a href=\"/wiki/PBS\" title=\"PBS\">PBS</a>' <i><a href=\"/wiki/Great_Performances\" title=\"Great Performances\">Great Performances</a></i></li>\n<li>2010: <a href=\"/wiki/Teatro_Real\" title=\"Teatro Real\">Teatro Real</a> (Madrid), starring <a href=\"/wiki/Measha_Brueggergosman\" title=\"Measha Brueggergosman\">Measha Brueggergosman</a>, <a href=\"/wiki/Jane_Henschel\" title=\"Jane Henschel\">Jane Henschel</a>, Michael König and <a href=\"/wiki/Willard_White\" title=\"Willard White\">Willard White</a>, conducted by <a href=\"/wiki/Pablo_Heras-Casado\" title=\"Pablo Heras-Casado\">Pablo Heras-Casado</a> and staged by <a href=\"/wiki/La_Fura_dels_Baus\" title=\"La Fura dels Baus\">La Fura dels Baus</a>. (DVD and Blu-ray Bel Air Classiques 2011; filmed in 2010)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1956,
+      "cast": [
+        "Lotte Lenya",
+        "Wilhelm Brückner-Rüggeberg"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 1979,
+      "cast": [
+        "Teresa Stratas",
+        "Astrid Varnay",
+        "Richard Cassilly"
+      ],
+      "conductor": "James Levine"
+    },
+    {
+      "type": "audio",
+      "year": 1985,
+      "cast": [
+        "Anja Silja",
+        "Jan Latham-Koenig"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 1997,
+      "cast": null,
+      "conductor": null
+    },
+    {
+      "type": "audio",
+      "year": 2007,
+      "cast": [
+        "Audra McDonald",
+        "Patti LuPone",
+        "Anthony Dean Griffey"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 2010,
+      "cast": [
+        "Measha Brueggergosman",
+        "Jane Henschel",
+        "Michael König",
+        "Willard White"
+      ],
+      "conductor": "Pablo Heras-Casado"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "html": "<ul><li>1977: EMI Classical 555 237-2 (CD issue): <a href=\"/wiki/Rafael_Kubel%C3%ADk\" title=\"Rafael Kubelík\">Rafael Kubelík</a> (cond.), <a href=\"/wiki/Bavarian_Radio_Symphony_Orchestra\" title=\"Bavarian Radio Symphony Orchestra\">Bavarian Radio Symphony Orchestra</a> &amp; Chorus. <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a> (Mathis), <a href=\"/wiki/James_King_(tenor)\" title=\"James King (tenor)\">James King</a> (Cardinal Albrecht), Ursula Koszut, <a href=\"/wiki/William_Cochran_(tenor)\" title=\"William Cochran (tenor)\">William Cochran</a>, <a href=\"/wiki/Peter_Meven\" title=\"Peter Meven\">Peter Meven</a>, Rose Wagemann, <a href=\"/wiki/Donald_Grobe\" title=\"Donald Grobe\">Donald Grobe</a>, Gerd Feldhoff, <a href=\"/wiki/Alexander_Malta\" title=\"Alexander Malta\">Alexander Malta</a>, <a href=\"/wiki/Trudeliese_Schmidt\" title=\"Trudeliese Schmidt\">Trudeliese Schmidt</a>.</li>\n<li>1990: <a href=\"/wiki/Wergo\" class=\"mw-redirect\" title=\"Wergo\">Wergo</a> WER 6255-2: <a href=\"/wiki/Gerd_Albrecht\" title=\"Gerd Albrecht\">Gerd Albrecht</a> (cond.), <a href=\"/wiki/WDR_Symphony_Orchestra_Cologne\" title=\"WDR Symphony Orchestra Cologne\">WDR Symphony Orchestra Cologne</a> &amp; Chorus. <a href=\"/wiki/Josef_Protschka\" title=\"Josef Protschka\">Josef Protschka</a>, <a href=\"/wiki/Roland_Hermann\" title=\"Roland Hermann\">Roland Hermann</a>, <a href=\"/wiki/Victor_von_Halem\" title=\"Victor von Halem\">Victor von Halem</a>, <a href=\"/wiki/Hermann_Winkler_(tenor)\" title=\"Hermann Winkler (tenor)\">Hermann Winkler</a>, <a href=\"/wiki/Harald_Stamm\" title=\"Harald Stamm\">Harald Stamm</a>, <a href=\"/wiki/Sabine_Hass\" title=\"Sabine Hass\">Sabine Hass</a>, <a href=\"/wiki/Heinz_Kruse\" title=\"Heinz Kruse\">Heinz Kruse</a>, Ulrich Hielscher, Ulrich Reß, <a href=\"/wiki/Gabriele_Rossmanith\" title=\"Gabriele Rossmanith\">Gabriele Rossmanith</a>, Marilyn Schmiege.</li>\n<li>2005: <a href=\"/wiki/Oehms_Classics\" title=\"Oehms Classics\">Oehms Classics</a> OC 908: <a href=\"/wiki/Simone_Young\" title=\"Simone Young\">Simone Young</a>, <a href=\"/wiki/Philharmoniker_Hamburg\" class=\"mw-redirect\" title=\"Philharmoniker Hamburg\">Hamburg Philharmonic</a> Symphony and chorus. <a href=\"/wiki/Falk_Struckmann\" title=\"Falk Struckmann\">Falk Struckmann</a>, Scott MacAllister, Susan Anthony, Inga Kalna, Pär Lindskog. 2005 Hamburg staging. (Libretto not included in booklet.)</li>\n<li>2012 <a href=\"/wiki/Theater_an_der_Wien\" title=\"Theater an der Wien\">Theater an der Wien</a>: Mathis – <a href=\"/wiki/Wolfgang_Koch\" title=\"Wolfgang Koch\">Wolfgang Koch</a>, Albrecht von Brandenburg – <a href=\"/wiki/Kurt_Streit\" title=\"Kurt Streit\">Kurt Streit</a>, Riedinger – <a href=\"/wiki/Franz_Grundheber\" title=\"Franz Grundheber\">Franz Grundheber</a>, Ursula – Manuela Uhl, Hans Schwalb – Raymond Very, Regina – Katerina Tretyakova, Lorenz von Pommersfelden – Martin Snell, Wolfgang Capito – Charles Reid, Sylvester von Schaumberg – Oliver Ringelhahn, Truchsess von Waldburg – Ben Connor, Helfenstein’s Piper – Andrew Owens, Countess Helfenstein – Magdalena Anna Hofmann, Slovak Philharmonic Chorus (chorus master: Blanka Juhaňáková), Vienna Symphony Orchestra, <a href=\"/wiki/Bertrand_de_Billy\" title=\"Bertrand de Billy\">Bertrand de Billy</a>, conductor, (<a href=\"/wiki/Keith_Warner\" title=\"Keith Warner\">Keith Warner</a> – stage director, Johan Engels – set designer, Emma Ryott – costume designer, Mark Jonathan – lighting designer).<sup class=\"noprint Inline-Template\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Writing_better_articles#Stay_on_topic\" title=\"Wikipedia:Writing better articles\"><span title=\"The material near this tag may contain information that is not relevant to the article's main topic. Is there a recording? (February 2023)\">relevant?</span></a></i>]</sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1977,
+      "cast": [
+        "Dietrich Fischer-Dieskau",
+        "James King",
+        "Ursula Koszut",
+        "William Cochran",
+        "Peter Meven",
+        "Rose Wagemann",
+        "Donald Grobe",
+        "Gerd Feldhoff",
+        "Alexander Malta",
+        "Trudeliese Schmidt"
+      ],
+      "conductor": "Rafael Kubelík"
+    },
+    {
+      "type": "audio",
+      "year": 1990,
+      "cast": [
+        "Josef Protschka",
+        "Roland Hermann",
+        "Victor von Halem",
+        "Hermann Winkler",
+        "Harald Stamm",
+        "Sabine Hass",
+        "Heinz Kruse",
+        "Ulrich Hielscher",
+        "Ulrich Reß",
+        "Gabriele Rossmanith",
+        "Marilyn Schmiege"
+      ],
+      "conductor": "Gerd Albrecht"
+    },
+    {
+      "type": "audio",
+      "year": 2005,
+      "cast": [
+        "Falk Struckmann",
+        "Scott MacAllister",
+        "Susan Anthony",
+        "Inga Kalna",
+        "Pär Lindskog"
+      ],
+      "conductor": "Simone Young"
+    },
+    {
+      "type": "audio",
+      "year": 2012,
+      "cast": [
+        "Wolfgang Koch",
+        "Kurt Streit",
+        "Franz Grundheber",
+        "Manuela Uhl",
+        "Raymond Very",
+        "Katerina Tretyakova",
+        "Martin Snell",
+        "Charles Reid",
+        "Oliver Ringelhahn",
+        "Ben Connor",
+        "Andrew Owens",
+        "Magdalena Anna Hofmann"
+      ],
+      "conductor": "Bertrand de Billy"
+    }
+  ]
+}

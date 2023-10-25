@@ -1,0 +1,23 @@
+{
+  "html": "<ul><li>In 1991 Capriccio released a 1990 recording with <a href=\"/wiki/Gerd_Albrecht\" title=\"Gerd Albrecht\">Gerd Albrecht</a> conducting the <a href=\"/wiki/Deutsches_Symphonie-Orchester_Berlin\" title=\"Deutsches Symphonie-Orchester Berlin\">Berlin Radio Symphony Orchestra</a> and <a href=\"/wiki/Gabriele_Schnaut\" title=\"Gabriele Schnaut\">Gabriele Schnaut</a> and <a href=\"/wiki/Thomas_Moser\" title=\"Thomas Moser\">Thomas Moser</a> in the principal roles.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup></li>\n<li>In 2000, <a href=\"/wiki/Naxos_Records\" class=\"mw-redirect\" title=\"Naxos Records\">Naxos</a> released a January 1989 live recording from the Hagen Municipal Hall, Germany, with <a href=\"/wiki/Michael_Hal%C3%A1sz\" title=\"Michael Halász\">Michael Halász</a> conducting the <a href=\"/w/index.php?title=Hagen_Philharmonic_Orchestra&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Hagen Philharmonic Orchestra (page does not exist)\">Hagen Philharmonic Orchestra</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://de.wikipedia.org/wiki/Philharmonisches_Orchester_Hagen\" class=\"extiw\" title=\"de:Philharmonisches Orchester Hagen\">de</a>]</span>, and Elena Grigorescu and Thomas Harper in the principal roles.<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup><sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1990,
+      "cast": [
+        "Gabriele Schnaut",
+        "Thomas Moser"
+      ],
+      "conductor": "Gerd Albrecht"
+    },
+    {
+      "type": "audio",
+      "year": 1989,
+      "cast": [
+        "Elena Grigorescu",
+        "Thomas Harper"
+      ],
+      "conductor": "Michael Halász"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Gerd_Albrecht\" title=\"Gerd Albrecht\">Gerd Albrecht</a>, conductor; <a href=\"/wiki/Kenneth_Riegel\" title=\"Kenneth Riegel\">Kenneth Riegel</a>, <a href=\"/wiki/Andreas_Schmidt_(baritone)\" title=\"Andreas Schmidt (baritone)\">Andreas Schmidt</a>, Michael Burt, Robert Tear, <a href=\"/wiki/Karan_Armstrong\" title=\"Karan Armstrong\">Karan Armstrong</a>, <a href=\"/wiki/Ortrun_Wenkel\" title=\"Ortrun Wenkel\">Ortrun Wenkel</a>, William B. Murray, Celina Lindsey; <a href=\"/wiki/Berlin_Radio_Symphony_Orchestra\" title=\"Berlin Radio Symphony Orchestra\">Berlin Radio Symphony Orchestra</a>; 1986, Koch Schwann International (314-006)<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup></li>\n<li><a href=\"/wiki/Christoph_von_Dohn%C3%A1nyi\" title=\"Christoph von Dohnányi\">Christoph von Dohnányi</a>, conductor; <a href=\"/wiki/Loren_Driscoll\" title=\"Loren Driscoll\">Loren Driscoll</a>, <a href=\"/wiki/Kostas_Paskalis\" title=\"Kostas Paskalis\">Kostas Paskalis</a>, Peter Lagger, Helmut Melchert, <a href=\"/wiki/William_Dooley\" title=\"William Dooley\">William Dooley</a>, <a href=\"/wiki/Kerstin_Meyer\" title=\"Kerstin Meyer\">Kerstin Meyer</a>, <a href=\"/wiki/Ingeborg_Hallstein\" title=\"Ingeborg Hallstein\">Ingeborg Hallstein</a>, <a href=\"/wiki/Vera_Little\" title=\"Vera Little\">Vera Little</a>; Choir of the <a href=\"/wiki/Vienna_State_Opera\" title=\"Vienna State Opera\">Vienna State Opera</a>; <a href=\"/wiki/Vienna_Philharmonic\" title=\"Vienna Philharmonic\">Vienna Philharmonic</a>; 2003, ORFEO International (C 605,032 I)</li>\n<li><a href=\"/wiki/Kent_Nagano\" title=\"Kent Nagano\">Kent Nagano</a>, conductor; <a href=\"/wiki/Sean_Panikkar\" title=\"Sean Panikkar\">Sean Panikkar</a>, <a href=\"/wiki/Russell_Braun\" title=\"Russell Braun\">Russell Braun</a>, <a href=\"/wiki/Willard_White\" title=\"Willard White\">Willard White</a>, <a href=\"/wiki/Nikolai_Schukoff\" title=\"Nikolai Schukoff\">Nikolai Schukoff</a>, <a href=\"/w/index.php?title=K%C3%A1roly_Szemer%C3%A9dy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Károly Szemerédy (page does not exist)\">Károly Szemerédy</a>, <a href=\"/wiki/Tanja_Ariane_Baumgartner\" title=\"Tanja Ariane Baumgartner\">Tanja Ariane Baumgartner</a>, <a href=\"/w/index.php?title=Vera-Lotte_B%C3%B6cker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vera-Lotte Böcker (page does not exist)\">Vera-Lotte Böcker</a>, Maria Dur; Choir of the Vienna State Opera; Vienna Philharmonic; 2018, Live from the <a href=\"/wiki/Felsenreitschule\" title=\"Felsenreitschule\">Felsenreitschule</a>, Salzburg Festival, Arthaus Musik.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1986,
+      "cast": [
+        "Kenneth Riegel",
+        "Andreas Schmidt",
+        "Michael Burt",
+        "Robert Tear",
+        "Karan Armstrong",
+        "Ortrun Wenkel",
+        "William B. Murray",
+        "Celina Lindsey"
+      ],
+      "conductor": "Gerd Albrecht"
+    },
+    {
+      "type": "audio",
+      "year": 2003,
+      "cast": [
+        "Loren Driscoll",
+        "Kostas Paskalis",
+        "Peter Lagger",
+        "Helmut Melchert",
+        "William Dooley",
+        "Kerstin Meyer",
+        "Ingeborg Hallstein",
+        "Vera Little"
+      ],
+      "conductor": "Christoph von Dohnányi"
+    },
+    {
+      "type": "audio",
+      "year": 2018,
+      "cast": [
+        "Sean Panikkar",
+        "Russell Braun",
+        "Willard White",
+        "Nikolai Schukoff",
+        "Károly Szemerédy",
+        "Tanja Ariane Baumgartner",
+        "Vera-Lotte Böcker",
+        "Maria Dur"
+      ],
+      "conductor": "Kent Nagano"
+    }
+  ]
+}

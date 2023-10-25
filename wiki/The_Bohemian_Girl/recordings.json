@@ -1,0 +1,30 @@
+{
+  "html": "<ul><li>Conductor: <a href=\"/wiki/Richard_Bonynge\" title=\"Richard Bonynge\">Richard Bonynge</a></li>\n<li>Principal singers: Nova Thomas (Arline), <a href=\"/wiki/Patrick_Power_(tenor)\" title=\"Patrick Power (tenor)\">Patrick Power</a> (Thaddeus), <a href=\"/wiki/Jonathan_Summers\" title=\"Jonathan Summers\">Jonathan Summers</a> (Count Arnheim), <a href=\"/wiki/Bernadette_Cullen\" title=\"Bernadette Cullen\">Bernadette Cullen</a> (Queen of the Gipsies), John del Carlo (Devilshoof), Timothy German (Florestein)</li>\n<li>Recording date and location: January 1991, <a href=\"/wiki/National_Concert_Hall\" title=\"National Concert Hall\">National Concert Hall</a>, Dublin</li>\n<li>Label: <a href=\"/wiki/Argo_Records_(UK)\" title=\"Argo Records (UK)\">Argo</a>, 433 324-2 (2 CDs)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "conductor": "Richard Bonynge"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Nova Thomas",
+        "Patrick Power",
+        "Jonathan Summers",
+        "Bernadette Cullen",
+        "John del Carlo",
+        "Timothy German"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 1991
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": null,
+      "conductor": null
+    }
+  ]
+}

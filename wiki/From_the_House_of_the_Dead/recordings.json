@@ -1,0 +1,51 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Supraphon\" title=\"Supraphon\">Supraphon</a>, 1964: Václav Bednár, Jaroslav Horácek, <a href=\"/wiki/Ivo_%C5%BD%C3%ADdek\" title=\"Ivo Žídek\">Ivo Žídek</a>, <a href=\"/wiki/Beno_Blachut\" title=\"Beno Blachut\">Beno Blachut</a>, <a href=\"/wiki/P%C5%99emysl_Ko%C4%8D%C3%AD\" title=\"Přemysl Kočí\">Přemysl Kočí</a>; <a href=\"/wiki/Prague_National_Theatre\" class=\"mw-redirect\" title=\"Prague National Theatre\">Prague National Theatre</a> Orchestra &amp; Chorus, <a href=\"/wiki/Bohumil_Gregor\" title=\"Bohumil Gregor\">Bohumil Gregor</a>, conductor</li>\n<li><a href=\"/wiki/Decca_Records\" title=\"Decca Records\">Decca</a>, 1979: Dalibor Jedlicka, Jiří Zahradníček, Ivo Žídek, Václav Zitek, <a href=\"/wiki/Vienna_Philharmonic\" title=\"Vienna Philharmonic\">Vienna Philharmonic</a>; Sir <a href=\"/wiki/Charles_Mackerras\" title=\"Charles Mackerras\">Charles Mackerras</a>, conductor (recording of original version)<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\">[5]</a></sup></li>\n<li>Supraphon, 1979: Richard Novák, <a href=\"/wiki/Vil%C3%A9m_P%C5%99ibyl\" title=\"Vilém Přibyl\">Vilém Přibyl</a>, Jaroslav Horácek, Ivo Žídek, Jaroslav Soucek; Czech Philharmonic Chorus and <a href=\"/wiki/Czech_Philharmonic\" title=\"Czech Philharmonic\">Orchestra</a>; <a href=\"/wiki/V%C3%A1clav_Neumann\" title=\"Václav Neumann\">Václav Neumann</a>, conductor</li>\n<li><a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a> (DVD), 2007: <a href=\"/wiki/Olaf_B%C3%A4r\" title=\"Olaf Bär\">Olaf Bär</a>, <a href=\"/wiki/%C5%A0tefan_Margita\" title=\"Štefan Margita\">Štefan Margita</a>, <a href=\"/wiki/John_Mark_Ainsley\" title=\"John Mark Ainsley\">John Mark Ainsley</a>, <a href=\"/wiki/Gerd_Grochowski\" title=\"Gerd Grochowski\">Gerd Grochowski</a>; <a href=\"/wiki/Arnold_Schoenberg_Choir\" title=\"Arnold Schoenberg Choir\">Arnold Schoenberg Choir</a>; <a href=\"/wiki/Mahler_Chamber_Orchestra\" title=\"Mahler Chamber Orchestra\">Mahler Chamber Orchestra</a>; <a href=\"/wiki/Pierre_Boulez\" title=\"Pierre Boulez\">Pierre Boulez</a>, conductor; <a href=\"/wiki/Patrice_Ch%C3%A9reau\" title=\"Patrice Chéreau\">Patrice Chéreau</a>, stage director<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[6]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1964,
+      "cast": [
+        "Václav Bednár",
+        "Jaroslav Horácek",
+        "Ivo Žídek",
+        "Beno Blachut",
+        "Přemysl Kočí"
+      ],
+      "conductor": "Bohumil Gregor"
+    },
+    {
+      "type": "audio",
+      "year": 1979,
+      "cast": [
+        "Dalibor Jedlicka",
+        "Jiří Zahradníček",
+        "Ivo Žídek",
+        "Václav Zitek"
+      ],
+      "conductor": "Sir Charles Mackerras"
+    },
+    {
+      "type": "audio",
+      "year": 1979,
+      "cast": [
+        "Richard Novák",
+        "Vilém Přibyl",
+        "Jaroslav Horácek",
+        "Ivo Žídek",
+        "Jaroslav Soucek"
+      ],
+      "conductor": "Václav Neumann"
+    },
+    {
+      "type": "audio",
+      "year": 2007,
+      "cast": [
+        "Olaf Bär",
+        "Štefan Margita",
+        "John Mark Ainsley",
+        "Gerd Grochowski"
+      ],
+      "conductor": "Pierre Boulez"
+    }
+  ]
+}

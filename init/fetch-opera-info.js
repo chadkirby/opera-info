@@ -1,9 +1,17 @@
 // @ts-check
 import fs from "fs";
 import path from "path";
+
 import { loadHtml } from "./load-html.js";
 import { mkdir } from "./mkdir.js";
 import { wikiFetch } from "./wiki-fetch.js";
+
+import OpenAI from "openai";
+
+const { OpenAIKey } = JSON.parse(fs.readFileSync(".secret.json", "utf8"));
+const openai = new OpenAI({
+  apiKey: OpenAIKey,
+});
 
 const wikiUrl = "https://en.wikipedia.org";
 const operasJsonFile = process.argv[2];
@@ -79,13 +87,14 @@ for (const opera of operas) {
  *
  *
  * @param {Element | null} headlineSpan
- * @return {HTMLTableElement | null}
+ * @param {(el: Element) => boolean} [predicate]
+ * @return {Element | null}
  */
-function findTable(headlineSpan) {
+function findNext(headlineSpan, predicate = isTable) {
   if (headlineSpan) {
     let $h2 = $(headlineSpan).closest("h2");
     for (const el of $h2.nextUntil("h2")) {
-      if (isTable(el)) {
+      if (predicate(el)) {
         return el;
       }
     }
@@ -99,6 +108,14 @@ function findTable(headlineSpan) {
  */
 function isTable(el) {
   return el ? el.matches("table.wikitable") : false;
+}
+
+/**
+ * @param {Element | null} el
+ * @return {el is HTMLUListElement}
+ */
+function isUnorderedList(el) {
+  return el ? el.matches("ul") : false;
 }
 
 /**
@@ -149,7 +166,7 @@ async function getRoles(href) {
   const $ = loadHtml(html);
   const doc = $.document;
   const rolesHeadlineSpan = doc.getElementById("Roles");
-  const table = findTable(rolesHeadlineSpan);
+  const table = findNext(rolesHeadlineSpan, isTable);
   if (!table?.matches("table")) return null;
   let items = [];
   let roleIdx = -1;
@@ -214,14 +231,20 @@ async function getRecordings(href) {
     return discography;
   }
 
-  /** @type {Array<HTMLTableElement | null>} */
+  /** @type {Array<{type: 'audio' | 'video', el: Element}>} */
   const recordingTables = [];
   for (const headlineSpan of headlineSpans) {
     if (headlineSpan) {
-      const table = findTable(headlineSpan);
-      recordingTables.push(table);
-    } else {
-      recordingTables.push(null);
+      const type = headlineSpan.id.includes("Video") ? "video" : "audio";
+      const table = findNext(headlineSpan, isTable);
+      if (table) {
+        recordingTables.push({ el: table, type });
+      } else {
+        const list = findNext(headlineSpan, isUnorderedList);
+        if (list) {
+          recordingTables.push({ el: list, type });
+        }
+      }
     }
   }
 
@@ -230,32 +253,134 @@ async function getRecordings(href) {
    */
   const items = [];
   let html = "";
-  for (const [i, table] of recordingTables.entries()) {
-    if (!table) continue;
-    const headlineId = headlineSpans[i]?.id;
-    if (!headlineId) continue;
-    const type = headlineId.includes("Video") ? "video" : "audio";
-    html += table.outerHTML;
+  for (const { el, type } of recordingTables) {
+    if (!el) continue;
+    html += el.outerHTML;
 
-    // delete the 3d & 4th columns from each row
-    for (const tr of table.querySelectorAll("tr:not(:first-child)")) {
-      items.push({
-        type,
-        year: Number(tr.children[0].textContent?.trim().slice(0, 4)),
-        cast: getText(tr.children[1])
-          .split(/[ ,.]*\n/)
-          .map((s) => s.trim()),
-        conductor: getText(tr.children[2])
-          .split(/[ ,]*\n/)[0]
-          .trim(),
-      });
-      tr.children[2]?.remove();
+    if (el.matches("table")) {
+      const table = el;
+      // delete the 3d & 4th columns from each row
+      for (const tr of table.querySelectorAll("tr:not(:first-child)")) {
+        items.push({
+          type,
+          year: Number(tr.children[0].textContent?.trim().slice(0, 4)),
+          cast: getText(tr.children[1])
+            .split(/[ ,.]*\n/)
+            .map((s) => s.trim()),
+          conductor: getText(tr.children[2])
+            .split(/[ ,]*\n/)[0]
+            .trim(),
+        });
+        tr.children[2]?.remove();
+      }
+    } else if (el.matches("ul")) {
+      const list = el;
+      for (const li of list.querySelectorAll("li")) {
+        const item = { type, year: 0, cast: [], conductor: "" };
+        // Die Dreigroschenoper, 1955, on Vanguard 8057, with Anny Felbermayer, Hedy Fassler [de], Jenny Miller, Rosette Anday, Helge Rosvaenge, Alfred Jerger, Kurt Preger [de] and Liane Augustin. Vienna State Opera Orchestra conducted by F. Charles Adler.
+        // 1940: Lily Pons (Lakmé), Armand Tokatyan (Gérald), Ezio Pinza (Nilakantha), Ira Petina (Mallika), New York Metropolitan Opera Chorus and Orchestra, Wilfrid Pelletier (conductor) (The Golden Age; live)
+
+        const recordingDesc = getText(li);
+        const completion = await openai.chat.completions.create({
+          messages: [
+            { role: "user", content: promptDescribeRecording(recordingDesc) },
+          ],
+          model: "gpt-3.5-turbo",
+        });
+
+        const json = (completion.choices[0].message.content || "")
+          // ensure we only have one JSON object
+          .replace(/(?<=})[\s\S]+/, "")
+          // ensure it starts and ends with braces
+          .replace(/^\s*(?!{)(?=\S)/, "{")
+          .replace(/(?<!})(?<=\S)\s*$/, "}")
+          // ensure it has double quotes around keys
+          .replace(/"?\b(year|conductor|cast)"?(?=:)/g, '"$1"')
+
+          // remove trailing commas
+          .replace(/,(?=\s*[}\]])/g, "");
+        try {
+          const data = JSON.parse(json);
+          item.year = data.year;
+          item.conductor = data.conductor;
+          item.cast = data.cast;
+        } catch (error) {
+          console.error(error);
+        }
+        if (item.year && item.conductor) items.push(item);
+      }
     }
   }
   return {
     html,
     items,
   };
+}
+
+/**
+ * @param {string} recordingDesc
+ * @return {string}
+ */
+function promptDescribeRecording(recordingDesc) {
+  return `
+Please extract structured data from the following recording description. Your reply must be in JSON format, with as many of the following fields as the description provides:
+- year: the year the recording was made
+- conductor: the name of the conductor
+- cast: an array of the names of the cast members
+
+For example, the following recording description:
+> Die Dreigroschenoper, 1955, on Vanguard 8057, with Anny Felbermayer, Hedy Fassler [de], Jenny Miller, Rosette Anday, Helge Rosvaenge, Alfred Jerger, Kurt Preger [de] and Liane Augustin. Vienna State Opera Orchestra conducted by F. Charles Adler.
+should be converted to the following JSON:
+\`\`\`json
+{
+  "year": 1955,
+  "conductor": "F. Charles Adler",
+  "cast": [
+    "Anny Felbermayer",
+    "Hedy Fassler",
+    "Jenny Miller",
+    "Rosette Anday",
+    "Helge Rosvaenge",
+    "Alfred Jerger",
+    "Kurt Preger",
+    "Liane Augustin"
+  ]
+}
+
+For example, the following recording description:
+> 1940: Lily Pons (Lakmé), Armand Tokatyan (Gérald), Ezio Pinza (Nilakantha), Ira Petina (Mallika), New York Metropolitan Opera Chorus and Orchestra, Wilfrid Pelletier (conductor) (The Golden Age; live)
+should be converted to the following JSON:
+\`\`\`json
+{
+  "year": 1940,
+  "conductor": "Wilfrid Pelletier",
+  "cast": [
+    "Lily Pons",
+    "Armand Tokatyan",
+    "Ezio Pinza",
+    "Ira Petina"
+  ]
+}
+
+For example, the following recording description:
+> Principal singers: Alessandra Ruffini, Bruno Pratico, Maria Angeles Peters, Gabriella Morigi, Giuseppe Morino
+should be converted to the following JSON:
+\`\`\`json
+{
+  "cast": [
+    "Alessandra Ruffini",
+    "Bruno Pratico",
+    "Maria Angeles Peters",
+    "Gabriella Morigi",
+    "Giuseppe Morino"
+  ]
+}
+
+> ${recordingDesc}
+\`\`\`json
+{
+
+`;
 }
 
 function getText(el) {
@@ -275,5 +400,6 @@ function getText(el) {
       }
     }
   }
-  return val.trim();
+  // remove language-link tags
+  return val.trim().replace(/\[[a-z]{2}\]/g, "");
 }

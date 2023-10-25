@@ -1,0 +1,29 @@
+{
+  "html": "<ul><li>HMV SLS 997: <a href=\"/wiki/Janet_Baker\" title=\"Janet Baker\">Janet Baker</a>, <a href=\"/wiki/Richard_Cassilly\" title=\"Richard Cassilly\">Richard Cassilly</a>, Gerald English, Benjamin Luxon, Richard van Allan, Elizabeth Bainbridge; Chorus and Orchestra of the <a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera House</a>, Covent Garden; <a href=\"/wiki/Lawrence_Foster\" title=\"Lawrence Foster\">Lawrence Foster</a>, conductor (version for mezzo-soprano)<sup id=\"cite_ref-Dean_14-1\" class=\"reference\"><a href=\"#cite_note-Dean-14\">[13]</a></sup></li>\n<li>Chandos CHAN 9370: Judith Howarth, <a href=\"/wiki/Arthur_Davies_(tenor)\" title=\"Arthur Davies (tenor)\">Arthur Davies</a>, Nigel Robson, Alan Opie, Clive Bayley; Chorus of <a href=\"/wiki/Opera_North\" title=\"Opera North\">Opera North</a>; <a href=\"/wiki/English_Northern_Philharmonia\" class=\"mw-redirect\" title=\"English Northern Philharmonia\">English Northern Philharmonia</a>; <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>, conductor (version for soprano)<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\">[19]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Janet Baker",
+        "Richard Cassilly",
+        "Gerald English",
+        "Benjamin Luxon",
+        "Richard van Allan",
+        "Elizabeth Bainbridge"
+      ],
+      "conductor": "Lawrence Foster"
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Judith Howarth",
+        "Arthur Davies",
+        "Nigel Robson",
+        "Alan Opie",
+        "Clive Bayley"
+      ],
+      "conductor": "Richard Hickox"
+    }
+  ]
+}

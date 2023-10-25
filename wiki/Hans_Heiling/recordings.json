@@ -1,0 +1,58 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Marie-Luise_Gilles\" class=\"mw-redirect\" title=\"Marie-Luise Gilles\">Marie-Luise Gilles</a>, Heikki Siukola, <a href=\"/wiki/Ursula_Schr%C3%B6der-Feinen\" title=\"Ursula Schröder-Feinen\">Ursula Schröder-Feinen</a>, <a href=\"/wiki/Bernd_Weikl\" title=\"Bernd Weikl\">Bernd Weikl</a>, Gerti Zeumer, <a href=\"/w/index.php?title=RAI_Symphony_Orchestra_Turin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"RAI Symphony Orchestra Turin (page does not exist)\">RAI Symphony Orchestra Turin</a> &amp; Chorus, conductor <a href=\"/wiki/George_Alexander_Albrecht\" title=\"George Alexander Albrecht\">George Alexander Albrecht</a>. CD, June 1972. Gala Records GLA 730, UPC 675754665821</li>\n<li>Marianne Eklof, <a href=\"/wiki/Magdal%C3%A9na_Haj%C3%B3ssyov%C3%A1\" title=\"Magdaléna Hajóssyová\">Magdaléna Hajóssyová</a>, Karl Markus, <a href=\"/wiki/Thomas_Mohr_(tenor)\" title=\"Thomas Mohr (tenor)\">Thomas Mohr</a>, Ladislav Neshyba, Jan Rozehnal, Eva Seniglova, <a href=\"/wiki/Slovak_Philharmonic_Orchestra\" class=\"mw-redirect\" title=\"Slovak Philharmonic Orchestra\">Slovak Philharmonic Orchestra</a> &amp; Chorus, conductor <a href=\"/wiki/Ewald_K%C3%B6rner\" title=\"Ewald Körner\">Ewald Körner</a>. CD, recorded 1992, <a href=\"/wiki/Naxos_Records\" class=\"mw-redirect\" title=\"Naxos Records\">Naxos Records</a> 8.223306-07 (Marco Polo imprint).</li>\n<li>Hans Franzen, Harald Meister, <a href=\"/wiki/Hermann_Prey\" title=\"Hermann Prey\">Hermann Prey</a>, <a href=\"/wiki/Hetty_Pl%C3%BCmacher\" title=\"Hetty Plümacher\">Hetty Plümacher</a>, <a href=\"/wiki/Liane_Synek\" title=\"Liane Synek\">Liane Synek</a>, <a href=\"/wiki/Leonore_Kirschstein\" title=\"Leonore Kirschstein\">Leonore Kirschstein</a>, et al. <a href=\"/wiki/WDR_Symphony_Orchestra_Cologne\" title=\"WDR Symphony Orchestra Cologne\">WDR Symphony Orchestra Cologne</a> &amp; Chorus, conductor <a href=\"/wiki/Joseph_Keilberth\" title=\"Joseph Keilberth\">Joseph Keilberth</a>. CD, live performance July 1966, Köln. Opera d’Oro, UPC 723724387027</li>\n<li><a href=\"/wiki/Markus_Werba\" title=\"Markus Werba\">Markus Werba</a>, <a href=\"/wiki/Anna_Caterina_Antonacci\" title=\"Anna Caterina Antonacci\">Anna Caterina Antonacci</a>, <a href=\"/wiki/Herbert_Lippert\" title=\"Herbert Lippert\">Herbert Lippert</a>, Gabriele Fontana, <a href=\"/wiki/Cornelia_Wulkopf\" title=\"Cornelia Wulkopf\">Cornelia Wulkopf</a>, Nicola Ebau, Brian Garth Nickel, <a href=\"/wiki/Teatro_Lirico_di_Cagliari\" title=\"Teatro Lirico di Cagliari\">Teatro Lirico di Cagliari</a> &amp; Chorus, conductor <a href=\"/w/index.php?title=Renato_Palumbo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Renato Palumbo (page does not exist)\">Renato Palumbo</a>. DVD, 26 July 2005. Dynamic 33467, UPC 675754849825</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1972,
+      "cast": [
+        "Marie-Luise Gilles",
+        "Heikki Siukola",
+        "Ursula Schröder-Feinen",
+        "Bernd Weikl",
+        "Gerti Zeumer"
+      ],
+      "conductor": "George Alexander Albrecht"
+    },
+    {
+      "type": "audio",
+      "year": 1992,
+      "cast": [
+        "Marianne Eklof",
+        "Magdaléna Hajóssyová",
+        "Karl Markus",
+        "Thomas Mohr",
+        "Ladislav Neshyba",
+        "Jan Rozehnal",
+        "Eva Seniglova"
+      ],
+      "conductor": "Ewald Körner"
+    },
+    {
+      "type": "audio",
+      "year": 1966,
+      "cast": [
+        "Hans Franzen",
+        "Harald Meister",
+        "Hermann Prey",
+        "Hetty Plümacher",
+        "Liane Synek",
+        "Leonore Kirschstein"
+      ],
+      "conductor": "Joseph Keilberth"
+    },
+    {
+      "type": "audio",
+      "year": 2005,
+      "cast": [
+        "Markus Werba",
+        "Anna Caterina Antonacci",
+        "Herbert Lippert",
+        "Gabriele Fontana",
+        "Cornelia Wulkopf",
+        "Nicola Ebau",
+        "Brian Garth Nickel"
+      ],
+      "conductor": "Renato Palumbo"
+    }
+  ]
+}

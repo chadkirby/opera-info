@@ -1,0 +1,26 @@
+{
+  "html": "<ul><li>Conductor: <a href=\"/wiki/Bruno_Campanella\" title=\"Bruno Campanella\">Bruno Campanella</a></li>\n<li>Principal singers: Alessandra Ruffini, Bruno Pratico, Maria Angeles Peters, Gabriella Morigi, Giuseppe Morino</li>\n<li>Recording date: 8 January 2002</li>\n<li>Label: Nuova Era 7123/25 (3&nbsp;cd)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "conductor": "Bruno Campanella"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Alessandra Ruffini",
+        "Bruno Pratico",
+        "Maria Angeles Peters",
+        "Gabriella Morigi",
+        "Giuseppe Morino"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 2002
+    },
+    {
+      "type": "audio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "html": "<ul><li><a href=\"/wiki/1984_in_music\" title=\"1984 in music\">1984</a> <a href=\"/wiki/Sarah_Walker_(mezzo-soprano)\" title=\"Sarah Walker (mezzo-soprano)\">Sarah Walker</a> (Queen Elizabeth I), <a href=\"/wiki/Anthony_Rolfe_Johnson\" title=\"Anthony Rolfe Johnson\">Anthony Rolfe Johnson</a> (Earl of Essex), <a href=\"/wiki/Jean_Rigby\" title=\"Jean Rigby\">Jean Rigby</a> (Countess of Essex), <a href=\"/wiki/Neil_Howlett\" title=\"Neil Howlett\">Neil Howlett</a> (Lord Mountjoy), <a href=\"/wiki/Alan_Opie\" title=\"Alan Opie\">Alan Opie</a> (Sir Robert Cecil), <a href=\"/wiki/Elizabeth_Vaughan\" title=\"Elizabeth Vaughan\">Elizabeth Vaughan</a> (Lady Rich), <a href=\"/wiki/Richard_Van_Allan\" title=\"Richard Van Allan\">Richard Van Allan</a> (Sir Walter Raleigh), Malcolm Donnelly (Henry Cuffe); <a href=\"/wiki/English_National_Opera\" title=\"English National Opera\">English National Opera</a> Chorus and Orchestra; <a href=\"/wiki/Mark_Elder\" title=\"Mark Elder\">Mark Elder</a> (conductor). Live recording, London 1984 (also broadcast on the BBC). Label: ArtHaus Musik DVD<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[11]</a></sup></li>\n<li><a href=\"/wiki/1993_in_music\" title=\"1993 in music\">1993</a> <a href=\"/wiki/Josephine_Barstow\" title=\"Josephine Barstow\">Josephine Barstow</a>, <a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a>, <a href=\"/wiki/Alan_Opie\" title=\"Alan Opie\">Alan Opie</a>, <a href=\"/wiki/Jonathan_Summers\" title=\"Jonathan Summers\">Jonathan Summers</a>, <a href=\"/wiki/Willard_White\" title=\"Willard White\">Willard White</a>, Jenevora Williams, <a href=\"/wiki/Welsh_National_Opera\" title=\"Welsh National Opera\">Welsh National Opera</a> Orchestra &amp; Chorus, <a href=\"/wiki/Charles_Mackerras\" title=\"Charles Mackerras\">Charles Mackerras</a> (Argo/Decca)</li>\n<li>2013 <a href=\"/wiki/Royal_Opera_House\" title=\"Royal Opera House\">Royal Opera House</a>, London, <a href=\"/wiki/Paul_Daniel\" title=\"Paul Daniel\">Paul Daniel</a> (Opus Arte)</li>\n<li><a href=\"/wiki/2018_in_music\" title=\"2018 in music\">2018</a> <a href=\"/wiki/Teatro_Real\" title=\"Teatro Real\">Teatro Real</a>, <a href=\"/wiki/Madrid\" title=\"Madrid\">Madrid</a>, conductor: <a href=\"/wiki/Ivor_Bolton\" title=\"Ivor Bolton\">Ivor Bolton</a>, starring: <a href=\"/wiki/Anna_Caterina_Antonacci\" title=\"Anna Caterina Antonacci\">Anna Caterina Antonacci</a>, <a href=\"/w/index.php?title=Leonardo_Capalbo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Leonardo Capalbo (page does not exist)\">Leonardo Capalbo</a>, <a href=\"/wiki/Paula_Murrihy\" title=\"Paula Murrihy\">Paula Murrihy</a>, <a href=\"/w/index.php?title=Duncan_Rock&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Duncan Rock (page does not exist)\">Duncan Rock</a> and others<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[12]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1984,
+      "cast": [
+        "Sarah Walker",
+        "Anthony Rolfe Johnson",
+        "Jean Rigby",
+        "Neil Howlett",
+        "Alan Opie",
+        "Elizabeth Vaughan",
+        "Richard Van Allan",
+        "Malcolm Donnelly"
+      ],
+      "conductor": "Mark Elder"
+    },
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Josephine Barstow",
+        "Philip Langridge",
+        "Alan Opie",
+        "Jonathan Summers",
+        "Willard White",
+        "Jenevora Williams"
+      ],
+      "conductor": "Charles Mackerras"
+    },
+    {
+      "type": "audio",
+      "year": 2013,
+      "cast": [],
+      "conductor": "Paul Daniel"
+    },
+    {
+      "type": "audio",
+      "year": 2018,
+      "cast": [
+        "Anna Caterina Antonacci",
+        "Leonardo Capalbo",
+        "Paula Murrihy",
+        "Duncan Rock"
+      ],
+      "conductor": "Ivor Bolton"
+    }
+  ]
+}

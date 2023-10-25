@@ -1,0 +1,55 @@
+{
+  "html": "<ul><li>1979 <a href=\"/wiki/Mstislav_Rostropovich\" title=\"Mstislav Rostropovich\">Mstislav Rostropovich</a> (conductor), <a href=\"/wiki/London_Philharmonic_Orchestra\" title=\"London Philharmonic Orchestra\">London Philharmonic Orchestra</a>, <a href=\"/wiki/Galina_Vishnevskaya\" title=\"Galina Vishnevskaya\">Galina Vishnevskaya</a> (Katerina Lvovna Izmailova); <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a> (Sergey); Taru Valjakka (Aksinya); Dimiter Petkov (Boris Timofeyevich Izmailov); <a href=\"/wiki/Birgit_Finnil%C3%A4\" title=\"Birgit Finnilä\">Birgit Finnilä</a> (Sonyetka); <a href=\"/wiki/Werner_Krenn\" title=\"Werner Krenn\">Werner Krenn</a> (Zinovy Borisovich Izmailov); (Label: EMI).</li>\n<li>1992 <a href=\"/wiki/Myung-whun_Chung\" title=\"Myung-whun Chung\">Myung-whun Chung</a> (conductor); <a href=\"/wiki/Op%C3%A9ra_Bastille\" title=\"Opéra Bastille\">Opéra Bastille</a>; <a href=\"/wiki/Maria_Ewing\" title=\"Maria Ewing\">Maria Ewing</a> (Katerina); <a href=\"/wiki/Philip_Langridge\" title=\"Philip Langridge\">Philip Langridge</a> (Zinovi) <a href=\"/wiki/Aage_Haugland\" title=\"Aage Haugland\">Aage Haugland</a> (Boris); <a href=\"/wiki/Sergej_Larin\" title=\"Sergej Larin\">Sergej Larin</a> (Sergey); Kristine Ciesinski (Aksinya); <a href=\"/wiki/Elena_Zaremba\" title=\"Elena Zaremba\">Elena Zaremba</a> (Sonyetka); <a href=\"/wiki/Kurt_Moll\" title=\"Kurt Moll\">Kurt Moll</a> (Old Convict); (Label: Deutsche Grammophon).</li>\n<li>2006 <a href=\"/wiki/Mariss_Jansons\" title=\"Mariss Jansons\">Mariss Jansons</a> (conductor); <a href=\"/wiki/Royal_Concertgebouw_Orchestra\" title=\"Royal Concertgebouw Orchestra\">Royal Concertgebouw Orchestra</a>; <a href=\"/wiki/Eva-Maria_Westbroek\" title=\"Eva-Maria Westbroek\">Eva-Maria Westbroek</a> (Katerina Lvovna Izmailova); <a href=\"/wiki/Christopher_Ventris\" title=\"Christopher Ventris\">Christopher Ventris</a> (Sergey); Carole Wilson (Aksinya); Vladimir Vaneev (Boris Timofeyevich Izmailov); Lani Poulson (Sonyetka); Ludovít Ludha (Zinovy Borisovich Izmailov); Stage Director: <a href=\"/wiki/Martin_Ku%C5%A1ej\" title=\"Martin Kušej\">Martin Kušej</a>, Muziektheater (Label: Opus Arte).</li>\n<li>A 1964 recording exists of the <i>Katerina Izmailova</i> version with the following forces: Eleonora Andreyeva, Eduard Bulavin, V. Radziyevsky, <a href=\"/wiki/Tchaikovsky_Symphony_Orchestra\" title=\"Tchaikovsky Symphony Orchestra\">Moscow Radio Symphony Orchestra</a> and State Moscow Choir, <a href=\"/wiki/Gennady_Provatorov\" title=\"Gennady Provatorov\">Gennady Provatorov</a> (conductor).<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\">[6]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1979,
+      "cast": [
+        "Galina Vishnevskaya",
+        "Nicolai Gedda",
+        "Taru Valjakka",
+        "Dimiter Petkov",
+        "Birgit Finnilä",
+        "Werner Krenn"
+      ],
+      "conductor": "Mstislav Rostropovich"
+    },
+    {
+      "type": "audio",
+      "year": 1992,
+      "cast": [
+        "Maria Ewing",
+        "Philip Langridge",
+        "Aage Haugland",
+        "Sergej Larin",
+        "Kristine Ciesinski",
+        "Elena Zaremba",
+        "Kurt Moll"
+      ],
+      "conductor": "Myung-whun Chung"
+    },
+    {
+      "type": "audio",
+      "year": 2006,
+      "cast": [
+        "Eva-Maria Westbroek",
+        "Christopher Ventris",
+        "Carole Wilson",
+        "Vladimir Vaneev",
+        "Lani Poulson",
+        "Ludovít Ludha"
+      ],
+      "conductor": "Mariss Jansons"
+    },
+    {
+      "type": "audio",
+      "year": 1964,
+      "cast": [
+        "Eleonora Andreyeva",
+        "Eduard Bulavin",
+        "V. Radziyevsky"
+      ],
+      "conductor": "Gennady Provatorov"
+    }
+  ]
+}

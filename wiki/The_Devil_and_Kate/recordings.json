@@ -1,0 +1,58 @@
+{
+  "html": "<ul><li>Supraphon LPV 337-339: Ludmila Komancová, Rudolf Asmus, <a href=\"/wiki/P%C5%99emysl_Ko%C4%8D%C3%AD\" title=\"Přemysl Kočí\">Přemysl Kočí</a>, Lubomir Havlák, Marie Steinerova, Rudolf Vonasek, Jaroslava Vymazalova, Jaroslav Horáček, Karel Berman; Prague National Theatre Chorus and Orchestra; Zdeněk Chalabala, conductor.</li>\n<li>Supraphon 11 1800-2 612: Anna Barová, Daniela Suryová, Richard Novák, Jaroslav Horáček, Aleš Šťáva, Jan Hladík, Pavel Kamas, Miloš Ježil, Oldřich Polášek, Natalie Romanová-Achaladze, Brigita Šulcová; Brno State Philharmonic Chorus; Brno Janáček Opera Orchestra; Jiří Pinkas, conductor<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup></li>\n<li>Kultur DVD D4443:  Anne-Marie Owens, Joseph Evans, Peter Lightfoot, Kristine Ciesinski, Marko Putkonen, Joan Davies, Phillip Guy-Bromley, Kathleen Tynan, Alan Fairs, Geoffrey Davidson, Michael Forest, Julie Wong, Gavin Claire, Rossa Dunphy: Wexford Festival Chorus, Radio Telefís Éireann Symphony Orchestra; Albert Rosen, conductor.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Ludmila Komancová",
+        "Rudolf Asmus",
+        "Přemysl Kočí",
+        "Lubomir Havlák",
+        "Marie Steinerova",
+        "Rudolf Vonasek",
+        "Jaroslava Vymazalova",
+        "Jaroslav Horáček",
+        "Karel Berman"
+      ],
+      "conductor": "Zdeněk Chalabala"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Anna Barová",
+        "Daniela Suryová",
+        "Richard Novák",
+        "Jaroslav Horáček",
+        "Aleš Šťáva",
+        "Jan Hladík",
+        "Pavel Kamas",
+        "Miloš Ježil",
+        "Oldřich Polášek",
+        "Natalie Romanová-Achaladze",
+        "Brigita Šulcová"
+      ],
+      "conductor": "Jiří Pinkas"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Anne-Marie Owens",
+        "Joseph Evans",
+        "Peter Lightfoot",
+        "Kristine Ciesinski",
+        "Marko Putkonen",
+        "Joan Davies",
+        "Phillip Guy-Bromley",
+        "Kathleen Tynan",
+        "Alan Fairs",
+        "Geoffrey Davidson",
+        "Michael Forest",
+        "Julie Wong",
+        "Gavin Claire",
+        "Rossa Dunphy"
+      ],
+      "conductor": "Albert Rosen"
+    }
+  ]
+}

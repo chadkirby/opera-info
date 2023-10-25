@@ -1,0 +1,43 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Le_Chant_du_Monde\" title=\"Le Chant du Monde\">Le Chant du Monde</a> (1962, live in Paris): <a href=\"/wiki/Andr%C3%A9e_Esposito\" title=\"Andrée Esposito\">Andrée Esposito</a> (Julietta), <a href=\"/wiki/Jean_Giraudeau\" title=\"Jean Giraudeau\">Jean Giraudeau</a> (Michel), <a href=\"/wiki/Charles_Bruck\" title=\"Charles Bruck\">Charles Bruck</a></li>\n<li><a href=\"/wiki/Supraphon\" title=\"Supraphon\">Supraphon</a> (1964) SU 3626-2 612: <a href=\"/wiki/Maria_Tauberov%C3%A1\" title=\"Maria Tauberová\">Maria Tauberová</a> (Julietta), <a href=\"/wiki/Ivo_%C5%BD%C3%ADdek\" title=\"Ivo Žídek\">Ivo Žídek</a> (Michel), <a href=\"/wiki/National_Theatre_(Prague)\" title=\"National Theatre (Prague)\">Orchestra and Chorus of the Prague National Theatre</a>; <a href=\"/wiki/Jaroslav_Krombholc\" title=\"Jaroslav Krombholc\">Jaroslav Krombholc</a>, conductor, with Antonín Zlesák, <a href=\"/wiki/Zden%C4%9Bk_Otava\" title=\"Zdeněk Otava\">Zdeněk Otava</a></li>\n<li><a href=\"/wiki/ORF_(broadcaster)\" title=\"ORF (broadcaster)\">ORF</a> (2002, live at Bregenz): <a href=\"/wiki/Eva-Maria_Westbroek\" title=\"Eva-Maria Westbroek\">Eva-Maria Westbroek</a> (Julietta), <a href=\"/wiki/Johannes_Chum\" title=\"Johannes Chum\">Johannes Chum</a> (Michel), Vienna Symphony Orchestra conducted by <a href=\"/wiki/Dietfried_Bernet\" title=\"Dietfried Bernet\">Dietfried Bernet</a></li>\n<li>Oehms Classics (2014 live, Frankfurt): Juanita Lascarro (Julietta), <a href=\"/wiki/Kurt_Streit\" title=\"Kurt Streit\">Kurt Streit</a> (Michel), Frankfurt Opera conducted by <a href=\"/wiki/Sebastian_Weigle\" title=\"Sebastian Weigle\">Sebastian Weigle</a></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1962,
+      "cast": [
+        "Andrée Esposito",
+        "Jean Giraudeau"
+      ],
+      "conductor": "Charles Bruck"
+    },
+    {
+      "type": "audio",
+      "year": 1964,
+      "cast": [
+        "Maria Tauberová",
+        "Ivo Žídek",
+        "Antonín Zlesák",
+        "Zdeněk Otava"
+      ],
+      "conductor": "Jaroslav Krombholc"
+    },
+    {
+      "type": "audio",
+      "year": 2002,
+      "cast": [
+        "Eva-Maria Westbroek",
+        "Johannes Chum"
+      ],
+      "conductor": "Dietfried Bernet"
+    },
+    {
+      "type": "audio",
+      "year": 2014,
+      "cast": [
+        "Juanita Lascarro",
+        "Kurt Streit"
+      ],
+      "conductor": "Sebastian Weigle"
+    }
+  ]
+}

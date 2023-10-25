@@ -1,0 +1,71 @@
+{
+  "html": "<ul><li>1952: Käthe Möller-Siepermann (Goose-Girl), Ilsa Ihme-Säbisch (Witch), <a href=\"/wiki/Peter_Anders_(tenor)\" title=\"Peter Anders (tenor)\">Peter Anders</a> (King's Son), <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a> (Fiddler), <a href=\"/wiki/WDR_Symphony_Orchestra_Cologne\" title=\"WDR Symphony Orchestra Cologne\">WDR Symphony Orchestra Cologne</a>, conducted by Richard Kraus, live in Cologne, Walhall</li>\n<li>1976: <a href=\"/wiki/Helen_Donath\" title=\"Helen Donath\">Helen Donath</a> / <a href=\"/wiki/Hanna_Schwarz\" title=\"Hanna Schwarz\">Hanna Schwarz</a> / <a href=\"/wiki/Adolf_Dallapozza\" title=\"Adolf Dallapozza\">Adolf Dallapozza</a> / <a href=\"/wiki/Hermann_Prey\" title=\"Hermann Prey\">Hermann Prey</a>, <a href=\"/wiki/M%C3%BCnchner_Rundfunkorchester\" class=\"mw-redirect\" title=\"Münchner Rundfunkorchester\">Münchner Rundfunkorchester</a>, conducted by <a href=\"/wiki/Heinz_Wallberg\" title=\"Heinz Wallberg\">Heinz Wallberg</a>, EMI (released on CD in 1989)</li>\n<li>1996: <a href=\"/wiki/Dagmar_Schellenberger\" title=\"Dagmar Schellenberger\">Dagmar Schellenberger</a> / Marilyn Schmiege / <a href=\"/wiki/Thomas_Moser\" title=\"Thomas Moser\">Thomas Moser</a> / <a href=\"/wiki/Dietrich_Henschel\" title=\"Dietrich Henschel\">Dietrich Henschel</a>, Münchner Rundfunkorchester, conducted by <a href=\"/wiki/Fabio_Luisi\" title=\"Fabio Luisi\">Fabio Luisi</a>, Calig</li>\n<li>2005: Ofelia Sala / <a href=\"/wiki/Nora_Gubisch\" title=\"Nora Gubisch\">Nora Gubisch</a> / <a href=\"/wiki/Jonas_Kaufmann\" title=\"Jonas Kaufmann\">Jonas Kaufmann</a> / <a href=\"/wiki/Detlef_Roth\" title=\"Detlef Roth\">Detlef Roth</a>, <a href=\"/wiki/Orchestre_national_de_Montpellier_Languedoc-Roussillon\" class=\"mw-redirect\" title=\"Orchestre national de Montpellier Languedoc-Roussillon\">Orchestre national de Montpellier Languedoc-Roussillon</a>, conducted by <a href=\"/wiki/Armin_Jordan\" title=\"Armin Jordan\">Armin Jordan</a>, live in Montpellier, Accord</li>\n<li>2007: <a href=\"/wiki/Isabel_Rey\" title=\"Isabel Rey\">Isabel Rey</a> / Liliana Nikiteanu / <a href=\"/wiki/Jonas_Kaufmann\" title=\"Jonas Kaufmann\">Jonas Kaufmann</a> / <a href=\"/wiki/Oliver_Widmer\" title=\"Oliver Widmer\">Oliver Widmer</a>, <a href=\"/wiki/Opernhaus_Z%C3%BCrich\" class=\"mw-redirect\" title=\"Opernhaus Zürich\">Opernhaus Zürich</a>, conducted by <a href=\"/wiki/Ingo_Metzmacher\" title=\"Ingo Metzmacher\">Ingo Metzmacher</a>, videorecording from Zurich, Encore</li>\n<li>2008: <a href=\"/wiki/Juliane_Banse\" title=\"Juliane Banse\">Juliane Banse</a> / <a href=\"/wiki/Gabriele_Schnaut\" title=\"Gabriele Schnaut\">Gabriele Schnaut</a> / <a href=\"/wiki/Klaus_Florian_Vogt\" title=\"Klaus Florian Vogt\">Klaus Florian Vogt</a> / <a href=\"/wiki/Christian_Gerhaher\" title=\"Christian Gerhaher\">Christian Gerhaher</a>, <a href=\"/wiki/Deutsches_Symphonie-Orchester_Berlin\" title=\"Deutsches Symphonie-Orchester Berlin\">Deutsches Symphonie-Orchester Berlin</a>, conducted by Ingo Metzmacher, live in Berlin, Premiere Opera (also released Crystal Classics&nbsp;: Deutschlandradio Kultur, 2011)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1952,
+      "cast": [
+        "Käthe Möller-Siepermann",
+        "Ilsa Ihme-Säbisch",
+        "Peter Anders",
+        "Dietrich Fischer-Dieskau"
+      ],
+      "conductor": "Richard Kraus"
+    },
+    {
+      "type": "audio",
+      "year": 1976,
+      "cast": [
+        "Helen Donath",
+        "Hanna Schwarz",
+        "Adolf Dallapozza",
+        "Hermann Prey"
+      ],
+      "conductor": "Heinz Wallberg"
+    },
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Dagmar Schellenberger",
+        "Marilyn Schmiege",
+        "Thomas Moser",
+        "Dietrich Henschel"
+      ],
+      "conductor": "Fabio Luisi"
+    },
+    {
+      "type": "audio",
+      "year": 2005,
+      "cast": [
+        "Ofelia Sala",
+        "Nora Gubisch",
+        "Jonas Kaufmann",
+        "Detlef Roth"
+      ],
+      "conductor": "Armin Jordan"
+    },
+    {
+      "type": "audio",
+      "year": 2007,
+      "cast": [
+        "Isabel Rey",
+        "Liliana Nikiteanu",
+        "Jonas Kaufmann",
+        "Oliver Widmer"
+      ],
+      "conductor": "Ingo Metzmacher"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Juliane Banse",
+        "Gabriele Schnaut",
+        "Klaus Florian Vogt",
+        "Christian Gerhaher"
+      ],
+      "conductor": "Ingo Metzmacher"
+    }
+  ]
+}

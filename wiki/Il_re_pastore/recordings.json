@@ -1,0 +1,53 @@
+{
+  "html": "<ul><li>1967 – <a href=\"/wiki/Reri_Grist\" title=\"Reri Grist\">Reri Grist</a> (Aminta), <a href=\"/wiki/Lucia_Popp\" title=\"Lucia Popp\">Lucia Popp</a> (Elisa), <a href=\"/wiki/Arlene_Saunders\" title=\"Arlene Saunders\">Arlene Saunders</a> (Tamiri), <a href=\"/wiki/Nicola_Monti\" title=\"Nicola Monti\">Nicola Monti</a> (Agenore), <a href=\"/wiki/Luigi_Alva\" title=\"Luigi Alva\">Luigi Alva</a> (Alessandro) – The Orchestra of Naples, <a href=\"/wiki/Denis_Vaughan\" title=\"Denis Vaughan\">Denis Vaughan</a> – 2 CDs <a href=\"/wiki/RCA\" title=\"RCA\">RCA</a></li>\n<li>1974 – <a href=\"/wiki/Edith_Mathis\" title=\"Edith Mathis\">Edith Mathis</a> (Aminta), <a href=\"/wiki/Arleen_Auger\" title=\"Arleen Auger\">Arleen Auger</a> (Elisa), <a href=\"/wiki/Sona_Ghazarian\" title=\"Sona Ghazarian\">Sona Ghazarian</a> (Tamiri), <a href=\"/wiki/Werner_Krenn\" title=\"Werner Krenn\">Werner Krenn</a> (Agenore), <a href=\"/wiki/Peter_Schreier\" title=\"Peter Schreier\">Peter Schreier</a> (Alessandro) - <a href=\"/wiki/Mozarteum_Orchestra_Salzburg\" title=\"Mozarteum Orchestra Salzburg\">Mozarteum-Orchester Salzburg</a>, <a href=\"/wiki/Leopold_Hager\" title=\"Leopold Hager\">Leopold Hager</a> – 3 LPs <a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a></li>\n<li>1991 – <a href=\"/w/index.php?title=Angela_Maria_Blasi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Angela Maria Blasi (page does not exist)\">Angela Maria Blasi</a> (Aminta), <a href=\"/wiki/Sylvia_McNair\" title=\"Sylvia McNair\">Sylvia McNair</a> (Elisa), <a href=\"/wiki/Iris_Vermillion\" title=\"Iris Vermillion\">Iris Vermillion</a> (Tamiri), <a href=\"/wiki/Claes_H._Ahnsj%C3%B6\" class=\"mw-redirect\" title=\"Claes H. Ahnsjö\">Claes H. Ahnsjö</a> (Agenore), <a href=\"/wiki/Jerry_Hadley\" title=\"Jerry Hadley\">Jerry Hadley</a> (Alessandro) – <a href=\"/wiki/Academy_of_St_Martin_in_the_Fields\" title=\"Academy of St Martin in the Fields\">Academy of St. Martin in the Fields</a>, <a href=\"/wiki/Sir_Neville_Marriner\" class=\"mw-redirect\" title=\"Sir Neville Marriner\">Sir Neville Marriner</a> – 2 CDs <a href=\"/wiki/Philips_Classics_Records\" title=\"Philips Classics Records\">Philips Classics</a></li>\n<li>2001 – <a href=\"/wiki/Johannette_Zomer\" title=\"Johannette Zomer\">Johannette Zomer</a> (Aminta), <a href=\"/w/index.php?title=Francine_van_der_Heijden&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Francine van der Heijden (page does not exist)\">Francine van der Heijden</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://nl.wikipedia.org/wiki/Francine_van_der_Heijden\" class=\"extiw\" title=\"nl:Francine van der Heijden\">nl</a>]</span> (Elisa), <a href=\"/w/index.php?title=Claudia_Patacca&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Claudia Patacca (page does not exist)\">Claudia Patacca</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://nl.wikipedia.org/wiki/Claudia_Patacca\" class=\"extiw\" title=\"nl:Claudia Patacca\">nl</a>]</span> (Tamiri), Marcel Reijans (Agenore), Alexei Grigoriev (Alessandro) – Musica ad Rhenum, <a href=\"/w/index.php?title=Jed_Wentz&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Jed Wentz (page does not exist)\">Jed Wentz</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://de.wikipedia.org/wiki/Jed_Wentz\" class=\"extiw\" title=\"de:Jed Wentz\">de</a>; <a href=\"https://it.wikipedia.org/wiki/Jed_Wentz\" class=\"extiw\" title=\"it:Jed Wentz\">it</a>]</span> – 2 CDs <a href=\"/wiki/Brilliant_Classics\" title=\"Brilliant Classics\">Brilliant Classics</a></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1967,
+      "cast": [
+        "Reri Grist",
+        "Lucia Popp",
+        "Arlene Saunders",
+        "Nicola Monti",
+        "Luigi Alva"
+      ],
+      "conductor": "Denis Vaughan"
+    },
+    {
+      "type": "audio",
+      "year": 1974,
+      "cast": [
+        "Edith Mathis",
+        "Arleen Auger",
+        "Sona Ghazarian",
+        "Werner Krenn",
+        "Peter Schreier"
+      ],
+      "conductor": "Leopold Hager"
+    },
+    {
+      "type": "audio",
+      "year": 1991,
+      "cast": [
+        "Angela Maria Blasi",
+        "Sylvia McNair",
+        "Iris Vermillion",
+        "Claes H. Ahnsjö",
+        "Jerry Hadley"
+      ],
+      "conductor": "Sir Neville Marriner"
+    },
+    {
+      "type": "audio",
+      "year": 2001,
+      "cast": [
+        "Johannette Zomer",
+        "Francine van der Heijden",
+        "Claudia Patacca",
+        "Marcel Reijans",
+        "Alexei Grigoriev"
+      ],
+      "conductor": null
+    }
+  ]
+}

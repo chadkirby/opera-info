@@ -1,0 +1,62 @@
+{
+  "html": "<ul><li>1943&nbsp;: <i>Le roi d'Ys</i> <a href=\"/wiki/Germaine_Cernay\" title=\"Germaine Cernay\">Germaine Cernay</a>, Ginette Guillamat, Gaston Micheletti, Georges Ravoux, Paul gaudin, Lucien Novalo, Choirs &amp; Ochestra of Radio National, Désiré-Émile Inghelbrecht (CD Gesamtaufnahme Historische ton Dokumente).</li>\n<li>1957: <i>Le roi d'Ys</i> <a href=\"/wiki/Janine_Micheau\" title=\"Janine Micheau\">Janine Micheau</a>, <a href=\"/wiki/Rita_Gorr\" title=\"Rita Gorr\">Rita Gorr</a>, <a href=\"/wiki/Henri_Legay\" title=\"Henri Legay\">Henri Legay</a>, <a href=\"/wiki/Jean_Borthayre\" title=\"Jean Borthayre\">Jean Borthayre</a>, Orchestra of Radiodiffusion Française/<a href=\"/wiki/Andr%C3%A9_Cluytens\" title=\"André Cluytens\">André Cluytens</a> (Pathé/EMI)</li>\n<li>1973: <i>Le roi d'Ys</i> <a href=\"/wiki/Andr%C3%A9a_Guiot\" title=\"Andréa Guiot\">Andréa Guiot</a>, <a href=\"/wiki/Jane_Rhodes\" title=\"Jane Rhodes\">Jane Rhodes</a>, <a href=\"/wiki/Alain_Vanzo\" title=\"Alain Vanzo\">Alain Vanzo</a>, <a href=\"/wiki/Robert_Massard\" title=\"Robert Massard\">Robert Massard</a>, Orchestra of Radiodiffusion Française/<a href=\"/wiki/Pierre_Dervaux\" title=\"Pierre Dervaux\">Pierre Dervaux</a> (Chant du monde)</li>\n<li>1988: <i>Le roi d'Ys</i> <a href=\"/wiki/Barbara_Hendricks\" title=\"Barbara Hendricks\">Barbara Hendricks</a>, Dolorès Ziegler, Eduardo Villa, Marcel Vanaud, Orchestra of Radiodiffusion Française/<a href=\"/wiki/Armin_Jordan\" title=\"Armin Jordan\">Armin Jordan</a> (Erato)</li>\n<li>2008 Live video recording on DVD, <a href=\"/wiki/Op%C3%A9ra_Royal_de_Wallonie\" title=\"Opéra Royal de Wallonie\">Opéra Royal de Wallonie</a>, Patrick Davin (conductor) - <a href=\"/wiki/Jean-Louis_Pichon\" title=\"Jean-Louis Pichon\">Jean-Louis Pichon</a> (Stage director)<br> Cast: Giuseppina Piunti, Guylaine Girard, Sébastien Guèze, Eric Martin-Bonnet - <a href=\"/wiki/Dynamic_(record_label)\" title=\"Dynamic (record label)\">Dynamic</a> 2014</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1943,
+      "cast": [
+        "Germaine Cernay",
+        "Ginette Guillamat",
+        "Gaston Micheletti",
+        "Georges Ravoux",
+        "Paul Gaudin",
+        "Lucien Novalo"
+      ],
+      "conductor": "Désiré-Émile Inghelbrecht"
+    },
+    {
+      "type": "audio",
+      "year": 1957,
+      "cast": [
+        "Janine Micheau",
+        "Rita Gorr",
+        "Henri Legay",
+        "Jean Borthayre"
+      ],
+      "conductor": "André Cluytens"
+    },
+    {
+      "type": "audio",
+      "year": 1973,
+      "cast": [
+        "Andréa Guiot",
+        "Jane Rhodes",
+        "Alain Vanzo",
+        "Robert Massard"
+      ],
+      "conductor": "Pierre Dervaux"
+    },
+    {
+      "type": "audio",
+      "year": 1988,
+      "cast": [
+        "Barbara Hendricks",
+        "Dolorès Ziegler",
+        "Eduardo Villa",
+        "Marcel Vanaud"
+      ],
+      "conductor": "Armin Jordan"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Giuseppina Piunti",
+        "Guylaine Girard",
+        "Sébastien Guèze",
+        "Eric Martin-Bonnet"
+      ],
+      "conductor": "Patrick Davin"
+    }
+  ]
+}

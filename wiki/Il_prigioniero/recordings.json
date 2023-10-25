@@ -1,0 +1,50 @@
+{
+  "html": "<ul><li>CBS 61344 (Italian issue, from radio performance): Liliana Poli, <a href=\"/wiki/Eberhard_Waechter_(baritone)\" class=\"mw-redirect\" title=\"Eberhard Waechter (baritone)\">Eberhard Wächter</a>, Gerald English, <a href=\"/wiki/Werner_Krenn\" title=\"Werner Krenn\">Werner Krenn</a>, <a href=\"/wiki/Christian_Boesch\" title=\"Christian Boesch\">Christian Boesch</a>; Austrian Radio Choir and Orchestra; <a href=\"/wiki/Carl_Melles\" title=\"Carl Melles\">Carl Melles</a>, conductor<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup></li>\n<li>Decca/London OSA-1166 (LP issue – first studio recording): Maurizio Mazzieri, Giulia Barrera, Romano Emili, <a href=\"/wiki/Gabor_Carelli\" title=\"Gabor Carelli\">Gabor Carelli</a>,; <a href=\"/wiki/University_of_Maryland,_College_Park\" title=\"University of Maryland, College Park\">University of Maryland</a> Chorus; <a href=\"/wiki/National_Symphony_Orchestra\" title=\"National Symphony Orchestra\">National Symphony Orchestra</a>; <a href=\"/wiki/Antal_Dor%C3%A1ti\" title=\"Antal Doráti\">Antal Doráti</a>, conductor<sup id=\"cite_ref-Burroughs_4-0\" class=\"reference\"><a href=\"#cite_note-Burroughs-4\">[4]</a></sup></li>\n<li>Sony Classical SK 68 323: <a href=\"/wiki/Jorma_Hynninen\" title=\"Jorma Hynninen\">Jorma Hynninen</a>, Phyllis Bryn-Julson, Howard Haskin, Sven-Erik Alexandersson, Lage Wedin; Swedish Radio Choir; <a href=\"/wiki/Eric_Ericson\" title=\"Eric Ericson\">Eric Ericson</a> Chamber Choir; <a href=\"/wiki/Swedish_Radio_Symphony_Orchestra\" title=\"Swedish Radio Symphony Orchestra\">Swedish Radio Symphony Orchestra</a>; <a href=\"/wiki/Esa-Pekka_Salonen\" title=\"Esa-Pekka Salonen\">Esa-Pekka Salonen</a>, conductor<sup id=\"cite_ref-Burroughs_4-1\" class=\"reference\"><a href=\"#cite_note-Burroughs-4\">[4]</a></sup></li>\n<li>Chandos CHAN 5276: Anna Maria Chiuri, Michael Nagy, Stephan Rügamer, Adam Riis, Steffen Bruun; Danish National Concert Choir, Danish National Symphony Orchestra; <a href=\"/wiki/Gianandrea_Noseda\" title=\"Gianandrea Noseda\">Gianandrea Noseda</a>, conductor</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Liliana Poli",
+        "Eberhard Wächter",
+        "Gerald English",
+        "Werner Krenn",
+        "Christian Boesch"
+      ],
+      "conductor": "Carl Melles"
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Maurizio Mazzieri",
+        "Giulia Barrera",
+        "Romano Emili",
+        "Gabor Carelli"
+      ],
+      "conductor": "Antal Doráti"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Jorma Hynninen",
+        "Phyllis Bryn-Julson",
+        "Howard Haskin",
+        "Sven-Erik Alexandersson",
+        "Lage Wedin"
+      ],
+      "conductor": "Esa-Pekka Salonen"
+    },
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [
+        "Anna Maria Chiuri",
+        "Michael Nagy",
+        "Stephan Rügamer",
+        "Adam Riis",
+        "Steffen Bruun"
+      ],
+      "conductor": "Gianandrea Noseda"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Paul_Sch%C3%B6ffler\" title=\"Paul Schöffler\">Paul Schöffler</a> as Danton, <a href=\"/wiki/Julius_Patzak\" title=\"Julius Patzak\">Julius Patzak</a> as Desmoulins and <a href=\"/wiki/Maria_Cebotari\" title=\"Maria Cebotari\">Maria Cebotari</a> as Lucile. This is a live recording taken from the premiere in Salzburg on August 6, 1947 with the <a href=\"/wiki/Vienna_Philharmonic\" title=\"Vienna Philharmonic\">Vienna Philharmonic</a> and <a href=\"/wiki/Vienna_State_Opera\" title=\"Vienna State Opera\">Vienna State Opera</a> Chorus conducted by <a href=\"/wiki/Ferenc_Fricsay\" title=\"Ferenc Fricsay\">Ferenc Fricsay</a>. A recording is available on Allegro Corporation's Opera D'Oro label.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup></li>\n<li><a href=\"/wiki/Theo_Adam\" title=\"Theo Adam\">Theo Adam</a>, Werner Hollweg, Horst Hiestermann, <a href=\"/wiki/Krisztina_Laki\" title=\"Krisztina Laki\">Krisztina Laki</a>, <a href=\"/wiki/ORF_(broadcaster)\" title=\"ORF (broadcaster)\">ORF</a> Chorus and Orchestra, <a href=\"/wiki/Lothar_Zagrosek\" title=\"Lothar Zagrosek\">Lothar Zagrosek</a> Orfeo 1983</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1947,
+      "cast": [
+        "Paul Schöffler",
+        "Julius Patzak",
+        "Maria Cebotari"
+      ],
+      "conductor": "Ferenc Fricsay"
+    },
+    {
+      "type": "audio",
+      "year": 1983,
+      "cast": [
+        "Theo Adam",
+        "Werner Hollweg",
+        "Horst Hiestermann",
+        "Krisztina Laki"
+      ],
+      "conductor": "Lothar Zagrosek"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "html": "<ul><li>Madwoman: <a href=\"/wiki/Peter_Pears\" title=\"Peter Pears\">Peter Pears</a></li>\n<li>Ferryman: <a href=\"/wiki/John_Shirley-Quirk\" title=\"John Shirley-Quirk\">John Shirley-Quirk</a></li>\n<li>Abbot: Harold Blackburn</li>\n<li>Traveller: <a href=\"/wiki/Bryan_Drake\" title=\"Bryan Drake\">Bryan Drake</a></li>\n<li>Voice of the Spirit: Bruce Webb</li>\n<li>The Pilgrims: Edmund Bohan, Edgar Boniface, Patrick Healy, Michael Kehoe, Peter Leeming, William McKinney, David Reed, Gerald Stern, Robert Tasman</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Peter Pears"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "John Shirley-Quirk"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Harold Blackburn"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Bryan Drake"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Bruce Webb"
+      ]
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Edmund Bohan",
+        "Edgar Boniface",
+        "Patrick Healy",
+        "Michael Kehoe",
+        "Peter Leeming",
+        "William McKinney",
+        "David Reed",
+        "Gerald Stern",
+        "Robert Tasman"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Fritz_Wunderlich\" title=\"Fritz Wunderlich\">Fritz Wunderlich</a>, <a href=\"/wiki/Kurt_B%C3%B6hme\" title=\"Kurt Böhme\">Kurt Böhme</a>, <a href=\"/wiki/Wilma_Lipp\" title=\"Wilma Lipp\">Wilma Lipp</a>, <a href=\"/wiki/Kieth_Engen\" title=\"Kieth Engen\">Kieth Engen</a>, <a href=\"/wiki/Antonie_Fahberg\" class=\"mw-redirect\" title=\"Antonie Fahberg\">Antonie Fahberg</a>, <a href=\"/wiki/Lilian_Benningsen\" title=\"Lilian Benningsen\">Lilian Benningsen</a>, Paul Kuen, Karl Ostertag, Bayerisches Staatsorchester, Chor der Bayerischen Staatsoper, <a href=\"/wiki/Joseph_Keilberth\" title=\"Joseph Keilberth\">Joseph Keilberth</a>, conductor; 19 November 1959, live recording, Orfeo-C354942I (German): 1994.</li>\n<li>Jan Vacík, Peter Straka, Roman Janál, Maria Haan, Zdeněk Plech, <a href=\"/wiki/BBC_Singers\" title=\"BBC Singers\">BBC Singers</a>, <a href=\"/wiki/BBC_Symphony_Orchestra\" title=\"BBC Symphony Orchestra\">BBC Symphony Orchestra</a>; <a href=\"/wiki/Ji%C5%99%C3%AD_B%C4%9Blohl%C3%A1vek\" title=\"Jiří Bělohlávek\">Jiří Bělohlávek</a>, conductor; Deutsche Grammophon 477 7387: 2008.</li>\n<li><a href=\"/wiki/National_Theatre_(Prague)\" title=\"National Theatre (Prague)\">Orchestra and Chorus of the Prague National Theatre</a>; <a href=\"/wiki/V%C3%A1clav_Neumann\" title=\"Václav Neumann\">Václav Neumann</a>, conductor, <a href=\"/wiki/Supraphon\" title=\"Supraphon\">Supraphon</a> SUA ST 50531/3 (LP issue): 1962.</li>\n<li>Richard Novák, Karel Hanuš, <a href=\"/wiki/Libu%C5%A1e_M%C3%A1rov%C3%A1\" title=\"Libuše Márová\">Libuše Márová</a>, Vilém Přibyl, Jaroslav Tománek, Miroslav Švejda, Vladimír Krejčík, Jiří Olejníček, <a href=\"/wiki/Jaroslav_Sou%C4%8Dek\" title=\"Jaroslav Souček\">Jaroslav Souček</a>, <a href=\"/wiki/Jana_Jon%C3%A1%C5%A1ov%C3%A1\" title=\"Jana Jonášová\">Jana Jonášová</a>, Jiřina Marková, Bohuslav Maršík; Czech Philharmonic Orchestra and Chorus; <a href=\"/wiki/Franti%C5%A1ek_J%C3%ADlek\" title=\"František Jílek\">František Jílek</a>, conductor; Supraphon 1116 3291-3: 1980.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1959,
+      "cast": [
+        "Fritz Wunderlich",
+        "Kurt Böhme",
+        "Wilma Lipp",
+        "Kieth Engen",
+        "Antonie Fahberg",
+        "Lilian Benningsen",
+        "Paul Kuen",
+        "Karl Ostertag"
+      ],
+      "conductor": "Joseph Keilberth"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Jan Vacík",
+        "Peter Straka",
+        "Roman Janál",
+        "Maria Haan",
+        "Zdeněk Plech"
+      ],
+      "conductor": "Jiří Bělohlávek"
+    },
+    {
+      "type": "audio",
+      "year": 1962,
+      "conductor": "Václav Neumann"
+    },
+    {
+      "type": "audio",
+      "year": 1980,
+      "cast": [
+        "Richard Novák",
+        "Karel Hanuš",
+        "Libuše Márová",
+        "Vilém Přibyl",
+        "Jaroslav Tománek",
+        "Miroslav Švejda",
+        "Vladimír Krejčík",
+        "Jiří Olejníček",
+        "Jaroslav Souček",
+        "Jana Jonášová",
+        "Jiřina Marková",
+        "Bohuslav Maršík"
+      ],
+      "conductor": "František Jílek"
+    }
+  ]
+}

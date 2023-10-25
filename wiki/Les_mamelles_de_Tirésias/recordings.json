@@ -1,0 +1,35 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Andr%C3%A9_Cluytens\" title=\"André Cluytens\">André Cluytens</a> conducting the Chorus and Orchestra of the Théatre National de l'<a href=\"/wiki/Op%C3%A9ra-Comique\" title=\"Opéra-Comique\">Opéra-Comique</a> de <a href=\"/wiki/Paris\" title=\"Paris\">Paris</a>, with <a href=\"/wiki/Denise_Duval\" title=\"Denise Duval\">Denise Duval</a>, Marguerite Legouhy, and <a href=\"/wiki/Jean_Giraudeau\" title=\"Jean Giraudeau\">Jean Giraudeau</a> (1954, Angel Records)</li>\n<li><a href=\"/wiki/Seiji_Ozawa\" title=\"Seiji Ozawa\">Seiji Ozawa</a> conducting the Saito Kinen Orchestra with <a href=\"/wiki/Barbara_Bonney\" title=\"Barbara Bonney\">Barbara Bonney</a>, <a href=\"/wiki/Jean-Paul_Fouch%C3%A9court\" title=\"Jean-Paul Fouchécourt\">Jean-Paul Fouchécourt</a>, and <a href=\"/wiki/Wolfgang_Holzmair\" title=\"Wolfgang Holzmair\">Wolfgang Holzmair</a> (1998, Philips)</li>\n<li><a href=\"/wiki/Ed_Spanjaard\" title=\"Ed Spanjaard\">Ed Spanjaard</a> conducting the <a href=\"/wiki/Nieuw_Ensemble\" title=\"Nieuw Ensemble\">Nieuw Ensemble</a> with Renate Arends, Bernard Loonen, Mattijs Van de Woerd and Opera Trionfo, version for 16 instruments by Bart Visman (2003, Brilliant Classics)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1954,
+      "cast": [
+        "Denise Duval",
+        "Marguerite Legouhy",
+        "Jean Giraudeau"
+      ],
+      "conductor": "André Cluytens"
+    },
+    {
+      "type": "audio",
+      "year": 1998,
+      "cast": [
+        "Barbara Bonney",
+        "Jean-Paul Fouchécourt",
+        "Wolfgang Holzmair"
+      ],
+      "conductor": "Seiji Ozawa"
+    },
+    {
+      "type": "audio",
+      "year": 2003,
+      "cast": [
+        "Renate Arends",
+        "Bernard Loonen",
+        "Mattijs Van de Woerd"
+      ],
+      "conductor": "Ed Spanjaard"
+    }
+  ]
+}

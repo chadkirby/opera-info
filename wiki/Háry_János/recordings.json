@@ -1,0 +1,37 @@
+{
+  "html": "<ul><li><i>Háry János</i> sung in Hungarian, conducted by <a href=\"/wiki/Istv%C3%A1n_Kert%C3%A9sz_(conductor)\" title=\"István Kertész (conductor)\">István Kertész</a>, with English narration by <a href=\"/wiki/Peter_Ustinov\" title=\"Peter Ustinov\">Peter Ustinov</a>. Decca</li>\n<li><i>Háry János</i> sung in Hungarian with dialogue, conducted by <a href=\"/wiki/J%C3%A1nos_Ferencsik\" title=\"János Ferencsik\">János Ferencsik</a>. Hungaroton</li>\n<li><i>Háry János</i> sung in Hungarian, with French narration by <a href=\"/wiki/G%C3%A9rard_Depardieu\" title=\"Gérard Depardieu\">Gérard Depardieu</a>. <a href=\"/wiki/Friedemann_Layer\" title=\"Friedemann Layer\">Friedemann Layer</a>. Accord</li>\n<li><i>Háry János Suite</i> recorded by <a href=\"/wiki/Georg_Solti\" title=\"Georg Solti\">Georg Solti</a> with the <a href=\"/wiki/London_Philharmonic_Orchestra\" title=\"London Philharmonic Orchestra\">London Philharmonic Orchestra</a>, in 1955, Decca LXT 5059.</li>\n<li><i>Háry János Suite</i> recorded by <a href=\"/wiki/Artur_Rodzinski\" class=\"mw-redirect\" title=\"Artur Rodzinski\">Artur Rodzinski</a> with the Philharmonic Symphony Orchestra of London, in 1956, Westminster XWN 18775.</li>\n<li><i>Háry János Suite</i> recorded by <a href=\"/wiki/Antal_Dorati\" class=\"mw-redirect\" title=\"Antal Dorati\">Antal Dorati</a> with the <a href=\"/wiki/Minneapolis_Symphony_Orchestra\" class=\"mw-redirect\" title=\"Minneapolis Symphony Orchestra\">Minneapolis Symphony Orchestra</a>, in 1956, Mercury Living Presence MG 50132.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": null,
+      "cast": [],
+      "conductor": "István Kertész"
+    },
+    {
+      "type": "audio",
+      "conductor": "János Ferencsik"
+    },
+    {
+      "type": "audio",
+      "conductor": "Friedemann Layer"
+    },
+    {
+      "type": "audio",
+      "year": 1955,
+      "cast": [],
+      "conductor": "Georg Solti"
+    },
+    {
+      "type": "audio",
+      "year": 1956,
+      "cast": [],
+      "conductor": "Artur Rodzinski"
+    },
+    {
+      "type": "audio",
+      "year": 1956,
+      "cast": [],
+      "conductor": "Antal Dorati"
+    }
+  ]
+}

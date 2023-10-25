@@ -1,0 +1,58 @@
+{
+  "html": "<ul><li>a 1964–65 recording conducted by <a href=\"/wiki/Andr%C3%A9_Cluytens\" title=\"André Cluytens\">André Cluytens</a> with the <a href=\"/wiki/Orchestre_de_la_Soci%C3%A9t%C3%A9_des_Concerts_du_Conservatoire\" title=\"Orchestre de la Société des Concerts du Conservatoire\">Paris Conservatoire Orchestra</a> and <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a></li>\n<li>a 1971 recording by <a href=\"/wiki/Richard_Bonynge\" title=\"Richard Bonynge\">Richard Bonynge</a> with the <a href=\"/wiki/Orchestre_de_la_Suisse_Romande\" title=\"Orchestre de la Suisse Romande\">Orchestre de la Suisse Romande</a>, <a href=\"/wiki/Pl%C3%A1cido_Domingo\" title=\"Plácido Domingo\">Plácido Domingo</a>, <a href=\"/wiki/Joan_Sutherland\" title=\"Joan Sutherland\">Joan Sutherland</a>, <a href=\"/wiki/Huguette_Tourangeau\" title=\"Huguette Tourangeau\">Huguette Tourangeau</a> and <a href=\"/wiki/Gabriel_Bacquier\" title=\"Gabriel Bacquier\">Gabriel Bacquier</a></li>\n<li>a 1972 recording by <a href=\"/wiki/Julius_Rudel\" title=\"Julius Rudel\">Julius Rudel</a> with the <a href=\"/wiki/London_Symphony_Orchestra\" title=\"London Symphony Orchestra\">London Symphony Orchestra</a>, <a href=\"/wiki/Stuart_Burrows\" title=\"Stuart Burrows\">Stuart Burrows</a>, <a href=\"/wiki/Beverly_Sills\" title=\"Beverly Sills\">Beverly Sills</a>, <a href=\"/wiki/Norman_Treigle\" title=\"Norman Treigle\">Norman Treigle</a>, and <a href=\"/wiki/Susanne_Marsee\" title=\"Susanne Marsee\">Susanne Marsee</a>.<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\">[23]</a></sup></li>\n<li>a 1988 recording by <a href=\"/wiki/Sylvain_Cambreling\" title=\"Sylvain Cambreling\">Sylvain Cambreling</a>, Brussels Opéra National du Théâtre Royal de <a href=\"/wiki/La_Monnaie\" title=\"La Monnaie\">la Monnaie</a>; EMI, Cat: 358613–2, studio recording based on the Oeser version</li>\n<li>a 1986 recording by <a href=\"/wiki/Seiji_Ozawa\" title=\"Seiji Ozawa\">Seiji Ozawa</a>, <a href=\"/wiki/French_National_Orchestra\" class=\"mw-redirect\" title=\"French National Orchestra\">French National Orchestra</a>, <a href=\"/w/index.php?title=Radio_France_Choir&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Radio France Choir (page does not exist)\">Radio France Choir</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;[<a href=\"https://fr.wikipedia.org/wiki/Ch%C5%93ur_de_Radio_France\" class=\"extiw\" title=\"fr:Chœur de Radio France\">fr</a>]</span>; Deutsche Grammophon label Cat: 427682; with Plácido Domingo and <a href=\"/wiki/Edita_Gruberov%C3%A1\" title=\"Edita Gruberová\">Edita Gruberová</a></li>\n<li>a 1996 studio recording by <a href=\"/wiki/Kent_Nagano\" title=\"Kent Nagano\">Kent Nagano</a>, Chorus and Orchestra of the <a href=\"/wiki/Op%C3%A9ra_National_de_Lyon\" title=\"Opéra National de Lyon\">Opéra National de Lyon</a> and <a href=\"/wiki/Roberto_Alagna\" title=\"Roberto Alagna\">Roberto Alagna</a> as Hoffmann; Erato, Cat: 0630-14330-2. This recording is based on the Kaye-Keck version of the opera.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1964,
+      "cast": [
+        "Nicolai Gedda"
+      ],
+      "conductor": "André Cluytens"
+    },
+    {
+      "type": "audio",
+      "year": 1971,
+      "cast": [
+        "Plácido Domingo",
+        "Joan Sutherland",
+        "Huguette Tourangeau",
+        "Gabriel Bacquier"
+      ],
+      "conductor": "Richard Bonynge"
+    },
+    {
+      "type": "audio",
+      "year": 1972,
+      "cast": [
+        "Stuart Burrows",
+        "Beverly Sills",
+        "Norman Treigle",
+        "Susanne Marsee"
+      ],
+      "conductor": "Julius Rudel"
+    },
+    {
+      "type": "audio",
+      "year": 1988,
+      "cast": [],
+      "conductor": "Sylvain Cambreling"
+    },
+    {
+      "type": "audio",
+      "year": 1986,
+      "cast": [
+        "Plácido Domingo",
+        "Edita Gruberová"
+      ],
+      "conductor": "Seiji Ozawa"
+    },
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Roberto Alagna"
+      ],
+      "conductor": "Kent Nagano"
+    }
+  ]
+}

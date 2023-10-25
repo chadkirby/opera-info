@@ -1,0 +1,18 @@
+{
+  "html": "<ul><li>Philips 412 707 1: Raimund Herincx, Yvonne Minton, <a href=\"/wiki/Jill_Gomez\" title=\"Jill Gomez\">Jill Gomez</a>, <a href=\"/wiki/Josephine_Barstow\" title=\"Josephine Barstow\">Josephine Barstow</a>, <a href=\"/wiki/Thomas_Carey_(baritone)\" title=\"Thomas Carey (baritone)\">Thomas Carey</a>, <a href=\"/wiki/Robert_Tear\" title=\"Robert Tear\">Robert Tear</a>, Thomas Hemsley; Orchestra of the Royal Opera House, Covent Garden; Sir <a href=\"/wiki/Colin_Davis\" title=\"Colin Davis\">Colin Davis</a>, conductor<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "cast": [
+        "Raimund Herincx",
+        "Yvonne Minton",
+        "Jill Gomez",
+        "Josephine Barstow",
+        "Thomas Carey",
+        "Robert Tear",
+        "Thomas Hemsley"
+      ],
+      "conductor": "Sir Colin Davis"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "html": "<ul><li>In 1968 a film of the opera was made for <a href=\"/wiki/Sender_Freies_Berlin\" title=\"Sender Freies Berlin\">SFB</a>&nbsp;/&nbsp;<a href=\"/wiki/ORF_(broadcaster)\" title=\"ORF (broadcaster)\">ORF</a>, in German. <a href=\"/wiki/Anja_Silja\" title=\"Anja Silja\">Anja Silja</a> and <a href=\"/wiki/Eberhard_Waechter_(baritone)\" class=\"mw-redirect\" title=\"Eberhard Waechter (baritone)\">Eberhard Wächter</a> portrayed the young couple. It was conducted by <a href=\"/w/index.php?title=Milo_Chamberlain&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Milo Chamberlain (page does not exist)\">Milo Chamberlain</a>, and the production was directed by <a href=\"/wiki/Otto_Schenk\" title=\"Otto Schenk\">Otto Schenk</a></li>\n<li>In 2006 a DVD was licensed by Decca Music Group and released by Video Artists International, with <a href=\"/wiki/Carole_Farley\" title=\"Carole Farley\">Carole Farley</a> and Russell Smythe in the roles and <a href=\"/wiki/Jos%C3%A9_Serebrier\" title=\"José Serebrier\">José Serebrier</a> conducting the <a href=\"/wiki/Scottish_Chamber_Orchestra\" title=\"Scottish Chamber Orchestra\">Scottish Chamber Orchestra</a>. This DVD also includes a performance of <a href=\"/wiki/Francis_Poulenc\" title=\"Francis Poulenc\">Francis Poulenc</a>'s <i><a href=\"/wiki/La_voix_humaine\" title=\"La voix humaine\">La voix humaine</a></i>, whose story also contains a telephone conversation.</li>\n<li>In 2020, <a href=\"/wiki/Scottish_Opera\" title=\"Scottish Opera\">Scottish Opera</a> and the <a href=\"/w/index.php?title=Parea_Series&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Parea Series (page does not exist)\">Parea Series</a> each released a film of the opera; both were set in the 21st century with <a href=\"/wiki/Smartphone\" title=\"Smartphone\">smartphones</a> as the titular telephone, with the Parea Series film set specifically during the <a href=\"/wiki/COVID-19_pandemic\" title=\"COVID-19 pandemic\">COVID-19 pandemic</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup><sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup></li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1968,
+      "cast": [
+        "Anja Silja",
+        "Eberhard Wächter"
+      ],
+      "conductor": "Milo Chamberlain"
+    },
+    {
+      "type": "audio",
+      "year": 2006,
+      "cast": [
+        "Carole Farley",
+        "Russell Smythe"
+      ],
+      "conductor": "José Serebrier"
+    },
+    {
+      "type": "audio"
+    }
+  ]
+}

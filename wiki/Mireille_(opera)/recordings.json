@@ -1,0 +1,65 @@
+{
+  "html": "<ul><li>1954 - Janette Vivalda (Mireille), <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a> (Vincent), <a href=\"/wiki/Michel_Dens\" title=\"Michel Dens\">Michel Dens</a> (Ourrias), Christine Gayraud (Taven), André Vessières (Ramon) - <a href=\"/wiki/Aix-en-Provence_Festival\" title=\"Aix-en-Provence Festival\">Aix-en-Provence Festival</a> Chorus, Paris Conservatoire Orchestra, <a href=\"/wiki/Andr%C3%A9_Cluytens\" title=\"André Cluytens\">André Cluytens</a> (Voix de son Maitre). This studio recording was made in Aix some days after a live performance, which had been recorded for radio broadcast on 15 August. This radio recording was issued by INA mémoire vive in 2008.</li>\n<li>1962 - <a href=\"/wiki/Ren%C3%A9e_Doria\" title=\"Renée Doria\">Renée Doria</a> (Mireille), <a href=\"/wiki/Michel_S%C3%A9n%C3%A9chal\" title=\"Michel Sénéchal\">Michel Sénéchal</a> (Vincent), <a href=\"/wiki/Robert_Massard\" title=\"Robert Massard\">Robert Massard</a> (Ourrias), <a href=\"/wiki/Solange_Michel\" title=\"Solange Michel\">Solange Michel</a> (Taven), Adrien Legros (Ramon) - Orchestre symphonique et Choeur de Paris, <a href=\"/wiki/J%C3%A9sus_Etcheverry\" title=\"Jésus Etcheverry\">Jésus Etcheverry</a> - (Accord)</li>\n<li>1979 - <a href=\"/wiki/Mirella_Freni\" title=\"Mirella Freni\">Mirella Freni</a> (Mireille), <a href=\"/wiki/Alain_Vanzo\" title=\"Alain Vanzo\">Alain Vanzo</a> (Vincent), <a href=\"/wiki/Jos%C3%A9_van_Dam\" title=\"José van Dam\">José van Dam</a> (Ourrias), <a href=\"/wiki/Jane_Rhodes\" title=\"Jane Rhodes\">Jane Rhodes</a> (Taven), <a href=\"/wiki/Gabriel_Bacquier\" title=\"Gabriel Bacquier\">Gabriel Bacquier</a> (Ramon) - Chœur et Orchestre du Capitole de Toulouse - <a href=\"/wiki/Michel_Plasson\" title=\"Michel Plasson\">Michel Plasson</a> - (EMI)</li>\n<li>1981 (Live) - <a href=\"/wiki/Valerie_Masterson\" title=\"Valerie Masterson\">Valerie Masterson</a> (Mireille), <a href=\"/wiki/Luis_Lima\" title=\"Luis Lima\">Luis Lima</a> (Vincent), Jean-Philippe Lafont (Ourrias), <a href=\"/wiki/Jane_Berbi%C3%A9\" title=\"Jane Berbié\">Jane Berbié</a> (Taven), <a href=\"/wiki/Jules_Bastin\" title=\"Jules Bastin\">Jules Bastin</a> (Ramon) - Suisse Romande Chorus and Orchestra - <a href=\"/wiki/Sylvain_Cambreling\" title=\"Sylvain Cambreling\">Sylvain Cambreling</a> (Ponto)</li>\n<li>1993 (Live) – Danielle Borst (Mireille), Christian Papis (Vincent), Marcel Vanaud (Ourrias), Bernadette Antoine (Taven), Jean-Philippe Courtis (Ramon) – Orchestre de Recontres Musicales of Lausanne; Municipal Theatre Opera Chorus, Lausanne; Epallinges Children's Chorus – <a href=\"/wiki/Cyril_Diederich\" title=\"Cyril Diederich\">Cyril Diederich</a> (Cascavelle), recorded live in November.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1954,
+      "cast": [
+        "Janette Vivalda",
+        "Nicolai Gedda",
+        "Michel Dens",
+        "Christine Gayraud",
+        "André Vessières"
+      ],
+      "conductor": "André Cluytens"
+    },
+    {
+      "type": "audio",
+      "year": 1962,
+      "cast": [
+        "Renée Doria",
+        "Michel Sénéchal",
+        "Robert Massard",
+        "Solange Michel",
+        "Adrien Legros"
+      ],
+      "conductor": "Jésus Etcheverry"
+    },
+    {
+      "type": "audio",
+      "year": 1979,
+      "cast": [
+        "Mirella Freni",
+        "Alain Vanzo",
+        "José van Dam",
+        "Jane Rhodes",
+        "Gabriel Bacquier"
+      ],
+      "conductor": "Michel Plasson"
+    },
+    {
+      "type": "audio",
+      "year": 1981,
+      "cast": [
+        "Valerie Masterson",
+        "Luis Lima",
+        "Jean-Philippe Lafont",
+        "Jane Berbié",
+        "Jules Bastin"
+      ],
+      "conductor": "Sylvain Cambreling"
+    },
+    {
+      "type": "audio",
+      "year": 1993,
+      "cast": [
+        "Danielle Borst",
+        "Christian Papis",
+        "Marcel Vanaud",
+        "Bernadette Antoine",
+        "Jean-Philippe Courtis"
+      ],
+      "conductor": "Cyril Diederich"
+    }
+  ]
+}

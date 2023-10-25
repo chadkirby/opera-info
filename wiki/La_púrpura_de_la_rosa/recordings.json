@@ -1,0 +1,24 @@
+{
+  "html": "<ul><li>Conductor: <a href=\"/wiki/Andrew_Lawrence-King\" title=\"Andrew Lawrence-King\">Andrew Lawrence-King</a></li>\n<li>Principal singers: <a href=\"/wiki/Judith_Malafronte\" title=\"Judith Malafronte\">Judith Malafronte</a> (Venus), Ellen Hargis (Adonis), Maria del Mar Fernandez-Doval (Marte)</li>\n<li>Recording date: (published 1999)</li>\n<li>Label: Deutsche Harmonia Mundi - 0054727735523 (CD)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "conductor": "Andrew Lawrence-King"
+    },
+    {
+      "type": "audio",
+      "cast": [
+        "Judith Malafronte",
+        "Ellen Hargis",
+        "Maria del Mar Fernandez-Doval"
+      ]
+    },
+    {
+      "type": "audio",
+      "year": 1999
+    },
+    {
+      "type": "audio"
+    }
+  ]
+}

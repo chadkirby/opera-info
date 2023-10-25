@@ -1,0 +1,80 @@
+{
+  "html": "<ul><li>1971 HMV SLS 959 (later EMI Classics CMS 7 64212 2 CD release): John Noble (Pilgrim); <a href=\"/wiki/Raimund_Herincx\" title=\"Raimund Herincx\">Raimund Herincx</a> (John Bunyan, Lord Hate-Good), <a href=\"/wiki/John_Carol_Case\" title=\"John Carol Case\">John Carol Case</a> (Evangelist), Wynford Evans, Christopher Keyte, Geoffrey Shaw, Bernard Dickerson, <a href=\"/wiki/Sheila_Armstrong_(singer)\" title=\"Sheila Armstrong (singer)\">Sheila Armstrong</a>, <a href=\"/wiki/Marie_Hayward\" title=\"Marie Hayward\">Marie Hayward</a>, Gloria Jennings, <a href=\"/wiki/Ian_Partridge\" title=\"Ian Partridge\">Ian Partridge</a>, <a href=\"/wiki/John_Shirley-Quirk\" title=\"John Shirley-Quirk\">John Shirley-Quirk</a>, Terence Sharpe, <a href=\"/wiki/Robert_Lloyd_(bass)\" title=\"Robert Lloyd (bass)\">Robert Lloyd</a>, <a href=\"/wiki/Norma_Burrowes\" title=\"Norma Burrowes\">Norma Burrowes</a>, Alfreda Hodgson, <a href=\"/wiki/Joseph_Ward_(tenor)\" title=\"Joseph Ward (tenor)\">Joseph Ward</a>, <a href=\"/wiki/Richard_Angas\" title=\"Richard Angas\">Richard Angas</a>, John Elwes, Delia Wallis, Wendy Eathorne, <a href=\"/wiki/Gerald_English\" title=\"Gerald English\">Gerald English</a>, Doreen Price, Jean Temperley, <a href=\"/wiki/Kenneth_Woollam\" title=\"Kenneth Woollam\">Kenneth Woollam</a>; <a href=\"/wiki/London_Philharmonic_Choir\" title=\"London Philharmonic Choir\">London Philharmonic Choir</a>; <a href=\"/wiki/London_Philharmonic_Orchestra\" title=\"London Philharmonic Orchestra\">London Philharmonic Orchestra</a>; Sir <a href=\"/wiki/Adrian_Boult\" title=\"Adrian Boult\">Adrian Boult</a>, conductor<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\">[10]</a></sup></li>\n<li>1992 Royal Northern College of Music (RNCM PP1–2 DDD): Marsden/Griffiths/Whitehouse/Neale/Waddington, recorded March 5, 8 and 25, conductor Kennaway</li>\n<li>1997 Chandos studio recording (following 1996 stage production): <a href=\"/wiki/Gerald_Finley\" title=\"Gerald Finley\">Gerald Finley</a> (Pilgrim); <a href=\"/wiki/Peter_Coleman-Wright\" title=\"Peter Coleman-Wright\">Peter Coleman-Wright</a> (John Bunyan), Jeremy White (Evangelist), Richard Coxon, <a href=\"/wiki/Roderick_Williams\" title=\"Roderick Williams\">Roderick Williams</a>. Gidon Saks, Francis Egerton, Rebecca Evans, <a href=\"/wiki/Susan_Gritton\" title=\"Susan Gritton\">Susan Gritton</a>, <a href=\"/wiki/Pamela_Helen_Stephen\" title=\"Pamela Helen Stephen\">Pamela Helen Stephen</a>, <a href=\"/wiki/Anne-Marie_Owens\" title=\"Anne-Marie Owens\">Anne-Marie Owens</a>, <a href=\"/wiki/Mark_Padmore\" title=\"Mark Padmore\">Mark Padmore</a>, Robert Hayward, Adrian Thompson; Royal Opera Chorus; Orchestra of the Royal Opera House, Covent Garden; <a href=\"/wiki/Richard_Hickox\" title=\"Richard Hickox\">Richard Hickox</a>, conductor<sup id=\"cite_ref-Graeme_2-1\" class=\"reference\"><a href=\"#cite_note-Graeme-2\">[2]</a></sup></li>\n<li>2023 RVW Society recording and filming at the <a href=\"/wiki/Three_Choirs_Festival\" title=\"Three Choirs Festival\">Three Choirs Festival</a>, semi-staged: Charlotte Corderoy, cond.; Lydia Shariff, Madam By-Ends; Emyr Lloyd Jones, Bunyan; Ross Cumming, Pilgrim</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1971,
+      "cast": [
+        "John Noble",
+        "Raimund Herincx",
+        "John Carol Case",
+        "Wynford Evans",
+        "Christopher Keyte",
+        "Geoffrey Shaw",
+        "Bernard Dickerson",
+        "Sheila Armstrong",
+        "Marie Hayward",
+        "Gloria Jennings",
+        "Ian Partridge",
+        "John Shirley-Quirk",
+        "Terence Sharpe",
+        "Robert Lloyd",
+        "Norma Burrowes",
+        "Alfreda Hodgson",
+        "Joseph Ward",
+        "Richard Angas",
+        "John Elwes",
+        "Delia Wallis",
+        "Wendy Eathorne",
+        "Gerald English",
+        "Doreen Price",
+        "Jean Temperley",
+        "Kenneth Woollam"
+      ],
+      "conductor": "Sir Adrian Boult"
+    },
+    {
+      "type": "audio",
+      "year": 1992,
+      "cast": [
+        "Marsden",
+        "Griffiths",
+        "Whitehouse",
+        "Neale",
+        "Waddington"
+      ],
+      "conductor": "Kennaway"
+    },
+    {
+      "type": "audio",
+      "year": 1997,
+      "cast": [
+        "Gerald Finley",
+        "Peter Coleman-Wright",
+        "Jeremy White",
+        "Richard Coxon",
+        "Roderick Williams",
+        "Gidon Saks",
+        "Francis Egerton",
+        "Rebecca Evans",
+        "Susan Gritton",
+        "Pamela Helen Stephen",
+        "Anne-Marie Owens",
+        "Mark Padmore",
+        "Robert Hayward",
+        "Adrian Thompson"
+      ],
+      "conductor": "Richard Hickox"
+    },
+    {
+      "type": "audio",
+      "year": 2023,
+      "cast": [
+        "Lydia Shariff",
+        "Emyr Lloyd Jones",
+        "Ross Cumming"
+      ],
+      "conductor": "Charlotte Corderoy"
+    }
+  ]
+}

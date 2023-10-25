@@ -1,0 +1,81 @@
+{
+  "html": "<ul><li>1951: <a href=\"/wiki/Alda_Noni\" title=\"Alda Noni\">Alda Noni</a>, Ornella Rovere, <a href=\"/wiki/Giulietta_Simionato\" title=\"Giulietta Simionato\">Giulietta Simionato</a>, <a href=\"/wiki/Cesare_Valletti\" title=\"Cesare Valletti\">Cesare Valletti</a>, <a href=\"/wiki/Sesto_Bruscantini\" title=\"Sesto Bruscantini\">Sesto Bruscantini</a>, Antonio Cassinelli – Orchestra del <a href=\"/wiki/Maggio_Musicale_Fiorentino\" title=\"Maggio Musicale Fiorentino\">Maggio Musicale Fiorentino</a>, <a href=\"/wiki/Manno_Wolf-Ferrari\" title=\"Manno Wolf-Ferrari\">Manno Wolf-Ferrari</a> – (<a href=\"/wiki/Warner_Classics\" title=\"Warner Classics\">Warner Fonit</a>)</li>\n<li>1956: <a href=\"/wiki/Graziella_Sciutti\" title=\"Graziella Sciutti\">Graziella Sciutti</a>, <a href=\"/wiki/Eugenia_Ratti\" title=\"Eugenia Ratti\">Eugenia Ratti</a>, <a href=\"/wiki/Ebe_Stignani\" title=\"Ebe Stignani\">Ebe Stignani</a>, <a href=\"/wiki/Luigi_Alva\" title=\"Luigi Alva\">Luigi Alva</a>, <a href=\"/wiki/Franco_Calabrese\" title=\"Franco Calabrese\">Franco Calabrese</a> – <a href=\"/wiki/Teatro_alla_Scala\" class=\"mw-redirect\" title=\"Teatro alla Scala\">Orchestra del Teatro alla Scala</a>, <a href=\"/wiki/Nino_Sanzogno\" title=\"Nino Sanzogno\">Nino Sanzogno</a> – (EMI)</li>\n<li>1978: <a href=\"/wiki/Arleen_Auger\" title=\"Arleen Auger\">Arleen Auger</a>, <a href=\"/wiki/J%C3%BAlia_V%C3%A1rady\" title=\"Júlia Várady\">Júlia Várady</a>, <a href=\"/wiki/Julia_Hamari\" title=\"Julia Hamari\">Julia Hamari</a>, <a href=\"/wiki/Ryland_Davies\" title=\"Ryland Davies\">Ryland Davies</a>, <a href=\"/wiki/Dietrich_Fischer-Dieskau\" title=\"Dietrich Fischer-Dieskau\">Dietrich Fischer-Dieskau</a>, Alberto Rinaldi – <a href=\"/wiki/English_Chamber_Orchestra\" title=\"English Chamber Orchestra\">English Chamber Orchestra</a>, <a href=\"/wiki/Daniel_Barenboim\" title=\"Daniel Barenboim\">Daniel Barenboim</a><sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup> – (<a href=\"/wiki/Deutsche_Grammophon\" title=\"Deutsche Grammophon\">Deutsche Grammophon</a>)</li>\n<li>1991: Susan Patterson, <a href=\"/wiki/Janet_Williams_(soprano)\" title=\"Janet Williams (soprano)\">Janet Williams</a>, <a href=\"/wiki/Gloria_Banditelli\" title=\"Gloria Banditelli\">Gloria Banditelli</a>, <a href=\"/wiki/William_Matteuzzi\" title=\"William Matteuzzi\">William Matteuzzi</a>, <a href=\"/wiki/Petteri_Salomaa\" title=\"Petteri Salomaa\">Petteri Salomaa</a>, Alfonso Antoniozzi, Orchestra of the Eastern Netherlands, Gabrielle Bellini – (<a href=\"/wiki/Arts_Music\" class=\"mw-redirect\" title=\"Arts Music\">Arts Music</a>)</li>\n<li>1992: <a href=\"/wiki/El%C5%BCbieta_Szmytka\" title=\"Elżbieta Szmytka\">Elżbieta Szmytka</a>, Jeannette Fischer, <a href=\"/wiki/Anne-Marie_Owens\" title=\"Anne-Marie Owens\">Anne-Marie Owens</a>, Tracey Welborn, <a href=\"/wiki/Fran%C3%A7ois_Le_Roux\" title=\"François Le Roux\">François Le Roux</a>, Angelo Romero, <a href=\"/wiki/Orchestre_de_Chambre_de_Lausanne\" title=\"Orchestre de Chambre de Lausanne\">Orchestre de Chambre de Lausanne</a>, <a href=\"/wiki/Jes%C3%BAs_L%C3%B3pez_Cobos\" title=\"Jesús López Cobos\">Jesús López-Cobos</a> – (Cascavelle)</li>\n<li>2008: Cinzia Forte, Priscille Laplace, Damiana Pinti, Alberto Rinaldi, Aldo Caputo – Orchestra &amp; Chorus of the <a href=\"/wiki/Op%C3%A9ra_Royal_de_Wallonie\" title=\"Opéra Royal de Wallonie\">Opéra Royal de Wallonie</a>, Giovanni Antonini – (<a href=\"/wiki/Dynamic_(record_label)\" title=\"Dynamic (record label)\">Dynamic</a>)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1951,
+      "cast": [
+        "Alda Noni",
+        "Ornella Rovere",
+        "Giulietta Simionato",
+        "Cesare Valletti",
+        "Sesto Bruscantini",
+        "Antonio Cassinelli"
+      ],
+      "conductor": "Manno Wolf-Ferrari"
+    },
+    {
+      "type": "audio",
+      "year": 1956,
+      "cast": [
+        "Graziella Sciutti",
+        "Eugenia Ratti",
+        "Ebe Stignani",
+        "Luigi Alva",
+        "Franco Calabrese"
+      ],
+      "conductor": "Nino Sanzogno"
+    },
+    {
+      "type": "audio",
+      "year": 1978,
+      "cast": [
+        "Arleen Auger",
+        "Júlia Várady",
+        "Julia Hamari",
+        "Ryland Davies",
+        "Dietrich Fischer-Dieskau",
+        "Alberto Rinaldi"
+      ],
+      "conductor": "Daniel Barenboim"
+    },
+    {
+      "type": "audio",
+      "year": 1991,
+      "cast": [
+        "Susan Patterson",
+        "Janet Williams",
+        "Gloria Banditelli",
+        "William Matteuzzi",
+        "Petteri Salomaa",
+        "Alfonso Antoniozzi"
+      ],
+      "conductor": "Gabrielle Bellini"
+    },
+    {
+      "type": "audio",
+      "year": 1992,
+      "cast": [
+        "Elżbieta Szmytka",
+        "Jeannette Fischer",
+        "Anne-Marie Owens",
+        "Tracey Welborn",
+        "François Le Roux",
+        "Angelo Romero"
+      ],
+      "conductor": "Jesús López-Cobos"
+    },
+    {
+      "type": "audio",
+      "year": 2008,
+      "cast": [
+        "Cinzia Forte",
+        "Priscille Laplace",
+        "Damiana Pinti",
+        "Alberto Rinaldi",
+        "Aldo Caputo"
+      ],
+      "conductor": "Giovanni Antonini"
+    }
+  ]
+}

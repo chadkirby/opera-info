@@ -1,0 +1,46 @@
+{
+  "html": "<ul><li>1961 – <a href=\"/wiki/Michel_S%C3%A9n%C3%A9chal\" title=\"Michel Sénéchal\">Michel Sénéchal</a> (Georges Brown), Françoise Louvay (Anna), <a href=\"/wiki/Jane_Berbi%C3%A9\" title=\"Jane Berbié\">Jane Berbié</a> (Jenny), Aimé Doniat (Dickson), Adrien Legros (Gaveston), Germaine Baudoz (Marguerite), Pierre Héral (Macirton) – Orchestre et Choeurs Raymond Saint-Paul, Pierre Stoll (conductor) – (Véga, Accord)</li>\n<li>1964 – <a href=\"/wiki/Nicolai_Gedda\" title=\"Nicolai Gedda\">Nicolai Gedda</a>, Mimi Aarden,  Sophia Van Sant,  Guus Hoekman,  Erna Spoorenberg, Henk Drissen and Franz Vroons with <a href=\"/wiki/Jean_Fournet\" title=\"Jean Fournet\">Jean Fournet</a> conducting the <a href=\"/wiki/Hilversum\" title=\"Hilversum\">Hilversum</a> Radio Chorus and Hilversum Radio Orchestra. Issued by Melodram and Opera D'Oro</li>\n<li>1996 – <a href=\"/wiki/Rockwell_Blake\" title=\"Rockwell Blake\">Rockwell Blake</a> (Georges Brown), <a href=\"/wiki/Annick_Massis\" title=\"Annick Massis\">Annick Massis</a> (Anna), <a href=\"/wiki/Mireille_Delunsch\" title=\"Mireille Delunsch\">Mireille Delunsch</a> (Jenny), <a href=\"/wiki/Jean-Paul_Fouch%C3%A9court\" title=\"Jean-Paul Fouchécourt\">Jean-Paul Fouchécourt</a> (Dickson), <a href=\"/wiki/Laurent_Naouri\" title=\"Laurent Naouri\">Laurent Naouri</a> (Gaveston), <a href=\"/wiki/Sylvie_Brunet\" class=\"mw-redirect\" title=\"Sylvie Brunet\">Sylvie Brunet</a> (Marguerite), conducted by <a href=\"/wiki/Marc_Minkowski\" title=\"Marc Minkowski\">Marc Minkowski</a> with the Choeur de <a href=\"/wiki/Radio_France\" title=\"Radio France\">Radio France</a> and the Ensemble Orchestral de Paris (<a href=\"/wiki/EMI_Classics\" title=\"EMI Classics\">EMI Classics</a>)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1961,
+      "cast": [
+        "Michel Sénéchal",
+        "Françoise Louvay",
+        "Jane Berbié",
+        "Aimé Doniat",
+        "Adrien Legros",
+        "Germaine Baudoz",
+        "Pierre Héral"
+      ],
+      "conductor": "Pierre Stoll"
+    },
+    {
+      "type": "audio",
+      "year": 1964,
+      "cast": [
+        "Nicolai Gedda",
+        "Mimi Aarden",
+        "Sophia Van Sant",
+        "Guus Hoekman",
+        "Erna Spoorenberg",
+        "Henk Drissen",
+        "Franz Vroons"
+      ],
+      "conductor": "Jean Fournet"
+    },
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Rockwell Blake",
+        "Annick Massis",
+        "Mireille Delunsch",
+        "Jean-Paul Fouchécourt",
+        "Laurent Naouri",
+        "Sylvie Brunet"
+      ],
+      "conductor": "Marc Minkowski"
+    }
+  ]
+}

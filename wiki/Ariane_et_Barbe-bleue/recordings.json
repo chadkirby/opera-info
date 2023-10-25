@@ -1,0 +1,73 @@
+{
+  "html": "<ul><li><i>Ariane et Barbe-bleue</i>, Berthe Montmart (Ariane), <a href=\"/wiki/Xavier_Depraz\" title=\"Xavier Depraz\">Xavier Depraz</a> (Barbe-bleue), Marie Luce Bellary (the nurse), Janine Capderou (Sélysette), Denise Boursin (Ygraine), Nadine Sautereau (Mélisande), Claudine Collard (Bellangère); Chorus and Orchestra, conducted by <a href=\"/wiki/Tony_Aubin\" title=\"Tony Aubin\">Tony Aubin</a> (Paris, 1968 / Gala, 2003)</li>\n<li><span class=\"anchor\" id=\"Erato\"></span><i>Ariane et Barbe-bleue</i>, Katherine Ciesinski (Ariane), <a href=\"/wiki/Gabriel_Bacquier\" title=\"Gabriel Bacquier\">Gabriel Bacquier</a> (Barbe-bleue), Mariana Paunova (the nurse), Hanna Schaer (Sélysette), Anne-Marie Blanzat (Ygraine), Jocelyne Chamonin (Mélisande), Michèle Command (Bellangère); Chœur et Nouvel Orchestre Philharmonique de Radio France, conducted by <a href=\"/wiki/Armin_Jordan\" title=\"Armin Jordan\">Armin Jordan</a> (Paris, 1983 / Érato, 1983)</li>\n<li><i>Ariane et Barbe-bleue</i>, Marilyn Schmiege (Ariane), Roderick Kennedy (Barbe-bleue), Jocelyn Taillon (the nurse), Cynthia Buchan (Sélysette), Monique Baudoin (Ygraine), Mitsuko Shirai (Mélisande), Francine Laurent (Bellangère); <a href=\"/wiki/WDR_Rundfunkchor_K%C3%B6ln\" title=\"WDR Rundfunkchor Köln\">Kölner Rundfunkchor</a>, <a href=\"/wiki/K%C3%B6lner_Rundfunk-Sinfonie-Orchester\" class=\"mw-redirect\" title=\"Kölner Rundfunk-Sinfonie-Orchester\">Kölner Rundfunk-Sinfonie-Orchester</a>, conducted by <a href=\"/wiki/Gary_Bertini\" title=\"Gary Bertini\">Gary Bertini</a> (Cologne, 1986 / Capriccio, 2011)</li>\n<li><i>Ariane et Barbe-bleue</i>, Debora Polaski (Ariane), <a href=\"/wiki/Kwangchul_Youn\" title=\"Kwangchul Youn\">Kwangchul Youn</a> (Barbe-bleue), Jane Henschell (the nurse), Ruxandra Donose (Sélysette), <a href=\"/wiki/Stella_Grigorian\" title=\"Stella Grigorian\">Stella Grigorian</a> (Bellangère); Slovak Philharmonic Choir, Radio Symphonieorchester Wien, conducted by <a href=\"/wiki/Bertrand_de_Billy\" title=\"Bertrand de Billy\">Bertrand de Billy</a> (Vienna, 2006 / Oehms Classics, 2006)</li>\n<li><i>Ariane et Barbe-bleue</i>, Lori Phillips (Ariane), Peter Rose (Barbe-bleue), Patricia Bardon (the nurse), <a href=\"/wiki/Ana_James\" title=\"Ana James\">Ana James</a> (Ygraine), Daphné Touchais (Mélisande), Sarah-Jane Davies (Bellangère), <a href=\"/wiki/Laura_Vlasak_Nolen\" title=\"Laura Vlasak Nolen\">Laura Vlasak Nolen</a> (Sélysette); <a href=\"/wiki/BBC_Symphony_Orchestra\" title=\"BBC Symphony Orchestra\">BBC Symphony Orchestra</a>, BBC Singers, conducted by <a href=\"/wiki/Leon_Botstein\" title=\"Leon Botstein\">Leon Botstein</a> (Watford, 2007 / Telarc, 2007)</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1968,
+      "cast": [
+        "Berthe Montmart",
+        "Xavier Depraz",
+        "Marie Luce Bellary",
+        "Janine Capderou",
+        "Denise Boursin",
+        "Nadine Sautereau",
+        "Claudine Collard"
+      ],
+      "conductor": "Tony Aubin"
+    },
+    {
+      "type": "audio",
+      "year": 1983,
+      "cast": [
+        "Katherine Ciesinski",
+        "Gabriel Bacquier",
+        "Mariana Paunova",
+        "Hanna Schaer",
+        "Anne-Marie Blanzat",
+        "Jocelyne Chamonin",
+        "Michèle Command"
+      ],
+      "conductor": "Armin Jordan"
+    },
+    {
+      "type": "audio",
+      "year": 1986,
+      "cast": [
+        "Marilyn Schmiege",
+        "Roderick Kennedy",
+        "Jocelyn Taillon",
+        "Cynthia Buchan",
+        "Monique Baudoin",
+        "Mitsuko Shirai",
+        "Francine Laurent"
+      ],
+      "conductor": "Gary Bertini"
+    },
+    {
+      "type": "audio",
+      "year": 2006,
+      "cast": [
+        "Debora Polaski",
+        "Kwangchul Youn",
+        "Jane Henschell",
+        "Ruxandra Donose",
+        "Stella Grigorian"
+      ],
+      "conductor": "Bertrand de Billy"
+    },
+    {
+      "type": "audio",
+      "year": 2007,
+      "cast": [
+        "Lori Phillips",
+        "Peter Rose",
+        "Patricia Bardon",
+        "Ana James",
+        "Daphné Touchais",
+        "Sarah-Jane Davies",
+        "Laura Vlasak Nolen"
+      ],
+      "conductor": "Leon Botstein"
+    }
+  ]
+}

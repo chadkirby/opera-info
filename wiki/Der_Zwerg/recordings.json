@@ -1,0 +1,30 @@
+{
+  "html": "<ul><li><a href=\"/wiki/Soile_Isokoski\" title=\"Soile Isokoski\">Soile Isokoski</a>, David Kuebler, Iride Martinez, Andrew Collis, Juanita Lascarro, Machiko Obata, <a href=\"/wiki/Anne_Schwanewilms\" title=\"Anne Schwanewilms\">Anne Schwanewilms</a>, <a href=\"/wiki/Frankfurter_Kantorei\" title=\"Frankfurter Kantorei\">Frankfurter Kantorei</a>, <a href=\"/wiki/G%C3%BCrzenich-Orchester_K%C3%B6ln\" class=\"mw-redirect\" title=\"Gürzenich-Orchester Köln\">Gürzenich-Orchester Köln</a>, <a href=\"/wiki/James_Conlon\" title=\"James Conlon\">James Conlon</a>. EMI Classics (live recording), 1996.</li>\n<li><a href=\"/wiki/Elena_Tsallagova\" title=\"Elena Tsallagova\">Elena Tsallagova</a>, <a href=\"/wiki/David_Butt_Philip\" title=\"David Butt Philip\">David Butt Philip</a>, <a href=\"/wiki/Emily_Magee\" title=\"Emily Magee\">Emily Magee</a>, Philipp Jekal, <a href=\"/wiki/Deutsche_Oper_Berlin\" title=\"Deutsche Oper Berlin\">Deutsche Oper Berlin</a> conducted by <a href=\"/wiki/Donald_Runnicles\" title=\"Donald Runnicles\">Donald Runnicles</a>, <a href=\"/wiki/Tobias_Kratzer\" title=\"Tobias Kratzer\">Tobias Kratzer</a>, stage director. Video recording, <a href=\"/wiki/Naxos_(company)\" title=\"Naxos (company)\">Naxos</a> Cat: NBD0108V, 2020.</li></ul>",
+  "items": [
+    {
+      "type": "audio",
+      "year": 1996,
+      "cast": [
+        "Soile Isokoski",
+        "David Kuebler",
+        "Iride Martinez",
+        "Andrew Collis",
+        "Juanita Lascarro",
+        "Machiko Obata",
+        "Anne Schwanewilms"
+      ],
+      "conductor": "James Conlon"
+    },
+    {
+      "type": "audio",
+      "year": 2020,
+      "cast": [
+        "Elena Tsallagova",
+        "David Butt Philip",
+        "Emily Magee",
+        "Philipp Jekal"
+      ],
+      "conductor": "Donald Runnicles"
+    }
+  ]
+}
