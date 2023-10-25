@@ -1,5 +1,7 @@
 import seedrandom from "seedrandom";
 import { DateTime } from "luxon";
+import { quantileSorted } from "simple-statistics";
+import { Memoize } from "typescript-memoize";
 import type { OperaData } from "./types.js";
 
 import {
@@ -9,14 +11,32 @@ import {
   getInfoBox,
 } from "./opera-getters.js";
 
-const PUZZLE_SIZE = 12;
-const GROUP_SIZE = 3;
+const PUZZLE_SIZE = 16;
+const GROUP_SIZE = 4;
+
+type SelectedGroup = [number, number, number, number];
+
+type HREF = string;
+
+type TagType =
+  | "composer"
+  | "librettist"
+  | "language"
+  | "century"
+  | "decade"
+  | "year"
+  | "audio-conductor"
+  | "audio-singer"
+  | "video-conductor"
+  | "video-singer";
 
 export class OperaConnections {
-  readonly obscureCategories: Map<string, Set<string>> = new Map();
-  readonly lessObscureCategories: Map<string, Set<string>> = new Map();
-  readonly commonCategories: Map<string, Set<string>> = new Map();
-  readonly veryCommonCategories: Map<string, Set<string>> = new Map();
+  readonly categoryGroups: Array<Map<string, Set<string>>> = [
+    new Map(),
+    new Map(),
+    new Map(),
+    new Map(),
+  ];
   readonly operasByHref: Map<string, OperaData> = new Map();
   readonly hrefToIndex: Map<string, number> = new Map();
   constructor(
@@ -25,13 +45,13 @@ export class OperaConnections {
   ) {
     for (const [key, value] of this.tagMap.entries()) {
       if (value.size < 10) {
-        this.obscureCategories.set(key, value);
+        this.categoryGroups[0].set(key, value);
       } else if (value.size < 20) {
-        this.lessObscureCategories.set(key, value);
+        this.categoryGroups[1].set(key, value);
       } else if (value.size < 50) {
-        this.commonCategories.set(key, value);
+        this.categoryGroups[2].set(key, value);
       } else {
-        this.veryCommonCategories.set(key, value);
+        this.categoryGroups[3].set(key, value);
       }
     }
     for (const [i, opera] of operas.entries()) {
@@ -51,168 +71,194 @@ export class OperaConnections {
       try {
         const puzzle = this.tryPuzzleIndices(rng);
         const tagList = this.evalMap(...puzzle);
-        console.log(tagList);
-        return puzzle;
+        const scores = Array(1000)
+          .fill(0)
+          .map(() => {
+            const group = this.pickRandomIndices(rng, puzzle);
+            return this.scoreGroup(group, puzzle);
+          })
+          .sort((a, z) => a - z);
+
+        const quantiles = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((n) => ({
+          score: n,
+          breakpoint: quantileSorted(scores, n === 10 ? 1 : 1 - 1 / 2 ** n),
+        }));
+
+        return { indices: puzzle, tagList, quantiles };
       } catch (e) {
         console.log(e);
       }
-
-      // const tagToIndexList = this.evalMap(...puzzle.indices);
-      // const indexToTagGroupsMap = new Map<number, string[]>();
-      // // prune each map so that there are no lists with fewer than 3 items
-      // for (const { indices } of tagToIndexList) {
-      //   if (indices.length >= GROUP_SIZE) {
-      //     for (const index of indices) {
-      //       if (!indexToTagGroupsMap.has(index)) {
-      //         indexToTagGroupsMap.set(index, []);
-      //       }
-      //       indexToTagGroupsMap.get(index)!.push(key);
-      //     }
-      //   }
-      // }
-      // // first, we need every item to be in at least one group-of-N
-      // if (indexToTagGroupsMap.size !== indices.length) continue;
-      // // second we need N groups of N where each group is unique
-      // const groups: Record<string, { fixed: number[]; floating: number[] }> =
-      //   {};
-      // for (const [index, tags] of indexToTagGroupsMap.entries()) {
-      //   const key = tags[0];
-      //   if (!groups[key]) {
-      //     groups[key] = { fixed: [], floating: [] };
-      //   }
-      //   if (tags.length === 1) {
-      //     groups[key].fixed.push(index);
-      //   } else {
-      //     groups[key].floating.push(index);
-      //   }
-      // }
-
-      // // remove any groups that have fewer than N items
-      // for (const [key, { fixed, floating }] of Object.entries(groups)) {
-      //   if (fixed.length + floating.length < GROUP_SIZE) {
-      //     delete groups[key];
-      //   } else if (fixed.length + floating.length === GROUP_SIZE) {
-      //     // these items are not floating anymore
-      //     groups[key].fixed.push(...groups[key].floating);
-      //     groups[key].floating = [];
-      //   }
-      // }
-
-      // // if we have fewer than N groups of N, we can't continue
-      // if (Object.keys(groups).length < GROUP_SIZE) continue;
-
-      // // if we have duplicates in the fixed items, we can't continue
-      // const fixedIndices = Object.values(groups).flatMap(
-      //   (value) => value.fixed
-      // );
-      // if (fixedIndices.length !== new Set(fixedIndices).size) continue;
-
-      // let singerCounts = 0;
-      // let conductorCounts = 0;
-      // let languageCounts = 0;
-      // let dateCounts = 0;
-      // for (const [key, value] of tagToIndexList.entries()) {
-      //   if (value.length === GROUP_SIZE) {
-      //     if (key.includes("singer")) singerCounts++;
-      //     if (key.includes("conductor")) conductorCounts++;
-      //     if (key.includes("language")) languageCounts++;
-      //     if (key.includes("century") || key.includes("decade")) {
-      //       dateCounts++;
-      //     }
-      //   }
-      // }
-      // // if there are exactly N groups of N and if every item in each
-      // // group is unique, return the indices
-      // if (
-      //   singerCounts < 3 &&
-      //   conductorCounts < 3 &&
-      //   languageCounts < 3 &&
-      //   dateCounts < 3
-      // ) {
-      //   const nGroups = [...tagToIndexList.values()].filter(
-      //     (value) => value.length === GROUP_SIZE
-      //   );
-      //   const nGroupIndices = nGroups.flatMap((value) => value.indices);
-      //   if (nGroupIndices.length === new Set(nGroupIndices).size) {
-      //     return { indices, tagToIndexMap: tagToIndexList, indexToTagGroupsMap };
-      //   }
-      // }
     }
     throw new Error("Could not find a puzzle");
   }
 
-  tryPuzzleIndices(rng: seedrandom.PRNG) {
-    // build two groups of items based on the obscure category
-    const { indices: obscureIndices, tagList: obscureTagList } = this.fillFrom(
-      rng,
-      this.getRandomCategory(rng, this.obscureCategories),
-      []
-    );
-
-    const { indices: lessObscureIndices, tagList: lessObscureTagList } =
-      this.fillFrom(
-        rng,
-        this.getRandomCategory(rng, this.lessObscureCategories),
-        obscureTagList.flatMap((x) => x.tags)
-      );
-
-    const { indices: commonIndices, tagList: commonTagList } = this.fillFrom(
-      rng,
-      this.getRandomCategory(rng, this.commonCategories),
-      [
-        ...obscureTagList.flatMap((x) => x.tags),
-        ...lessObscureTagList.flatMap((x) => x.tags),
-      ]
-    );
-
-    const { indices: veryCommonIndices } = this.fillFrom(
-      rng,
-      this.getRandomCategory(rng, this.veryCommonCategories),
-      [
-        ...obscureTagList.flatMap((x) => x.tags),
-        ...lessObscureTagList.flatMap((x) => x.tags),
-        ...commonTagList.flatMap((x) => x.tags),
-      ]
-    );
-
-    return [
-      ...obscureIndices,
-      ...lessObscureIndices,
-      ...commonIndices,
-      ...veryCommonIndices,
-    ];
+  pickRandomIndices(rng: seedrandom.PRNG, puzzle: number[]) {
+    const indices = new Set<number>();
+    while (indices.size < GROUP_SIZE) {
+      indices.add((rng() * puzzle.length) | 0);
+    }
+    return [...indices];
   }
 
-  getRandomCategory(
-    rng: seedrandom.PRNG,
-    category:
-      | typeof this.commonCategories
-      | typeof this.veryCommonCategories
-      | typeof this.lessObscureCategories
-      | typeof this.obscureCategories
+  findUniqScoreItems(
+    groupScores: Array<{
+      item: {
+        readonly indices: number[];
+        readonly tags: string[];
+        readonly titleHrefs: string[];
+      };
+      score: number;
+    }>
   ) {
+    const groupCounts = new Map<number, number>();
+    for (const { item } of groupScores) {
+      for (const index of item.indices) {
+        groupCounts.set(index, (groupCounts.get(index) || 0) + 1);
+      }
+    }
+    const working = groupScores.slice();
+    for (const { item } of working) {
+      // sort the indices, least common first
+      item.indices.sort(
+        (a, z) => (groupCounts.get(a) || 0) - (groupCounts.get(z) || 0)
+      );
+    }
+    const items = [];
+    while (items.length < GROUP_SIZE) {
+      const candidate = working.shift();
+      if (!candidate) break;
+      const currentIndices = items.flatMap(({ item }) =>
+        item.indices.slice(0, GROUP_SIZE)
+      );
+      // if the candidate's indices overlap with the current indices, skip it
+      if (
+        candidate.item.indices
+          .slice(0, GROUP_SIZE)
+          .some((index) => currentIndices.includes(index))
+      ) {
+        continue;
+      }
+      items.push(candidate);
+    }
+    return items;
+  }
+
+  scorePuzzle(
+    groups: [SelectedGroup, SelectedGroup, SelectedGroup, SelectedGroup],
+    puzzle: number[],
+    quantiles: Array<{ score: number; breakpoint: number }>
+  ) {
+    const scores = groups.map((group) => {
+      const groupScore = this.scoreGroup(group, puzzle);
+      const qs = quantiles.find(({ breakpoint }) => groupScore <= breakpoint);
+      return qs ? qs.score : 10;
+    });
+    return scores.reduce((a, z) => a + z);
+  }
+
+  scoreGroup(selectedIndices: number[], puzzle: number[]) {
+    let score = 0;
+    const puzzleTagList = this.evalMap(...puzzle);
+    const selectedTagList = this.evalMap(...selectedIndices);
+    for (const selectedTagItem of selectedTagList) {
+      let itemScore = 0;
+      for (const tag of selectedTagItem.tags) {
+        // the tag score is inversely related to the number of items we
+        // know about with that tag
+        const tagSize = this.sizeOfTag(tag);
+        let tagScore = (1 / tagSize) ** 0.5;
+        // the tagScore may be discounted if there are other matching items in the puzzle
+        const puzzleTagItem = puzzleTagList.find((item) =>
+          item.tags.includes(tag)
+        );
+        if (puzzleTagItem) {
+          tagScore *=
+            selectedTagItem.indices.length / puzzleTagItem.indices.length;
+        }
+
+        itemScore += tagScore;
+      }
+      score += itemScore;
+    }
+    return Math.round(score * 100);
+  }
+
+  tryPuzzleIndices(rng: seedrandom.PRNG) {
+    const puzzle: number[] = [];
+    const hrefs: Set<HREF> = new Set();
+    const stopTagsTypes: Set<TagType> = new Set();
+    const tagCounts: Map<TagType, number> = new Map();
+    let tries = 100;
+    while (puzzle.length < PUZZLE_SIZE && tries-- > 0) {
+      try {
+        const categoryGroup = this.categoryGroups[(puzzle.length / 4) | 0];
+        const newHrefs = this.fillFrom(
+          rng,
+          this.getRandomCategory(rng, categoryGroup),
+          hrefs,
+          stopTagsTypes
+        );
+        for (const href of newHrefs) {
+          hrefs.add(href);
+          puzzle.push(this.hrefToIndex.get(href)!);
+        }
+        const tagList = this.evalMap(...puzzle);
+        for (const tagItem of tagList) {
+          if (tagItem.indices.length < GROUP_SIZE) continue;
+          const tagTypes = new Set(
+            tagItem.tags.map((tag) => tag.split(":::")[0])
+          ) as Set<TagType>;
+          for (const tagType of tagTypes) {
+            if (/singer|conductor/.test(tagType)) {
+              tagCounts.set(tagType, (tagCounts.get(tagType) || 0) + 1);
+            }
+          }
+        }
+        // we don't want more than GROUP_SIZE items with the same tag
+        // type
+        for (const [tagType, count] of tagCounts.entries()) {
+          if (count >= GROUP_SIZE) {
+            stopTagsTypes.add(tagType);
+          }
+        }
+      } catch (e) {
+        //
+      }
+    }
+    if (puzzle.length < PUZZLE_SIZE) {
+      throw new Error("Could not fill puzzle");
+    }
+
+    return puzzle;
+  }
+
+  getRandomCategory(rng: seedrandom.PRNG, category: Map<string, Set<string>>) {
     const keys = [...category.keys()];
     return category.get(keys[(rng() * keys.length) | 0])!;
   }
 
   fillFrom(
     rng: seedrandom.PRNG,
-    hrefs: Set<string>,
-    withoutTags: string[] = []
-  ) {
-    let tries = 100;
-    while (--tries > 0) {
-      const randomList = randomFill(rng, GROUP_SIZE, hrefs.size).map(
-        (i) => [...hrefs][i]
-      );
-      const indices = randomList.map((href) => this.hrefToIndex.get(href)!);
-      const tagList = this.evalMap(...indices);
-      const tags = tagList.flatMap((x) => x.tags);
-      if (withoutTags.every((tag) => !tags.includes(tag))) {
-        return { indices, tagList };
-      }
+    candidateHrefs: Set<HREF>,
+    excludeHrefs: Set<HREF>,
+    excludeTagTypes: Set<TagType>
+  ): Set<HREF> {
+    const keeps: Set<HREF> = new Set();
+    const hrefsList = [...candidateHrefs];
+    for (const randomIndex of randomFill(rng, candidateHrefs.size)) {
+      // pick a random item from the list
+      const randomHref = hrefsList[randomIndex];
+      if (excludeHrefs.has(randomHref)) continue;
+      // if the item has any tags that are in the exclude list, skip it
+      const tags = this.getTags(this.hrefToIndex.get(randomHref)!);
+      if (tags.some((tag) => excludeTagTypes.has(tag.type))) continue;
+      keeps.add(randomHref);
+      if (keeps.size === GROUP_SIZE) break;
     }
-    throw new Error("Could not find a puzzle");
+    if (keeps.size < GROUP_SIZE) {
+      throw new Error("Could not find enough items");
+    }
+    return keeps;
   }
 
   /** construct a group of indices such that the group does share the
@@ -235,14 +281,9 @@ export class OperaConnections {
     return null;
   }
 
-  evalPuzzle(indices: number[]) {
-    const tagToIndexMap = this.evalMap(...indices);
-    console.log(tagToIndexMap);
-  }
-
+  @Memoize(true)
   evalMap(...indices: number[]): Array<{
     readonly indices: number[];
-    readonly length: number;
     readonly tags: string[];
     readonly titleHrefs: string[];
   }> {
@@ -274,13 +315,12 @@ export class OperaConnections {
     return [...indicesToTags.entries()]
       .map(([indices, tags]) => ({
         indices: indices.split(",").map((index) => +index),
-        length: indices.split(",").length,
         tags,
         titleHrefs: indices.split(",").map((index) => {
           return this.operas[Number(index)].titleHref;
         }),
       }))
-      .sort((a, b) => b.length - a.length);
+      .sort((a, b) => b.indices.length - a.indices.length);
   }
 
   sizeOfTag(tag: string) {
@@ -295,6 +335,7 @@ export class OperaConnections {
   }
 
   /** answer whether the given opera has the given tag */
+  @Memoize(true)
   operaHasTag(index: number, tag: string) {
     const entries = this.tagMap.get(tag);
     if (!entries) return false;
@@ -302,21 +343,12 @@ export class OperaConnections {
     return entries.has(titleKey);
   }
 
+  @Memoize(true)
   getTags(index: number) {
     const opera = this.operas[index];
     const titleKey = decodeURIComponent(opera.titleHref);
     const tags: {
-      type:
-        | "composer"
-        | "librettist"
-        | "language"
-        | "century"
-        | "decade"
-        | "year"
-        | "audio-conductor"
-        | "audio-singer"
-        | "video-conductor"
-        | "video-singer";
+      type: TagType;
       value: string;
     }[] = [];
     for (const [tagKey, value] of this.tagMap.entries()) {
@@ -476,7 +508,7 @@ export class OperaConnections {
 /**
  * fill an array with N unique random numbers between 0 .. bounds
  */
-function randomFill(rng: seedrandom.PRNG, n: number, bounds: number) {
+function randomFill(rng: seedrandom.PRNG, n: number, bounds: number = n) {
   if (n > bounds) throw new Error("n must be less than bounds");
   const indices = new Set<number>();
   while (indices.size < n) {
